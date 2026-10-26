@@ -1,3 +1,9 @@
 .venv/
 __pycache__/
 .env
+.ipynb_checkpoints/
+.DS_Store
+
+/analysis_old.ipynb
+/analysis_checkpoint_*.ipynb
+/data/raw/ca_census_tracts.zip
