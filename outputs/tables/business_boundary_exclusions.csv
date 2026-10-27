@@ -1,0 +1,2 @@
+osm_key,name,source_geometry_type,distance_to_search_area_m,exclusion_reason
+way/213590059,Proposition Chicken,Polygon,12.108929519601839,Representative point outside all buffered neighborhood search areas.

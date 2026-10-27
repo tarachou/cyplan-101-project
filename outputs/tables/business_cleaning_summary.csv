@@ -1,0 +1,6 @@
+step,records_before,records_excluded,records_held_for_review,representations_merged,records_retained,reason
+Status screening,4797,109,11,0,4677,"Exclude vacant, disused, or restricted destinations; hold conflicting status tags for review."
+Category screening and manual review,4677,878,70,0,3729,Retain destinations matching project categories; exclude out-of-scope services and shopping-centre aggregates; hold unresolved classifications.
+Unresolved duplicate screening,3729,16,0,0,3713,Exclude both records in eight unresolved duplicate pairs.
+Duplicate merging,3713,0,0,3,3710,Combine three duplicate pairs while preserving source identifiers.
+Search-area boundary filtering,3710,1,0,0,3709,Exclude the destination whose representative point lies outside all search areas.

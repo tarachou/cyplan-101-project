@@ -7,3 +7,5 @@ __pycache__/
 /analysis_old.ipynb
 /analysis_checkpoint_*.ipynb
 /data/raw/ca_census_tracts.zip
+
+/data/raw/osmnx_cache/

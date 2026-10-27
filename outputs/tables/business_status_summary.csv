@@ -1,0 +1,7 @@
+decision,records
+Retain for categorization,4677
+Exclude: vacant premises,105
+Review: current/disused-tag conflict,9
+Exclude: marked disused,3
+Review: vacancy/current-tag conflict,2
+Exclude: restricted access,1

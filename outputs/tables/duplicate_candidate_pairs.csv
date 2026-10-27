@@ -1,0 +1,13 @@
+osm_key_left,name_left,geometry_type_left,osm_key_right,name_right,geometry_type_right,distance_m
+way/222862959,Cliff's Variety,Polygon,way/222862962,Cliff's Variety,Polygon,0.0
+node/5595082426,The Market,Point,way/1105289817,The Market,Polygon,0.0
+way/263490215,Urgently Ortho,Polygon,way/263490226,Urgently Ortho,Polygon,0.0
+node/1713269565,Walgreens,Point,way/194906345,Walgreens,Polygon,0.0
+node/12676663498,Woods Outbound,Point,node/5876905615,Woods Outbound,Point,0.4922254867923462
+node/11061858559,CVS Pharmacy,Point,node/2718062345,CVS Pharmacy,Point,1.931623012257015
+node/4017234514,Pineapple King Bakery,Point,node/4017234698,Pineapple King Bakery,Point,4.1991227799775634
+node/3622501400,West Pawtal Pet Supplies,Point,node/3622501504,West Pawtal Pet Supplies,Point,4.2288227026310325
+node/11226192570,Walgreens,Point,node/459506892,Walgreens,Point,4.4721766562555985
+node/3996578780,Physiotherapy Associates,Point,node/5061064108,Physiotherapy Associates,Point,16.856698081935114
+node/4069432013,Orthodontics Pediatric Dentistry,Point,way/278887454,Orthodontics Pediatric Dentistry,Polygon,18.04593296209107
+node/8927752699,Maido,Point,way/996450654,Maido,Polygon,19.80256657770926

@@ -1,0 +1,25 @@
+pair_id,osm_key,side,name,geometry_type,shop,amenity,healthcare,addr:housenumber,addr:street,addr:unit,addr:full,phone,contact:phone,website,contact:website,opening_hours
+1,way/222862959,left,Cliff's Variety,Polygon,gift,,,471,Castro Street,,,+1 415-431-5365,,https://www.cliffsvariety.com/,,Mo-Sa 10:00-18:30; Su 10:00-18:00
+1,way/222862962,right,Cliff's Variety,Polygon,general,,,479,Castro Street,,,+1 415-431-5365,,https://www.cliffsvariety.com/,,Mo-Sa 10:00-18:30; Su 10:00-18:00
+2,node/5595082426,left,The Market,Point,,food_court,,,,,,,,https://visitthemarket.com/,,Mo-Fr 08:00-20:00
+2,way/1105289817,right,The Market,Polygon,,food_court,,1355,Market Street,100,,+1 415-767-5130,,https://www.visitthemarket.com/,,Mo-Th 11:00-19:00; Fr 11:00-18:30; Sa-Su off
+3,way/263490215,left,Urgently Ortho,Polygon,,doctors,doctor,2205,Post Street,,,,,,,Mo-Fr 10:00-18:00
+3,way/263490226,right,Urgently Ortho,Polygon,,,doctor,2215,Post Street,,,+1 415-390-6511,,https://urgentlyortho.com/,,Mo-Fr 10:00-18:00
+4,node/1713269565,left,Walgreens,Point,,pharmacy,pharmacy,,,,,,,,,
+4,way/194906345,right,Walgreens,Polygon,chemist,,,1333,Castro Street,,,,,,,
+5,node/12676663498,left,Woods Outbound,Point,,pub,,,,,,,,,,
+5,node/5876905615,right,Woods Outbound,Point,,bar,,4045,Judah Street,,,,,,,
+6,node/11061858559,left,CVS Pharmacy,Point,chemist,,,499,Haight Street,,,+1 415-503-0722,,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188,,Mo-Su 08:00-21:00
+6,node/2718062345,right,CVS Pharmacy,Point,,pharmacy,pharmacy,499,Haight Street,,,+1 415-503-0722,,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188,,"Sa 10:00-13:30,14:00-18:00; Su 11:00-13:30,14:00-17:00; Mo-Fr 09:00-13:30,14:00-19:00"
+7,node/4017234514,left,Pineapple King Bakery,Point,bakery,,,1917,Irving Street,,,,,,,
+7,node/4017234698,right,Pineapple King Bakery,Point,bakery,,,1915,Irving Street,,,,,http://www.pineapplekingbakery.com/home.html,,"Mo-Fr 08:00-18:00; Sa, Su 08:00-18:30"
+8,node/3622501400,left,West Pawtal Pet Supplies,Point,pet,,,242,West Portal Avenue,,,,,,,
+8,node/3622501504,right,West Pawtal Pet Supplies,Point,pet,,,244,West Portal Avenue,,,,,,,
+9,node/11226192570,left,Walgreens,Point,chemist,,,2145,Market Street,,,+1 415-355-0800,,https://www.walgreens.com/locator/walgreens-2145+market+st-san+francisco-ca-94114/id=4529,,Mo-Su 07:00-22:00
+9,node/459506892,right,Walgreens,Point,,pharmacy,pharmacy,2145,Market Street,,,+1 415-355-0800,,,,"Mo-Fr 08:00-21:00; Sa 09:00-13:30,14:00-17:00; Su 10:00-13:30,14:00-18:00"
+10,node/3996578780,left,Physiotherapy Associates,Point,,,physiotherapist,3129,Vicente Street,,,,,,,
+10,node/5061064108,right,Physiotherapy Associates,Point,,,physiotherapist,3129,Vicente Street,,,,,,,
+11,node/4069432013,left,Orthodontics Pediatric Dentistry,Point,,dentist,dentist,823,Taraval Street,,,,,,,
+11,way/278887454,right,Orthodontics Pediatric Dentistry,Polygon,,dentist,dentist,801,Taraval Street,,,,,,,
+12,node/8927752699,left,Maido,Point,stationery,,,,,,,,,https://usa.kinokuniya.com/stores-maido-san-francisco-1f,,Mo-Su 11:00-19:00
+12,way/996450654,right,Maido,Polygon,stationery,,,,,,,+1 415 5678901,,https://usa.kinokuniya.com/stores-maido-san-francisco-2f,,Mo-Su 11:00-18:30

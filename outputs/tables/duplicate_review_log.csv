@@ -1,0 +1,13 @@
+pair_id,osm_key_left,osm_key_right,review_decision,reason
+1,way/222862959,way/222862962,Review address,"Same contact details, but different street numbers and shop tags."
+2,node/5595082426,way/1105289817,Review hours,"Matching name and website with overlapping geometry, but conflicting hours."
+3,way/263490215,way/263490226,Review address,Adjacent polygons have different street numbers.
+4,node/1713269565,way/194906345,Proposed merge,Same-name pharmacy point overlaps the same-name store polygon; both hours missing.
+5,node/12676663498,node/5876905615,Proposed merge,"Same name, locations less than one meter apart, and compatible bar/pub tags."
+6,node/11061858559,node/2718062345,Review hours,Same address and phone; store hours differ from pharmacy service hours.
+7,node/4017234514,node/4017234698,Review address,"Same name and nearby locations, but different street numbers."
+8,node/3622501400,node/3622501504,Review address,"Same name and nearby locations, but different street numbers."
+9,node/11226192570,node/459506892,Review hours,Same address and phone; store hours differ from pharmacy service hours.
+10,node/3996578780,node/5061064108,Proposed merge,"Same name, full street address, and healthcare type."
+11,node/4069432013,way/278887454,Review address,"Same name, but different street numbers."
+12,node/8927752699,way/996450654,Keep separate for now,Website links identify different floors; proximity alone does not establish duplication.

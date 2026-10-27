@@ -1,0 +1,4 @@
+keep_osm_key,remove_osm_key,reason
+way/194906345,node/1713269565,Retain the Walgreens polygon with its street address.
+node/5876905615,node/12676663498,Retain the Woods Outbound point with its street address.
+node/3996578780,node/5061064108,"Same name, address, and healthcare type; retain the lower OSM ID."

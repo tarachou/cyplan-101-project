@@ -1,0 +1,17 @@
+pair_id,osm_key,review_decision,reason,name
+1,way/222862959,Review address,"Same contact details, but different street numbers and shop tags.",Cliff's Variety
+2,node/5595082426,Review hours,"Matching name and website with overlapping geometry, but conflicting hours.",The Market
+3,way/263490215,Review address,Adjacent polygons have different street numbers.,Urgently Ortho
+6,node/11061858559,Review hours,Same address and phone; store hours differ from pharmacy service hours.,CVS Pharmacy
+7,node/4017234514,Review address,"Same name and nearby locations, but different street numbers.",Pineapple King Bakery
+8,node/3622501400,Review address,"Same name and nearby locations, but different street numbers.",West Pawtal Pet Supplies
+9,node/11226192570,Review hours,Same address and phone; store hours differ from pharmacy service hours.,Walgreens
+11,node/4069432013,Review address,"Same name, but different street numbers.",Orthodontics Pediatric Dentistry
+1,way/222862962,Review address,"Same contact details, but different street numbers and shop tags.",Cliff's Variety
+2,way/1105289817,Review hours,"Matching name and website with overlapping geometry, but conflicting hours.",The Market
+3,way/263490226,Review address,Adjacent polygons have different street numbers.,Urgently Ortho
+6,node/2718062345,Review hours,Same address and phone; store hours differ from pharmacy service hours.,CVS Pharmacy
+7,node/4017234698,Review address,"Same name and nearby locations, but different street numbers.",Pineapple King Bakery
+8,node/3622501504,Review address,"Same name and nearby locations, but different street numbers.",West Pawtal Pet Supplies
+9,node/459506892,Review hours,Same address and phone; store hours differ from pharmacy service hours.,Walgreens
+11,way/278887454,Review address,"Same name, but different street numbers.",Orthodontics Pediatric Dentistry

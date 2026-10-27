@@ -1,0 +1,4407 @@
+osm_key,search_neighborhood,search_income_band
+node/61670779,Mission,Middle
+node/61670779,Haight Ashbury,Higher
+node/61671096,Mission,Middle
+node/61671096,Haight Ashbury,Higher
+node/61671382,Mission,Middle
+node/61671382,Haight Ashbury,Higher
+node/61672275,Mission,Middle
+node/61672275,Haight Ashbury,Higher
+node/61673273,Mission,Middle
+node/61673273,Haight Ashbury,Higher
+node/61674029,Haight Ashbury,Higher
+node/61675193,Mission,Middle
+node/61676294,Haight Ashbury,Higher
+node/61677300,Haight Ashbury,Higher
+node/61677421,Haight Ashbury,Higher
+node/61678646,Haight Ashbury,Higher
+node/61678786,Haight Ashbury,Higher
+node/265506505,Bayview Hunters Point,Lower
+node/265506505,Mission,Middle
+node/275723361,Mission,Middle
+node/281652933,Mission,Middle
+node/281652962,Mission,Middle
+node/281652962,Mission Bay,Higher
+node/293573361,Japantown,Lower
+node/293632937,Mission Bay,Higher
+node/295082904,Mission,Middle
+node/295082904,Haight Ashbury,Higher
+node/295086235,Mission,Middle
+node/295086235,Haight Ashbury,Higher
+node/302448211,Mission,Middle
+node/302448629,Mission,Middle
+node/302448629,Haight Ashbury,Higher
+node/317124793,Mission Bay,Higher
+node/317124805,Mission Bay,Higher
+node/317124810,Mission Bay,Higher
+node/317124812,Mission Bay,Higher
+node/317124818,Mission Bay,Higher
+node/319020714,Mission,Middle
+node/332730993,Japantown,Lower
+node/332787283,Japantown,Lower
+node/332787289,Japantown,Lower
+node/332787292,Japantown,Lower
+node/332787295,Japantown,Lower
+node/332787297,Japantown,Lower
+node/344975908,Mission Bay,Higher
+node/346584520,Mission,Middle
+node/358116917,Sunset/Parkside,Middle
+node/358805362,Bayview Hunters Point,Lower
+node/358857180,Bayview Hunters Point,Lower
+node/358857180,Mission,Middle
+node/360462977,Mission,Middle
+node/360463558,Mission,Middle
+node/360463705,Mission,Middle
+node/360463846,Mission,Middle
+node/360464146,Mission,Middle
+node/360464463,Mission,Middle
+node/360950342,Mission,Middle
+node/370194862,Mission,Middle
+node/370196794,Mission,Middle
+node/378440021,Mission,Middle
+node/381972334,Japantown,Lower
+node/389404007,Mission Bay,Higher
+node/389440586,Mission Bay,Higher
+node/393134624,Japantown,Lower
+node/393735420,Japantown,Lower
+node/411083201,Mission,Middle
+node/412108261,Japantown,Lower
+node/412109202,Japantown,Lower
+node/412111064,Japantown,Lower
+node/414269441,Mission,Middle
+node/414269472,Mission,Middle
+node/414269873,Haight Ashbury,Higher
+node/414269956,Haight Ashbury,Higher
+node/414270268,Haight Ashbury,Higher
+node/417181233,Haight Ashbury,Higher
+node/417235672,Sunset/Parkside,Middle
+node/417235974,Sunset/Parkside,Middle
+node/418513660,Mission,Middle
+node/418513730,Mission,Middle
+node/418514113,Mission,Middle
+node/429640022,Japantown,Lower
+node/429656385,Japantown,Lower
+node/431424729,Mission,Middle
+node/431425980,Japantown,Lower
+node/432817154,Japantown,Lower
+node/432817342,Japantown,Lower
+node/432817704,Japantown,Lower
+node/432817745,Japantown,Lower
+node/432820845,Mission,Middle
+node/432820845,Japantown,Lower
+node/432822679,Japantown,Lower
+node/432823131,Japantown,Lower
+node/432825132,Japantown,Lower
+node/432826225,Japantown,Lower
+node/432826454,Japantown,Lower
+node/437549643,Sunset/Parkside,Middle
+node/442258118,Mission,Middle
+node/443372068,Mission,Middle
+node/448038882,Japantown,Lower
+node/459504817,Haight Ashbury,Higher
+node/459507740,Mission,Middle
+node/459507740,Haight Ashbury,Higher
+node/497304181,Mission,Middle
+node/497304203,Mission,Middle
+node/497304213,Mission,Middle
+node/510816002,Mission,Middle
+node/510816002,Haight Ashbury,Higher
+node/527505796,Mission,Middle
+node/527505796,Haight Ashbury,Higher
+node/528057543,Mission,Middle
+node/528511748,Mission,Middle
+node/528511749,Mission,Middle
+node/528511751,Mission,Middle
+node/529117811,Mission,Middle
+node/529117813,Mission,Middle
+node/529656139,Japantown,Lower
+node/529771968,Mission,Middle
+node/529771968,Haight Ashbury,Higher
+node/529772421,Mission,Middle
+node/529772421,Haight Ashbury,Higher
+node/530286649,Mission,Middle
+node/530286649,Haight Ashbury,Higher
+node/540452285,Mission,Middle
+node/540456131,Mission,Middle
+node/559171756,Haight Ashbury,Higher
+node/571457963,Mission,Middle
+node/571457963,Mission Bay,Higher
+node/571459412,Mission,Middle
+node/571459412,Mission Bay,Higher
+node/571460529,Mission,Middle
+node/571460529,Mission Bay,Higher
+node/582778903,Mission,Middle
+node/582779493,Mission,Middle
+node/582781745,Mission,Middle
+node/586719219,Mission,Middle
+node/586719219,Haight Ashbury,Higher
+node/586728486,Mission,Middle
+node/586728486,Haight Ashbury,Higher
+node/586754870,Haight Ashbury,Higher
+node/586756670,Haight Ashbury,Higher
+node/599417363,Sunset/Parkside,Middle
+node/621179351,Mission Bay,Higher
+node/632725242,Sunset/Parkside,Middle
+node/632734629,Sunset/Parkside,Middle
+node/632741467,Sunset/Parkside,Middle
+node/632815535,Sunset/Parkside,Middle
+node/632817679,Sunset/Parkside,Middle
+node/632825392,Sunset/Parkside,Middle
+node/632873440,Sunset/Parkside,Middle
+node/632874260,Sunset/Parkside,Middle
+node/632874790,Sunset/Parkside,Middle
+node/638752547,Sunset/Parkside,Middle
+node/638752551,Sunset/Parkside,Middle
+node/647656706,Mission,Middle
+node/647656706,Haight Ashbury,Higher
+node/647656739,Mission,Middle
+node/647656739,Haight Ashbury,Higher
+node/647656754,Mission,Middle
+node/647656754,Haight Ashbury,Higher
+node/647656759,Mission,Middle
+node/647656759,Haight Ashbury,Higher
+node/647656762,Mission,Middle
+node/647656762,Haight Ashbury,Higher
+node/647656785,Mission,Middle
+node/647656785,Haight Ashbury,Higher
+node/647656796,Mission,Middle
+node/647656796,Haight Ashbury,Higher
+node/647656805,Mission,Middle
+node/647656805,Haight Ashbury,Higher
+node/647656834,Mission,Middle
+node/647656834,Haight Ashbury,Higher
+node/647656836,Mission,Middle
+node/647656836,Haight Ashbury,Higher
+node/647656857,Mission,Middle
+node/647656857,Haight Ashbury,Higher
+node/647656860,Mission,Middle
+node/647656860,Haight Ashbury,Higher
+node/666369832,Haight Ashbury,Higher
+node/677681773,Mission,Middle
+node/679010814,Mission Bay,Higher
+node/702434594,Sunset/Parkside,Middle
+node/705410439,Mission,Middle
+node/705410439,Mission Bay,Higher
+node/718375671,Sunset/Parkside,Middle
+node/718375672,Sunset/Parkside,Middle
+node/718375673,Sunset/Parkside,Middle
+node/718375674,Sunset/Parkside,Middle
+node/718375781,Sunset/Parkside,Middle
+node/718375783,Sunset/Parkside,Middle
+node/718375843,Sunset/Parkside,Middle
+node/724824664,Sunset/Parkside,Middle
+node/731946793,Japantown,Lower
+node/731950222,Japantown,Lower
+node/731989581,Japantown,Lower
+node/731989588,Japantown,Lower
+node/731989597,Japantown,Lower
+node/732005598,Japantown,Lower
+node/732005635,Japantown,Lower
+node/732005643,Japantown,Lower
+node/732009027,Japantown,Lower
+node/732009028,Japantown,Lower
+node/732009035,Japantown,Lower
+node/732009037,Japantown,Lower
+node/734841519,Haight Ashbury,Higher
+node/734841522,Haight Ashbury,Higher
+node/761762694,Sunset/Parkside,Middle
+node/761906611,Mission,Middle
+node/761906611,Mission Bay,Higher
+node/761916174,Mission,Middle
+node/761916174,Mission Bay,Higher
+node/761937484,Mission Bay,Higher
+node/774058148,Mission,Middle
+node/774058165,Mission,Middle
+node/775379090,Mission Bay,Higher
+node/818671268,Japantown,Lower
+node/819444936,Japantown,Lower
+node/819444943,Japantown,Lower
+node/819444945,Japantown,Lower
+node/819444949,Japantown,Lower
+node/819444963,Japantown,Lower
+node/819445003,Japantown,Lower
+node/819445010,Japantown,Lower
+node/819445015,Japantown,Lower
+node/819445062,Japantown,Lower
+node/819447654,Japantown,Lower
+node/819447661,Japantown,Lower
+node/825914906,Japantown,Lower
+node/825914922,Japantown,Lower
+node/825915002,Japantown,Lower
+node/825915019,Japantown,Lower
+node/825966977,Japantown,Lower
+node/825966983,Japantown,Lower
+node/825966994,Japantown,Lower
+node/825967002,Japantown,Lower
+node/825967006,Japantown,Lower
+node/825967049,Japantown,Lower
+node/825967060,Japantown,Lower
+node/825967065,Japantown,Lower
+node/825967069,Japantown,Lower
+node/825967134,Japantown,Lower
+node/825967143,Japantown,Lower
+node/825967152,Japantown,Lower
+node/825967158,Japantown,Lower
+node/826961052,Japantown,Lower
+node/826961058,Japantown,Lower
+node/826961082,Japantown,Lower
+node/847692815,Mission Bay,Higher
+node/903709625,Mission,Middle
+node/903709629,Mission,Middle
+node/904583427,Sunset/Parkside,Middle
+node/960932055,Sunset/Parkside,Middle
+node/960932937,Sunset/Parkside,Middle
+node/960933322,Sunset/Parkside,Middle
+node/960933757,Sunset/Parkside,Middle
+node/960934321,Sunset/Parkside,Middle
+node/960935983,Sunset/Parkside,Middle
+node/960938593,Sunset/Parkside,Middle
+node/968355348,Mission,Middle
+node/968355561,Mission,Middle
+node/974267637,Haight Ashbury,Higher
+node/974267676,Haight Ashbury,Higher
+node/974348031,Mission,Middle
+node/974351666,Mission,Middle
+node/983388325,Mission,Middle
+node/983388331,Mission,Middle
+node/993412550,Mission,Middle
+node/998993721,Mission,Middle
+node/998994829,Mission,Middle
+node/999083604,Mission,Middle
+node/1002186184,Japantown,Lower
+node/1002186270,Japantown,Lower
+node/1014031956,Haight Ashbury,Higher
+node/1060956195,Mission,Middle
+node/1097231657,Haight Ashbury,Higher
+node/1106966263,Mission,Middle
+node/1106966263,Haight Ashbury,Higher
+node/1106966270,Mission,Middle
+node/1106966270,Haight Ashbury,Higher
+node/1125115617,Mission,Middle
+node/1125115617,Haight Ashbury,Higher
+node/1126947956,Mission,Middle
+node/1126947956,Haight Ashbury,Higher
+node/1126948195,Mission,Middle
+node/1126948195,Haight Ashbury,Higher
+node/1126948245,Mission,Middle
+node/1126948245,Haight Ashbury,Higher
+node/1127135639,Mission,Middle
+node/1130796532,Bayview Hunters Point,Lower
+node/1130796532,Mission,Middle
+node/1158550423,Bayview Hunters Point,Lower
+node/1168850885,Mission,Middle
+node/1193723903,Mission,Middle
+node/1193723957,Mission,Middle
+node/1205120785,Bayview Hunters Point,Lower
+node/1206794862,Mission,Middle
+node/1211157016,Sunset/Parkside,Middle
+node/1213823254,Mission,Middle
+node/1213823254,Mission Bay,Higher
+node/1220797685,Bayview Hunters Point,Lower
+node/1221102760,Bayview Hunters Point,Lower
+node/1221102930,Bayview Hunters Point,Lower
+node/1221413838,Bayview Hunters Point,Lower
+node/1221413878,Bayview Hunters Point,Lower
+node/1221413982,Bayview Hunters Point,Lower
+node/1221414572,Bayview Hunters Point,Lower
+node/1224107297,Mission,Middle
+node/1229704788,Bayview Hunters Point,Lower
+node/1229745509,Mission Bay,Higher
+node/1229779251,Bayview Hunters Point,Lower
+node/1230343363,Bayview Hunters Point,Lower
+node/1230343364,Bayview Hunters Point,Lower
+node/1230343365,Bayview Hunters Point,Lower
+node/1230343375,Bayview Hunters Point,Lower
+node/1230343376,Bayview Hunters Point,Lower
+node/1230343377,Bayview Hunters Point,Lower
+node/1230343379,Bayview Hunters Point,Lower
+node/1230343389,Bayview Hunters Point,Lower
+node/1230343390,Bayview Hunters Point,Lower
+node/1230343393,Bayview Hunters Point,Lower
+node/1230343399,Bayview Hunters Point,Lower
+node/1230343414,Bayview Hunters Point,Lower
+node/1230343416,Bayview Hunters Point,Lower
+node/1230343417,Bayview Hunters Point,Lower
+node/1230343426,Bayview Hunters Point,Lower
+node/1230343428,Bayview Hunters Point,Lower
+node/1230343430,Bayview Hunters Point,Lower
+node/1230343433,Bayview Hunters Point,Lower
+node/1230343461,Bayview Hunters Point,Lower
+node/1230343464,Bayview Hunters Point,Lower
+node/1230343466,Bayview Hunters Point,Lower
+node/1230343488,Bayview Hunters Point,Lower
+node/1230343494,Bayview Hunters Point,Lower
+node/1230343502,Bayview Hunters Point,Lower
+node/1230343520,Bayview Hunters Point,Lower
+node/1233283262,Bayview Hunters Point,Lower
+node/1233296130,Bayview Hunters Point,Lower
+node/1238299633,Bayview Hunters Point,Lower
+node/1238299633,Mission Bay,Higher
+node/1238299642,Bayview Hunters Point,Lower
+node/1238299646,Mission Bay,Higher
+node/1238299653,Bayview Hunters Point,Lower
+node/1238299666,Bayview Hunters Point,Lower
+node/1241690519,Bayview Hunters Point,Lower
+node/1241690521,Bayview Hunters Point,Lower
+node/1241690523,Bayview Hunters Point,Lower
+node/1243846535,Bayview Hunters Point,Lower
+node/1243920973,Mission,Middle
+node/1256185225,Bayview Hunters Point,Lower
+node/1256305829,Mission,Middle
+node/1260285974,Mission,Middle
+node/1260285974,Mission Bay,Higher
+node/1260547146,Sunset/Parkside,Middle
+node/1262683044,Mission Bay,Higher
+node/1274907133,Haight Ashbury,Higher
+node/1276660516,Haight Ashbury,Higher
+node/1280995609,Mission Bay,Higher
+node/1282135989,Mission Bay,Higher
+node/1282136006,Mission Bay,Higher
+node/1295101185,Mission,Middle
+node/1295101185,Japantown,Lower
+node/1298685614,Mission,Middle
+node/1298685614,Haight Ashbury,Higher
+node/1302806607,Japantown,Lower
+node/1306052376,Sunset/Parkside,Middle
+node/1306052393,Sunset/Parkside,Middle
+node/1314439506,Mission,Middle
+node/1314439506,Haight Ashbury,Higher
+node/1315569466,Bayview Hunters Point,Lower
+node/1315569466,Mission Bay,Higher
+node/1319206689,Haight Ashbury,Higher
+node/1333130429,Japantown,Lower
+node/1333130431,Japantown,Lower
+node/1355604419,Mission,Middle
+node/1355604419,Haight Ashbury,Higher
+node/1362359508,Mission Bay,Higher
+node/1364959567,Mission,Middle
+node/1364959567,Haight Ashbury,Higher
+node/1366261127,Mission,Middle
+node/1366261127,Haight Ashbury,Higher
+node/1369329144,Haight Ashbury,Higher
+node/1369329144,Japantown,Lower
+node/1369329145,Haight Ashbury,Higher
+node/1374010118,Mission,Middle
+node/1376198370,Japantown,Lower
+node/1392953877,Mission Bay,Higher
+node/1392953884,Mission Bay,Higher
+node/1424879520,Mission,Middle
+node/1425813028,Mission Bay,Higher
+node/1425813142,Mission Bay,Higher
+node/1430564725,Mission,Middle
+node/1433963042,Mission Bay,Higher
+node/1446653714,Haight Ashbury,Higher
+node/1493456455,Mission,Middle
+node/1493456472,Mission,Middle
+node/1493456487,Mission,Middle
+node/1493707716,Mission,Middle
+node/1493707716,Haight Ashbury,Higher
+node/1493721688,Mission,Middle
+node/1493721688,Haight Ashbury,Higher
+node/1493723325,Mission,Middle
+node/1493723325,Haight Ashbury,Higher
+node/1493725676,Mission,Middle
+node/1493725676,Haight Ashbury,Higher
+node/1502894756,Mission,Middle
+node/1502894756,Haight Ashbury,Higher
+node/1506345270,Mission Bay,Higher
+node/1507839214,Mission,Middle
+node/1507839214,Haight Ashbury,Higher
+node/1511735164,Mission,Middle
+node/1511735164,Haight Ashbury,Higher
+node/1512000860,Mission,Middle
+node/1512000860,Haight Ashbury,Higher
+node/1514747746,Mission,Middle
+node/1514747746,Haight Ashbury,Higher
+node/1534940815,Mission,Middle
+node/1534940815,Haight Ashbury,Higher
+node/1581843965,Mission Bay,Higher
+node/1581862143,Japantown,Lower
+node/1581862146,Japantown,Lower
+node/1586380649,Mission,Middle
+node/1586380649,Haight Ashbury,Higher
+node/1609599968,Mission,Middle
+node/1609599989,Mission,Middle
+node/1609848215,Mission,Middle
+node/1610994013,Mission,Middle
+node/1612642891,Mission Bay,Higher
+node/1612773733,Mission,Middle
+node/1612773733,Mission Bay,Higher
+node/1614316010,Mission Bay,Higher
+node/1615157213,Japantown,Lower
+node/1616322282,Japantown,Lower
+node/1616322287,Japantown,Lower
+node/1616343381,Japantown,Lower
+node/1616423670,Mission Bay,Higher
+node/1630822761,Mission,Middle
+node/1640101685,Bayview Hunters Point,Lower
+node/1649867191,Mission,Middle
+node/1661680425,Japantown,Lower
+node/1666722531,Sunset/Parkside,Middle
+node/1700641974,Mission,Middle
+node/1700641974,Mission Bay,Higher
+node/1712264173,Mission,Middle
+node/1713269531,Mission,Middle
+node/1713269532,Mission,Middle
+node/1713269545,Mission,Middle
+node/1713269566,Mission,Middle
+node/1713269574,Mission,Middle
+node/1713269577,Mission,Middle
+node/1713269580,Mission,Middle
+node/1713269583,Mission,Middle
+node/1713269593,Mission,Middle
+node/1713269598,Mission,Middle
+node/1713269600,Mission,Middle
+node/1713269606,Mission,Middle
+node/1713269609,Mission,Middle
+node/1713269620,Mission,Middle
+node/1713269625,Mission,Middle
+node/1713269628,Mission,Middle
+node/1713269631,Mission,Middle
+node/1743528308,Sunset/Parkside,Middle
+node/1754115352,Japantown,Lower
+node/1763890157,Mission,Middle
+node/1763890159,Mission,Middle
+node/1771741233,Mission,Middle
+node/1771741233,Mission Bay,Higher
+node/1773719073,Mission,Middle
+node/1779502004,Haight Ashbury,Higher
+node/1784908622,Haight Ashbury,Higher
+node/1784908622,Japantown,Lower
+node/1797794087,Japantown,Lower
+node/1805750179,Mission,Middle
+node/1806978712,Mission,Middle
+node/1806978712,Mission Bay,Higher
+node/1809593816,Sunset/Parkside,Middle
+node/1809593818,Sunset/Parkside,Middle
+node/1809593825,Sunset/Parkside,Middle
+node/1809593827,Sunset/Parkside,Middle
+node/1809593828,Sunset/Parkside,Middle
+node/1809593835,Sunset/Parkside,Middle
+node/1809593836,Sunset/Parkside,Middle
+node/1809594281,Sunset/Parkside,Middle
+node/1825311425,Mission Bay,Higher
+node/1829910392,Mission,Middle
+node/1829910392,Mission Bay,Higher
+node/1837127377,Sunset/Parkside,Middle
+node/1837284133,Mission,Middle
+node/1839527429,Mission,Middle
+node/1839527431,Mission,Middle
+node/1840697756,Japantown,Lower
+node/1847653049,Mission Bay,Higher
+node/1847720030,Haight Ashbury,Higher
+node/1847720030,Japantown,Lower
+node/1854749247,Japantown,Lower
+node/1854870858,Mission Bay,Higher
+node/1854878716,Mission Bay,Higher
+node/1873973264,Mission,Middle
+node/1880206851,Mission,Middle
+node/1880206851,Mission Bay,Higher
+node/1880209756,Mission,Middle
+node/1880209756,Mission Bay,Higher
+node/1880211756,Mission,Middle
+node/1880211756,Mission Bay,Higher
+node/1880213955,Mission,Middle
+node/1880213955,Mission Bay,Higher
+node/1880215032,Mission,Middle
+node/1880215032,Mission Bay,Higher
+node/1880217201,Mission,Middle
+node/1880217201,Mission Bay,Higher
+node/1880217801,Mission,Middle
+node/1880217801,Mission Bay,Higher
+node/1880228581,Mission,Middle
+node/1897361436,Japantown,Lower
+node/1901021509,Mission,Middle
+node/1901021509,Haight Ashbury,Higher
+node/1901076576,Mission,Middle
+node/1901076576,Haight Ashbury,Higher
+node/1924019363,Mission Bay,Higher
+node/1930069976,Mission,Middle
+node/1932961723,Haight Ashbury,Higher
+node/1932961723,Japantown,Lower
+node/1932974584,Haight Ashbury,Higher
+node/1932974584,Japantown,Lower
+node/1932984609,Haight Ashbury,Higher
+node/1937539130,Mission Bay,Higher
+node/1940405928,Japantown,Lower
+node/1956078877,Haight Ashbury,Higher
+node/1957272522,Haight Ashbury,Higher
+node/1958696320,Haight Ashbury,Higher
+node/1958701051,Haight Ashbury,Higher
+node/1958757624,Haight Ashbury,Higher
+node/1960941273,Mission,Middle
+node/1960941273,Haight Ashbury,Higher
+node/1963928519,Mission,Middle
+node/1969279894,Haight Ashbury,Higher
+node/1969279894,Japantown,Lower
+node/1969281562,Haight Ashbury,Higher
+node/1969282330,Haight Ashbury,Higher
+node/1970069123,Mission,Middle
+node/1970075773,Mission,Middle
+node/1974596596,Mission,Middle
+node/1975916973,Mission,Middle
+node/1975916973,Japantown,Lower
+node/1980329165,Haight Ashbury,Higher
+node/1980330799,Haight Ashbury,Higher
+node/1981941269,Japantown,Lower
+node/1981951417,Japantown,Lower
+node/1981994718,Haight Ashbury,Higher
+node/1981994718,Japantown,Lower
+node/1982439159,Japantown,Lower
+node/1983510725,Haight Ashbury,Higher
+node/1990692292,Haight Ashbury,Higher
+node/2005894112,Mission,Middle
+node/2005894112,Haight Ashbury,Higher
+node/2025413261,Mission,Middle
+node/2026996074,Mission,Middle
+node/2026996083,Mission,Middle
+node/2047454258,Sunset/Parkside,Middle
+node/2047570604,Mission,Middle
+node/2050131394,Mission,Middle
+node/2050786593,Mission Bay,Higher
+node/2050878746,Mission,Middle
+node/2052391118,Mission,Middle
+node/2052391257,Mission,Middle
+node/2053166642,Mission,Middle
+node/2054149090,Mission,Middle
+node/2055080122,Mission,Middle
+node/2056681979,Mission,Middle
+node/2056681979,Mission Bay,Higher
+node/2056716307,Mission,Middle
+node/2056745156,Mission,Middle
+node/2057211638,Mission,Middle
+node/2059226347,Bayview Hunters Point,Lower
+node/2059371794,Mission,Middle
+node/2059477223,Bayview Hunters Point,Lower
+node/2060252755,Mission,Middle
+node/2060252777,Mission,Middle
+node/2066866627,Mission,Middle
+node/2069048101,Mission,Middle
+node/2069103495,Mission,Middle
+node/2069104070,Mission,Middle
+node/2069129612,Mission,Middle
+node/2069159585,Mission,Middle
+node/2069159598,Mission,Middle
+node/2069159599,Mission,Middle
+node/2069159603,Mission,Middle
+node/2069159605,Mission,Middle
+node/2070993982,Mission,Middle
+node/2071005284,Mission,Middle
+node/2072415365,Mission Bay,Higher
+node/2073438778,Mission,Middle
+node/2077041353,Japantown,Lower
+node/2095344770,Mission,Middle
+node/2129923219,Sunset/Parkside,Middle
+node/2130160675,Mission,Middle
+node/2130160676,Mission,Middle
+node/2130160677,Bayview Hunters Point,Lower
+node/2130160677,Mission,Middle
+node/2131700907,Mission,Middle
+node/2131702647,Mission,Middle
+node/2131713351,Mission,Middle
+node/2133322197,Japantown,Lower
+node/2133322244,Japantown,Lower
+node/2147409252,Haight Ashbury,Higher
+node/2147409252,Japantown,Lower
+node/2148537238,Bayview Hunters Point,Lower
+node/2156202862,Mission,Middle
+node/2156202862,Mission Bay,Higher
+node/2159765927,Haight Ashbury,Higher
+node/2184767720,Japantown,Lower
+node/2184790554,Japantown,Lower
+node/2187987262,Mission,Middle
+node/2187987262,Haight Ashbury,Higher
+node/2187987263,Mission,Middle
+node/2187987263,Haight Ashbury,Higher
+node/2198198539,Mission,Middle
+node/2210925058,Sunset/Parkside,Middle
+node/2220968768,Japantown,Lower
+node/2220968786,Japantown,Lower
+node/2220968869,Japantown,Lower
+node/2240839538,Mission Bay,Higher
+node/2240839544,Mission Bay,Higher
+node/2240839554,Mission Bay,Higher
+node/2240839575,Mission Bay,Higher
+node/2240839579,Mission Bay,Higher
+node/2240839584,Mission Bay,Higher
+node/2240839587,Mission Bay,Higher
+node/2240869164,Mission Bay,Higher
+node/2240869167,Mission Bay,Higher
+node/2240869181,Mission Bay,Higher
+node/2240869184,Mission Bay,Higher
+node/2247590960,Mission,Middle
+node/2248269727,Bayview Hunters Point,Lower
+node/2248278382,Mission,Middle
+node/2248374010,Mission,Middle
+node/2248374010,Haight Ashbury,Higher
+node/2249328695,Sunset/Parkside,Middle
+node/2249856378,Mission Bay,Higher
+node/2259028667,Mission,Middle
+node/2259028667,Japantown,Lower
+node/2287521548,Haight Ashbury,Higher
+node/2287535863,Haight Ashbury,Higher
+node/2292493555,Haight Ashbury,Higher
+node/2296063874,Bayview Hunters Point,Lower
+node/2296063874,Mission Bay,Higher
+node/2296069181,Mission Bay,Higher
+node/2297205771,Bayview Hunters Point,Lower
+node/2297205771,Mission Bay,Higher
+node/2297205772,Bayview Hunters Point,Lower
+node/2297205772,Mission Bay,Higher
+node/2306305536,Sunset/Parkside,Middle
+node/2311956675,Sunset/Parkside,Middle
+node/2317662705,Mission,Middle
+node/2318141840,Haight Ashbury,Higher
+node/2318141844,Mission,Middle
+node/2318141855,Haight Ashbury,Higher
+node/2318141869,Haight Ashbury,Higher
+node/2318141884,Mission,Middle
+node/2318141884,Haight Ashbury,Higher
+node/2318141886,Mission,Middle
+node/2318141886,Haight Ashbury,Higher
+node/2318141892,Mission,Middle
+node/2318141892,Haight Ashbury,Higher
+node/2318141894,Haight Ashbury,Higher
+node/2318141905,Mission,Middle
+node/2318141907,Mission,Middle
+node/2318141907,Haight Ashbury,Higher
+node/2318141912,Mission,Middle
+node/2318141912,Haight Ashbury,Higher
+node/2318141915,Haight Ashbury,Higher
+node/2318141917,Mission,Middle
+node/2318141917,Haight Ashbury,Higher
+node/2318141923,Mission,Middle
+node/2318141923,Haight Ashbury,Higher
+node/2318141925,Mission,Middle
+node/2318159223,Mission,Middle
+node/2318796883,Haight Ashbury,Higher
+node/2321299135,Mission,Middle
+node/2321299142,Mission,Middle
+node/2321299144,Mission,Middle
+node/2321299154,Mission,Middle
+node/2321299157,Mission,Middle
+node/2321299178,Mission,Middle
+node/2321383066,Haight Ashbury,Higher
+node/2321383079,Haight Ashbury,Higher
+node/2321383088,Haight Ashbury,Higher
+node/2321383089,Haight Ashbury,Higher
+node/2330907328,Mission,Middle
+node/2330907328,Haight Ashbury,Higher
+node/2337474422,Mission,Middle
+node/2337741914,Mission,Middle
+node/2337741914,Mission Bay,Higher
+node/2338219761,Bayview Hunters Point,Lower
+node/2338219761,Mission,Middle
+node/2338519352,Mission Bay,Higher
+node/2338760557,Mission Bay,Higher
+node/2338835471,Haight Ashbury,Higher
+node/2338835471,Japantown,Lower
+node/2338836801,Haight Ashbury,Higher
+node/2338836841,Haight Ashbury,Higher
+node/2338836887,Haight Ashbury,Higher
+node/2338836918,Haight Ashbury,Higher
+node/2338837948,Mission,Middle
+node/2340735754,Bayview Hunters Point,Lower
+node/2340735754,Mission,Middle
+node/2341485060,Bayview Hunters Point,Lower
+node/2341485060,Mission Bay,Higher
+node/2341485061,Bayview Hunters Point,Lower
+node/2341485061,Mission Bay,Higher
+node/2341493662,Mission,Middle
+node/2342299361,Mission Bay,Higher
+node/2356787383,Mission Bay,Higher
+node/2358297160,Sunset/Parkside,Middle
+node/2375537105,Japantown,Lower
+node/2376655193,Mission,Middle
+node/2376655201,Mission,Middle
+node/2379622676,Mission,Middle
+node/2392300373,Sunset/Parkside,Middle
+node/2394661178,Mission,Middle
+node/2403912708,Mission,Middle
+node/2403912708,Mission Bay,Higher
+node/2403914322,Mission,Middle
+node/2403914322,Mission Bay,Higher
+node/2411576667,Mission,Middle
+node/2411692096,Mission,Middle
+node/2411698457,Mission,Middle
+node/2430288254,Mission,Middle
+node/2430288254,Haight Ashbury,Higher
+node/2430411630,Mission,Middle
+node/2453599646,Mission Bay,Higher
+node/2453600264,Mission Bay,Higher
+node/2453601267,Mission Bay,Higher
+node/2453601864,Mission Bay,Higher
+node/2454878062,Mission,Middle
+node/2454879430,Mission,Middle
+node/2454979580,Mission,Middle
+node/2474058013,Mission,Middle
+node/2474058013,Haight Ashbury,Higher
+node/2474058021,Mission,Middle
+node/2474058022,Mission,Middle
+node/2474072786,Mission,Middle
+node/2474072797,Mission,Middle
+node/2479681841,Mission,Middle
+node/2479681841,Haight Ashbury,Higher
+node/2482675927,Mission,Middle
+node/2482675927,Haight Ashbury,Higher
+node/2482675928,Mission,Middle
+node/2482675929,Mission,Middle
+node/2485515167,Mission,Middle
+node/2494567991,Mission,Middle
+node/2501316103,Japantown,Lower
+node/2502767191,Japantown,Lower
+node/2509799835,Japantown,Lower
+node/2521390677,Mission,Middle
+node/2521390677,Haight Ashbury,Higher
+node/2528136835,Mission,Middle
+node/2538427496,Mission,Middle
+node/2544305120,Mission,Middle
+node/2544305120,Japantown,Lower
+node/2548212356,Mission,Middle
+node/2548212356,Mission Bay,Higher
+node/2548212357,Mission,Middle
+node/2548212357,Mission Bay,Higher
+node/2583157472,Mission,Middle
+node/2583157472,Mission Bay,Higher
+node/2583157485,Mission,Middle
+node/2583157485,Mission Bay,Higher
+node/2583157489,Mission,Middle
+node/2583157489,Mission Bay,Higher
+node/2583157493,Mission,Middle
+node/2583157493,Mission Bay,Higher
+node/2583212731,Mission,Middle
+node/2583212731,Mission Bay,Higher
+node/2588127357,Japantown,Lower
+node/2594294765,Mission,Middle
+node/2606916558,Japantown,Lower
+node/2612989373,Mission,Middle
+node/2612990005,Mission,Middle
+node/2622986361,Mission,Middle
+node/2623903547,Japantown,Lower
+node/2624201219,Mission,Middle
+node/2624201219,Haight Ashbury,Higher
+node/2624201221,Mission,Middle
+node/2624201221,Haight Ashbury,Higher
+node/2624201223,Mission,Middle
+node/2624201223,Haight Ashbury,Higher
+node/2624201224,Mission,Middle
+node/2624201224,Haight Ashbury,Higher
+node/2624201225,Mission,Middle
+node/2624201225,Haight Ashbury,Higher
+node/2624201230,Mission,Middle
+node/2624240581,Bayview Hunters Point,Lower
+node/2625069265,Mission,Middle
+node/2625109498,Mission,Middle
+node/2625276230,Mission,Middle
+node/2625276230,Haight Ashbury,Higher
+node/2626607881,Mission,Middle
+node/2626609168,Mission,Middle
+node/2627594114,Mission,Middle
+node/2627661184,Mission,Middle
+node/2627665934,Mission,Middle
+node/2627676155,Mission,Middle
+node/2627676156,Mission,Middle
+node/2627683875,Mission,Middle
+node/2627732087,Mission,Middle
+node/2627803906,Mission,Middle
+node/2629023876,Mission,Middle
+node/2629113680,Mission,Middle
+node/2635968875,Mission,Middle
+node/2636164497,Mission,Middle
+node/2638858701,Mission,Middle
+node/2639373746,Mission,Middle
+node/2639373746,Haight Ashbury,Higher
+node/2641796593,Bayview Hunters Point,Lower
+node/2641796593,Mission,Middle
+node/2641796594,Bayview Hunters Point,Lower
+node/2641796594,Mission,Middle
+node/2648223934,Mission,Middle
+node/2650369440,Mission,Middle
+node/2652147298,Mission,Middle
+node/2652836518,Japantown,Lower
+node/2653002566,Haight Ashbury,Higher
+node/2653086697,Mission,Middle
+node/2653087230,Mission,Middle
+node/2655462967,Haight Ashbury,Higher
+node/2655466372,Haight Ashbury,Higher
+node/2655597049,Mission Bay,Higher
+node/2656720873,Japantown,Lower
+node/2656775523,Mission,Middle
+node/2656775528,Mission,Middle
+node/2657227473,Mission,Middle
+node/2657227473,Mission Bay,Higher
+node/2657930588,Mission,Middle
+node/2664376336,Mission,Middle
+node/2664378956,Mission,Middle
+node/2666409793,Mission,Middle
+node/2667574537,Bayview Hunters Point,Lower
+node/2667574537,Mission,Middle
+node/2675601695,Mission,Middle
+node/2679058766,Mission,Middle
+node/2687343241,Mission,Middle
+node/2693004231,Haight Ashbury,Higher
+node/2698381301,Japantown,Lower
+node/2698387925,Japantown,Lower
+node/2698395558,Japantown,Lower
+node/2698407656,Japantown,Lower
+node/2700230980,Bayview Hunters Point,Lower
+node/2700230980,Mission Bay,Higher
+node/2707373831,Mission,Middle
+node/2713438126,Sunset/Parkside,Middle
+node/2718062342,Mission,Middle
+node/2718062342,Haight Ashbury,Higher
+node/2718062343,Mission,Middle
+node/2718062343,Haight Ashbury,Higher
+node/2718062344,Mission,Middle
+node/2718062344,Haight Ashbury,Higher
+node/2722757446,Mission,Middle
+node/2786939583,Haight Ashbury,Higher
+node/2786939583,Japantown,Lower
+node/2797770808,Mission,Middle
+node/2815132110,Mission,Middle
+node/2815191083,Mission Bay,Higher
+node/2819256151,Haight Ashbury,Higher
+node/2819256152,Haight Ashbury,Higher
+node/2853929583,Mission,Middle
+node/2869308732,Haight Ashbury,Higher
+node/2869484061,Mission Bay,Higher
+node/2879135417,Mission,Middle
+node/2879135418,Mission,Middle
+node/2879135419,Mission,Middle
+node/2880720358,Japantown,Lower
+node/2880721128,Japantown,Lower
+node/2880793633,Japantown,Lower
+node/2881830804,Mission,Middle
+node/2886302532,Mission Bay,Higher
+node/2886430256,Mission,Middle
+node/2895323815,Mission,Middle
+node/2895323817,Mission,Middle
+node/2905105742,Mission,Middle
+node/2905105742,Mission Bay,Higher
+node/2919230585,Mission,Middle
+node/2919244672,Mission,Middle
+node/2928265302,Mission,Middle
+node/2928265302,Japantown,Lower
+node/2936606509,Mission,Middle
+node/2936606509,Mission Bay,Higher
+node/2936612050,Mission,Middle
+node/2936612050,Mission Bay,Higher
+node/2937297769,Mission,Middle
+node/2937336925,Mission,Middle
+node/2956095526,Mission,Middle
+node/2956095526,Mission Bay,Higher
+node/2975978388,Mission,Middle
+node/2988910736,Mission,Middle
+node/2988910736,Mission Bay,Higher
+node/2996292610,Mission,Middle
+node/3002990370,Mission,Middle
+node/3002990372,Mission,Middle
+node/3008209423,Mission,Middle
+node/3008209424,Mission,Middle
+node/3009030188,Mission,Middle
+node/3009030191,Mission,Middle
+node/3009487838,Mission,Middle
+node/3010492227,Mission,Middle
+node/3018753922,Japantown,Lower
+node/3022661942,Mission,Middle
+node/3023246622,Mission,Middle
+node/3067763433,Haight Ashbury,Higher
+node/3067763433,Japantown,Lower
+node/3069400840,Haight Ashbury,Higher
+node/3079493761,Bayview Hunters Point,Lower
+node/3079493761,Mission,Middle
+node/3088433533,Mission,Middle
+node/3088435531,Mission,Middle
+node/3106243623,Mission,Middle
+node/3128037229,Mission,Middle
+node/3136295373,Mission,Middle
+node/3142611902,Haight Ashbury,Higher
+node/3161283280,Mission,Middle
+node/3163318861,Mission,Middle
+node/3163318863,Mission,Middle
+node/3163318872,Mission,Middle
+node/3166823797,Mission,Middle
+node/3170592643,Mission,Middle
+node/3171572682,Bayview Hunters Point,Lower
+node/3183085927,Mission,Middle
+node/3184077143,Mission,Middle
+node/3184077144,Mission,Middle
+node/3184077147,Mission,Middle
+node/3184077150,Mission,Middle
+node/3184077152,Mission,Middle
+node/3186108657,Mission,Middle
+node/3186108657,Mission Bay,Higher
+node/3188130257,Mission,Middle
+node/3188857553,Mission,Middle
+node/3189528511,Japantown,Lower
+node/3190914162,Mission,Middle
+node/3197341204,Mission,Middle
+node/3197341206,Mission,Middle
+node/3197341210,Mission,Middle
+node/3202476750,Mission,Middle
+node/3202518738,Mission,Middle
+node/3204993501,Mission,Middle
+node/3204993505,Mission,Middle
+node/3204993508,Mission,Middle
+node/3204993510,Mission,Middle
+node/3211003669,Mission,Middle
+node/3223701747,Mission,Middle
+node/3228601030,Mission,Middle
+node/3238413661,Mission,Middle
+node/3238659965,Japantown,Lower
+node/3243807462,Japantown,Lower
+node/3250339047,Sunset/Parkside,Middle
+node/3275185914,Haight Ashbury,Higher
+node/3277673808,Mission,Middle
+node/3279458748,Mission,Middle
+node/3279466347,Mission,Middle
+node/3279466347,Mission Bay,Higher
+node/3296984987,Haight Ashbury,Higher
+node/3301285962,Sunset/Parkside,Middle
+node/3309257523,Mission,Middle
+node/3309257523,Mission Bay,Higher
+node/3315447461,Sunset/Parkside,Middle
+node/3315887613,Mission Bay,Higher
+node/3315887615,Mission Bay,Higher
+node/3317120154,Mission,Middle
+node/3317123885,Mission,Middle
+node/3317123885,Haight Ashbury,Higher
+node/3321552474,Sunset/Parkside,Middle
+node/3321734312,Haight Ashbury,Higher
+node/3375035635,Japantown,Lower
+node/3375056283,Japantown,Lower
+node/3376135508,Japantown,Lower
+node/3376951791,Bayview Hunters Point,Lower
+node/3388665493,Mission,Middle
+node/3388665493,Haight Ashbury,Higher
+node/3397732377,Mission,Middle
+node/3397732377,Japantown,Lower
+node/3400370174,Sunset/Parkside,Middle
+node/3415940429,Mission,Middle
+node/3416689789,Japantown,Lower
+node/3422101418,Japantown,Lower
+node/3441484302,Mission,Middle
+node/3443701422,Mission,Middle
+node/3452565593,Japantown,Lower
+node/3454181858,Mission,Middle
+node/3455075355,Mission Bay,Higher
+node/3458520330,Mission,Middle
+node/3458520330,Haight Ashbury,Higher
+node/3458525148,Mission,Middle
+node/3458525148,Haight Ashbury,Higher
+node/3458525149,Mission,Middle
+node/3458525149,Haight Ashbury,Higher
+node/3458693040,Sunset/Parkside,Middle
+node/3474438154,Mission,Middle
+node/3482714279,Mission,Middle
+node/3482714279,Haight Ashbury,Higher
+node/3482714280,Mission,Middle
+node/3482714280,Haight Ashbury,Higher
+node/3482822177,Mission,Middle
+node/3487832245,Japantown,Lower
+node/3489808695,Japantown,Lower
+node/3489924891,Haight Ashbury,Higher
+node/3489924891,Japantown,Lower
+node/3493626502,Mission,Middle
+node/3504141937,Mission,Middle
+node/3520305634,Haight Ashbury,Higher
+node/3532719199,Mission,Middle
+node/3532719199,Mission Bay,Higher
+node/3540104120,Sunset/Parkside,Middle
+node/3540104121,Sunset/Parkside,Middle
+node/3540104122,Sunset/Parkside,Middle
+node/3540104125,Sunset/Parkside,Middle
+node/3540104222,Sunset/Parkside,Middle
+node/3540104223,Sunset/Parkside,Middle
+node/3540104224,Sunset/Parkside,Middle
+node/3540160996,Sunset/Parkside,Middle
+node/3540161000,Sunset/Parkside,Middle
+node/3540161001,Sunset/Parkside,Middle
+node/3540161002,Sunset/Parkside,Middle
+node/3540255593,Sunset/Parkside,Middle
+node/3540255597,Sunset/Parkside,Middle
+node/3540255693,Sunset/Parkside,Middle
+node/3540255694,Sunset/Parkside,Middle
+node/3540255695,Sunset/Parkside,Middle
+node/3540255697,Mission Bay,Higher
+node/3540255703,Sunset/Parkside,Middle
+node/3540255704,Sunset/Parkside,Middle
+node/3540255793,Sunset/Parkside,Middle
+node/3540255893,Sunset/Parkside,Middle
+node/3540255993,Sunset/Parkside,Middle
+node/3540256793,Sunset/Parkside,Middle
+node/3540256894,Sunset/Parkside,Middle
+node/3542720202,Sunset/Parkside,Middle
+node/3542720508,Sunset/Parkside,Middle
+node/3542720510,Sunset/Parkside,Middle
+node/3542728899,Sunset/Parkside,Middle
+node/3542728901,Sunset/Parkside,Middle
+node/3542728904,Sunset/Parkside,Middle
+node/3542750893,Sunset/Parkside,Middle
+node/3542750895,Sunset/Parkside,Middle
+node/3553171993,Mission,Middle
+node/3553171993,Mission Bay,Higher
+node/3553171994,Mission,Middle
+node/3553171994,Mission Bay,Higher
+node/3562892895,Mission,Middle
+node/3562892895,Mission Bay,Higher
+node/3562892896,Mission,Middle
+node/3562892896,Mission Bay,Higher
+node/3562892897,Mission,Middle
+node/3562892897,Mission Bay,Higher
+node/3562957693,Sunset/Parkside,Middle
+node/3562973394,Sunset/Parkside,Middle
+node/3563920171,Mission,Middle
+node/3563920171,Mission Bay,Higher
+node/3563920177,Mission,Middle
+node/3563920177,Mission Bay,Higher
+node/3564511113,Sunset/Parkside,Middle
+node/3564511114,Sunset/Parkside,Middle
+node/3564515771,Sunset/Parkside,Middle
+node/3564515772,Sunset/Parkside,Middle
+node/3564515773,Sunset/Parkside,Middle
+node/3564515774,Sunset/Parkside,Middle
+node/3564521986,Sunset/Parkside,Middle
+node/3564521987,Sunset/Parkside,Middle
+node/3570918494,Mission,Middle
+node/3570918494,Mission Bay,Higher
+node/3570918495,Mission,Middle
+node/3570918495,Mission Bay,Higher
+node/3577376253,Mission,Middle
+node/3577449393,Mission,Middle
+node/3577449393,Haight Ashbury,Higher
+node/3577577294,Mission,Middle
+node/3577577294,Mission Bay,Higher
+node/3577586294,Mission,Middle
+node/3577586294,Mission Bay,Higher
+node/3577596493,Mission,Middle
+node/3577596493,Mission Bay,Higher
+node/3587199694,Mission,Middle
+node/3587199694,Mission Bay,Higher
+node/3590392022,Mission,Middle
+node/3595400315,Mission,Middle
+node/3595400316,Mission,Middle
+node/3595467593,Mission,Middle
+node/3595467793,Mission,Middle
+node/3605423538,Japantown,Lower
+node/3605423539,Japantown,Lower
+node/3605423540,Japantown,Lower
+node/3607887994,Mission,Middle
+node/3607887994,Mission Bay,Higher
+node/3607888593,Mission,Middle
+node/3607888593,Mission Bay,Higher
+node/3611784407,Japantown,Lower
+node/3611784408,Japantown,Lower
+node/3611822692,Japantown,Lower
+node/3619170071,Mission,Middle
+node/3619170071,Mission Bay,Higher
+node/3622460304,Sunset/Parkside,Middle
+node/3622460305,Sunset/Parkside,Middle
+node/3622468811,Sunset/Parkside,Middle
+node/3622501803,Sunset/Parkside,Middle
+node/3622507595,Sunset/Parkside,Middle
+node/3622533394,Sunset/Parkside,Middle
+node/3622533493,Sunset/Parkside,Middle
+node/3622533494,Sunset/Parkside,Middle
+node/3622668127,Sunset/Parkside,Middle
+node/3627393192,Mission,Middle
+node/3631917186,Japantown,Lower
+node/3633164826,Sunset/Parkside,Middle
+node/3633164829,Sunset/Parkside,Middle
+node/3633323079,Sunset/Parkside,Middle
+node/3633323080,Sunset/Parkside,Middle
+node/3633581918,Sunset/Parkside,Middle
+node/3633678513,Sunset/Parkside,Middle
+node/3634735395,Sunset/Parkside,Middle
+node/3635557576,Japantown,Lower
+node/3635727242,Japantown,Lower
+node/3641710570,Mission,Middle
+node/3641710571,Mission,Middle
+node/3643126195,Japantown,Lower
+node/3648092326,Sunset/Parkside,Middle
+node/3648490271,Japantown,Lower
+node/3648549615,Japantown,Lower
+node/3648551975,Japantown,Lower
+node/3648576377,Japantown,Lower
+node/3648686273,Japantown,Lower
+node/3648686275,Japantown,Lower
+node/3658311027,Sunset/Parkside,Middle
+node/3660306838,Mission,Middle
+node/3660306838,Japantown,Lower
+node/3663976016,Mission,Middle
+node/3663976017,Mission,Middle
+node/3664707819,Mission,Middle
+node/3666337500,Mission Bay,Higher
+node/3666754521,Mission,Middle
+node/3674278789,Sunset/Parkside,Middle
+node/3675574681,Japantown,Lower
+node/3677063192,Sunset/Parkside,Middle
+node/3679639684,Sunset/Parkside,Middle
+node/3684500782,Mission,Middle
+node/3684501124,Mission,Middle
+node/3686447508,Sunset/Parkside,Middle
+node/3686447516,Sunset/Parkside,Middle
+node/3686447521,Sunset/Parkside,Middle
+node/3686450925,Sunset/Parkside,Middle
+node/3686450976,Sunset/Parkside,Middle
+node/3688683632,Sunset/Parkside,Middle
+node/3688683635,Sunset/Parkside,Middle
+node/3688683731,Sunset/Parkside,Middle
+node/3688683826,Sunset/Parkside,Middle
+node/3699162136,Sunset/Parkside,Middle
+node/3699162139,Sunset/Parkside,Middle
+node/3699162140,Sunset/Parkside,Middle
+node/3699162141,Sunset/Parkside,Middle
+node/3699162436,Sunset/Parkside,Middle
+node/3699163029,Sunset/Parkside,Middle
+node/3740699568,Mission,Middle
+node/3740699570,Mission,Middle
+node/3740699571,Mission,Middle
+node/3740699577,Mission,Middle
+node/3740701646,Mission,Middle
+node/3740701753,Mission,Middle
+node/3764721990,Haight Ashbury,Higher
+node/3781683167,Sunset/Parkside,Middle
+node/3781718457,Sunset/Parkside,Middle
+node/3781718464,Sunset/Parkside,Middle
+node/3781718467,Sunset/Parkside,Middle
+node/3781718469,Sunset/Parkside,Middle
+node/3781718470,Sunset/Parkside,Middle
+node/3781718568,Sunset/Parkside,Middle
+node/3781718569,Sunset/Parkside,Middle
+node/3781718957,Sunset/Parkside,Middle
+node/3781738644,Sunset/Parkside,Middle
+node/3788437471,Haight Ashbury,Higher
+node/3789688057,Mission,Middle
+node/3789688057,Mission Bay,Higher
+node/3790822659,Haight Ashbury,Higher
+node/3790822660,Haight Ashbury,Higher
+node/3790822661,Haight Ashbury,Higher
+node/3790822662,Haight Ashbury,Higher
+node/3790822663,Haight Ashbury,Higher
+node/3790822672,Haight Ashbury,Higher
+node/3790822673,Haight Ashbury,Higher
+node/3790822674,Haight Ashbury,Higher
+node/3790822675,Haight Ashbury,Higher
+node/3790822678,Haight Ashbury,Higher
+node/3790822863,Haight Ashbury,Higher
+node/3790822864,Haight Ashbury,Higher
+node/3790823060,Haight Ashbury,Higher
+node/3790823457,Haight Ashbury,Higher
+node/3790868380,Haight Ashbury,Higher
+node/3799971066,Mission,Middle
+node/3799971168,Mission,Middle
+node/3801395452,Haight Ashbury,Higher
+node/3801395644,Haight Ashbury,Higher
+node/3801395648,Haight Ashbury,Higher
+node/3801395649,Haight Ashbury,Higher
+node/3801395650,Haight Ashbury,Higher
+node/3801395695,Haight Ashbury,Higher
+node/3801395699,Haight Ashbury,Higher
+node/3801408965,Haight Ashbury,Higher
+node/3801412025,Haight Ashbury,Higher
+node/3801412028,Haight Ashbury,Higher
+node/3801412030,Haight Ashbury,Higher
+node/3801415657,Haight Ashbury,Higher
+node/3808454917,Japantown,Lower
+node/3808454918,Japantown,Lower
+node/3811445840,Mission,Middle
+node/3811469214,Mission,Middle
+node/3811475327,Mission,Middle
+node/3814157557,Mission,Middle
+node/3840285162,Bayview Hunters Point,Lower
+node/3840285258,Bayview Hunters Point,Lower
+node/3840285259,Bayview Hunters Point,Lower
+node/3850073315,Mission,Middle
+node/3850073315,Mission Bay,Higher
+node/3853102316,Mission,Middle
+node/3853102316,Haight Ashbury,Higher
+node/3853311604,Mission,Middle
+node/3853311604,Haight Ashbury,Higher
+node/3853311616,Mission,Middle
+node/3853311616,Haight Ashbury,Higher
+node/3853311617,Mission,Middle
+node/3853311617,Haight Ashbury,Higher
+node/3855454683,Mission,Middle
+node/3855454683,Mission Bay,Higher
+node/3857827557,Mission,Middle
+node/3860199105,Sunset/Parkside,Middle
+node/3860321518,Sunset/Parkside,Middle
+node/3864557016,Haight Ashbury,Higher
+node/3873879797,Mission,Middle
+node/3873879798,Mission,Middle
+node/3873879799,Mission,Middle
+node/3873879804,Mission,Middle
+node/3875122060,Japantown,Lower
+node/3875122062,Japantown,Lower
+node/3881392634,Bayview Hunters Point,Lower
+node/3881392634,Mission,Middle
+node/3881392635,Mission,Middle
+node/3881440383,Mission,Middle
+node/3881440384,Mission,Middle
+node/3881440384,Haight Ashbury,Higher
+node/3883601143,Mission,Middle
+node/3883601143,Haight Ashbury,Higher
+node/3883822524,Mission,Middle
+node/3890789571,Mission,Middle
+node/3899202702,Haight Ashbury,Higher
+node/3899202707,Haight Ashbury,Higher
+node/3903390509,Mission,Middle
+node/3903390511,Mission,Middle
+node/3931486658,Haight Ashbury,Higher
+node/3931486658,Japantown,Lower
+node/3931486659,Haight Ashbury,Higher
+node/3942453842,Mission,Middle
+node/3962599710,Mission,Middle
+node/3963395350,Mission,Middle
+node/3963414895,Mission,Middle
+node/3963416891,Mission,Middle
+node/3963422960,Mission,Middle
+node/3965100744,Mission,Middle
+node/3965731542,Japantown,Lower
+node/3993039683,Sunset/Parkside,Middle
+node/3993039684,Sunset/Parkside,Middle
+node/3993039685,Sunset/Parkside,Middle
+node/3993039686,Sunset/Parkside,Middle
+node/3993039687,Sunset/Parkside,Middle
+node/3993039688,Sunset/Parkside,Middle
+node/3993039690,Sunset/Parkside,Middle
+node/3993039692,Sunset/Parkside,Middle
+node/3993039693,Sunset/Parkside,Middle
+node/3996578777,Sunset/Parkside,Middle
+node/3996578780,Sunset/Parkside,Middle
+node/3996613640,Sunset/Parkside,Middle
+node/3998720681,Mission,Middle
+node/3998720681,Mission Bay,Higher
+node/3999212622,Mission,Middle
+node/3999212622,Mission Bay,Higher
+node/3999212623,Mission,Middle
+node/3999212623,Mission Bay,Higher
+node/4003389594,Mission,Middle
+node/4004780445,Japantown,Lower
+node/4004801643,Japantown,Lower
+node/4004801813,Japantown,Lower
+node/4004802369,Japantown,Lower
+node/4004802370,Japantown,Lower
+node/4004802371,Japantown,Lower
+node/4004802372,Japantown,Lower
+node/4004802466,Japantown,Lower
+node/4004977092,Mission,Middle
+node/4004977094,Mission,Middle
+node/4004977096,Mission,Middle
+node/4004977098,Mission,Middle
+node/4004988133,Mission,Middle
+node/4010350383,Mission,Middle
+node/4010350383,Haight Ashbury,Higher
+node/4010355532,Mission,Middle
+node/4010358883,Haight Ashbury,Higher
+node/4010366889,Mission,Middle
+node/4010474898,Sunset/Parkside,Middle
+node/4010486414,Sunset/Parkside,Middle
+node/4010545116,Sunset/Parkside,Middle
+node/4015100318,Sunset/Parkside,Middle
+node/4015100320,Sunset/Parkside,Middle
+node/4015710055,Sunset/Parkside,Middle
+node/4017234489,Sunset/Parkside,Middle
+node/4017234495,Sunset/Parkside,Middle
+node/4017234497,Sunset/Parkside,Middle
+node/4017234498,Sunset/Parkside,Middle
+node/4017234499,Sunset/Parkside,Middle
+node/4017234500,Sunset/Parkside,Middle
+node/4017234502,Sunset/Parkside,Middle
+node/4017234503,Sunset/Parkside,Middle
+node/4017234506,Sunset/Parkside,Middle
+node/4017234507,Sunset/Parkside,Middle
+node/4017234590,Sunset/Parkside,Middle
+node/4017234594,Sunset/Parkside,Middle
+node/4017234689,Sunset/Parkside,Middle
+node/4017234697,Sunset/Parkside,Middle
+node/4017234699,Sunset/Parkside,Middle
+node/4017234701,Sunset/Parkside,Middle
+node/4017234789,Sunset/Parkside,Middle
+node/4017234791,Sunset/Parkside,Middle
+node/4017234793,Sunset/Parkside,Middle
+node/4017234794,Sunset/Parkside,Middle
+node/4017234895,Sunset/Parkside,Middle
+node/4017234898,Sunset/Parkside,Middle
+node/4017234899,Sunset/Parkside,Middle
+node/4017234901,Sunset/Parkside,Middle
+node/4017235289,Sunset/Parkside,Middle
+node/4018792591,Sunset/Parkside,Middle
+node/4018792592,Sunset/Parkside,Middle
+node/4018792593,Sunset/Parkside,Middle
+node/4018792596,Sunset/Parkside,Middle
+node/4018792598,Sunset/Parkside,Middle
+node/4018792599,Sunset/Parkside,Middle
+node/4018792600,Sunset/Parkside,Middle
+node/4018792601,Sunset/Parkside,Middle
+node/4018792602,Sunset/Parkside,Middle
+node/4018792603,Sunset/Parkside,Middle
+node/4018792607,Sunset/Parkside,Middle
+node/4018792608,Sunset/Parkside,Middle
+node/4018792609,Sunset/Parkside,Middle
+node/4018792610,Sunset/Parkside,Middle
+node/4018792611,Sunset/Parkside,Middle
+node/4018792614,Sunset/Parkside,Middle
+node/4018792616,Sunset/Parkside,Middle
+node/4018792617,Sunset/Parkside,Middle
+node/4018792691,Sunset/Parkside,Middle
+node/4018792695,Sunset/Parkside,Middle
+node/4018792701,Sunset/Parkside,Middle
+node/4018792706,Sunset/Parkside,Middle
+node/4018792707,Sunset/Parkside,Middle
+node/4018792713,Sunset/Parkside,Middle
+node/4018792714,Sunset/Parkside,Middle
+node/4018792716,Sunset/Parkside,Middle
+node/4018792717,Sunset/Parkside,Middle
+node/4018792796,Sunset/Parkside,Middle
+node/4018792797,Sunset/Parkside,Middle
+node/4018792798,Sunset/Parkside,Middle
+node/4018792889,Sunset/Parkside,Middle
+node/4018792891,Sunset/Parkside,Middle
+node/4020353440,Haight Ashbury,Higher
+node/4022663818,Japantown,Lower
+node/4022663819,Japantown,Lower
+node/4022663820,Japantown,Lower
+node/4022663821,Japantown,Lower
+node/4022671471,Japantown,Lower
+node/4022671472,Japantown,Lower
+node/4022689968,Japantown,Lower
+node/4022689972,Japantown,Lower
+node/4022691832,Japantown,Lower
+node/4022712097,Mission,Middle
+node/4022712098,Mission,Middle
+node/4022712099,Mission,Middle
+node/4024246508,Japantown,Lower
+node/4024246509,Japantown,Lower
+node/4030143560,Mission,Middle
+node/4030511513,Haight Ashbury,Higher
+node/4030511698,Haight Ashbury,Higher
+node/4030525826,Mission,Middle
+node/4030525826,Haight Ashbury,Higher
+node/4030525941,Mission,Middle
+node/4030525941,Haight Ashbury,Higher
+node/4030526213,Mission,Middle
+node/4030526213,Haight Ashbury,Higher
+node/4030526218,Mission,Middle
+node/4030526218,Haight Ashbury,Higher
+node/4030526512,Mission,Middle
+node/4030526512,Haight Ashbury,Higher
+node/4030552489,Haight Ashbury,Higher
+node/4030622426,Mission,Middle
+node/4030622426,Haight Ashbury,Higher
+node/4033949292,Mission,Middle
+node/4033949293,Mission,Middle
+node/4037728126,Mission,Middle
+node/4037728128,Mission,Middle
+node/4037744280,Mission,Middle
+node/4039697295,Japantown,Lower
+node/4042516789,Sunset/Parkside,Middle
+node/4047373295,Mission,Middle
+node/4047373296,Mission,Middle
+node/4047373297,Mission,Middle
+node/4055719117,Mission,Middle
+node/4057348979,Bayview Hunters Point,Lower
+node/4057348979,Mission Bay,Higher
+node/4057348982,Bayview Hunters Point,Lower
+node/4057348982,Mission Bay,Higher
+node/4060877701,Mission,Middle
+node/4060877703,Mission,Middle
+node/4060877704,Mission,Middle
+node/4062437468,Mission,Middle
+node/4062451565,Mission,Middle
+node/4062451566,Mission,Middle
+node/4064534748,Japantown,Lower
+node/4064534753,Japantown,Lower
+node/4069228330,Mission,Middle
+node/4069431997,Sunset/Parkside,Middle
+node/4069432001,Sunset/Parkside,Middle
+node/4069432006,Sunset/Parkside,Middle
+node/4069432008,Sunset/Parkside,Middle
+node/4069432009,Sunset/Parkside,Middle
+node/4069432014,Sunset/Parkside,Middle
+node/4069432015,Sunset/Parkside,Middle
+node/4069432018,Sunset/Parkside,Middle
+node/4069447296,Sunset/Parkside,Middle
+node/4069447305,Sunset/Parkside,Middle
+node/4069447307,Sunset/Parkside,Middle
+node/4069447590,Sunset/Parkside,Middle
+node/4069462417,Sunset/Parkside,Middle
+node/4069462418,Sunset/Parkside,Middle
+node/4071080489,Sunset/Parkside,Middle
+node/4071080689,Sunset/Parkside,Middle
+node/4071080690,Sunset/Parkside,Middle
+node/4071080692,Sunset/Parkside,Middle
+node/4071080693,Sunset/Parkside,Middle
+node/4071080789,Sunset/Parkside,Middle
+node/4071080794,Sunset/Parkside,Middle
+node/4071080797,Sunset/Parkside,Middle
+node/4071080889,Sunset/Parkside,Middle
+node/4079289934,Mission,Middle
+node/4081556948,Mission,Middle
+node/4081574783,Mission,Middle
+node/4085027890,Japantown,Lower
+node/4093612289,Sunset/Parkside,Middle
+node/4093612589,Sunset/Parkside,Middle
+node/4093612691,Sunset/Parkside,Middle
+node/4093612694,Sunset/Parkside,Middle
+node/4093612991,Sunset/Parkside,Middle
+node/4096311069,Haight Ashbury,Higher
+node/4098701612,Mission,Middle
+node/4098701615,Mission,Middle
+node/4098701616,Mission,Middle
+node/4103856287,Bayview Hunters Point,Lower
+node/4103856288,Bayview Hunters Point,Lower
+node/4103856290,Bayview Hunters Point,Lower
+node/4103856293,Bayview Hunters Point,Lower
+node/4103856294,Bayview Hunters Point,Lower
+node/4104010881,Sunset/Parkside,Middle
+node/4105632189,Sunset/Parkside,Middle
+node/4106578403,Mission,Middle
+node/4110696459,Haight Ashbury,Higher
+node/4110696459,Japantown,Lower
+node/4110696460,Haight Ashbury,Higher
+node/4110696460,Japantown,Lower
+node/4113404991,Mission,Middle
+node/4113423529,Mission,Middle
+node/4113423531,Mission,Middle
+node/4113423532,Mission,Middle
+node/4113435900,Mission,Middle
+node/4113444790,Mission,Middle
+node/4113464697,Mission,Middle
+node/4114603089,Mission,Middle
+node/4117252907,Mission,Middle
+node/4117313924,Bayview Hunters Point,Lower
+node/4117313924,Mission,Middle
+node/4117790309,Mission,Middle
+node/4117790310,Mission,Middle
+node/4117790311,Mission,Middle
+node/4117790313,Mission,Middle
+node/4117790314,Mission,Middle
+node/4117790318,Mission,Middle
+node/4118223692,Mission Bay,Higher
+node/4134420490,Mission,Middle
+node/4134420491,Mission,Middle
+node/4134420493,Mission,Middle
+node/4139816206,Mission,Middle
+node/4139840846,Mission,Middle
+node/4139840847,Mission,Middle
+node/4139840848,Mission,Middle
+node/4139840849,Mission,Middle
+node/4139840855,Mission,Middle
+node/4139840856,Mission,Middle
+node/4139840857,Mission,Middle
+node/4141772172,Haight Ashbury,Higher
+node/4144742094,Sunset/Parkside,Middle
+node/4144742095,Sunset/Parkside,Middle
+node/4145229890,Mission,Middle
+node/4145232989,Mission,Middle
+node/4145235189,Mission,Middle
+node/4148116889,Mission,Middle
+node/4151902171,Mission,Middle
+node/4152362124,Bayview Hunters Point,Lower
+node/4152507432,Sunset/Parkside,Middle
+node/4163679776,Japantown,Lower
+node/4163759705,Mission,Middle
+node/4163772425,Mission,Middle
+node/4170222465,Mission,Middle
+node/4173566690,Mission,Middle
+node/4173605590,Mission,Middle
+node/4186461905,Mission,Middle
+node/4199676096,Sunset/Parkside,Middle
+node/4199676097,Sunset/Parkside,Middle
+node/4199678798,Sunset/Parkside,Middle
+node/4199679197,Sunset/Parkside,Middle
+node/4199679200,Sunset/Parkside,Middle
+node/4199679201,Sunset/Parkside,Middle
+node/4199679207,Sunset/Parkside,Middle
+node/4199679895,Sunset/Parkside,Middle
+node/4199680598,Sunset/Parkside,Middle
+node/4199680603,Sunset/Parkside,Middle
+node/4199690891,Sunset/Parkside,Middle
+node/4199690892,Sunset/Parkside,Middle
+node/4199690893,Sunset/Parkside,Middle
+node/4199694789,Sunset/Parkside,Middle
+node/4199804592,Sunset/Parkside,Middle
+node/4199804593,Sunset/Parkside,Middle
+node/4199804594,Sunset/Parkside,Middle
+node/4199804595,Sunset/Parkside,Middle
+node/4199804596,Sunset/Parkside,Middle
+node/4199804694,Sunset/Parkside,Middle
+node/4199804695,Sunset/Parkside,Middle
+node/4199808891,Sunset/Parkside,Middle
+node/4199808892,Sunset/Parkside,Middle
+node/4199813790,Sunset/Parkside,Middle
+node/4199813791,Sunset/Parkside,Middle
+node/4199813792,Sunset/Parkside,Middle
+node/4199813893,Sunset/Parkside,Middle
+node/4199813894,Sunset/Parkside,Middle
+node/4199813991,Sunset/Parkside,Middle
+node/4199814289,Sunset/Parkside,Middle
+node/4199814290,Sunset/Parkside,Middle
+node/4199814489,Sunset/Parkside,Middle
+node/4202554089,Mission,Middle
+node/4203650989,Haight Ashbury,Higher
+node/4214319494,Sunset/Parkside,Middle
+node/4214319496,Sunset/Parkside,Middle
+node/4214319695,Sunset/Parkside,Middle
+node/4214320091,Sunset/Parkside,Middle
+node/4214320092,Sunset/Parkside,Middle
+node/4214320093,Sunset/Parkside,Middle
+node/4214320094,Sunset/Parkside,Middle
+node/4214320095,Sunset/Parkside,Middle
+node/4214332091,Sunset/Parkside,Middle
+node/4214350590,Sunset/Parkside,Middle
+node/4214359589,Sunset/Parkside,Middle
+node/4214359591,Sunset/Parkside,Middle
+node/4214359692,Sunset/Parkside,Middle
+node/4214360089,Sunset/Parkside,Middle
+node/4214360189,Sunset/Parkside,Middle
+node/4218361464,Mission,Middle
+node/4218361465,Mission,Middle
+node/4218366860,Mission,Middle
+node/4226101094,Japantown,Lower
+node/4226101500,Japantown,Lower
+node/4238376194,Sunset/Parkside,Middle
+node/4238376393,Sunset/Parkside,Middle
+node/4238376594,Sunset/Parkside,Middle
+node/4238377191,Sunset/Parkside,Middle
+node/4238377192,Sunset/Parkside,Middle
+node/4238377193,Sunset/Parkside,Middle
+node/4238377197,Sunset/Parkside,Middle
+node/4238377200,Sunset/Parkside,Middle
+node/4238377293,Sunset/Parkside,Middle
+node/4238377294,Sunset/Parkside,Middle
+node/4238458993,Sunset/Parkside,Middle
+node/4238459290,Sunset/Parkside,Middle
+node/4238459292,Sunset/Parkside,Middle
+node/4238459390,Sunset/Parkside,Middle
+node/4238459391,Sunset/Parkside,Middle
+node/4238459492,Sunset/Parkside,Middle
+node/4238459892,Sunset/Parkside,Middle
+node/4238465489,Sunset/Parkside,Middle
+node/4241957140,Mission,Middle
+node/4241975784,Mission,Middle
+node/4241975787,Mission,Middle
+node/4242960099,Bayview Hunters Point,Lower
+node/4242961501,Bayview Hunters Point,Lower
+node/4242979789,Bayview Hunters Point,Lower
+node/4242979789,Mission,Middle
+node/4247487817,Mission,Middle
+node/4247487817,Mission Bay,Higher
+node/4248529091,Bayview Hunters Point,Lower
+node/4248529091,Mission,Middle
+node/4248537989,Bayview Hunters Point,Lower
+node/4248537989,Mission,Middle
+node/4248539489,Bayview Hunters Point,Lower
+node/4248539489,Mission,Middle
+node/4256898604,Mission,Middle
+node/4256898604,Mission Bay,Higher
+node/4259001279,Mission,Middle
+node/4259744393,Mission,Middle
+node/4259744393,Haight Ashbury,Higher
+node/4259746695,Japantown,Lower
+node/4261666983,Mission,Middle
+node/4261666984,Mission,Middle
+node/4261675282,Mission,Middle
+node/4307902891,Mission,Middle
+node/4318582010,Mission,Middle
+node/4322166628,Mission,Middle
+node/4322166629,Mission,Middle
+node/4322166630,Mission,Middle
+node/4322166640,Mission,Middle
+node/4322169615,Mission,Middle
+node/4340535594,Mission,Middle
+node/4340535594,Haight Ashbury,Higher
+node/4346343442,Haight Ashbury,Higher
+node/4346681490,Haight Ashbury,Higher
+node/4348866889,Haight Ashbury,Higher
+node/4348866891,Haight Ashbury,Higher
+node/4355924713,Mission Bay,Higher
+node/4359100593,Haight Ashbury,Higher
+node/4359135096,Haight Ashbury,Higher
+node/4359135097,Haight Ashbury,Higher
+node/4359144390,Haight Ashbury,Higher
+node/4360378092,Mission,Middle
+node/4360378092,Mission Bay,Higher
+node/4362241792,Mission,Middle
+node/4370285796,Mission,Middle
+node/4370386790,Mission,Middle
+node/4370393191,Mission,Middle
+node/4382553090,Sunset/Parkside,Middle
+node/4399816193,Mission,Middle
+node/4400574570,Sunset/Parkside,Middle
+node/4412503666,Mission,Middle
+node/4412503666,Haight Ashbury,Higher
+node/4414004589,Japantown,Lower
+node/4418113995,Haight Ashbury,Higher
+node/4418114001,Haight Ashbury,Higher
+node/4418114003,Haight Ashbury,Higher
+node/4427070775,Sunset/Parkside,Middle
+node/4427070783,Sunset/Parkside,Middle
+node/4427070784,Sunset/Parkside,Middle
+node/4427070787,Sunset/Parkside,Middle
+node/4427071291,Sunset/Parkside,Middle
+node/4427071292,Sunset/Parkside,Middle
+node/4427071293,Sunset/Parkside,Middle
+node/4427071294,Sunset/Parkside,Middle
+node/4427122526,Sunset/Parkside,Middle
+node/4427122528,Sunset/Parkside,Middle
+node/4427293491,Mission,Middle
+node/4427293491,Haight Ashbury,Higher
+node/4427294192,Haight Ashbury,Higher
+node/4427294193,Haight Ashbury,Higher
+node/4427294194,Haight Ashbury,Higher
+node/4427804792,Mission,Middle
+node/4427804792,Mission Bay,Higher
+node/4427822496,Mission,Middle
+node/4427822496,Mission Bay,Higher
+node/4427827891,Mission,Middle
+node/4427827891,Mission Bay,Higher
+node/4427827894,Mission,Middle
+node/4427827894,Mission Bay,Higher
+node/4427847389,Mission,Middle
+node/4427847389,Mission Bay,Higher
+node/4436673798,Japantown,Lower
+node/4445006838,Haight Ashbury,Higher
+node/4450963689,Haight Ashbury,Higher
+node/4467802664,Mission,Middle
+node/4471102185,Mission,Middle
+node/4471102185,Haight Ashbury,Higher
+node/4482438889,Mission,Middle
+node/4485990000,Mission,Middle
+node/4485990002,Mission,Middle
+node/4485990003,Mission,Middle
+node/4485990005,Mission,Middle
+node/4491444358,Mission,Middle
+node/4491444358,Mission Bay,Higher
+node/4516187333,Mission,Middle
+node/4516193228,Mission,Middle
+node/4521469191,Mission Bay,Higher
+node/4521494871,Bayview Hunters Point,Lower
+node/4521494871,Mission Bay,Higher
+node/4527812889,Japantown,Lower
+node/4531532689,Japantown,Lower
+node/4533347391,Mission,Middle
+node/4533350891,Mission,Middle
+node/4534868891,Mission,Middle
+node/4534900789,Mission,Middle
+node/4538982447,Mission,Middle
+node/4545904354,Haight Ashbury,Higher
+node/4548624453,Haight Ashbury,Higher
+node/4548624457,Haight Ashbury,Higher
+node/4548624461,Haight Ashbury,Higher
+node/4548624471,Haight Ashbury,Higher
+node/4548624475,Haight Ashbury,Higher
+node/4548639068,Haight Ashbury,Higher
+node/4548639068,Japantown,Lower
+node/4548639086,Haight Ashbury,Higher
+node/4548639086,Japantown,Lower
+node/4548821686,Mission,Middle
+node/4548821700,Mission,Middle
+node/4548821701,Mission,Middle
+node/4548821703,Mission,Middle
+node/4548821704,Mission,Middle
+node/4548821705,Mission,Middle
+node/4548821706,Mission,Middle
+node/4548821707,Mission,Middle
+node/4548821709,Mission,Middle
+node/4548821890,Mission,Middle
+node/4548821892,Mission,Middle
+node/4550076307,Haight Ashbury,Higher
+node/4550076307,Japantown,Lower
+node/4550076308,Haight Ashbury,Higher
+node/4550076308,Japantown,Lower
+node/4550110115,Japantown,Lower
+node/4556360352,Japantown,Lower
+node/4556442969,Japantown,Lower
+node/4556453103,Japantown,Lower
+node/4558023336,Japantown,Lower
+node/4558023340,Japantown,Lower
+node/4558023344,Japantown,Lower
+node/4567543892,Mission,Middle
+node/4567543892,Japantown,Lower
+node/4567603390,Mission,Middle
+node/4567603390,Japantown,Lower
+node/4574293103,Mission,Middle
+node/4574293103,Mission Bay,Higher
+node/4584904090,Japantown,Lower
+node/4586414699,Mission,Middle
+node/4592848043,Mission,Middle
+node/4592848043,Mission Bay,Higher
+node/4593719022,Sunset/Parkside,Middle
+node/4593719023,Sunset/Parkside,Middle
+node/4593719024,Sunset/Parkside,Middle
+node/4593719026,Sunset/Parkside,Middle
+node/4596850006,Japantown,Lower
+node/4611607389,Mission Bay,Higher
+node/4611731078,Mission,Middle
+node/4611746128,Mission,Middle
+node/4613711105,Mission,Middle
+node/4613790814,Mission,Middle
+node/4613804468,Mission Bay,Higher
+node/4613945720,Mission,Middle
+node/4615943016,Japantown,Lower
+node/4616053224,Japantown,Lower
+node/4617943850,Mission,Middle
+node/4617963806,Mission,Middle
+node/4618068069,Haight Ashbury,Higher
+node/4618078389,Haight Ashbury,Higher
+node/4620055897,Mission,Middle
+node/4620055897,Mission Bay,Higher
+node/4620055898,Mission,Middle
+node/4620055898,Mission Bay,Higher
+node/4620108621,Mission,Middle
+node/4620325598,Mission,Middle
+node/4620325598,Mission Bay,Higher
+node/4620325599,Mission,Middle
+node/4620325599,Mission Bay,Higher
+node/4624048552,Mission,Middle
+node/4624048552,Japantown,Lower
+node/4624048568,Mission,Middle
+node/4624048568,Japantown,Lower
+node/4624481516,Mission,Middle
+node/4624952481,Mission,Middle
+node/4624952481,Japantown,Lower
+node/4625008808,Mission,Middle
+node/4625008808,Japantown,Lower
+node/4625090829,Mission,Middle
+node/4625105134,Mission,Middle
+node/4625105134,Japantown,Lower
+node/4625105136,Mission,Middle
+node/4625105136,Japantown,Lower
+node/4625139243,Mission,Middle
+node/4625139244,Mission,Middle
+node/4625158483,Mission,Middle
+node/4625158483,Japantown,Lower
+node/4625185531,Japantown,Lower
+node/4625185533,Japantown,Lower
+node/4625200056,Japantown,Lower
+node/4625221570,Japantown,Lower
+node/4625221571,Japantown,Lower
+node/4625221572,Mission,Middle
+node/4625221573,Mission,Middle
+node/4625221574,Mission,Middle
+node/4625221576,Mission,Middle
+node/4625221577,Mission,Middle
+node/4625289654,Mission,Middle
+node/4625289654,Mission Bay,Higher
+node/4625289657,Mission,Middle
+node/4625289657,Mission Bay,Higher
+node/4625289658,Mission,Middle
+node/4625289658,Mission Bay,Higher
+node/4628105878,Mission,Middle
+node/4628105878,Mission Bay,Higher
+node/4628137433,Mission,Middle
+node/4628137433,Mission Bay,Higher
+node/4628177738,Mission,Middle
+node/4628177738,Haight Ashbury,Higher
+node/4628441088,Japantown,Lower
+node/4628442789,Japantown,Lower
+node/4628442791,Japantown,Lower
+node/4628442792,Japantown,Lower
+node/4628444734,Mission Bay,Higher
+node/4628460555,Japantown,Lower
+node/4628517639,Japantown,Lower
+node/4628526088,Japantown,Lower
+node/4628529933,Japantown,Lower
+node/4628546592,Japantown,Lower
+node/4628566830,Japantown,Lower
+node/4628585777,Japantown,Lower
+node/4628592614,Japantown,Lower
+node/4628615917,Japantown,Lower
+node/4628704335,Japantown,Lower
+node/4628727577,Japantown,Lower
+node/4628752984,Mission,Middle
+node/4628752984,Mission Bay,Higher
+node/4631753994,Japantown,Lower
+node/4631753995,Japantown,Lower
+node/4631771784,Mission,Middle
+node/4631784859,Mission,Middle
+node/4636929851,Japantown,Lower
+node/4637090531,Japantown,Lower
+node/4637137818,Japantown,Lower
+node/4637161719,Mission Bay,Higher
+node/4637180035,Mission Bay,Higher
+node/4637180289,Japantown,Lower
+node/4659839437,Mission,Middle
+node/4661543003,Mission,Middle
+node/4661543003,Mission Bay,Higher
+node/4669461314,Sunset/Parkside,Middle
+node/4672885712,Bayview Hunters Point,Lower
+node/4672885712,Mission,Middle
+node/4693634740,Mission Bay,Higher
+node/4693634741,Mission Bay,Higher
+node/4726831412,Mission,Middle
+node/4742267441,Mission,Middle
+node/4742267441,Mission Bay,Higher
+node/4749176144,Mission,Middle
+node/4750382901,Bayview Hunters Point,Lower
+node/4750382901,Mission Bay,Higher
+node/4765984643,Japantown,Lower
+node/4782278492,Mission,Middle
+node/4809154326,Bayview Hunters Point,Lower
+node/4809154327,Bayview Hunters Point,Lower
+node/4809154328,Bayview Hunters Point,Lower
+node/4818955821,Mission,Middle
+node/4818959521,Japantown,Lower
+node/4828619088,Haight Ashbury,Higher
+node/4839249779,Haight Ashbury,Higher
+node/4839249779,Japantown,Lower
+node/4839249780,Haight Ashbury,Higher
+node/4839249789,Haight Ashbury,Higher
+node/4839249796,Haight Ashbury,Higher
+node/4839249798,Haight Ashbury,Higher
+node/4839249800,Haight Ashbury,Higher
+node/4840631551,Mission,Middle
+node/4840631551,Haight Ashbury,Higher
+node/4840631552,Haight Ashbury,Higher
+node/4840631552,Japantown,Lower
+node/4840631555,Japantown,Lower
+node/4852448016,Haight Ashbury,Higher
+node/4852448019,Haight Ashbury,Higher
+node/4852448020,Haight Ashbury,Higher
+node/4852448422,Haight Ashbury,Higher
+node/4852550731,Haight Ashbury,Higher
+node/4852619953,Japantown,Lower
+node/4852639434,Japantown,Lower
+node/4852639435,Japantown,Lower
+node/4852719621,Japantown,Lower
+node/4852810421,Bayview Hunters Point,Lower
+node/4862634093,Mission Bay,Higher
+node/4865456121,Mission,Middle
+node/4867444799,Sunset/Parkside,Middle
+node/4881044837,Mission,Middle
+node/4881044837,Haight Ashbury,Higher
+node/4884299090,Mission,Middle
+node/4884299090,Mission Bay,Higher
+node/4884686006,Mission,Middle
+node/4884686006,Haight Ashbury,Higher
+node/4894498742,Mission,Middle
+node/4894498742,Haight Ashbury,Higher
+node/4894498743,Mission,Middle
+node/4894498743,Haight Ashbury,Higher
+node/4894498744,Mission,Middle
+node/4894498744,Haight Ashbury,Higher
+node/4906748330,Mission,Middle
+node/4906756300,Mission,Middle
+node/4906760967,Mission,Middle
+node/4909832653,Mission,Middle
+node/4909880148,Mission,Middle
+node/4909881786,Mission,Middle
+node/4909893706,Mission,Middle
+node/4909904177,Mission,Middle
+node/4909934640,Mission,Middle
+node/4911533921,Mission,Middle
+node/4911579321,Japantown,Lower
+node/4925135942,Mission,Middle
+node/4925208321,Mission,Middle
+node/4925210021,Mission,Middle
+node/4925215288,Mission,Middle
+node/4927794705,Japantown,Lower
+node/4934813168,Bayview Hunters Point,Lower
+node/4934813168,Mission,Middle
+node/4934813428,Bayview Hunters Point,Lower
+node/4934813428,Mission,Middle
+node/4934823007,Mission,Middle
+node/4934827143,Mission,Middle
+node/4934844014,Mission,Middle
+node/4934847364,Mission,Middle
+node/4937360419,Mission,Middle
+node/4937362114,Mission,Middle
+node/4937368172,Mission,Middle
+node/4938877438,Mission,Middle
+node/4938877439,Mission,Middle
+node/4945060565,Mission,Middle
+node/4945079439,Mission,Middle
+node/4945079782,Mission,Middle
+node/4945080616,Mission,Middle
+node/4947649393,Bayview Hunters Point,Lower
+node/4947649393,Mission,Middle
+node/4947655358,Bayview Hunters Point,Lower
+node/4947655358,Mission,Middle
+node/4947854931,Bayview Hunters Point,Lower
+node/4947854931,Mission,Middle
+node/4947861135,Bayview Hunters Point,Lower
+node/4947861135,Mission,Middle
+node/4947875276,Bayview Hunters Point,Lower
+node/4947875276,Mission,Middle
+node/4949380456,Mission,Middle
+node/4951457181,Bayview Hunters Point,Lower
+node/4951457181,Mission,Middle
+node/4951863007,Bayview Hunters Point,Lower
+node/4957728833,Mission,Middle
+node/4972855024,Bayview Hunters Point,Lower
+node/4972855027,Bayview Hunters Point,Lower
+node/4972855028,Bayview Hunters Point,Lower
+node/4972855030,Bayview Hunters Point,Lower
+node/4972855034,Bayview Hunters Point,Lower
+node/4972855035,Bayview Hunters Point,Lower
+node/4987893178,Mission,Middle
+node/4987893178,Haight Ashbury,Higher
+node/4995403561,Bayview Hunters Point,Lower
+node/4995403562,Bayview Hunters Point,Lower
+node/5003690421,Haight Ashbury,Higher
+node/5008465322,Japantown,Lower
+node/5038595323,Sunset/Parkside,Middle
+node/5061094083,Sunset/Parkside,Middle
+node/5061128432,Sunset/Parkside,Middle
+node/5075740254,Sunset/Parkside,Middle
+node/5080508290,Mission,Middle
+node/5080508290,Haight Ashbury,Higher
+node/5087270301,Mission,Middle
+node/5087504022,Mission,Middle
+node/5087510721,Mission,Middle
+node/5087529121,Mission,Middle
+node/5087529121,Mission Bay,Higher
+node/5089298921,Mission,Middle
+node/5098140329,Haight Ashbury,Higher
+node/5104412625,Mission,Middle
+node/5140235344,Mission,Middle
+node/5140235344,Haight Ashbury,Higher
+node/5140235346,Mission,Middle
+node/5140235346,Haight Ashbury,Higher
+node/5174391353,Mission,Middle
+node/5174391353,Haight Ashbury,Higher
+node/5175557621,Mission,Middle
+node/5175561847,Mission,Middle
+node/5175561847,Haight Ashbury,Higher
+node/5180658247,Mission,Middle
+node/5180658247,Haight Ashbury,Higher
+node/5180870589,Mission,Middle
+node/5180870589,Haight Ashbury,Higher
+node/5180870595,Mission,Middle
+node/5180870595,Haight Ashbury,Higher
+node/5180870610,Mission,Middle
+node/5180870610,Haight Ashbury,Higher
+node/5180870611,Mission,Middle
+node/5180870611,Haight Ashbury,Higher
+node/5180870613,Mission,Middle
+node/5180870613,Haight Ashbury,Higher
+node/5180870616,Mission,Middle
+node/5180870616,Haight Ashbury,Higher
+node/5180870621,Mission,Middle
+node/5180870621,Haight Ashbury,Higher
+node/5182461987,Mission,Middle
+node/5182461987,Haight Ashbury,Higher
+node/5182462002,Mission,Middle
+node/5182462002,Haight Ashbury,Higher
+node/5182462005,Mission,Middle
+node/5182462005,Haight Ashbury,Higher
+node/5182462008,Mission,Middle
+node/5182462008,Haight Ashbury,Higher
+node/5222768492,Haight Ashbury,Higher
+node/5250557322,Mission,Middle
+node/5250557322,Haight Ashbury,Higher
+node/5258271522,Mission Bay,Higher
+node/5258711621,Mission Bay,Higher
+node/5264776821,Mission Bay,Higher
+node/5274208225,Mission,Middle
+node/5276019121,Mission Bay,Higher
+node/5276121818,Japantown,Lower
+node/5276126258,Japantown,Lower
+node/5276126259,Japantown,Lower
+node/5301492674,Japantown,Lower
+node/5305947463,Bayview Hunters Point,Lower
+node/5312617670,Japantown,Lower
+node/5312654321,Japantown,Lower
+node/5315167594,Japantown,Lower
+node/5315466469,Japantown,Lower
+node/5315466471,Japantown,Lower
+node/5315466472,Japantown,Lower
+node/5315466474,Japantown,Lower
+node/5315470262,Japantown,Lower
+node/5341932321,Haight Ashbury,Higher
+node/5352315989,Mission,Middle
+node/5352315989,Haight Ashbury,Higher
+node/5352315990,Mission,Middle
+node/5352315990,Haight Ashbury,Higher
+node/5376554067,Mission,Middle
+node/5376554067,Mission Bay,Higher
+node/5376562309,Mission,Middle
+node/5376562309,Mission Bay,Higher
+node/5408442627,Bayview Hunters Point,Lower
+node/5408971979,Japantown,Lower
+node/5427061023,Japantown,Lower
+node/5427073371,Mission,Middle
+node/5440825343,Mission,Middle
+node/5468101321,Japantown,Lower
+node/5485382230,Mission,Middle
+node/5487246108,Mission,Middle
+node/5487246108,Mission Bay,Higher
+node/5487246120,Mission,Middle
+node/5487246120,Mission Bay,Higher
+node/5487252321,Mission,Middle
+node/5487252321,Mission Bay,Higher
+node/5497161847,Mission,Middle
+node/5497219655,Mission,Middle
+node/5497219655,Haight Ashbury,Higher
+node/5500011542,Mission,Middle
+node/5500011543,Mission,Middle
+node/5502111334,Mission,Middle
+node/5502111334,Haight Ashbury,Higher
+node/5502320099,Haight Ashbury,Higher
+node/5506749326,Mission,Middle
+node/5506749326,Mission Bay,Higher
+node/5512661856,Mission Bay,Higher
+node/5529666646,Bayview Hunters Point,Lower
+node/5538797016,Mission Bay,Higher
+node/5538811227,Mission,Middle
+node/5538811227,Mission Bay,Higher
+node/5538811229,Mission,Middle
+node/5538811229,Mission Bay,Higher
+node/5538811234,Mission,Middle
+node/5538811234,Mission Bay,Higher
+node/5538811235,Mission,Middle
+node/5538811235,Mission Bay,Higher
+node/5538811238,Mission,Middle
+node/5538811238,Mission Bay,Higher
+node/5538811239,Mission,Middle
+node/5538811239,Mission Bay,Higher
+node/5538811245,Mission,Middle
+node/5538811245,Mission Bay,Higher
+node/5538811250,Mission,Middle
+node/5538811250,Mission Bay,Higher
+node/5538811251,Mission,Middle
+node/5538811251,Mission Bay,Higher
+node/5542586124,Mission,Middle
+node/5542586124,Japantown,Lower
+node/5544220946,Mission,Middle
+node/5555408498,Mission Bay,Higher
+node/5563009021,Mission,Middle
+node/5563009021,Mission Bay,Higher
+node/5577107331,Mission,Middle
+node/5577107331,Mission Bay,Higher
+node/5595070836,Mission,Middle
+node/5595230341,Mission,Middle
+node/5595230341,Mission Bay,Higher
+node/5595236177,Mission,Middle
+node/5595236177,Mission Bay,Higher
+node/5595241288,Mission Bay,Higher
+node/5595243383,Mission Bay,Higher
+node/5596090221,Mission,Middle
+node/5596090221,Japantown,Lower
+node/5596167495,Japantown,Lower
+node/5612872169,Mission,Middle
+node/5612872169,Mission Bay,Higher
+node/5613252829,Mission,Middle
+node/5616613780,Japantown,Lower
+node/5617965927,Japantown,Lower
+node/5617978242,Haight Ashbury,Higher
+node/5617993834,Sunset/Parkside,Middle
+node/5683190173,Mission,Middle
+node/5683190173,Mission Bay,Higher
+node/5699033523,Japantown,Lower
+node/5750119903,Japantown,Lower
+node/5754672328,Japantown,Lower
+node/5754673422,Haight Ashbury,Higher
+node/5762574353,Mission,Middle
+node/5791172854,Mission Bay,Higher
+node/5792800295,Bayview Hunters Point,Lower
+node/5814214073,Japantown,Lower
+node/5839056764,Mission,Middle
+node/5839056764,Mission Bay,Higher
+node/5839056765,Mission,Middle
+node/5839056765,Mission Bay,Higher
+node/5840881685,Haight Ashbury,Higher
+node/5876905609,Sunset/Parkside,Middle
+node/5876905610,Sunset/Parkside,Middle
+node/5876905613,Sunset/Parkside,Middle
+node/5876905615,Sunset/Parkside,Middle
+node/5893320826,Sunset/Parkside,Middle
+node/5893378705,Sunset/Parkside,Middle
+node/5893378707,Sunset/Parkside,Middle
+node/5893378709,Sunset/Parkside,Middle
+node/5893378712,Sunset/Parkside,Middle
+node/5893451556,Sunset/Parkside,Middle
+node/5893708244,Japantown,Lower
+node/5893708245,Japantown,Lower
+node/5895195934,Mission,Middle
+node/5895195934,Haight Ashbury,Higher
+node/5905646186,Haight Ashbury,Higher
+node/5907459285,Mission,Middle
+node/5908965989,Mission,Middle
+node/5908965989,Mission Bay,Higher
+node/5979649403,Bayview Hunters Point,Lower
+node/5981724023,Japantown,Lower
+node/5992714947,Mission,Middle
+node/5992714949,Mission,Middle
+node/5998482887,Mission,Middle
+node/5998482888,Mission,Middle
+node/5998503286,Mission,Middle
+node/6032494975,Mission,Middle
+node/6075310389,Mission,Middle
+node/6075310389,Mission Bay,Higher
+node/6116553050,Mission,Middle
+node/6124173112,Mission Bay,Higher
+node/6133660029,Mission Bay,Higher
+node/6133706543,Mission Bay,Higher
+node/6146447085,Mission Bay,Higher
+node/6167347390,Mission,Middle
+node/6167347391,Mission,Middle
+node/6167357459,Mission,Middle
+node/6169313183,Mission,Middle
+node/6171912807,Mission,Middle
+node/6177260823,Mission,Middle
+node/6177260825,Mission,Middle
+node/6182246915,Mission,Middle
+node/6182246915,Mission Bay,Higher
+node/6210959985,Japantown,Lower
+node/6217699234,Mission,Middle
+node/6217699234,Mission Bay,Higher
+node/6217699236,Mission,Middle
+node/6217699236,Mission Bay,Higher
+node/6217699237,Mission,Middle
+node/6217699237,Mission Bay,Higher
+node/6236532944,Mission,Middle
+node/6236532944,Haight Ashbury,Higher
+node/6242795781,Mission,Middle
+node/6252387627,Mission,Middle
+node/6252387627,Mission Bay,Higher
+node/6252387628,Mission,Middle
+node/6252387628,Mission Bay,Higher
+node/6269161786,Japantown,Lower
+node/6278267381,Mission Bay,Higher
+node/6314144257,Japantown,Lower
+node/6314144274,Japantown,Lower
+node/6314144275,Japantown,Lower
+node/6314144277,Japantown,Lower
+node/6314144278,Japantown,Lower
+node/6326615990,Sunset/Parkside,Middle
+node/6326615993,Mission,Middle
+node/6326633385,Mission,Middle
+node/6326633385,Mission Bay,Higher
+node/6326647686,Mission,Middle
+node/6356963871,Mission Bay,Higher
+node/6360940107,Bayview Hunters Point,Lower
+node/6379829464,Mission Bay,Higher
+node/6388316585,Mission,Middle
+node/6426948685,Mission,Middle
+node/6426948686,Mission,Middle
+node/6440030071,Haight Ashbury,Higher
+node/6441756875,Mission,Middle
+node/6441756876,Mission,Middle
+node/6441756877,Mission,Middle
+node/6447016759,Japantown,Lower
+node/6450218486,Japantown,Lower
+node/6453199911,Haight Ashbury,Higher
+node/6469314085,Mission Bay,Higher
+node/6471091408,Mission,Middle
+node/6471091411,Mission,Middle
+node/6471091412,Mission,Middle
+node/6471091413,Mission,Middle
+node/6471102056,Mission,Middle
+node/6471124707,Mission,Middle
+node/6471124708,Mission,Middle
+node/6471124714,Mission,Middle
+node/6471124717,Mission,Middle
+node/6471124720,Mission,Middle
+node/6471126669,Mission,Middle
+node/6471126670,Mission,Middle
+node/6471130006,Mission,Middle
+node/6471130007,Mission,Middle
+node/6471135918,Mission,Middle
+node/6471220333,Mission,Middle
+node/6471244274,Mission,Middle
+node/6471379575,Mission,Middle
+node/6475573038,Mission,Middle
+node/6475573038,Mission Bay,Higher
+node/6496135010,Mission,Middle
+node/6502703594,Sunset/Parkside,Middle
+node/6502703601,Sunset/Parkside,Middle
+node/6502718183,Sunset/Parkside,Middle
+node/6502744097,Sunset/Parkside,Middle
+node/6502744102,Sunset/Parkside,Middle
+node/6502744103,Sunset/Parkside,Middle
+node/6507263467,Mission,Middle
+node/6511795337,Mission,Middle
+node/6511795337,Mission Bay,Higher
+node/6554177495,Bayview Hunters Point,Lower
+node/6554177495,Mission,Middle
+node/6559229880,Japantown,Lower
+node/6559229881,Japantown,Lower
+node/6562061222,Haight Ashbury,Higher
+node/6564211813,Mission Bay,Higher
+node/6566538586,Mission,Middle
+node/6575781105,Haight Ashbury,Higher
+node/6591764787,Japantown,Lower
+node/6591801233,Japantown,Lower
+node/6595181749,Sunset/Parkside,Middle
+node/6595372474,Sunset/Parkside,Middle
+node/6595372478,Sunset/Parkside,Middle
+node/6595372484,Sunset/Parkside,Middle
+node/6598019730,Japantown,Lower
+node/6604031901,Mission,Middle
+node/6604085446,Mission,Middle
+node/6604085453,Mission,Middle
+node/6615153568,Sunset/Parkside,Middle
+node/6615153576,Sunset/Parkside,Middle
+node/6615237979,Mission,Middle
+node/6615295090,Sunset/Parkside,Middle
+node/6615295094,Sunset/Parkside,Middle
+node/6615295099,Sunset/Parkside,Middle
+node/6615295101,Sunset/Parkside,Middle
+node/6615295105,Sunset/Parkside,Middle
+node/6615295116,Sunset/Parkside,Middle
+node/6615295118,Sunset/Parkside,Middle
+node/6615295125,Sunset/Parkside,Middle
+node/6615295126,Sunset/Parkside,Middle
+node/6615295127,Sunset/Parkside,Middle
+node/6615295131,Sunset/Parkside,Middle
+node/6635786988,Sunset/Parkside,Middle
+node/6635786989,Sunset/Parkside,Middle
+node/6635786992,Sunset/Parkside,Middle
+node/6635786993,Sunset/Parkside,Middle
+node/6635786994,Sunset/Parkside,Middle
+node/6635786996,Sunset/Parkside,Middle
+node/6635786997,Sunset/Parkside,Middle
+node/6635786998,Sunset/Parkside,Middle
+node/6635786999,Sunset/Parkside,Middle
+node/6635787003,Sunset/Parkside,Middle
+node/6635787004,Sunset/Parkside,Middle
+node/6635787005,Sunset/Parkside,Middle
+node/6635787006,Sunset/Parkside,Middle
+node/6635787009,Sunset/Parkside,Middle
+node/6635787010,Sunset/Parkside,Middle
+node/6635787011,Sunset/Parkside,Middle
+node/6635787014,Sunset/Parkside,Middle
+node/6635787016,Sunset/Parkside,Middle
+node/6635787018,Sunset/Parkside,Middle
+node/6635787019,Sunset/Parkside,Middle
+node/6635787020,Sunset/Parkside,Middle
+node/6635787021,Sunset/Parkside,Middle
+node/6635787022,Sunset/Parkside,Middle
+node/6635835208,Sunset/Parkside,Middle
+node/6635835210,Sunset/Parkside,Middle
+node/6635835216,Sunset/Parkside,Middle
+node/6635835222,Sunset/Parkside,Middle
+node/6635835225,Sunset/Parkside,Middle
+node/6645406770,Haight Ashbury,Higher
+node/6645406774,Mission,Middle
+node/6645406774,Haight Ashbury,Higher
+node/6645406775,Mission,Middle
+node/6645406775,Haight Ashbury,Higher
+node/6655857285,Japantown,Lower
+node/6676014860,Haight Ashbury,Higher
+node/6685402585,Mission,Middle
+node/6685553185,Mission,Middle
+node/6685670585,Haight Ashbury,Higher
+node/6693595720,Japantown,Lower
+node/6693595725,Japantown,Lower
+node/6693646148,Japantown,Lower
+node/6693680666,Japantown,Lower
+node/6693680673,Japantown,Lower
+node/6698412416,Mission,Middle
+node/6698412416,Haight Ashbury,Higher
+node/6698447685,Mission,Middle
+node/6698447685,Haight Ashbury,Higher
+node/6699744287,Japantown,Lower
+node/6700788013,Haight Ashbury,Higher
+node/6700815974,Haight Ashbury,Higher
+node/6711302986,Haight Ashbury,Higher
+node/6720332254,Sunset/Parkside,Middle
+node/6720332255,Sunset/Parkside,Middle
+node/6726234885,Mission,Middle
+node/6734155320,Haight Ashbury,Higher
+node/6734171088,Japantown,Lower
+node/6734171686,Japantown,Lower
+node/6773263589,Japantown,Lower
+node/6773263590,Japantown,Lower
+node/6773263604,Japantown,Lower
+node/6773263609,Japantown,Lower
+node/6773294856,Japantown,Lower
+node/6773294862,Japantown,Lower
+node/6776034422,Haight Ashbury,Higher
+node/6779456786,Mission,Middle
+node/6780093104,Haight Ashbury,Higher
+node/6780093110,Haight Ashbury,Higher
+node/6780093112,Haight Ashbury,Higher
+node/6780093118,Haight Ashbury,Higher
+node/6780093119,Haight Ashbury,Higher
+node/6780093121,Haight Ashbury,Higher
+node/6780093130,Haight Ashbury,Higher
+node/6780109525,Haight Ashbury,Higher
+node/6780338385,Mission,Middle
+node/6780339985,Mission,Middle
+node/6796349421,Haight Ashbury,Higher
+node/6797808370,Haight Ashbury,Higher
+node/6797808374,Haight Ashbury,Higher
+node/6797808375,Haight Ashbury,Higher
+node/6797808377,Haight Ashbury,Higher
+node/6797808378,Haight Ashbury,Higher
+node/6797808379,Haight Ashbury,Higher
+node/6797853289,Haight Ashbury,Higher
+node/6797853290,Haight Ashbury,Higher
+node/6797853293,Haight Ashbury,Higher
+node/6797853295,Haight Ashbury,Higher
+node/6797853297,Haight Ashbury,Higher
+node/6815068616,Haight Ashbury,Higher
+node/6815068619,Haight Ashbury,Higher
+node/6815206669,Haight Ashbury,Higher
+node/6815206670,Haight Ashbury,Higher
+node/6815206672,Haight Ashbury,Higher
+node/6815206674,Haight Ashbury,Higher
+node/6815206677,Haight Ashbury,Higher
+node/6821718111,Mission,Middle
+node/6821738162,Mission,Middle
+node/6824083560,Mission,Middle
+node/6824083565,Mission,Middle
+node/6824083567,Mission,Middle
+node/6824083571,Mission,Middle
+node/6833789427,Haight Ashbury,Higher
+node/6835893289,Mission,Middle
+node/6835899035,Haight Ashbury,Higher
+node/6835899035,Japantown,Lower
+node/6856410799,Haight Ashbury,Higher
+node/6856410807,Haight Ashbury,Higher
+node/6856410820,Haight Ashbury,Higher
+node/6856410823,Haight Ashbury,Higher
+node/6874544918,Sunset/Parkside,Middle
+node/6874544919,Sunset/Parkside,Middle
+node/6874544923,Sunset/Parkside,Middle
+node/6874561750,Sunset/Parkside,Middle
+node/6894430803,Mission Bay,Higher
+node/6970138687,Mission,Middle
+node/6970138687,Haight Ashbury,Higher
+node/6986281616,Mission,Middle
+node/7044717961,Mission,Middle
+node/7044799092,Mission,Middle
+node/7044895254,Mission,Middle
+node/7091256016,Mission Bay,Higher
+node/7108178399,Mission,Middle
+node/7115643663,Mission,Middle
+node/7115643663,Haight Ashbury,Higher
+node/7127196316,Mission,Middle
+node/7235618614,Mission,Middle
+node/7235618614,Japantown,Lower
+node/7406032256,Mission,Middle
+node/7406032256,Haight Ashbury,Higher
+node/7418043292,Bayview Hunters Point,Lower
+node/7418043293,Bayview Hunters Point,Lower
+node/7418043294,Bayview Hunters Point,Lower
+node/7548614321,Japantown,Lower
+node/7621257251,Sunset/Parkside,Middle
+node/7671115300,Mission,Middle
+node/7671115301,Mission,Middle
+node/7671115302,Mission,Middle
+node/7678670333,Mission,Middle
+node/7678670333,Japantown,Lower
+node/7856936585,Mission,Middle
+node/7876589380,Haight Ashbury,Higher
+node/7949016221,Mission Bay,Higher
+node/7949061196,Bayview Hunters Point,Lower
+node/7949061196,Mission Bay,Higher
+node/7979327585,Japantown,Lower
+node/8047351793,Bayview Hunters Point,Lower
+node/8117601543,Mission,Middle
+node/8117601543,Mission Bay,Higher
+node/8118129757,Bayview Hunters Point,Lower
+node/8261030306,Japantown,Lower
+node/8366211958,Mission,Middle
+node/8366211958,Haight Ashbury,Higher
+node/8386152677,Mission Bay,Higher
+node/8414390748,Bayview Hunters Point,Lower
+node/8414390748,Mission Bay,Higher
+node/8419800024,Japantown,Lower
+node/8421358944,Japantown,Lower
+node/8421838141,Japantown,Lower
+node/8421849839,Japantown,Lower
+node/8421856499,Japantown,Lower
+node/8444493288,Japantown,Lower
+node/8444510291,Japantown,Lower
+node/8512196913,Japantown,Lower
+node/8646033949,Mission,Middle
+node/8646033949,Mission Bay,Higher
+node/8654131670,Mission,Middle
+node/8654131670,Mission Bay,Higher
+node/8654131671,Mission,Middle
+node/8654131671,Mission Bay,Higher
+node/8656992262,Mission Bay,Higher
+node/8660752498,Mission,Middle
+node/8660752498,Mission Bay,Higher
+node/8660767270,Mission,Middle
+node/8660767270,Mission Bay,Higher
+node/8660767271,Mission,Middle
+node/8660767271,Mission Bay,Higher
+node/8660771080,Mission,Middle
+node/8660771080,Mission Bay,Higher
+node/8660781398,Mission,Middle
+node/8660781398,Mission Bay,Higher
+node/8689758450,Mission,Middle
+node/8813047253,Mission,Middle
+node/8815131920,Mission,Middle
+node/8815131920,Haight Ashbury,Higher
+node/8830579324,Mission,Middle
+node/8830579324,Mission Bay,Higher
+node/8836991300,Bayview Hunters Point,Lower
+node/8842954877,Bayview Hunters Point,Lower
+node/8842954877,Mission Bay,Higher
+node/8851950180,Mission,Middle
+node/8851953883,Mission,Middle
+node/8869142329,Mission,Middle
+node/8870316917,Mission,Middle
+node/8870317017,Mission,Middle
+node/8870738747,Sunset/Parkside,Middle
+node/8870738748,Sunset/Parkside,Middle
+node/8870738749,Sunset/Parkside,Middle
+node/8870738750,Sunset/Parkside,Middle
+node/8870738751,Sunset/Parkside,Middle
+node/8870738752,Sunset/Parkside,Middle
+node/8870738753,Sunset/Parkside,Middle
+node/8870738754,Sunset/Parkside,Middle
+node/8870738755,Sunset/Parkside,Middle
+node/8870738757,Sunset/Parkside,Middle
+node/8870738758,Sunset/Parkside,Middle
+node/8870738759,Sunset/Parkside,Middle
+node/8891346712,Mission,Middle
+node/8891346712,Mission Bay,Higher
+node/8927746033,Japantown,Lower
+node/8927752699,Japantown,Lower
+node/8929388021,Japantown,Lower
+node/8957595581,Japantown,Lower
+node/8957596837,Japantown,Lower
+node/8957598452,Japantown,Lower
+node/8957614281,Japantown,Lower
+node/8989158482,Japantown,Lower
+node/8991553540,Sunset/Parkside,Middle
+node/8999232929,Japantown,Lower
+node/8999974735,Mission,Middle
+node/9046799429,Haight Ashbury,Higher
+node/9046814949,Mission,Middle
+node/9046814949,Haight Ashbury,Higher
+node/9064061121,Mission,Middle
+node/9064061121,Mission Bay,Higher
+node/9064787960,Mission,Middle
+node/9064787960,Mission Bay,Higher
+node/9067183497,Mission,Middle
+node/9118889554,Bayview Hunters Point,Lower
+node/9132814110,Haight Ashbury,Higher
+node/9132814110,Japantown,Lower
+node/9147266528,Sunset/Parkside,Middle
+node/9150307317,Mission,Middle
+node/9150307317,Haight Ashbury,Higher
+node/9156390100,Mission,Middle
+node/9156390100,Mission Bay,Higher
+node/9181415310,Japantown,Lower
+node/9181815639,Japantown,Lower
+node/9200292423,Japantown,Lower
+node/9200292424,Japantown,Lower
+node/9200292425,Japantown,Lower
+node/9200292427,Japantown,Lower
+node/9200292428,Japantown,Lower
+node/9200292429,Japantown,Lower
+node/9200292430,Japantown,Lower
+node/9200292431,Japantown,Lower
+node/9200292434,Japantown,Lower
+node/9200292437,Japantown,Lower
+node/9200292439,Japantown,Lower
+node/9200292442,Japantown,Lower
+node/9200429707,Japantown,Lower
+node/9200429712,Japantown,Lower
+node/9200429715,Japantown,Lower
+node/9200430820,Japantown,Lower
+node/9200430821,Japantown,Lower
+node/9200430823,Japantown,Lower
+node/9200430824,Japantown,Lower
+node/9200430827,Japantown,Lower
+node/9200430829,Japantown,Lower
+node/9200430831,Japantown,Lower
+node/9200942685,Japantown,Lower
+node/9210988964,Japantown,Lower
+node/9211072802,Japantown,Lower
+node/9234038002,Mission Bay,Higher
+node/9236174364,Mission,Middle
+node/9247776174,Mission Bay,Higher
+node/9251446482,Haight Ashbury,Higher
+node/9251446483,Haight Ashbury,Higher
+node/9251446484,Haight Ashbury,Higher
+node/9251446486,Haight Ashbury,Higher
+node/9254580050,Japantown,Lower
+node/9254580051,Japantown,Lower
+node/9254580052,Japantown,Lower
+node/9254580053,Japantown,Lower
+node/9258477741,Japantown,Lower
+node/9258477743,Japantown,Lower
+node/9325341058,Bayview Hunters Point,Lower
+node/9338307160,Mission,Middle
+node/9351770517,Mission,Middle
+node/9354569242,Japantown,Lower
+node/9354569243,Japantown,Lower
+node/9354806822,Japantown,Lower
+node/9354883865,Japantown,Lower
+node/9354883874,Japantown,Lower
+node/9354907012,Japantown,Lower
+node/9372879897,Mission,Middle
+node/9372879897,Haight Ashbury,Higher
+node/9401048617,Japantown,Lower
+node/9403944439,Mission,Middle
+node/9403948701,Mission,Middle
+node/9403976636,Mission,Middle
+node/9405708825,Mission,Middle
+node/9405708826,Mission,Middle
+node/9405810158,Mission,Middle
+node/9405814283,Mission,Middle
+node/9406419398,Japantown,Lower
+node/9411966339,Japantown,Lower
+node/9411966340,Japantown,Lower
+node/9417009224,Mission,Middle
+node/9417009224,Haight Ashbury,Higher
+node/9421608838,Mission,Middle
+node/9424366461,Mission,Middle
+node/9424366461,Haight Ashbury,Higher
+node/9434341039,Japantown,Lower
+node/9465221528,Japantown,Lower
+node/9477190984,Mission Bay,Higher
+node/9501158926,Mission,Middle
+node/9501158926,Haight Ashbury,Higher
+node/9525321589,Mission Bay,Higher
+node/9536568763,Mission,Middle
+node/9536568763,Haight Ashbury,Higher
+node/9536568764,Mission,Middle
+node/9536568764,Haight Ashbury,Higher
+node/9536568765,Mission,Middle
+node/9536568765,Haight Ashbury,Higher
+node/9536589864,Mission,Middle
+node/9536589864,Haight Ashbury,Higher
+node/9536589865,Mission,Middle
+node/9536589865,Haight Ashbury,Higher
+node/9536589868,Mission,Middle
+node/9536589868,Haight Ashbury,Higher
+node/9547878093,Mission,Middle
+node/9547878093,Haight Ashbury,Higher
+node/9550713692,Mission,Middle
+node/9553118515,Mission,Middle
+node/9555138944,Mission,Middle
+node/9555138945,Mission,Middle
+node/9555138946,Mission,Middle
+node/9555138947,Mission,Middle
+node/9555138948,Mission,Middle
+node/9555138949,Mission,Middle
+node/9555138950,Mission,Middle
+node/9555138952,Japantown,Lower
+node/9555138953,Japantown,Lower
+node/9556813614,Bayview Hunters Point,Lower
+node/9556813614,Mission Bay,Higher
+node/9561463366,Mission,Middle
+node/9574149667,Haight Ashbury,Higher
+node/9579006239,Haight Ashbury,Higher
+node/9579006240,Mission,Middle
+node/9579006240,Haight Ashbury,Higher
+node/9579873173,Japantown,Lower
+node/9579873183,Japantown,Lower
+node/9579873185,Japantown,Lower
+node/9579873186,Japantown,Lower
+node/9579899926,Japantown,Lower
+node/9581952684,Japantown,Lower
+node/9589058958,Mission,Middle
+node/9589058972,Mission,Middle
+node/9589058972,Japantown,Lower
+node/9589058980,Mission,Middle
+node/9592886300,Bayview Hunters Point,Lower
+node/9592886313,Bayview Hunters Point,Lower
+node/9592981167,Bayview Hunters Point,Lower
+node/9596331674,Mission,Middle
+node/9596331674,Mission Bay,Higher
+node/9596331675,Mission,Middle
+node/9596331675,Mission Bay,Higher
+node/9602320670,Japantown,Lower
+node/9602333336,Japantown,Lower
+node/9602333340,Japantown,Lower
+node/9603796975,Japantown,Lower
+node/9610129535,Mission,Middle
+node/9610129535,Mission Bay,Higher
+node/9611547717,Mission,Middle
+node/9643573617,Bayview Hunters Point,Lower
+node/9644266129,Mission,Middle
+node/9644817593,Japantown,Lower
+node/9647295026,Mission,Middle
+node/9647605508,Mission,Middle
+node/9647605508,Haight Ashbury,Higher
+node/9649588760,Mission,Middle
+node/9649588761,Mission,Middle
+node/9649588762,Mission,Middle
+node/9649588763,Mission,Middle
+node/9649588764,Mission,Middle
+node/9649588765,Mission,Middle
+node/9649588766,Mission,Middle
+node/9652999596,Mission,Middle
+node/9652999596,Mission Bay,Higher
+node/9655240383,Mission,Middle
+node/9655241060,Mission,Middle
+node/9655241060,Haight Ashbury,Higher
+node/9656382817,Mission,Middle
+node/9656382817,Haight Ashbury,Higher
+node/9656568091,Mission,Middle
+node/9656580039,Mission,Middle
+node/9656652564,Sunset/Parkside,Middle
+node/9656743737,Japantown,Lower
+node/9656760537,Mission,Middle
+node/9657095566,Japantown,Lower
+node/9657119194,Mission,Middle
+node/9657150226,Mission,Middle
+node/9657150226,Haight Ashbury,Higher
+node/9657398825,Mission,Middle
+node/9657530538,Mission,Middle
+node/9657530538,Japantown,Lower
+node/9657626206,Mission,Middle
+node/9657641394,Mission,Middle
+node/9657641394,Haight Ashbury,Higher
+node/9657755689,Mission,Middle
+node/9657755689,Haight Ashbury,Higher
+node/9658282017,Mission,Middle
+node/9659806955,Japantown,Lower
+node/9659806960,Japantown,Lower
+node/9659848510,Mission,Middle
+node/9659867930,Mission,Middle
+node/9662065899,Mission,Middle
+node/9673465967,Japantown,Lower
+node/9673469126,Japantown,Lower
+node/9675602892,Mission,Middle
+node/9675631719,Mission,Middle
+node/9677582017,Mission,Middle
+node/9677951789,Mission,Middle
+node/9677951789,Japantown,Lower
+node/9677975765,Mission,Middle
+node/9677975765,Japantown,Lower
+node/9684316917,Mission,Middle
+node/9684320117,Mission,Middle
+node/9684320117,Haight Ashbury,Higher
+node/9684420549,Japantown,Lower
+node/9686500594,Mission,Middle
+node/9686500594,Haight Ashbury,Higher
+node/9686500597,Mission,Middle
+node/9686500597,Haight Ashbury,Higher
+node/9686500599,Mission,Middle
+node/9686500599,Haight Ashbury,Higher
+node/9686500600,Mission,Middle
+node/9686500600,Haight Ashbury,Higher
+node/9686500601,Mission,Middle
+node/9686500601,Haight Ashbury,Higher
+node/9686500602,Mission,Middle
+node/9686500602,Haight Ashbury,Higher
+node/9686500603,Mission,Middle
+node/9686500603,Haight Ashbury,Higher
+node/9686506262,Mission,Middle
+node/9686506262,Haight Ashbury,Higher
+node/9687139103,Mission,Middle
+node/9687395390,Mission,Middle
+node/9687395390,Haight Ashbury,Higher
+node/9688497223,Mission,Middle
+node/9696861032,Japantown,Lower
+node/9696861033,Japantown,Lower
+node/9702050409,Mission,Middle
+node/9704672158,Japantown,Lower
+node/9708066413,Mission,Middle
+node/9708066415,Mission,Middle
+node/9708086683,Mission,Middle
+node/9708086684,Mission,Middle
+node/9708086685,Mission,Middle
+node/9712745890,Haight Ashbury,Higher
+node/9718811195,Mission,Middle
+node/9718811195,Haight Ashbury,Higher
+node/9719685767,Mission,Middle
+node/9719685767,Haight Ashbury,Higher
+node/9719718040,Mission,Middle
+node/9719734494,Mission,Middle
+node/9719772830,Mission,Middle
+node/9721165699,Mission,Middle
+node/9721165699,Japantown,Lower
+node/9723791899,Japantown,Lower
+node/9723812951,Japantown,Lower
+node/9723831880,Japantown,Lower
+node/9723884775,Mission Bay,Higher
+node/9725210185,Japantown,Lower
+node/9725210192,Japantown,Lower
+node/9725210194,Japantown,Lower
+node/9735505750,Japantown,Lower
+node/9735505751,Japantown,Lower
+node/9735505752,Japantown,Lower
+node/9735505781,Japantown,Lower
+node/9735505802,Japantown,Lower
+node/9735505803,Japantown,Lower
+node/9735505807,Japantown,Lower
+node/9738838676,Japantown,Lower
+node/9749240189,Haight Ashbury,Higher
+node/9749240189,Japantown,Lower
+node/9756296326,Mission,Middle
+node/9763355100,Haight Ashbury,Higher
+node/9769448172,Japantown,Lower
+node/9771155020,Japantown,Lower
+node/9784012544,Mission,Middle
+node/9784012545,Mission,Middle
+node/9784230762,Bayview Hunters Point,Lower
+node/9789676228,Japantown,Lower
+node/9790719931,Mission,Middle
+node/9791592538,Mission,Middle
+node/9794184321,Sunset/Parkside,Middle
+node/9804386460,Haight Ashbury,Higher
+node/9845699052,Japantown,Lower
+node/9859656960,Japantown,Lower
+node/9859656961,Japantown,Lower
+node/9859736341,Japantown,Lower
+node/9861755702,Japantown,Lower
+node/9863215086,Japantown,Lower
+node/9863236231,Japantown,Lower
+node/9863236232,Japantown,Lower
+node/9863236233,Japantown,Lower
+node/9863236237,Japantown,Lower
+node/9864838652,Mission,Middle
+node/9865529017,Haight Ashbury,Higher
+node/9877705367,Japantown,Lower
+node/9877742323,Japantown,Lower
+node/9877758092,Japantown,Lower
+node/9879815798,Japantown,Lower
+node/9882394960,Japantown,Lower
+node/9890902925,Mission,Middle
+node/9890902925,Mission Bay,Higher
+node/9896481396,Japantown,Lower
+node/9908618530,Japantown,Lower
+node/9919906593,Mission Bay,Higher
+node/9934759413,Mission,Middle
+node/9937968787,Mission,Middle
+node/9948792846,Mission,Middle
+node/9948792847,Mission,Middle
+node/9948792853,Mission,Middle
+node/9948792854,Mission,Middle
+node/9948792856,Mission,Middle
+node/9948792857,Mission,Middle
+node/9948792861,Mission,Middle
+node/9948792867,Mission,Middle
+node/9948792868,Mission,Middle
+node/9953569706,Japantown,Lower
+node/9953575405,Japantown,Lower
+node/9955974083,Japantown,Lower
+node/9955991897,Japantown,Lower
+node/9956008708,Japantown,Lower
+node/9956011492,Japantown,Lower
+node/9956019832,Japantown,Lower
+node/9956026787,Japantown,Lower
+node/9956028492,Mission,Middle
+node/9956029007,Japantown,Lower
+node/9956258786,Japantown,Lower
+node/9958548305,Mission,Middle
+node/9958548305,Haight Ashbury,Higher
+node/9958548306,Mission,Middle
+node/9958548306,Haight Ashbury,Higher
+node/9958553993,Mission,Middle
+node/9958626186,Japantown,Lower
+node/9968944465,Mission Bay,Higher
+node/9982769611,Mission,Middle
+node/9982788010,Mission,Middle
+node/9982793233,Mission,Middle
+node/9982796153,Mission,Middle
+node/9982796153,Haight Ashbury,Higher
+node/9982800259,Mission,Middle
+node/9994003454,Japantown,Lower
+node/9994017064,Mission,Middle
+node/9994037288,Mission,Middle
+node/9994037288,Japantown,Lower
+node/9994039368,Mission,Middle
+node/9995643238,Mission,Middle
+node/9996419883,Japantown,Lower
+node/9996419969,Japantown,Lower
+node/9996420759,Japantown,Lower
+node/9998789022,Mission,Middle
+node/10000412135,Mission,Middle
+node/10005629583,Japantown,Lower
+node/10005639577,Japantown,Lower
+node/10007662660,Mission,Middle
+node/10007662660,Japantown,Lower
+node/10007800155,Mission,Middle
+node/10007800155,Japantown,Lower
+node/10007806188,Mission,Middle
+node/10007806188,Japantown,Lower
+node/10007847653,Mission,Middle
+node/10007847653,Japantown,Lower
+node/10007858866,Japantown,Lower
+node/10008162923,Mission,Middle
+node/10008162923,Japantown,Lower
+node/10008162926,Mission,Middle
+node/10008162926,Japantown,Lower
+node/10012042767,Japantown,Lower
+node/10012048156,Japantown,Lower
+node/10013747446,Mission,Middle
+node/10013762122,Mission,Middle
+node/10013764334,Mission,Middle
+node/10013767308,Mission,Middle
+node/10017342940,Mission Bay,Higher
+node/10021953858,Bayview Hunters Point,Lower
+node/10032680695,Mission,Middle
+node/10032717723,Mission Bay,Higher
+node/10036505958,Japantown,Lower
+node/10037896083,Japantown,Lower
+node/10043293235,Mission,Middle
+node/10049432623,Mission,Middle
+node/10049432623,Haight Ashbury,Higher
+node/10050109686,Mission,Middle
+node/10051855437,Mission,Middle
+node/10051891853,Mission,Middle
+node/10051891853,Haight Ashbury,Higher
+node/10054795888,Japantown,Lower
+node/10054796178,Japantown,Lower
+node/10055217147,Japantown,Lower
+node/10057272382,Japantown,Lower
+node/10057272383,Japantown,Lower
+node/10059343291,Japantown,Lower
+node/10065566475,Mission,Middle
+node/10065602368,Mission,Middle
+node/10065716246,Bayview Hunters Point,Lower
+node/10069588757,Japantown,Lower
+node/10069609135,Mission,Middle
+node/10075378729,Japantown,Lower
+node/10076204406,Japantown,Lower
+node/10076204409,Japantown,Lower
+node/10077748706,Japantown,Lower
+node/10077749892,Japantown,Lower
+node/10086116966,Sunset/Parkside,Middle
+node/10090034174,Japantown,Lower
+node/10092556565,Mission,Middle
+node/10096998106,Mission,Middle
+node/10110556090,Japantown,Lower
+node/10112510219,Mission,Middle
+node/10124769381,Mission Bay,Higher
+node/10128454136,Japantown,Lower
+node/10128467026,Japantown,Lower
+node/10132982058,Japantown,Lower
+node/10142050226,Bayview Hunters Point,Lower
+node/10142050226,Mission,Middle
+node/10155561736,Sunset/Parkside,Middle
+node/10158817989,Mission,Middle
+node/10158817989,Mission Bay,Higher
+node/10158842727,Mission Bay,Higher
+node/10170449200,Mission,Middle
+node/10177572477,Japantown,Lower
+node/10198720350,Sunset/Parkside,Middle
+node/10219038068,Mission,Middle
+node/10224656844,Haight Ashbury,Higher
+node/10226027525,Mission Bay,Higher
+node/10243657904,Mission,Middle
+node/10243657904,Japantown,Lower
+node/10244015348,Japantown,Lower
+node/10245940482,Mission Bay,Higher
+node/10258023583,Mission,Middle
+node/10258023583,Haight Ashbury,Higher
+node/10258289524,Mission Bay,Higher
+node/10261540890,Mission,Middle
+node/10261540890,Mission Bay,Higher
+node/10270350905,Bayview Hunters Point,Lower
+node/10270350905,Mission,Middle
+node/10270407011,Mission,Middle
+node/10270407011,Japantown,Lower
+node/10271727714,Japantown,Lower
+node/10276095321,Japantown,Lower
+node/10277009963,Mission,Middle
+node/10277009963,Haight Ashbury,Higher
+node/10284006628,Mission Bay,Higher
+node/10285165450,Mission,Middle
+node/10285165450,Haight Ashbury,Higher
+node/10287813564,Mission,Middle
+node/10288740172,Japantown,Lower
+node/10293368412,Mission Bay,Higher
+node/10303527298,Mission,Middle
+node/10309574510,Mission,Middle
+node/10309574510,Haight Ashbury,Higher
+node/10309959735,Mission,Middle
+node/10309959735,Haight Ashbury,Higher
+node/10309959739,Mission,Middle
+node/10309959742,Mission,Middle
+node/10312292563,Japantown,Lower
+node/10542240181,Japantown,Lower
+node/10542243243,Japantown,Lower
+node/10542243246,Japantown,Lower
+node/10542243248,Japantown,Lower
+node/10542243252,Japantown,Lower
+node/10544423199,Japantown,Lower
+node/10553760191,Japantown,Lower
+node/10553760195,Japantown,Lower
+node/10553806540,Japantown,Lower
+node/10553806547,Japantown,Lower
+node/10553806556,Japantown,Lower
+node/10554070516,Mission,Middle
+node/10555418966,Mission,Middle
+node/10555418966,Mission Bay,Higher
+node/10555829842,Mission,Middle
+node/10555829843,Mission,Middle
+node/10555829844,Mission,Middle
+node/10555829845,Mission,Middle
+node/10555829846,Mission,Middle
+node/10555829847,Mission,Middle
+node/10555829848,Mission,Middle
+node/10555829850,Mission,Middle
+node/10558070235,Mission,Middle
+node/10558492785,Mission Bay,Higher
+node/10572259311,Mission,Middle
+node/10573477403,Haight Ashbury,Higher
+node/10573654799,Mission,Middle
+node/10573654799,Haight Ashbury,Higher
+node/10573654801,Mission,Middle
+node/10573654801,Haight Ashbury,Higher
+node/10573654803,Mission,Middle
+node/10573654803,Haight Ashbury,Higher
+node/10573654804,Mission,Middle
+node/10573654804,Haight Ashbury,Higher
+node/10573779784,Haight Ashbury,Higher
+node/10575364924,Haight Ashbury,Higher
+node/10575364924,Japantown,Lower
+node/10575364930,Japantown,Lower
+node/10575832905,Haight Ashbury,Higher
+node/10575939854,Haight Ashbury,Higher
+node/10575939854,Japantown,Lower
+node/10575960837,Japantown,Lower
+node/10575981868,Japantown,Lower
+node/10587783607,Mission,Middle
+node/10587783608,Mission,Middle
+node/10587939935,Mission,Middle
+node/10589904289,Haight Ashbury,Higher
+node/10592517186,Sunset/Parkside,Middle
+node/10592517187,Sunset/Parkside,Middle
+node/10597422709,Mission,Middle
+node/10600380560,Mission,Middle
+node/10600380562,Mission,Middle
+node/10600380563,Mission,Middle
+node/10600380564,Mission,Middle
+node/10606540533,Mission,Middle
+node/10606540535,Mission,Middle
+node/10607148082,Mission,Middle
+node/10607174161,Mission,Middle
+node/10609307759,Mission,Middle
+node/10609321450,Mission,Middle
+node/10609344597,Bayview Hunters Point,Lower
+node/10609344597,Mission,Middle
+node/10609477671,Mission,Middle
+node/10610255658,Sunset/Parkside,Middle
+node/10612130297,Mission,Middle
+node/10612130297,Haight Ashbury,Higher
+node/10612914638,Mission,Middle
+node/10612914638,Haight Ashbury,Higher
+node/10612914639,Mission,Middle
+node/10612914639,Haight Ashbury,Higher
+node/10612936382,Mission,Middle
+node/10612936382,Haight Ashbury,Higher
+node/10612936383,Mission,Middle
+node/10612936383,Haight Ashbury,Higher
+node/10623964564,Japantown,Lower
+node/10633881105,Mission,Middle
+node/10635333073,Mission,Middle
+node/10635344678,Mission,Middle
+node/10635344678,Mission Bay,Higher
+node/10635345334,Mission,Middle
+node/10635345334,Mission Bay,Higher
+node/10635387661,Japantown,Lower
+node/10635743464,Bayview Hunters Point,Lower
+node/10635743464,Mission,Middle
+node/10635824452,Mission,Middle
+node/10636048959,Mission,Middle
+node/10636048959,Mission Bay,Higher
+node/10636048961,Mission,Middle
+node/10636048961,Mission Bay,Higher
+node/10647281314,Bayview Hunters Point,Lower
+node/10647281314,Mission,Middle
+node/10650519570,Bayview Hunters Point,Lower
+node/10650519570,Mission,Middle
+node/10650773833,Mission,Middle
+node/10650775710,Mission,Middle
+node/10650803521,Mission,Middle
+node/10650906957,Mission,Middle
+node/10652821575,Bayview Hunters Point,Lower
+node/10652821575,Mission,Middle
+node/10652821576,Bayview Hunters Point,Lower
+node/10652821576,Mission,Middle
+node/10652830166,Bayview Hunters Point,Lower
+node/10652830166,Mission,Middle
+node/10652851800,Bayview Hunters Point,Lower
+node/10652851800,Mission,Middle
+node/10653584702,Bayview Hunters Point,Lower
+node/10653584702,Mission,Middle
+node/10653584703,Bayview Hunters Point,Lower
+node/10653584703,Mission,Middle
+node/10653584704,Bayview Hunters Point,Lower
+node/10653584704,Mission,Middle
+node/10653649605,Bayview Hunters Point,Lower
+node/10653649605,Mission,Middle
+node/10653793785,Bayview Hunters Point,Lower
+node/10653793785,Mission,Middle
+node/10653835782,Bayview Hunters Point,Lower
+node/10653835782,Mission,Middle
+node/10653835783,Bayview Hunters Point,Lower
+node/10653835783,Mission,Middle
+node/10653835785,Mission,Middle
+node/10655817843,Mission,Middle
+node/10656538218,Mission,Middle
+node/10656538218,Mission Bay,Higher
+node/10656542901,Mission,Middle
+node/10656557656,Mission,Middle
+node/10656557656,Mission Bay,Higher
+node/10656557657,Mission,Middle
+node/10656557657,Mission Bay,Higher
+node/10656644648,Mission,Middle
+node/10656761597,Mission,Middle
+node/10656762864,Mission,Middle
+node/10660410518,Japantown,Lower
+node/10660410520,Japantown,Lower
+node/10660410522,Japantown,Lower
+node/10665925275,Mission,Middle
+node/10674689334,Japantown,Lower
+node/10674689335,Japantown,Lower
+node/10674834860,Japantown,Lower
+node/10674834861,Japantown,Lower
+node/10674834862,Japantown,Lower
+node/10676901138,Bayview Hunters Point,Lower
+node/10676987721,Bayview Hunters Point,Lower
+node/10679896331,Bayview Hunters Point,Lower
+node/10679896332,Bayview Hunters Point,Lower
+node/10679896333,Bayview Hunters Point,Lower
+node/10679896334,Bayview Hunters Point,Lower
+node/10679932189,Bayview Hunters Point,Lower
+node/10679932190,Bayview Hunters Point,Lower
+node/10679932191,Bayview Hunters Point,Lower
+node/10679932192,Bayview Hunters Point,Lower
+node/10679932193,Bayview Hunters Point,Lower
+node/10679941954,Bayview Hunters Point,Lower
+node/10679941955,Bayview Hunters Point,Lower
+node/10682050733,Japantown,Lower
+node/10691775450,Mission,Middle
+node/10691813137,Mission,Middle
+node/10691813139,Mission,Middle
+node/10698549700,Mission,Middle
+node/10698549700,Haight Ashbury,Higher
+node/10698549703,Mission,Middle
+node/10698549703,Haight Ashbury,Higher
+node/10702606293,Japantown,Lower
+node/10702656832,Japantown,Lower
+node/10705697687,Mission,Middle
+node/10705697687,Haight Ashbury,Higher
+node/10711245259,Mission,Middle
+node/10713155097,Mission,Middle
+node/10713356943,Mission,Middle
+node/10713356943,Mission Bay,Higher
+node/10717938777,Mission,Middle
+node/10719976675,Mission,Middle
+node/10728684336,Bayview Hunters Point,Lower
+node/10736113229,Sunset/Parkside,Middle
+node/10736113404,Sunset/Parkside,Middle
+node/10736114181,Sunset/Parkside,Middle
+node/10736116335,Sunset/Parkside,Middle
+node/10737983164,Haight Ashbury,Higher
+node/10746846855,Mission,Middle
+node/10769120405,Bayview Hunters Point,Lower
+node/10780794707,Mission Bay,Higher
+node/10780794720,Mission Bay,Higher
+node/10780794722,Mission Bay,Higher
+node/10780794733,Mission Bay,Higher
+node/10780794749,Mission Bay,Higher
+node/10780794751,Mission Bay,Higher
+node/10780794754,Mission Bay,Higher
+node/10795947219,Japantown,Lower
+node/10796040785,Japantown,Lower
+node/10806697926,Mission Bay,Higher
+node/10806697928,Mission Bay,Higher
+node/10806697930,Mission Bay,Higher
+node/10806697933,Mission Bay,Higher
+node/10806697935,Mission Bay,Higher
+node/10806697938,Mission Bay,Higher
+node/10806697939,Mission Bay,Higher
+node/10806697940,Mission Bay,Higher
+node/10828076815,Mission,Middle
+node/10832810394,Haight Ashbury,Higher
+node/10837331005,Mission,Middle
+node/10837331005,Mission Bay,Higher
+node/10846910091,Japantown,Lower
+node/10859130847,Mission Bay,Higher
+node/10859142438,Mission Bay,Higher
+node/10859142440,Mission Bay,Higher
+node/10859142471,Mission Bay,Higher
+node/10859142472,Mission Bay,Higher
+node/10859142474,Mission Bay,Higher
+node/10861038483,Mission,Middle
+node/10861038483,Mission Bay,Higher
+node/10861038484,Mission,Middle
+node/10861038484,Mission Bay,Higher
+node/10869399695,Sunset/Parkside,Middle
+node/10869883185,Mission Bay,Higher
+node/10869899416,Mission Bay,Higher
+node/10869899432,Mission Bay,Higher
+node/10874867132,Mission Bay,Higher
+node/10874867136,Mission Bay,Higher
+node/10874913809,Mission Bay,Higher
+node/10874914045,Mission Bay,Higher
+node/10874914128,Mission Bay,Higher
+node/10874914161,Mission Bay,Higher
+node/10874914163,Mission Bay,Higher
+node/10897666095,Mission,Middle
+node/10897666095,Haight Ashbury,Higher
+node/10897666096,Mission,Middle
+node/10897666096,Haight Ashbury,Higher
+node/10897666097,Mission,Middle
+node/10897666097,Haight Ashbury,Higher
+node/10897666098,Mission,Middle
+node/10897666098,Haight Ashbury,Higher
+node/10897666099,Mission,Middle
+node/10897666099,Haight Ashbury,Higher
+node/10897941822,Mission Bay,Higher
+node/10897941845,Mission Bay,Higher
+node/10897941850,Mission Bay,Higher
+node/10897941851,Mission Bay,Higher
+node/10900837040,Mission Bay,Higher
+node/10900837041,Mission Bay,Higher
+node/10907092559,Japantown,Lower
+node/10916669656,Haight Ashbury,Higher
+node/10917023075,Mission,Middle
+node/10917023075,Mission Bay,Higher
+node/10917024119,Mission,Middle
+node/10917024119,Mission Bay,Higher
+node/10917024227,Mission,Middle
+node/10917024227,Mission Bay,Higher
+node/10917024247,Mission,Middle
+node/10917024247,Mission Bay,Higher
+node/10917024250,Mission,Middle
+node/10917024250,Mission Bay,Higher
+node/10945332647,Mission,Middle
+node/10950821845,Sunset/Parkside,Middle
+node/10962342400,Haight Ashbury,Higher
+node/10966081889,Mission,Middle
+node/10966345074,Japantown,Lower
+node/10966439168,Mission,Middle
+node/10966439168,Mission Bay,Higher
+node/10981800287,Mission,Middle
+node/10981800287,Mission Bay,Higher
+node/10984712496,Japantown,Lower
+node/11008407668,Haight Ashbury,Higher
+node/11008485501,Haight Ashbury,Higher
+node/11008629672,Haight Ashbury,Higher
+node/11008634074,Haight Ashbury,Higher
+node/11008637381,Haight Ashbury,Higher
+node/11008638714,Haight Ashbury,Higher
+node/11008643883,Haight Ashbury,Higher
+node/11008645299,Haight Ashbury,Higher
+node/11011243622,Bayview Hunters Point,Lower
+node/11021005778,Haight Ashbury,Higher
+node/11021092485,Sunset/Parkside,Middle
+node/11021322076,Mission Bay,Higher
+node/11021366806,Mission Bay,Higher
+node/11021366811,Mission Bay,Higher
+node/11021366817,Mission Bay,Higher
+node/11021366820,Mission Bay,Higher
+node/11021366851,Mission Bay,Higher
+node/11028508800,Sunset/Parkside,Middle
+node/11028924229,Mission,Middle
+node/11028924229,Mission Bay,Higher
+node/11028937311,Mission,Middle
+node/11035090764,Mission,Middle
+node/11038118634,Mission,Middle
+node/11038483848,Japantown,Lower
+node/11041008192,Mission Bay,Higher
+node/11060794745,Mission,Middle
+node/11061133534,Mission,Middle
+node/11084408052,Japantown,Lower
+node/11100770512,Mission,Middle
+node/11124413491,Mission Bay,Higher
+node/11142562489,Mission,Middle
+node/11149187371,Mission Bay,Higher
+node/11161352900,Mission,Middle
+node/11161352900,Mission Bay,Higher
+node/11166107095,Mission,Middle
+node/11166107095,Mission Bay,Higher
+node/11166132525,Mission Bay,Higher
+node/11166132562,Mission,Middle
+node/11166132562,Mission Bay,Higher
+node/11166132582,Mission,Middle
+node/11166132582,Mission Bay,Higher
+node/11184513551,Mission,Middle
+node/11184513551,Japantown,Lower
+node/11198865813,Mission,Middle
+node/11198865813,Mission Bay,Higher
+node/11198865814,Mission,Middle
+node/11198865814,Mission Bay,Higher
+node/11198865815,Mission,Middle
+node/11198865815,Mission Bay,Higher
+node/11198865816,Mission,Middle
+node/11198865816,Mission Bay,Higher
+node/11198894575,Mission,Middle
+node/11198894575,Mission Bay,Higher
+node/11198894667,Mission,Middle
+node/11198894667,Mission Bay,Higher
+node/11198894701,Mission,Middle
+node/11198894701,Mission Bay,Higher
+node/11198894711,Mission,Middle
+node/11198894711,Mission Bay,Higher
+node/11198894712,Mission,Middle
+node/11198894712,Mission Bay,Higher
+node/11198894714,Mission,Middle
+node/11198894714,Mission Bay,Higher
+node/11198894716,Mission,Middle
+node/11198894716,Mission Bay,Higher
+node/11198894723,Mission,Middle
+node/11198894723,Mission Bay,Higher
+node/11198894724,Mission,Middle
+node/11198894724,Mission Bay,Higher
+node/11230460507,Mission,Middle
+node/11232217086,Mission,Middle
+node/11232217086,Japantown,Lower
+node/11263206167,Mission Bay,Higher
+node/11275963269,Mission,Middle
+node/11275963269,Mission Bay,Higher
+node/11279968192,Japantown,Lower
+node/11281957431,Mission Bay,Higher
+node/11296107121,Mission,Middle
+node/11296107121,Haight Ashbury,Higher
+node/11296107122,Mission,Middle
+node/11296107122,Haight Ashbury,Higher
+node/11333467387,Japantown,Lower
+node/11334977897,Japantown,Lower
+node/11334989402,Japantown,Lower
+node/11335000742,Japantown,Lower
+node/11335007193,Japantown,Lower
+node/11345103395,Mission,Middle
+node/11345377375,Mission Bay,Higher
+node/11347412536,Japantown,Lower
+node/11347413054,Japantown,Lower
+node/11349537575,Japantown,Lower
+node/11349599510,Japantown,Lower
+node/11349601815,Japantown,Lower
+node/11349623717,Japantown,Lower
+node/11349636892,Japantown,Lower
+node/11349636893,Japantown,Lower
+node/11362887388,Mission,Middle
+node/11374673834,Mission,Middle
+node/11374673834,Haight Ashbury,Higher
+node/11375700373,Haight Ashbury,Higher
+node/11401506169,Mission,Middle
+node/11500943146,Haight Ashbury,Higher
+node/11509744692,Sunset/Parkside,Middle
+node/11509744694,Sunset/Parkside,Middle
+node/11538540427,Mission,Middle
+node/11556085319,Bayview Hunters Point,Lower
+node/11556085319,Mission,Middle
+node/11558519648,Mission,Middle
+node/11558519648,Mission Bay,Higher
+node/11558519661,Mission,Middle
+node/11558519661,Mission Bay,Higher
+node/11572000635,Mission,Middle
+node/11572000635,Mission Bay,Higher
+node/11572000636,Mission,Middle
+node/11572000636,Mission Bay,Higher
+node/11582939955,Haight Ashbury,Higher
+node/11582939956,Haight Ashbury,Higher
+node/11590449582,Mission Bay,Higher
+node/11590449586,Mission Bay,Higher
+node/11590449600,Mission,Middle
+node/11590449600,Mission Bay,Higher
+node/11590449622,Mission,Middle
+node/11590449622,Mission Bay,Higher
+node/11590958174,Mission,Middle
+node/11590958174,Mission Bay,Higher
+node/11612234508,Mission Bay,Higher
+node/11631896031,Mission,Middle
+node/11631896031,Haight Ashbury,Higher
+node/11663320631,Mission,Middle
+node/11663320631,Haight Ashbury,Higher
+node/11683920862,Mission Bay,Higher
+node/11695509369,Sunset/Parkside,Middle
+node/11695514403,Japantown,Lower
+node/11698616629,Bayview Hunters Point,Lower
+node/11698616629,Mission Bay,Higher
+node/11698616630,Mission Bay,Higher
+node/11698616631,Mission Bay,Higher
+node/11701513372,Mission,Middle
+node/11701513372,Haight Ashbury,Higher
+node/11701513374,Mission,Middle
+node/11701513374,Haight Ashbury,Higher
+node/11701513376,Mission,Middle
+node/11701513376,Haight Ashbury,Higher
+node/11701513377,Mission,Middle
+node/11701513377,Haight Ashbury,Higher
+node/11701513378,Mission,Middle
+node/11701513378,Haight Ashbury,Higher
+node/11702308299,Mission,Middle
+node/11704763125,Sunset/Parkside,Middle
+node/11704763126,Sunset/Parkside,Middle
+node/11705048276,Sunset/Parkside,Middle
+node/11705048285,Sunset/Parkside,Middle
+node/11707124277,Mission,Middle
+node/11709481314,Mission,Middle
+node/11752501602,Mission,Middle
+node/11752501602,Japantown,Lower
+node/11777326256,Mission Bay,Higher
+node/11777326258,Mission Bay,Higher
+node/11777394270,Mission Bay,Higher
+node/11777394276,Mission Bay,Higher
+node/11777394277,Mission Bay,Higher
+node/11777394286,Mission Bay,Higher
+node/11777394318,Mission,Middle
+node/11777394327,Mission,Middle
+node/11777394327,Mission Bay,Higher
+node/11777394329,Mission,Middle
+node/11777394329,Mission Bay,Higher
+node/11777394339,Mission,Middle
+node/11777394339,Mission Bay,Higher
+node/11777394346,Mission,Middle
+node/11777394346,Mission Bay,Higher
+node/11799118245,Mission,Middle
+node/11799118246,Mission,Middle
+node/11799118248,Mission,Middle
+node/11806415017,Mission,Middle
+node/11806415022,Mission,Middle
+node/11806415025,Mission,Middle
+node/11806415027,Mission,Middle
+node/11806415029,Mission,Middle
+node/11806415030,Mission,Middle
+node/11806415033,Mission,Middle
+node/11806415034,Mission,Middle
+node/11806415036,Mission,Middle
+node/11806415037,Mission,Middle
+node/11806415038,Mission,Middle
+node/11806415039,Mission,Middle
+node/11806415045,Mission,Middle
+node/11806415047,Mission,Middle
+node/11806415055,Mission,Middle
+node/11806415056,Mission,Middle
+node/11806415057,Mission,Middle
+node/11806415060,Mission,Middle
+node/11806415061,Mission,Middle
+node/11806415064,Bayview Hunters Point,Lower
+node/11806415064,Mission,Middle
+node/11806415065,Bayview Hunters Point,Lower
+node/11806415065,Mission,Middle
+node/11806415068,Mission,Middle
+node/11817396093,Mission Bay,Higher
+node/11817396097,Mission,Middle
+node/11817428513,Haight Ashbury,Higher
+node/11833813353,Haight Ashbury,Higher
+node/11887821126,Mission,Middle
+node/11889618388,Bayview Hunters Point,Lower
+node/11897570031,Mission Bay,Higher
+node/11906698583,Bayview Hunters Point,Lower
+node/11913746597,Japantown,Lower
+node/11916519969,Mission,Middle
+node/11933819128,Mission,Middle
+node/11950809144,Mission,Middle
+node/11950809144,Haight Ashbury,Higher
+node/11950809144,Japantown,Lower
+node/11952496309,Mission,Middle
+node/11969297507,Mission,Middle
+node/11976847170,Mission Bay,Higher
+node/11976847196,Mission Bay,Higher
+node/11978655445,Mission,Middle
+node/11981122069,Mission,Middle
+node/11981122069,Haight Ashbury,Higher
+node/11984289381,Mission Bay,Higher
+node/11989405843,Mission Bay,Higher
+node/11990890065,Japantown,Lower
+node/11999361022,Mission,Middle
+node/12001976916,Mission Bay,Higher
+node/12008496242,Mission Bay,Higher
+node/12027311782,Mission,Middle
+node/12027311782,Mission Bay,Higher
+node/12031444506,Mission,Middle
+node/12044046584,Mission,Middle
+node/12050221966,Mission,Middle
+node/12050221966,Haight Ashbury,Higher
+node/12052328555,Mission,Middle
+node/12052328555,Haight Ashbury,Higher
+node/12069089539,Mission Bay,Higher
+node/12070629878,Mission Bay,Higher
+node/12072409418,Japantown,Lower
+node/12072409419,Japantown,Lower
+node/12092036107,Mission,Middle
+node/12134678257,Bayview Hunters Point,Lower
+node/12134678257,Mission,Middle
+node/12191043222,Mission,Middle
+node/12191043222,Mission Bay,Higher
+node/12191868317,Bayview Hunters Point,Lower
+node/12191868317,Mission,Middle
+node/12191868319,Bayview Hunters Point,Lower
+node/12191868319,Mission,Middle
+node/12197781618,Japantown,Lower
+node/12198078476,Haight Ashbury,Higher
+node/12198078476,Japantown,Lower
+node/12202092107,Haight Ashbury,Higher
+node/12202092107,Japantown,Lower
+node/12228393349,Mission,Middle
+node/12240482801,Bayview Hunters Point,Lower
+node/12272222720,Haight Ashbury,Higher
+node/12272222721,Haight Ashbury,Higher
+node/12272222722,Haight Ashbury,Higher
+node/12272222723,Haight Ashbury,Higher
+node/12272222725,Haight Ashbury,Higher
+node/12277317162,Haight Ashbury,Higher
+node/12277317163,Haight Ashbury,Higher
+node/12277317164,Haight Ashbury,Higher
+node/12277317166,Haight Ashbury,Higher
+node/12288987452,Mission Bay,Higher
+node/12297513702,Mission,Middle
+node/12316382986,Haight Ashbury,Higher
+node/12319558761,Sunset/Parkside,Middle
+node/12327447916,Mission Bay,Higher
+node/12337873691,Haight Ashbury,Higher
+node/12338362406,Haight Ashbury,Higher
+node/12347181968,Haight Ashbury,Higher
+node/12347181969,Haight Ashbury,Higher
+node/12349645766,Sunset/Parkside,Middle
+node/12349645767,Sunset/Parkside,Middle
+node/12352192171,Japantown,Lower
+node/12356353509,Mission,Middle
+node/12367012838,Haight Ashbury,Higher
+node/12368723026,Sunset/Parkside,Middle
+node/12374165698,Haight Ashbury,Higher
+node/12374293486,Haight Ashbury,Higher
+node/12408404345,Mission,Middle
+node/12408404346,Mission,Middle
+node/12428763001,Bayview Hunters Point,Lower
+node/12428763001,Mission Bay,Higher
+node/12461978654,Mission,Middle
+node/12467348168,Mission,Middle
+node/12512831465,Sunset/Parkside,Middle
+node/12512831466,Sunset/Parkside,Middle
+node/12519492554,Mission,Middle
+node/12519497105,Mission,Middle
+node/12519497105,Haight Ashbury,Higher
+node/12522217329,Mission,Middle
+node/12522217330,Mission,Middle
+node/12522217331,Mission,Middle
+node/12522217332,Mission,Middle
+node/12522217334,Mission,Middle
+node/12522217338,Mission,Middle
+node/12527973431,Bayview Hunters Point,Lower
+node/12527973431,Mission Bay,Higher
+node/12541355701,Mission,Middle
+node/12559170743,Mission,Middle
+node/12559170754,Mission,Middle
+node/12559170755,Mission,Middle
+node/12559241531,Mission,Middle
+node/12559241531,Mission Bay,Higher
+node/12569789802,Mission,Middle
+node/12569789804,Mission,Middle
+node/12572134581,Sunset/Parkside,Middle
+node/12572134584,Sunset/Parkside,Middle
+node/12572136429,Sunset/Parkside,Middle
+node/12572136431,Sunset/Parkside,Middle
+node/12578573351,Sunset/Parkside,Middle
+node/12583335234,Mission,Middle
+node/12583335238,Mission,Middle
+node/12583335241,Mission,Middle
+node/12583335242,Mission,Middle
+node/12583335243,Mission,Middle
+node/12593875495,Sunset/Parkside,Middle
+node/12599993181,Haight Ashbury,Higher
+node/12613599379,Japantown,Lower
+node/12627332101,Mission,Middle
+node/12637114274,Mission,Middle
+node/12637114274,Haight Ashbury,Higher
+node/12637192281,Mission,Middle
+node/12637192281,Haight Ashbury,Higher
+node/12637817162,Bayview Hunters Point,Lower
+node/12637817162,Mission Bay,Higher
+node/12637859032,Bayview Hunters Point,Lower
+node/12637859032,Mission Bay,Higher
+node/12637859033,Bayview Hunters Point,Lower
+node/12637859033,Mission Bay,Higher
+node/12681356296,Sunset/Parkside,Middle
+node/12682148960,Haight Ashbury,Higher
+node/12695274791,Sunset/Parkside,Middle
+node/12695274792,Sunset/Parkside,Middle
+node/12710796147,Mission Bay,Higher
+node/12714858068,Mission,Middle
+node/12714858068,Mission Bay,Higher
+node/12727180492,Mission,Middle
+node/12727180493,Mission,Middle
+node/12736281060,Haight Ashbury,Higher
+node/12745951701,Japantown,Lower
+node/12748976201,Mission,Middle
+node/12761648701,Mission,Middle
+node/12762976660,Sunset/Parkside,Middle
+node/12763385878,Sunset/Parkside,Middle
+node/12784621428,Mission,Middle
+node/12784621428,Haight Ashbury,Higher
+node/12784621430,Mission,Middle
+node/12784621430,Haight Ashbury,Higher
+node/12784660546,Mission,Middle
+node/12784660546,Haight Ashbury,Higher
+node/12793737601,Bayview Hunters Point,Lower
+node/12794766076,Mission,Middle
+node/12797452055,Mission,Middle
+node/12810345420,Mission,Middle
+node/12810387261,Mission,Middle
+node/12813057861,Mission,Middle
+node/12813057861,Haight Ashbury,Higher
+node/12813289701,Bayview Hunters Point,Lower
+node/12828885101,Sunset/Parkside,Middle
+node/12838486453,Haight Ashbury,Higher
+node/12838486478,Haight Ashbury,Higher
+node/12863263430,Bayview Hunters Point,Lower
+node/12863263430,Mission,Middle
+node/12863341203,Mission,Middle
+node/12863341204,Mission,Middle
+node/12863341205,Mission,Middle
+node/12863374035,Mission,Middle
+node/12863374036,Mission,Middle
+node/12863374037,Mission,Middle
+node/12863374038,Mission,Middle
+node/12863374039,Mission,Middle
+node/12863374040,Mission,Middle
+node/12872349014,Mission,Middle
+node/12876218138,Japantown,Lower
+node/12876232087,Mission,Middle
+node/12876232087,Mission Bay,Higher
+node/12876507587,Sunset/Parkside,Middle
+node/12879761129,Mission,Middle
+node/12887754985,Mission,Middle
+node/12900325202,Mission,Middle
+node/12900325202,Haight Ashbury,Higher
+node/12900454244,Mission,Middle
+node/12900454244,Haight Ashbury,Higher
+node/12920129891,Mission,Middle
+node/12922392590,Mission,Middle
+node/12941401423,Mission,Middle
+node/12947723693,Sunset/Parkside,Middle
+node/12947723694,Sunset/Parkside,Middle
+node/12947723695,Sunset/Parkside,Middle
+node/12950158476,Mission,Middle
+node/12952510006,Haight Ashbury,Higher
+node/12954271859,Haight Ashbury,Higher
+node/12954295701,Mission,Middle
+node/12954295701,Mission Bay,Higher
+node/12965421201,Haight Ashbury,Higher
+node/12978817101,Bayview Hunters Point,Lower
+node/12983432802,Mission Bay,Higher
+node/12996529307,Mission,Middle
+node/12996529307,Mission Bay,Higher
+node/13004562056,Mission,Middle
+node/13015863377,Sunset/Parkside,Middle
+node/13018139854,Mission,Middle
+node/13030734577,Mission,Middle
+node/13030734579,Mission,Middle
+node/13041719490,Mission,Middle
+node/13041719490,Haight Ashbury,Higher
+node/13042316852,Mission,Middle
+node/13057323401,Mission,Middle
+node/13057323401,Mission Bay,Higher
+node/13062606921,Mission,Middle
+node/13089639302,Mission,Middle
+node/13089639302,Haight Ashbury,Higher
+node/13089639303,Mission,Middle
+node/13089639303,Haight Ashbury,Higher
+node/13093722241,Mission,Middle
+node/13093722241,Mission Bay,Higher
+node/13093864535,Japantown,Lower
+node/13103796137,Mission,Middle
+node/13121923502,Japantown,Lower
+node/13121950282,Haight Ashbury,Higher
+node/13121950282,Japantown,Lower
+node/13131794533,Japantown,Lower
+node/13131794534,Japantown,Lower
+node/13131794535,Japantown,Lower
+node/13131794536,Japantown,Lower
+node/13131830634,Japantown,Lower
+node/13131830635,Japantown,Lower
+node/13131830636,Japantown,Lower
+node/13131830637,Japantown,Lower
+node/13131830638,Japantown,Lower
+node/13131830639,Japantown,Lower
+node/13131830640,Japantown,Lower
+node/13131920348,Japantown,Lower
+node/13172034230,Sunset/Parkside,Middle
+node/13176381001,Mission,Middle
+node/13203381458,Sunset/Parkside,Middle
+node/13226586650,Haight Ashbury,Higher
+node/13233129870,Mission,Middle
+node/13233129870,Haight Ashbury,Higher
+node/13246223601,Mission Bay,Higher
+node/13246228001,Bayview Hunters Point,Lower
+node/13246228001,Mission Bay,Higher
+node/13256223401,Mission,Middle
+node/13301796768,Sunset/Parkside,Middle
+node/13305348851,Mission Bay,Higher
+node/13322191826,Bayview Hunters Point,Lower
+node/13322191826,Mission Bay,Higher
+node/13322193474,Mission Bay,Higher
+node/13343576682,Mission,Middle
+node/13343944677,Mission,Middle
+node/13343944678,Mission,Middle
+node/13343944679,Mission,Middle
+node/13343944680,Mission,Middle
+node/13343944682,Mission,Middle
+node/13343953955,Mission,Middle
+node/13343953956,Mission,Middle
+node/13362115401,Bayview Hunters Point,Lower
+node/13362115401,Mission,Middle
+node/13365357095,Japantown,Lower
+node/13365517557,Japantown,Lower
+node/13365517558,Japantown,Lower
+node/13365517560,Japantown,Lower
+node/13365517561,Japantown,Lower
+node/13365517562,Japantown,Lower
+node/13365517563,Japantown,Lower
+node/13365517564,Japantown,Lower
+node/13365517565,Japantown,Lower
+node/13365517569,Japantown,Lower
+node/13365517570,Japantown,Lower
+node/13370777852,Haight Ashbury,Higher
+node/13376819896,Sunset/Parkside,Middle
+node/13393504106,Mission,Middle
+node/13393658933,Mission,Middle
+node/13393658933,Mission Bay,Higher
+node/13393850826,Sunset/Parkside,Middle
+node/13429356129,Mission,Middle
+node/13436672101,Mission,Middle
+node/13444538959,Mission,Middle
+node/13444538959,Mission Bay,Higher
+node/13444538960,Mission,Middle
+node/13444538960,Mission Bay,Higher
+node/13447104857,Sunset/Parkside,Middle
+node/13447349875,Mission,Middle
+node/13447349875,Haight Ashbury,Higher
+node/13459615650,Haight Ashbury,Higher
+node/13461244801,Bayview Hunters Point,Lower
+node/13461249201,Bayview Hunters Point,Lower
+node/13461264601,Bayview Hunters Point,Lower
+node/13462968301,Bayview Hunters Point,Lower
+node/13469835404,Mission,Middle
+node/13472261007,Mission,Middle
+node/13479802502,Mission,Middle
+node/13480221713,Mission,Middle
+node/13481902701,Bayview Hunters Point,Lower
+node/13484871887,Sunset/Parkside,Middle
+node/13510915808,Haight Ashbury,Higher
+node/13529683247,Mission,Middle
+node/13533404762,Bayview Hunters Point,Lower
+node/13533404762,Mission,Middle
+node/13546712788,Mission Bay,Higher
+node/13551029435,Japantown,Lower
+node/13568245961,Sunset/Parkside,Middle
+node/13568431404,Mission,Middle
+node/13568431404,Mission Bay,Higher
+node/13568431405,Mission,Middle
+node/13568431405,Mission Bay,Higher
+node/13606033239,Bayview Hunters Point,Lower
+node/13606033239,Mission,Middle
+node/13613318657,Haight Ashbury,Higher
+node/13615679242,Mission,Middle
+node/13615679242,Haight Ashbury,Higher
+node/13615713401,Japantown,Lower
+node/13615785388,Mission,Middle
+node/13615785388,Haight Ashbury,Higher
+node/13630930796,Mission,Middle
+node/13631136501,Mission,Middle
+node/13631136502,Mission,Middle
+node/13631136504,Mission,Middle
+node/13631136505,Mission,Middle
+node/13631136506,Mission,Middle
+node/13631136507,Mission,Middle
+node/13631136508,Mission,Middle
+node/13631146967,Mission,Middle
+node/13631146968,Mission,Middle
+node/13639310724,Sunset/Parkside,Middle
+node/13639606765,Japantown,Lower
+node/13639606766,Haight Ashbury,Higher
+node/13639606766,Japantown,Lower
+node/13639660298,Japantown,Lower
+node/13639660299,Japantown,Lower
+node/13639660300,Japantown,Lower
+node/13639682001,Japantown,Lower
+node/13639682003,Japantown,Lower
+node/13639682012,Japantown,Lower
+node/13645848902,Bayview Hunters Point,Lower
+node/13645848902,Mission Bay,Higher
+node/13645848903,Bayview Hunters Point,Lower
+node/13645848903,Mission Bay,Higher
+node/13645848904,Bayview Hunters Point,Lower
+node/13645848904,Mission Bay,Higher
+node/13645848905,Bayview Hunters Point,Lower
+node/13645848905,Mission Bay,Higher
+node/13645970063,Bayview Hunters Point,Lower
+node/13645970063,Mission Bay,Higher
+node/13646416997,Haight Ashbury,Higher
+node/13646416997,Japantown,Lower
+node/13683500048,Mission,Middle
+node/13687479877,Mission,Middle
+node/13687479877,Haight Ashbury,Higher
+node/13689801217,Mission,Middle
+node/13696195685,Mission,Middle
+node/13696195686,Mission,Middle
+node/13696494190,Japantown,Lower
+node/13696494193,Japantown,Lower
+node/13696517263,Mission,Middle
+node/13696517269,Mission,Middle
+node/13696517271,Mission,Middle
+node/13699201382,Mission,Middle
+node/13699309840,Mission,Middle
+node/13699453817,Mission,Middle
+node/13699453819,Mission,Middle
+node/13700173423,Mission,Middle
+node/13700173424,Mission,Middle
+node/13700173425,Mission,Middle
+node/13700173427,Mission,Middle
+node/13700173428,Mission,Middle
+node/13700173430,Mission,Middle
+node/13700173432,Mission,Middle
+node/13700173434,Mission,Middle
+node/13700173435,Mission,Middle
+node/13700173438,Mission,Middle
+node/13700173441,Mission,Middle
+node/13700173442,Mission,Middle
+node/13700173443,Mission,Middle
+node/13700173444,Mission,Middle
+node/13700173445,Mission,Middle
+node/13701995506,Mission,Middle
+node/13702967501,Bayview Hunters Point,Lower
+node/13712240858,Mission,Middle
+node/13714863601,Mission,Middle
+node/13715095290,Mission,Middle
+node/13715184385,Mission,Middle
+node/13717439873,Mission,Middle
+node/13717439876,Mission,Middle
+node/13719621769,Mission,Middle
+node/13719736164,Mission,Middle
+node/13719770502,Mission,Middle
+node/13719770503,Mission,Middle
+node/13719770505,Mission,Middle
+node/13721114217,Mission,Middle
+node/13721114222,Mission,Middle
+node/13721114231,Mission,Middle
+node/13721114233,Mission,Middle
+node/13722334331,Mission Bay,Higher
+node/13724191580,Mission,Middle
+node/13724191581,Mission,Middle
+node/13724191582,Mission,Middle
+node/13724354401,Mission,Middle
+node/13724354406,Mission,Middle
+node/13724354409,Mission,Middle
+node/13724354415,Mission,Middle
+node/13724354418,Mission,Middle
+node/13724354421,Mission,Middle
+node/13724354423,Mission,Middle
+node/13725887499,Mission,Middle
+node/13725904201,Mission,Middle
+node/13725904205,Mission,Middle
+node/13725904216,Mission,Middle
+node/13725904217,Mission,Middle
+node/13725904218,Mission,Middle
+node/13726182409,Bayview Hunters Point,Lower
+node/13726182411,Bayview Hunters Point,Lower
+node/13727527643,Mission,Middle
+node/13728362677,Mission,Middle
+node/13729807702,Bayview Hunters Point,Lower
+node/13733244582,Sunset/Parkside,Middle
+node/13736216184,Mission,Middle
+node/13736216185,Mission,Middle
+node/13736216186,Mission,Middle
+node/13736414536,Bayview Hunters Point,Lower
+node/13736414536,Mission,Middle
+node/13737988443,Bayview Hunters Point,Lower
+node/13737988443,Mission,Middle
+node/13737988446,Bayview Hunters Point,Lower
+node/13737988446,Mission,Middle
+node/13737988447,Bayview Hunters Point,Lower
+node/13737988447,Mission,Middle
+node/13737988461,Bayview Hunters Point,Lower
+node/13737988461,Mission,Middle
+node/13737988462,Bayview Hunters Point,Lower
+node/13737988462,Mission,Middle
+node/13738847202,Mission,Middle
+node/13738864214,Mission,Middle
+node/13739098894,Sunset/Parkside,Middle
+node/13739098895,Sunset/Parkside,Middle
+node/13755387948,Mission Bay,Higher
+node/13757585514,Mission,Middle
+node/13757610742,Mission,Middle
+node/13757610746,Mission,Middle
+node/13757610747,Mission,Middle
+node/13757822862,Mission Bay,Higher
+node/13760914886,Mission,Middle
+node/13762267226,Mission,Middle
+node/13762384812,Mission,Middle
+node/13762384813,Mission,Middle
+node/13765410525,Mission,Middle
+node/13765423259,Mission,Middle
+node/13765472805,Bayview Hunters Point,Lower
+node/13765472805,Mission,Middle
+node/13765472808,Bayview Hunters Point,Lower
+node/13765472808,Mission,Middle
+node/13765472818,Bayview Hunters Point,Lower
+node/13765472818,Mission,Middle
+node/13765472822,Bayview Hunters Point,Lower
+node/13765472822,Mission,Middle
+node/13765472831,Bayview Hunters Point,Lower
+node/13765472831,Mission,Middle
+node/13765490823,Mission Bay,Higher
+node/13765490836,Mission Bay,Higher
+node/13768550399,Mission,Middle
+node/13768569901,Mission,Middle
+node/13768629904,Mission,Middle
+node/13768629906,Mission,Middle
+node/13778895404,Mission Bay,Higher
+node/13778979510,Mission,Middle
+node/13810110230,Mission,Middle
+node/13812694781,Mission,Middle
+node/13812694781,Mission Bay,Higher
+node/13815060526,Mission,Middle
+node/13815060526,Mission Bay,Higher
+node/13816382324,Mission,Middle
+node/13816468428,Mission,Middle
+node/13816468429,Mission,Middle
+node/13816468430,Mission,Middle
+node/13822192183,Bayview Hunters Point,Lower
+node/13822192186,Bayview Hunters Point,Lower
+node/13822192189,Bayview Hunters Point,Lower
+node/13822192190,Bayview Hunters Point,Lower
+node/13822192191,Bayview Hunters Point,Lower
+node/13822192195,Bayview Hunters Point,Lower
+node/13826382601,Mission,Middle
+node/13826382603,Mission,Middle
+node/13826382604,Mission,Middle
+node/13836741079,Japantown,Lower
+node/13836990128,Mission,Middle
+node/13840753171,Mission,Middle
+node/13840753175,Mission,Middle
+node/13840809668,Mission,Middle
+node/13840809670,Mission,Middle
+node/13841164652,Mission,Middle
+node/13841164655,Mission,Middle
+node/13841164656,Mission,Middle
+node/13841356416,Mission,Middle
+node/13842465160,Mission,Middle
+node/13846823718,Japantown,Lower
+node/13854437906,Bayview Hunters Point,Lower
+node/13854437906,Mission,Middle
+node/13859085701,Mission,Middle
+node/13861413199,Haight Ashbury,Higher
+node/13861876104,Haight Ashbury,Higher
+node/13890030377,Sunset/Parkside,Middle
+node/13894684445,Mission,Middle
+node/13894684445,Japantown,Lower
+node/13899480097,Japantown,Lower
+node/13903385862,Mission,Middle
+node/13903385864,Mission,Middle
+node/13905876747,Mission,Middle
+node/13905876749,Mission,Middle
+node/13905876753,Mission,Middle
+node/13905947781,Mission,Middle
+node/13905947790,Mission,Middle
+node/13906005402,Mission,Middle
+node/13906005403,Mission,Middle
+node/13906059705,Mission,Middle
+node/13906059706,Mission,Middle
+node/13906059709,Mission,Middle
+node/13906101393,Mission,Middle
+node/13906106914,Mission,Middle
+node/13906106917,Mission,Middle
+node/13914899882,Mission,Middle
+node/13936940301,Mission Bay,Higher
+node/13944114538,Haight Ashbury,Higher
+node/13944128526,Mission,Middle
+node/13948047244,Bayview Hunters Point,Lower
+node/13948047244,Mission,Middle
+node/13948047252,Bayview Hunters Point,Lower
+node/13948047252,Mission,Middle
+node/13948684979,Mission,Middle
+node/13948684980,Mission,Middle
+node/13948684983,Mission,Middle
+node/13950484458,Mission,Middle
+node/13950484459,Mission,Middle
+node/13950521201,Mission,Middle
+node/13950940798,Bayview Hunters Point,Lower
+node/13950940798,Mission,Middle
+node/13951064003,Bayview Hunters Point,Lower
+node/13951064003,Mission,Middle
+node/13963337801,Mission,Middle
+node/13963337801,Mission Bay,Higher
+node/13966321934,Mission,Middle
+node/13966321934,Haight Ashbury,Higher
+node/13978346301,Mission,Middle
+node/13978346301,Mission Bay,Higher
+node/13989490629,Mission,Middle
+node/13989490635,Mission,Middle
+node/13991331474,Mission,Middle
+node/13991331474,Haight Ashbury,Higher
+node/13994037302,Haight Ashbury,Higher
+node/14001652025,Mission,Middle
+node/14001706461,Mission,Middle
+node/14003824529,Mission,Middle
+node/14007250976,Mission,Middle
+node/14017433107,Mission,Middle
+node/14019137070,Mission,Middle
+node/14019137072,Mission,Middle
+node/14023454051,Sunset/Parkside,Middle
+node/14024865182,Sunset/Parkside,Middle
+node/14047925301,Mission,Middle
+node/14047925301,Mission Bay,Higher
+node/14052475620,Mission,Middle
+node/14052475620,Mission Bay,Higher
+node/14062999501,Mission,Middle
+node/14062999501,Mission Bay,Higher
+node/14063013515,Haight Ashbury,Higher
+node/14077434880,Mission,Middle
+node/14077454126,Mission,Middle
+node/14094687136,Mission,Middle
+node/14097724424,Mission,Middle
+node/14097829867,Sunset/Parkside,Middle
+node/14097829868,Sunset/Parkside,Middle
+node/14100152275,Sunset/Parkside,Middle
+node/14100370201,Mission Bay,Higher
+node/14111610595,Japantown,Lower
+node/14113732470,Sunset/Parkside,Middle
+node/14125736295,Mission Bay,Higher
+node/14127402710,Japantown,Lower
+node/14132518670,Mission,Middle
+node/14134056530,Bayview Hunters Point,Lower
+node/14134056531,Bayview Hunters Point,Lower
+node/14134056532,Bayview Hunters Point,Lower
+node/14134056533,Bayview Hunters Point,Lower
+node/14156350917,Japantown,Lower
+node/14202236964,Mission,Middle
+node/14202236964,Haight Ashbury,Higher
+node/14232693501,Mission,Middle
+node/14244882146,Mission,Middle
+node/14244882146,Mission Bay,Higher
+node/14244882857,Mission,Middle
+node/14244983538,Mission Bay,Higher
+node/14244992127,Bayview Hunters Point,Lower
+node/14256708353,Mission,Middle
+node/14256786435,Sunset/Parkside,Middle
+node/14256835437,Mission,Middle
+node/14256835437,Haight Ashbury,Higher
+node/14271447001,Mission,Middle
+node/14282347140,Mission,Middle
+node/14306300928,Mission,Middle
+node/14306300931,Mission,Middle
+node/14306300933,Mission,Middle
+node/14307856912,Mission,Middle
+node/14307926219,Mission,Middle
+node/14307926226,Mission,Middle
+node/14307926227,Mission,Middle
+node/14319706202,Mission,Middle
+node/14319706202,Mission Bay,Higher
+relation/3474418,Bayview Hunters Point,Lower
+relation/3474418,Mission,Middle
+relation/3585039,Sunset/Parkside,Middle
+relation/3848519,Bayview Hunters Point,Lower
+relation/21002238,Mission,Middle
+relation/21002238,Mission Bay,Higher
+way/24446045,Bayview Hunters Point,Lower
+way/24446045,Mission,Middle
+way/25821942,Mission,Middle
+way/25821942,Mission Bay,Higher
+way/25821952,Mission,Middle
+way/28283690,Mission,Middle
+way/28283690,Mission Bay,Higher
+way/28941473,Sunset/Parkside,Middle
+way/32864112,Mission,Middle
+way/34323155,Japantown,Lower
+way/35343322,Mission,Middle
+way/35343322,Mission Bay,Higher
+way/42916776,Mission,Middle
+way/42916777,Mission,Middle
+way/42916778,Mission,Middle
+way/51239671,Sunset/Parkside,Middle
+way/55953431,Sunset/Parkside,Middle
+way/55954315,Sunset/Parkside,Middle
+way/55954317,Sunset/Parkside,Middle
+way/104600008,Mission Bay,Higher
+way/112073351,Mission,Middle
+way/112073351,Haight Ashbury,Higher
+way/112757637,Mission,Middle
+way/121024973,Mission,Middle
+way/121024973,Haight Ashbury,Higher
+way/124659443,Mission Bay,Higher
+way/124889473,Mission Bay,Higher
+way/129878563,Sunset/Parkside,Middle
+way/129878642,Sunset/Parkside,Middle
+way/129903304,Sunset/Parkside,Middle
+way/132605451,Mission,Middle
+way/132605451,Mission Bay,Higher
+way/132605452,Mission,Middle
+way/132605452,Mission Bay,Higher
+way/132605462,Mission,Middle
+way/149705546,Japantown,Lower
+way/151183375,Bayview Hunters Point,Lower
+way/160702015,Haight Ashbury,Higher
+way/160705973,Japantown,Lower
+way/160709337,Mission,Middle
+way/160710807,Japantown,Lower
+way/160833245,Japantown,Lower
+way/160833250,Japantown,Lower
+way/162470915,Sunset/Parkside,Middle
+way/167489680,Mission,Middle
+way/167489680,Mission Bay,Higher
+way/167489684,Mission,Middle
+way/167489684,Mission Bay,Higher
+way/169204244,Mission,Middle
+way/169204245,Mission,Middle
+way/169794731,Sunset/Parkside,Middle
+way/169794732,Sunset/Parkside,Middle
+way/173106512,Sunset/Parkside,Middle
+way/173632658,Sunset/Parkside,Middle
+way/173642176,Sunset/Parkside,Middle
+way/173725094,Mission,Middle
+way/184539481,Mission,Middle
+way/184539481,Mission Bay,Higher
+way/194903899,Mission,Middle
+way/194906343,Mission,Middle
+way/194906345,Mission,Middle
+way/197463900,Japantown,Lower
+way/213590055,Sunset/Parkside,Middle
+way/213616091,Sunset/Parkside,Middle
+way/215472854,Sunset/Parkside,Middle
+way/216220324,Mission Bay,Higher
+way/216220336,Mission Bay,Higher
+way/218159533,Mission,Middle
+way/218159533,Mission Bay,Higher
+way/218159534,Mission,Middle
+way/218159534,Mission Bay,Higher
+way/218262080,Mission,Middle
+way/218262080,Mission Bay,Higher
+way/219058329,Sunset/Parkside,Middle
+way/219072560,Mission,Middle
+way/219072560,Haight Ashbury,Higher
+way/219072798,Mission,Middle
+way/219072798,Mission Bay,Higher
+way/219783346,Mission,Middle
+way/219783346,Mission Bay,Higher
+way/219783445,Mission,Middle
+way/219783445,Mission Bay,Higher
+way/219783460,Mission,Middle
+way/219783460,Mission Bay,Higher
+way/219783467,Mission,Middle
+way/219783467,Mission Bay,Higher
+way/219783486,Mission,Middle
+way/219783486,Mission Bay,Higher
+way/220338806,Haight Ashbury,Higher
+way/220601194,Haight Ashbury,Higher
+way/220614221,Haight Ashbury,Higher
+way/220614267,Haight Ashbury,Higher
+way/223616923,Haight Ashbury,Higher
+way/224919831,Mission,Middle
+way/225059822,Mission,Middle
+way/227005940,Mission,Middle
+way/228246796,Haight Ashbury,Higher
+way/228247742,Haight Ashbury,Higher
+way/231047897,Mission,Middle
+way/231656266,Mission,Middle
+way/240174689,Mission,Middle
+way/242991006,Mission,Middle
+way/242991006,Mission Bay,Higher
+way/243246349,Mission Bay,Higher
+way/243353690,Mission Bay,Higher
+way/243353707,Mission,Middle
+way/243353707,Mission Bay,Higher
+way/243353721,Mission,Middle
+way/243353721,Mission Bay,Higher
+way/243356547,Mission,Middle
+way/243356547,Mission Bay,Higher
+way/243356581,Mission Bay,Higher
+way/243357039,Mission,Middle
+way/243357039,Mission Bay,Higher
+way/243464457,Mission Bay,Higher
+way/247085039,Mission,Middle
+way/247085039,Haight Ashbury,Higher
+way/247957676,Mission,Middle
+way/247957676,Mission Bay,Higher
+way/251379303,Mission,Middle
+way/251379303,Mission Bay,Higher
+way/251511538,Mission Bay,Higher
+way/252221828,Mission,Middle
+way/252221828,Haight Ashbury,Higher
+way/252223648,Sunset/Parkside,Middle
+way/252223649,Sunset/Parkside,Middle
+way/252232843,Mission,Middle
+way/252232843,Mission Bay,Higher
+way/253224305,Haight Ashbury,Higher
+way/255956240,Mission,Middle
+way/255956242,Mission,Middle
+way/255956517,Mission,Middle
+way/255967301,Mission,Middle
+way/255967301,Mission Bay,Higher
+way/255967554,Mission,Middle
+way/255967554,Mission Bay,Higher
+way/256045025,Japantown,Lower
+way/256051615,Japantown,Lower
+way/256092423,Mission,Middle
+way/256454808,Mission,Middle
+way/256462436,Mission,Middle
+way/256462436,Mission Bay,Higher
+way/256468304,Mission,Middle
+way/256468304,Mission Bay,Higher
+way/256471156,Mission,Middle
+way/256710553,Mission,Middle
+way/256710553,Haight Ashbury,Higher
+way/256730304,Mission,Middle
+way/256750430,Haight Ashbury,Higher
+way/256750430,Japantown,Lower
+way/256849284,Mission,Middle
+way/256969995,Mission Bay,Higher
+way/256985512,Japantown,Lower
+way/257542340,Japantown,Lower
+way/257802448,Japantown,Lower
+way/257802450,Japantown,Lower
+way/258016923,Bayview Hunters Point,Lower
+way/258016923,Mission,Middle
+way/258157226,Bayview Hunters Point,Lower
+way/258157226,Mission,Middle
+way/258640400,Mission,Middle
+way/258866770,Bayview Hunters Point,Lower
+way/258866770,Mission,Middle
+way/258866773,Bayview Hunters Point,Lower
+way/258866773,Mission,Middle
+way/258866790,Bayview Hunters Point,Lower
+way/258866790,Mission,Middle
+way/258962187,Mission,Middle
+way/258975961,Mission,Middle
+way/259001360,Bayview Hunters Point,Lower
+way/259056907,Bayview Hunters Point,Lower
+way/259056907,Mission,Middle
+way/259067807,Mission,Middle
+way/259965510,Japantown,Lower
+way/259974366,Japantown,Lower
+way/260068031,Mission Bay,Higher
+way/260123558,Mission,Middle
+way/260146990,Mission,Middle
+way/260152109,Mission,Middle
+way/260177843,Mission,Middle
+way/260194579,Haight Ashbury,Higher
+way/260241908,Mission Bay,Higher
+way/260322174,Mission,Middle
+way/260345813,Mission,Middle
+way/260345816,Mission,Middle
+way/260354461,Mission,Middle
+way/260354461,Mission Bay,Higher
+way/260462506,Mission,Middle
+way/260470624,Mission,Middle
+way/260470624,Haight Ashbury,Higher
+way/260472214,Mission,Middle
+way/260472214,Mission Bay,Higher
+way/260494838,Mission,Middle
+way/260494838,Haight Ashbury,Higher
+way/260501602,Mission,Middle
+way/260940172,Mission,Middle
+way/260940172,Mission Bay,Higher
+way/260940180,Mission,Middle
+way/260940180,Mission Bay,Higher
+way/260946370,Mission,Middle
+way/260960876,Mission,Middle
+way/260973325,Mission,Middle
+way/261102266,Mission,Middle
+way/261103517,Mission,Middle
+way/261142905,Japantown,Lower
+way/261146642,Mission,Middle
+way/261268776,Mission,Middle
+way/261268776,Haight Ashbury,Higher
+way/261292748,Haight Ashbury,Higher
+way/261292750,Haight Ashbury,Higher
+way/261412256,Mission,Middle
+way/261412256,Haight Ashbury,Higher
+way/261459463,Haight Ashbury,Higher
+way/261725040,Haight Ashbury,Higher
+way/261725040,Japantown,Lower
+way/262586269,Japantown,Lower
+way/263219748,Japantown,Lower
+way/263224863,Japantown,Lower
+way/263278576,Japantown,Lower
+way/263486824,Japantown,Lower
+way/263490218,Japantown,Lower
+way/263490219,Japantown,Lower
+way/263490220,Japantown,Lower
+way/263490225,Japantown,Lower
+way/263490227,Japantown,Lower
+way/263490229,Japantown,Lower
+way/263490230,Japantown,Lower
+way/263491940,Japantown,Lower
+way/263492935,Japantown,Lower
+way/263819122,Haight Ashbury,Higher
+way/263824675,Haight Ashbury,Higher
+way/264254810,Bayview Hunters Point,Lower
+way/264254813,Bayview Hunters Point,Lower
+way/264254814,Bayview Hunters Point,Lower
+way/264371887,Haight Ashbury,Higher
+way/264371891,Haight Ashbury,Higher
+way/264371921,Haight Ashbury,Higher
+way/264381682,Haight Ashbury,Higher
+way/264381687,Haight Ashbury,Higher
+way/264645155,Haight Ashbury,Higher
+way/264645161,Haight Ashbury,Higher
+way/265434502,Haight Ashbury,Higher
+way/266673467,Mission Bay,Higher
+way/267111789,Sunset/Parkside,Middle
+way/267121741,Sunset/Parkside,Middle
+way/267242909,Mission,Middle
+way/267242909,Mission Bay,Higher
+way/267250411,Mission,Middle
+way/267250411,Mission Bay,Higher
+way/267277641,Mission Bay,Higher
+way/267298356,Mission Bay,Higher
+way/267692318,Sunset/Parkside,Middle
+way/267730623,Sunset/Parkside,Middle
+way/267765626,Sunset/Parkside,Middle
+way/271114478,Mission,Middle
+way/271460262,Mission,Middle
+way/273191224,Japantown,Lower
+way/273331515,Japantown,Lower
+way/273538398,Mission,Middle
+way/274291968,Japantown,Lower
+way/274324995,Bayview Hunters Point,Lower
+way/274362602,Bayview Hunters Point,Lower
+way/274362602,Mission Bay,Higher
+way/276049451,Mission,Middle
+way/276061216,Mission,Middle
+way/276535407,Sunset/Parkside,Middle
+way/276546379,Sunset/Parkside,Middle
+way/276561997,Sunset/Parkside,Middle
+way/276587667,Sunset/Parkside,Middle
+way/276587671,Sunset/Parkside,Middle
+way/276587680,Sunset/Parkside,Middle
+way/276623337,Sunset/Parkside,Middle
+way/276623340,Sunset/Parkside,Middle
+way/276635947,Sunset/Parkside,Middle
+way/276641699,Sunset/Parkside,Middle
+way/276652827,Sunset/Parkside,Middle
+way/276652832,Sunset/Parkside,Middle
+way/276814462,Sunset/Parkside,Middle
+way/276814483,Sunset/Parkside,Middle
+way/276814493,Sunset/Parkside,Middle
+way/277105823,Sunset/Parkside,Middle
+way/277135271,Sunset/Parkside,Middle
+way/277830597,Sunset/Parkside,Middle
+way/277861419,Sunset/Parkside,Middle
+way/277935099,Sunset/Parkside,Middle
+way/278909610,Sunset/Parkside,Middle
+way/281824951,Sunset/Parkside,Middle
+way/281824993,Sunset/Parkside,Middle
+way/283457570,Sunset/Parkside,Middle
+way/283469492,Sunset/Parkside,Middle
+way/284437954,Sunset/Parkside,Middle
+way/284845979,Sunset/Parkside,Middle
+way/284846069,Sunset/Parkside,Middle
+way/284846116,Sunset/Parkside,Middle
+way/284859342,Sunset/Parkside,Middle
+way/284859359,Sunset/Parkside,Middle
+way/286151556,Sunset/Parkside,Middle
+way/286277225,Sunset/Parkside,Middle
+way/286343693,Sunset/Parkside,Middle
+way/287720563,Sunset/Parkside,Middle
+way/287772480,Sunset/Parkside,Middle
+way/287871298,Bayview Hunters Point,Lower
+way/287871299,Bayview Hunters Point,Lower
+way/287871299,Mission,Middle
+way/287872060,Bayview Hunters Point,Lower
+way/287872060,Mission,Middle
+way/287874295,Bayview Hunters Point,Lower
+way/287874295,Mission,Middle
+way/287891344,Bayview Hunters Point,Lower
+way/287938825,Bayview Hunters Point,Lower
+way/287951728,Haight Ashbury,Higher
+way/288530412,Bayview Hunters Point,Lower
+way/288530457,Sunset/Parkside,Middle
+way/288531129,Japantown,Lower
+way/288533921,Japantown,Lower
+way/288538913,Sunset/Parkside,Middle
+way/288538918,Sunset/Parkside,Middle
+way/288538921,Sunset/Parkside,Middle
+way/288678028,Sunset/Parkside,Middle
+way/288678031,Sunset/Parkside,Middle
+way/288723497,Bayview Hunters Point,Lower
+way/288793458,Mission,Middle
+way/288793458,Mission Bay,Higher
+way/288815193,Bayview Hunters Point,Lower
+way/289372506,Bayview Hunters Point,Lower
+way/289390188,Bayview Hunters Point,Lower
+way/289417493,Bayview Hunters Point,Lower
+way/289462931,Bayview Hunters Point,Lower
+way/289560462,Bayview Hunters Point,Lower
+way/289754597,Bayview Hunters Point,Lower
+way/289888724,Bayview Hunters Point,Lower
+way/290023421,Bayview Hunters Point,Lower
+way/290044336,Bayview Hunters Point,Lower
+way/293604057,Mission,Middle
+way/293604057,Mission Bay,Higher
+way/308656774,Mission Bay,Higher
+way/342355386,Mission,Middle
+way/351964812,Mission,Middle
+way/351964812,Mission Bay,Higher
+way/356986496,Mission,Middle
+way/356986496,Mission Bay,Higher
+way/358450425,Sunset/Parkside,Middle
+way/363054684,Mission,Middle
+way/376761568,Haight Ashbury,Higher
+way/382351223,Mission,Middle
+way/382351223,Mission Bay,Higher
+way/402854614,Mission,Middle
+way/407408481,Sunset/Parkside,Middle
+way/437591532,Mission Bay,Higher
+way/437595662,Mission Bay,Higher
+way/460114150,Mission,Middle
+way/488801016,Bayview Hunters Point,Lower
+way/503427028,Mission,Middle
+way/505189954,Mission,Middle
+way/505189954,Mission Bay,Higher
+way/572156641,Mission Bay,Higher
+way/574650035,Mission Bay,Higher
+way/580277612,Mission Bay,Higher
+way/587670476,Mission,Middle
+way/609637902,Sunset/Parkside,Middle
+way/706220285,Sunset/Parkside,Middle
+way/724838113,Haight Ashbury,Higher
+way/741807261,Bayview Hunters Point,Lower
+way/879165822,Bayview Hunters Point,Lower
+way/899098828,Bayview Hunters Point,Lower
+way/910221165,Haight Ashbury,Higher
+way/935627815,Mission,Middle
+way/935627815,Haight Ashbury,Higher
+way/941705060,Mission,Middle
+way/976652374,Mission Bay,Higher
+way/976652375,Mission Bay,Higher
+way/976652376,Mission Bay,Higher
+way/978883777,Mission Bay,Higher
+way/996450651,Japantown,Lower
+way/996450654,Japantown,Lower
+way/996450659,Japantown,Lower
+way/996450661,Japantown,Lower
+way/996450668,Japantown,Lower
+way/996538299,Japantown,Lower
+way/996750960,Japantown,Lower
+way/996750961,Japantown,Lower
+way/996750962,Japantown,Lower
+way/996750963,Japantown,Lower
+way/996750964,Japantown,Lower
+way/996750965,Japantown,Lower
+way/996750967,Japantown,Lower
+way/996750969,Japantown,Lower
+way/996750970,Japantown,Lower
+way/996750974,Japantown,Lower
+way/996750975,Japantown,Lower
+way/996750976,Japantown,Lower
+way/996750979,Japantown,Lower
+way/996750982,Japantown,Lower
+way/996750983,Japantown,Lower
+way/996750986,Japantown,Lower
+way/996750994,Japantown,Lower
+way/1036654457,Bayview Hunters Point,Lower
+way/1084548879,Japantown,Lower
+way/1084548880,Japantown,Lower
+way/1084548881,Japantown,Lower
+way/1084548882,Japantown,Lower
+way/1084548884,Japantown,Lower
+way/1084548887,Japantown,Lower
+way/1121794105,Mission,Middle
+way/1121794105,Mission Bay,Higher
+way/1121952098,Mission,Middle
+way/1121952098,Mission Bay,Higher
+way/1147800704,Bayview Hunters Point,Lower
+way/1147800705,Bayview Hunters Point,Lower
+way/1154421761,Mission Bay,Higher
+way/1154421762,Mission Bay,Higher
+way/1168876044,Mission Bay,Higher
+way/1210909996,Mission Bay,Higher
+way/1210909997,Mission Bay,Higher
+way/1210909998,Mission Bay,Higher
+way/1210909999,Mission Bay,Higher
+way/1210910000,Mission Bay,Higher
+way/1210910006,Mission Bay,Higher
+way/1243657270,Mission Bay,Higher
+way/1247327332,Sunset/Parkside,Middle
+way/1252742107,Mission Bay,Higher
+way/1372789570,Mission Bay,Higher
+way/1378825464,Sunset/Parkside,Middle
+way/1444818415,Haight Ashbury,Higher
+way/1571253239,Mission,Middle
+way/1571253239,Haight Ashbury,Higher
+way/1571253258,Mission,Middle
