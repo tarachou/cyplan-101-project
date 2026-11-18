@@ -1,0 +1,167 @@
+osm_key,name,shop,amenity,healthcare,is_grocery,is_health,is_food_drink,is_general_retail,category_count,manual_category_status,category_screen_decision
+node/387243372,Chan's Trains and Hobbies,hobby,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416669362,Chas J. Grisez Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416669877,Toyoko's Attraction,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416779650,Photograph & Frame,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416780319,Hand Touch Nail Care,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416780380,Eye X,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416780438,Red Dot,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416782112,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/416784125,Renee Rivera Hair Accessories,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/1393986242,GNG Liquors,beverages,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/1713256900,Noe Valley Salon,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/1969281076,The Collective Studios,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/2130264968,Busacca Gallery,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/2304346657,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/2318141900,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/2318141902,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/2998152476,Olive This Olive That,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3562957694,Dragon Lounge,mobile_phone,bar,,False,False,True,True,2,Hold: conflicting bar/mobile-phone tags,Review: conflicting category tags
+node/3692823565,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3837726407,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3860446326,Rental,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3969574175,Heung Cheung Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3969578798,Kongming Glass Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3969653430,H^2 Cards,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3969653432,Iron and Resin,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3986887652,Urban Sidewalk,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3986887654,The Underground,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3987038853,Tai Yick Trading Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/3987054901,Southern Gift Trade Company,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4013730318,Ho Kee Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4013730320,Jing Ye Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017208353,Chung Chau City Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017208354,Sun Sun Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017211396,Tan Tan Trading Co Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017220285,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017220489,New Louie's Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4017246017,Gum Sing Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4018981890,Long Hua Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4024208406,CA Pacific Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4039513704,Heart of Shanghai,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4055391816,Sun Sang tong,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4055391820,Jumbo Trading Company,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4055440128,Gum Sun Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4055440129,J.C. Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4057348981,Dodo Case,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4074348885,J.W. Huang Acupuncture & Herbal Medicine,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4074382931,Universal Trading Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4074389894,Yu Fung Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4074389895,Went Worth Trading Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4074433655,Ying Hobbies & Toys,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077358635,Wen Sang Jade,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077360764,Pacific Overseas Group (U.S.A) Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077365953,China Dragon Trading Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077365954,Gift Entertainment,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077368817,Tung Shing Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077368818,Taiyuen Trade Center,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077372342,Juicy Fruit,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4077372343,Hue An Company,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4098701617,Bao Li,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4100737130,Ellison Enterprises Corp,herbs;ginseng,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4100737131,L&G Trading,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4101111009,Zon Xi,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4101128311,Wing Hang Co Chinese herbs,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4101128316,Yuen Wei Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4103856289,Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4103856291,Catering Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4103856292,Foghorn Bayview,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4106728612,Wan Hua Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4106748109,Hing Sing Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4106748111,New Went Worth Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4106815506,Bou Shing Ginseng & Tea Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4106815507,Ming Lee Trading Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4136198316,Fortune Star Trading Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4136202579,Asiastar Fantasy Inc,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4136206223,Let's go,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4136206224,YOU & ME Fashion,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4136206225,Feng Ze Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4156154833,Wan Cheong Ginseng Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4156154836,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4156154837,Hop Hing Ginseng Co,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4218366859,Geogina's,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4241957139,Artesanias & Transportes El Salvador,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4241975786,Xodi,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4241989283,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4339548347,SieMatic,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4613935939,Five Star Cleaners Alterations,vacuum_cleaner,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4625180675,Nails 2001,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/4631729491,Robert Paul,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/5251308682,Kühl,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/6615153573,Weightwatchers,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/6654106667,Happy Yogurt,food,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/6821555212,Sephora Studio,disused:cosmetics,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/6833462323,Clement Store,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/6833462329,Clement Dung Market,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9397924899,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9588294491,Parkwest Casinos,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225639,World of Magnets,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225640,Peking Bazaar,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225642,Asian Styles,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225650,Easy Traveler,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225651,New Peking,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225652,Gold Wing Imports,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602225657,Asian Trends,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9602320669,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9705865886,Best Travel,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9725210186,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9735505798,Quong Hoa Duong Ginseng Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9735505800,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9861755701,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9948697309,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9955991898,Bebo,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9968882278,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9995626302,Cloud9 Gift Shop,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/9995637864,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10034277800,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10303811686,Botto petite,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10555405436,Fluid Free Ride,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10555729742,Cayson,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10560594657,Floreal L'Atelier,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10563423089,Copyology,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10606540541,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10674661691,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10682058862,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10749483820,Dion+Cole,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/10764895821,Judy Trading Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/11296221835,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/11296221838,Yong Fong Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/11296221839,Variety Shop,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/11582836771,Wheelhouse Clay,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/11974004196,Wing Lung Co.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12072409417,Tiger Scooter Repair,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12101392210,Art & Craft Workshops,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12202909771,Ying Hobbies and Toys,anime,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12202909772,Asia Star Fantasy,anime,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12202915227,JR Gift Shop,anime,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12440345643,International Beauty College,yes,school,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12440345648,Big Day Service,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12740040066,Ebiko,sushi,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12816926985,Super Nature Power,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12816926992,Lion Trading,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/12872349012,Trader Sam's,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13028496895,Kang Hua Trading Inc.,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13093807551,OK Marketplace,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13173765823,Frenzy Faire,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13191190408,B12 Love,nutrition_supplements,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13295227593,Golden Hill Monument,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13719652774,Hermanitas Diseñadoras,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13927647460,Shield Fire Protection,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/13939662177,Rixi's Boutique,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+node/14368863776,Emotion Potion,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/259974351,,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/271460286,HK Fire Protection,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/274675761,Bridal Religion by Monique Zhang,yes,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/286673063,Oceanview Market & Deli,beverages,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/287688546,Kwok Hong Chinese Herbs,nutrition_supplements,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/722054926,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/899658569,Kezar Lot,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/906437392,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/906437405,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/906618461,Projection kiosk,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/906618462,Projection kiosk,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/907910632,Arco,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/1135556198,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/1189071435,Yes Pudding,pudding,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/1358500530,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category
+way/1555239661,,kiosk,,,False,False,False,False,0,No manual override,Review: unspecified or unmapped category

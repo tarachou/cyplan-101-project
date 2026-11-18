@@ -1,0 +1,7 @@
+nhood,income_band,median_Grocery/convenience,median_Pharmacy/health,median_Food/drink,median_General retail,median_total_distinct_destinations,total_origins,routing_origins
+Bayview Hunters Point,Lower,5.0,1.0,20.5,8.0,36.0,105,102
+Haight Ashbury,Higher,20.0,9.0,113.0,90.0,240.0,33,33
+Japantown,Lower,26.0,39.0,180.0,104.5,346.0,12,12
+Mission,Middle,42.0,33.0,259.0,126.0,474.0,83,83
+Mission Bay,Higher,7.0,15.0,100.0,32.0,150.0,27,27
+Sunset/Parkside,Middle,4.0,9.5,32.0,12.0,59.0,186,186

@@ -1,0 +1,61 @@
+nhood,income_band,category,slot_id,analysis_day,origins_routed,median_reachable,median_recorded_open,median_open_if_unknown_hours_open,median_known_hours_pct,scenario_gap_destinations,walk_budget_minutes,walk_speed_kph
+Bayview Hunters Point,Lower,All destinations,Saturday_12:00,Saturday,102,36.0,5.0,35.0,21.249430004559965,30.0,15,4.8
+Bayview Hunters Point,Lower,All destinations,Wednesday_12:00,Wednesday,102,36.0,6.0,36.0,21.249430004559965,30.0,15,4.8
+Bayview Hunters Point,Lower,Food/drink,Saturday_12:00,Saturday,102,20.5,4.0,20.0,25.0,16.0,15,4.8
+Bayview Hunters Point,Lower,Food/drink,Wednesday_12:00,Wednesday,102,20.5,4.0,20.0,25.0,16.0,15,4.8
+Bayview Hunters Point,Lower,General retail,Saturday_12:00,Saturday,102,8.0,0.0,6.5,14.285714285714286,6.5,15,4.8
+Bayview Hunters Point,Lower,General retail,Wednesday_12:00,Wednesday,102,8.0,1.0,8.0,14.285714285714286,7.0,15,4.8
+Bayview Hunters Point,Lower,Grocery/convenience,Saturday_12:00,Saturday,102,5.0,1.0,5.0,20.0,4.0,15,4.8
+Bayview Hunters Point,Lower,Grocery/convenience,Wednesday_12:00,Wednesday,102,5.0,1.0,5.0,20.0,4.0,15,4.8
+Bayview Hunters Point,Lower,Pharmacy/health,Saturday_12:00,Saturday,102,1.0,0.0,1.0,0.0,1.0,15,4.8
+Bayview Hunters Point,Lower,Pharmacy/health,Wednesday_12:00,Wednesday,102,1.0,0.0,1.0,0.0,1.0,15,4.8
+Haight Ashbury,Higher,All destinations,Saturday_12:00,Saturday,33,240.0,121.0,229.0,60.0,108.0,15,4.8
+Haight Ashbury,Higher,All destinations,Wednesday_12:00,Wednesday,33,240.0,119.0,226.0,60.0,107.0,15,4.8
+Haight Ashbury,Higher,Food/drink,Saturday_12:00,Saturday,33,113.0,64.0,104.0,68.85245901639344,40.0,15,4.8
+Haight Ashbury,Higher,Food/drink,Wednesday_12:00,Wednesday,33,113.0,62.0,102.0,68.85245901639344,40.0,15,4.8
+Haight Ashbury,Higher,General retail,Saturday_12:00,Saturday,33,90.0,49.0,89.0,53.333333333333336,40.0,15,4.8
+Haight Ashbury,Higher,General retail,Wednesday_12:00,Wednesday,33,90.0,47.0,88.0,53.333333333333336,41.0,15,4.8
+Haight Ashbury,Higher,Grocery/convenience,Saturday_12:00,Saturday,33,20.0,9.0,20.0,47.61904761904762,11.0,15,4.8
+Haight Ashbury,Higher,Grocery/convenience,Wednesday_12:00,Wednesday,33,20.0,9.0,20.0,47.61904761904762,11.0,15,4.8
+Haight Ashbury,Higher,Pharmacy/health,Saturday_12:00,Saturday,33,9.0,2.0,7.0,40.0,5.0,15,4.8
+Haight Ashbury,Higher,Pharmacy/health,Wednesday_12:00,Wednesday,33,9.0,4.0,9.0,40.0,5.0,15,4.8
+Japantown,Lower,All destinations,Saturday_12:00,Saturday,12,346.0,124.0,323.5,42.94289371799675,199.5,15,4.8
+Japantown,Lower,All destinations,Wednesday_12:00,Wednesday,12,346.0,119.0,318.5,42.94289371799675,199.5,15,4.8
+Japantown,Lower,Food/drink,Saturday_12:00,Saturday,12,180.0,72.5,162.5,50.38718955694452,90.0,15,4.8
+Japantown,Lower,Food/drink,Wednesday_12:00,Wednesday,12,180.0,68.5,158.5,50.38718955694452,90.0,15,4.8
+Japantown,Lower,General retail,Saturday_12:00,Saturday,12,104.5,40.0,103.5,39.58116093152589,63.5,15,4.8
+Japantown,Lower,General retail,Wednesday_12:00,Wednesday,12,104.5,36.0,99.5,39.58116093152589,63.5,15,4.8
+Japantown,Lower,Grocery/convenience,Saturday_12:00,Saturday,12,26.0,8.0,26.0,28.07881773399015,18.0,15,4.8
+Japantown,Lower,Grocery/convenience,Wednesday_12:00,Wednesday,12,26.0,8.0,26.0,28.07881773399015,18.0,15,4.8
+Japantown,Lower,Pharmacy/health,Saturday_12:00,Saturday,12,39.0,7.0,35.0,25.647840531561464,28.0,15,4.8
+Japantown,Lower,Pharmacy/health,Wednesday_12:00,Wednesday,12,39.0,9.5,39.0,25.647840531561464,29.5,15,4.8
+Mission,Middle,All destinations,Saturday_12:00,Saturday,83,474.0,182.0,430.0,48.96694214876033,248.0,15,4.8
+Mission,Middle,All destinations,Wednesday_12:00,Wednesday,83,474.0,174.0,420.0,48.96694214876033,246.0,15,4.8
+Mission,Middle,Food/drink,Saturday_12:00,Saturday,83,259.0,105.0,225.0,53.793103448275865,120.0,15,4.8
+Mission,Middle,Food/drink,Wednesday_12:00,Wednesday,83,259.0,94.0,215.0,53.793103448275865,121.0,15,4.8
+Mission,Middle,General retail,Saturday_12:00,Saturday,83,126.0,54.0,122.0,45.21739130434783,68.0,15,4.8
+Mission,Middle,General retail,Wednesday_12:00,Wednesday,83,126.0,54.0,124.0,45.21739130434783,70.0,15,4.8
+Mission,Middle,Grocery/convenience,Saturday_12:00,Saturday,83,42.0,17.0,42.0,41.666666666666664,25.0,15,4.8
+Mission,Middle,Grocery/convenience,Wednesday_12:00,Wednesday,83,42.0,17.0,42.0,41.666666666666664,25.0,15,4.8
+Mission,Middle,Pharmacy/health,Saturday_12:00,Saturday,83,33.0,5.0,28.0,28.0,23.0,15,4.8
+Mission,Middle,Pharmacy/health,Wednesday_12:00,Wednesday,83,33.0,8.0,31.0,28.0,23.0,15,4.8
+Mission Bay,Higher,All destinations,Saturday_12:00,Saturday,27,150.0,62.0,132.0,52.79503105590062,70.0,15,4.8
+Mission Bay,Higher,All destinations,Wednesday_12:00,Wednesday,27,150.0,72.0,142.0,52.79503105590062,70.0,15,4.8
+Mission Bay,Higher,Food/drink,Saturday_12:00,Saturday,27,100.0,40.0,85.0,52.459016393442624,45.0,15,4.8
+Mission Bay,Higher,Food/drink,Wednesday_12:00,Wednesday,27,100.0,48.0,93.0,52.459016393442624,45.0,15,4.8
+Mission Bay,Higher,General retail,Saturday_12:00,Saturday,27,32.0,17.0,29.0,58.333333333333336,12.0,15,4.8
+Mission Bay,Higher,General retail,Wednesday_12:00,Wednesday,27,32.0,20.0,32.0,58.333333333333336,12.0,15,4.8
+Mission Bay,Higher,Grocery/convenience,Saturday_12:00,Saturday,27,7.0,3.0,6.0,80.0,3.0,15,4.8
+Mission Bay,Higher,Grocery/convenience,Wednesday_12:00,Wednesday,27,7.0,3.0,6.0,80.0,3.0,15,4.8
+Mission Bay,Higher,Pharmacy/health,Saturday_12:00,Saturday,27,15.0,3.0,12.0,38.46153846153846,9.0,15,4.8
+Mission Bay,Higher,Pharmacy/health,Wednesday_12:00,Wednesday,27,15.0,5.0,15.0,38.46153846153846,10.0,15,4.8
+Sunset/Parkside,Middle,All destinations,Saturday_12:00,Saturday,186,59.0,14.0,57.0,30.76923076923077,43.0,15,4.8
+Sunset/Parkside,Middle,All destinations,Wednesday_12:00,Wednesday,186,59.0,12.0,54.0,30.76923076923077,42.0,15,4.8
+Sunset/Parkside,Middle,Food/drink,Saturday_12:00,Saturday,186,32.0,9.0,29.5,41.164994425863995,20.5,15,4.8
+Sunset/Parkside,Middle,Food/drink,Wednesday_12:00,Wednesday,186,32.0,8.0,28.0,41.164994425863995,20.0,15,4.8
+Sunset/Parkside,Middle,General retail,Saturday_12:00,Saturday,186,12.0,3.0,12.0,25.0,9.0,15,4.8
+Sunset/Parkside,Middle,General retail,Wednesday_12:00,Wednesday,186,12.0,3.0,11.0,25.0,8.0,15,4.8
+Sunset/Parkside,Middle,Grocery/convenience,Saturday_12:00,Saturday,186,4.0,1.0,4.0,20.0,3.0,15,4.8
+Sunset/Parkside,Middle,Grocery/convenience,Wednesday_12:00,Wednesday,186,4.0,1.0,4.0,20.0,3.0,15,4.8
+Sunset/Parkside,Middle,Pharmacy/health,Saturday_12:00,Saturday,186,9.5,1.0,9.0,8.695652173913043,8.0,15,4.8
+Sunset/Parkside,Middle,Pharmacy/health,Wednesday_12:00,Wednesday,186,9.5,1.0,9.5,8.695652173913043,8.5,15,4.8

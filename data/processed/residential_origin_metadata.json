@@ -1,0 +1,13 @@
+{
+  "source_dataset": "San Francisco Land Use",
+  "source_url": "https://data.sf.gov/resource/c5ge-t6pj.json",
+  "source_data_dates": [
+    "2026-08-17T00:00:00.000"
+  ],
+  "grid_spacing_meters": 250,
+  "grid_crs": "EPSG:26910",
+  "export_crs": "EPSG:4326",
+  "representative_selection": "Source residential centroid nearest the grid-cell center; source ID breaks ties.",
+  "origin_count": 446,
+  "interpretation": "Origins represent residential locations, not individual residents. Dwelling and group-quarter counts are retained separately."
+}

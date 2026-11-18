@@ -1,0 +1,55 @@
+pair_id,side,osm_key,name,shop,amenity,healthcare,addr:housenumber,addr:street,addr:unit,level,phone,contact:phone,website,contact:website,opening_hours,address,review_phone,review_website
+1,left,node/1713269565,Walgreens,,pharmacy,pharmacy,,,,,,,,,,,,
+1,right,way/194906345,Walgreens,chemist,,,1333,Castro Street,,,,,,,,1333 Castro Street,,
+2,left,node/2340083601,Indigo,,restaurant,,3321,Steiner Street,,,,,,,"Tu-We 17:00-22:00; Th 17:00-23:00; Fr-Sa 17:00-24:00; Su 15:00-22:00, Sa-Su 11:00-15:00",3321 Steiner Street,,
+2,right,way/272604437,Indigo,,restaurant,,3321,Steiner Street,,,,,https://www.indigoinsf.com/,,Tu,3321 Steiner Street,,https://www.indigoinsf.com/
+3,left,node/5595082426,The Market,,food_court,,,,,0,,,https://visitthemarket.com/,,Mo-Fr 08:00-20:00,,,https://visitthemarket.com/
+3,right,way/1105289817,The Market,,food_court,,1355,Market Street,100,0,+1 415-767-5130,,https://www.visitthemarket.com/,,Mo-Th 11:00-19:00; Fr 11:00-18:30; Sa-Su off,1355 Market Street,+1 415-767-5130,https://www.visitthemarket.com/
+4,left,node/5893590037,Seafood Center,seafood,,,831,Clement Street,,,,,,,,831 Clement Street,,
+4,right,way/274847437,Seafood Center,seafood,,,831;833;835,Clement Street,,,,,,,,831;833;835 Clement Street,,
+5,left,node/6632478613,An Chi,,restaurant,,5827,Geary Boulevard,,,+1 415 702 9986,,,,"Tu closed, Mo,We-Su 11:00-20:00",5827 Geary Boulevard,+1 415 702 9986,
+5,right,way/278333568,An Chi,,restaurant,,5827,Geary Boulevard,,,,,,,,5827 Geary Boulevard,,
+6,left,node/7876524201,Friend's Bar,,bar,,558,Monterey Boulevard,,,,,,,,558 Monterey Boulevard,,
+6,right,way/279832397,Friends Bar,,cafe,,558,Monterey Boulevard,,,,,,,,558 Monterey Boulevard,,
+7,left,way/1189071432,The Epicurean Trader,,cafe,,,,,0,,,,,,,,
+7,right,way/1189071452,The Epicurean Trader,deli,,,1,,9,0,+1 888 504 8118,,https://theepicureantrader.com/,,,1,+1 888 504 8118,https://theepicureantrader.com/
+8,left,way/222862959,Cliff's Variety,gift,,,471,Castro Street,,,+1 415-431-5365,,https://www.cliffsvariety.com/,,Mo-Sa 10:00-18:30; Su 10:00-18:00,471 Castro Street,+1 415-431-5365,https://www.cliffsvariety.com/
+8,right,way/222862962,Cliff's Variety,general,,,479,Castro Street,,,+1 415-431-5365,,https://www.cliffsvariety.com/,,Mo-Sa 10:00-18:30; Su 10:00-18:00,479 Castro Street,+1 415-431-5365,https://www.cliffsvariety.com/
+9,left,way/263490215,Urgently Ortho,,doctors,doctor,2205,Post Street,,0/,,,,,Mo-Fr 10:00-18:00,2205 Post Street,,
+9,right,way/263490226,Urgently Ortho,,,doctor,2215,Post Street,,,+1 415-390-6511,,https://urgentlyortho.com/,,Mo-Fr 10:00-18:00,2215 Post Street,+1 415-390-6511,https://urgentlyortho.com/
+10,left,node/5876905615,Woods Outbound,,bar,,4045,Judah Street,,,,,,,,4045 Judah Street,,
+10,right,node/12676663498,Woods Outbound,,pub,,,,,,,,,,,,,
+11,left,node/4839978312,Harlan Records,,bar,,18,Harlan Place,,,+1 415-400-4083,,http://harlanrecords.com,,Tu-Sa 12:00-01:30; Su-Mo 12:00-00:00,18 Harlan Place,+1 415-400-4083,http://harlanrecords.com
+11,right,node/14279637301,Harlan Records,,bar,,18,Harlan Place,,,+1-415-400-4083,,https://www.harlanrecords.com/,,Su-Mo 12:00-00:00; Tu-Sa 12:00-01:30,18 Harlan Place,+1-415-400-4083,https://www.harlanrecords.com/
+12,left,node/2718062345,CVS Pharmacy,,pharmacy,pharmacy,499,Haight Street,,0,+1 415-503-0722,,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188,,"Sa 10:00-13:30,14:00-18:00; Su 11:00-13:30,14:00-17:00; Mo-Fr 09:00-13:30,14:00-19:00",499 Haight Street,+1 415-503-0722,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188
+12,right,node/11061858559,CVS Pharmacy,chemist,,,499,Haight Street,,0,+1 415-503-0722,,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188,,Mo-Su 08:00-21:00,499 Haight Street,+1 415-503-0722,https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188
+13,left,node/416780444,GNC,nutrition_supplements,,,,,,,,,,,,,,
+13,right,node/4548821896,GNC,nutrition_supplements,,,2172,Chestnut Street,,,,,,,,2172 Chestnut Street,,
+14,left,node/3523031622,Walgreens,,pharmacy,pharmacy,5260,Diamond Heights Boulevard,,,+1-415-695-2808,,,,Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-18:00,5260 Diamond Heights Boulevard,+1-415-695-2808,
+14,right,node/3523031623,Walgreens,chemist,,,5260,Diamond Heights Boulevard,,,,,https://www.walgreens.com/locator/walgreens-5260+diamond+heights+blvd-san+francisco-ca-94131/id=1109,,Mo-Su 08:00-22:00,5260 Diamond Heights Boulevard,,https://www.walgreens.com/locator/walgreens-5260+diamond+heights+blvd-san+francisco-ca-94131/id=1109
+15,left,node/4017234514,Pineapple King Bakery,bakery,,,1917,Irving Street,,,,,,,,1917 Irving Street,,
+15,right,node/4017234698,Pineapple King Bakery,bakery,,,1915,Irving Street,,,,,http://www.pineapplekingbakery.com/home.html,,"Mo-Fr 08:00-18:00; Sa, Su 08:00-18:30",1915 Irving Street,,http://www.pineapplekingbakery.com/home.html
+16,left,node/3622501400,West Pawtal Pet Supplies,pet,,,242,West Portal Avenue,,,,,,,,242 West Portal Avenue,,
+16,right,node/3622501504,West Pawtal Pet Supplies,pet,,,244,West Portal Avenue,,,,,,,,244 West Portal Avenue,,
+17,left,node/459506892,Walgreens,,pharmacy,pharmacy,2145,Market Street,,,+1 415-355-0800,,,,"Mo-Fr 08:00-21:00; Sa 09:00-13:30,14:00-17:00; Su 10:00-13:30,14:00-18:00",2145 Market Street,+1 415-355-0800,
+17,right,node/11226192570,Walgreens,chemist,,,2145,Market Street,,,+1 415-355-0800,,https://www.walgreens.com/locator/walgreens-2145+market+st-san+francisco-ca-94114/id=4529,,Mo-Su 07:00-22:00,2145 Market Street,+1 415-355-0800,https://www.walgreens.com/locator/walgreens-2145+market+st-san+francisco-ca-94114/id=4529
+18,left,node/1639950739,Walgreens,,pharmacy,pharmacy,300,Montgomery Street,,,+1 415-788-2984,,,,"Mo-Fr 09:00-13:30,14:00-19:00",300 Montgomery Street,+1 415-788-2984,
+18,right,node/11051910913,Walgreens,chemist,,,300,Montgomery Street,,,+1 415-788-2984,,https://www.walgreens.com/locator/walgreens-300+montgomery+st-san+francisco-ca-94104/id=2521,,Mo-Fr 07:00-20:00; Sa 09:00-17:00; Su off,300 Montgomery Street,+1 415-788-2984,https://www.walgreens.com/locator/walgreens-300+montgomery+st-san+francisco-ca-94104/id=2521
+19,left,node/1849149965,Walgreens,,pharmacy,pharmacy,456,Mission Street,,,,,https://www.walgreens.com/,,"Mo-Fr 09:00-13:30,14:00-19:00",456 Mission Street,,https://www.walgreens.com/
+19,right,node/11612234506,Walgreens,chemist,,,456,Mission Street,,0,,,https://www.walgreens.com/locator/walgreens-456+mission+st-san+francisco-ca-94105/id=4275,,Mo-Fr 07:00-20:00; Sa 09:00-17:00,456 Mission Street,,https://www.walgreens.com/locator/walgreens-456+mission+st-san+francisco-ca-94105/id=4275
+20,left,node/1966301828,Walgreens,chemist,,,498,Castro Street,,,+1-415-861-3136,,https://www.walgreens.com/locator/walgreens-498+castro+st-san+francisco-ca-94114/id=1327,,24/7,498 Castro Street,+1-415-861-3136,https://www.walgreens.com/locator/walgreens-498+castro+st-san+francisco-ca-94114/id=1327
+20,right,node/11375700373,Walgreens,,pharmacy,pharmacy,498,Castro Street,,,,,,,24/7,498 Castro Street,,
+21,left,node/4349254095,RAMS Richmond Area Multi-Services Inc,,,psychotherapist,3626,Balboa Street,,,,,https://www.ramsinc.org/,,Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa-Su off,3626 Balboa Street,,https://www.ramsinc.org/
+21,right,node/4349255894,RAMS Richmond Area Multi-Services Inc,,,psychotherapist,3632,Balboa Street,,,,,https://www.ramsinc.org/,,,3632 Balboa Street,,https://www.ramsinc.org/
+22,left,node/14025214241,PPQ Dungeness Island,,restaurant,,5821,Geary Boulevard,,,,,,,,5821 Geary Boulevard,,
+22,right,node/14052732422,PPQ Dungeness Island,,restaurant,,5821,Geary Blvd,,,+1-415-386-8266,,ppqsf11.con,,"We-Fr 16:00-21:00; Sa, Su 12:00-21:00",5821 Geary Blvd,+1-415-386-8266,ppqsf11.con
+23,left,node/3996578780,Physiotherapy Associates,,,physiotherapist,3129,Vicente Street,,,,,,,,3129 Vicente Street,,
+23,right,node/5061064108,Physiotherapy Associates,,,physiotherapist,3129,Vicente Street,,,,,,,,3129 Vicente Street,,
+24,left,node/4069432013,Orthodontics Pediatric Dentistry,,dentist,dentist,823,Taraval Street,,,,,,,,823 Taraval Street,,
+24,right,way/278887454,Orthodontics Pediatric Dentistry,,dentist,dentist,801,Taraval Street,,,,,,,,801 Taraval Street,,
+25,left,node/8927752699,Maido,stationery,,,,,,0,,,https://usa.kinokuniya.com/stores-maido-san-francisco-1f,,Mo-Su 11:00-19:00,,,https://usa.kinokuniya.com/stores-maido-san-francisco-1f
+25,right,way/996450654,Maido,stationery,,,,,,1,+1 415 5678901,,https://usa.kinokuniya.com/stores-maido-san-francisco-2f,,Mo-Su 11:00-18:30,,+1 415 5678901,https://usa.kinokuniya.com/stores-maido-san-francisco-2f
+26,left,node/4349255894,RAMS Richmond Area Multi-Services Inc,,,psychotherapist,3632,Balboa Street,,,,,https://www.ramsinc.org/,,,3632 Balboa Street,,https://www.ramsinc.org/
+26,right,node/4349256200,RAMS Richmond Area Multi-Services Inc,,,psychotherapist,3645,Balboa Street,,,,,https://www.ramsinc.org/,,,3645 Balboa Street,,https://www.ramsinc.org/
+27,left,node/3394899128,Michael Fine Art and Antiques,art,,,,,,0,,,,,,,,
+27,right,node/3394900998,Michael Fine Art and Antiques,art,,,,,,,,,,,"Mo-Su,PH 09:00-18:00",,,

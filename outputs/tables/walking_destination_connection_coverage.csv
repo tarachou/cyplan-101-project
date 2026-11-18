@@ -1,0 +1,5 @@
+category,total_destinations,routing_destinations,unresolved_destinations,routing_coverage_pct
+Grocery/convenience,551,549,2,99.63702359346642
+Pharmacy/health,560,554,6,98.92857142857143
+Food/drink,3984,3961,23,99.4226907630522
+General retail,1642,1622,20,98.78197320341047

@@ -1,0 +1,16 @@
+{
+  "source_url": "https://data.sf.gov/resource/c5ge-t6pj.json",
+  "retrieved_at_utc": "2026-11-17T04:21:37.603326+00:00",
+  "selected_fields": [
+    "ludb_id",
+    "centroid_l",
+    "centroid_1",
+    "resunits",
+    "resunits_s",
+    "residentia",
+    "open_space",
+    "geography_type",
+    "data_as_of"
+  ],
+  "records_downloaded": 153765
+}

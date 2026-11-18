@@ -1,0 +1,447 @@
+nhood,grid_col,grid_row,income_band,representative_ludb_id,representative_geography_type,distance_to_cell_center_m,residential_location_records,reported_dwelling_units,reported_group_quarter_counts,open_space_flagged_records,origin_id,routing_status,included_in_routing
+Bayview Hunters Point,2209,16705,Lower,DAGid_23312_20260817,parcel,89.13602955670028,17,61,0,0,bayview_hunters_point_2209_16705,Passed initial connection screening,True
+Bayview Hunters Point,2209,16706,Lower,DAGid_22755_20260817,parcel,22.590086851787746,31,33,0,0,bayview_hunters_point_2209_16706,Passed initial connection screening,True
+Bayview Hunters Point,2209,16707,Lower,DAGid_22726_20260817,parcel,160.9829881408392,1,1,0,0,bayview_hunters_point_2209_16707,Passed initial connection screening,True
+Bayview Hunters Point,2210,16702,Lower,DAGid_24450_20260817,parcel,133.60154398017275,10,10,0,0,bayview_hunters_point_2210_16702,Passed initial connection screening,True
+Bayview Hunters Point,2210,16703,Lower,DAGid_24409_20260817,parcel,51.70142649593058,57,60,0,0,bayview_hunters_point_2210_16703,Passed initial connection screening,True
+Bayview Hunters Point,2210,16704,Lower,DAGid_23562_20260817,parcel,13.969274903640573,117,129,0,0,bayview_hunters_point_2210_16704,Passed initial connection screening,True
+Bayview Hunters Point,2210,16705,Lower,DAGid_23425_20260817,parcel,36.58766591205433,126,132,0,0,bayview_hunters_point_2210_16705,Passed initial connection screening,True
+Bayview Hunters Point,2210,16706,Lower,DAGid_22867_20260817,parcel,22.00749604388756,130,132,0,0,bayview_hunters_point_2210_16706,Passed initial connection screening,True
+Bayview Hunters Point,2210,16707,Lower,DAGid_22720_20260817,parcel,99.17519347382702,3,3,0,0,bayview_hunters_point_2210_16707,Passed initial connection screening,True
+Bayview Hunters Point,2210,16708,Lower,DAGid_21608_20260817,parcel,149.0821645370353,1,1,0,0,bayview_hunters_point_2210_16708,Passed initial connection screening,True
+Bayview Hunters Point,2210,16711,Lower,DAGid_161248_20260817,parcel,56.80712810486242,1,1,0,0,bayview_hunters_point_2210_16711,Passed initial connection screening,True
+Bayview Hunters Point,2210,16713,Lower,DAGid_17187_20260817,parcel,112.3941705057721,2,16,0,0,bayview_hunters_point_2210_16713,Passed initial connection screening,True
+Bayview Hunters Point,2211,16695,Lower,DAGid_20208_20260817,parcel,2.38935779833576,99,99,0,0,bayview_hunters_point_2211_16695,Passed initial connection screening,True
+Bayview Hunters Point,2211,16696,Lower,DAGid_19915_20260817,parcel,8.188861565094614,108,122,0,0,bayview_hunters_point_2211_16696,Passed initial connection screening,True
+Bayview Hunters Point,2211,16699,Lower,DAGid_70348_20260817,parcel,122.67741788056422,7,7,0,0,bayview_hunters_point_2211_16699,Passed initial connection screening,True
+Bayview Hunters Point,2211,16700,Lower,DAGid_24661_20260817,parcel,18.931371295578728,84,88,0,0,bayview_hunters_point_2211_16700,Passed initial connection screening,True
+Bayview Hunters Point,2211,16701,Lower,DAGid_24678_20260817,parcel,86.04298280946662,16,23,0,0,bayview_hunters_point_2211_16701,Passed initial connection screening,True
+Bayview Hunters Point,2211,16702,Lower,DAGid_24081_20260817,parcel,111.3100132210469,20,21,0,0,bayview_hunters_point_2211_16702,Passed initial connection screening,True
+Bayview Hunters Point,2211,16703,Lower,DAGid_24321_20260817,parcel,49.06740239068752,56,57,0,0,bayview_hunters_point_2211_16703,Passed initial connection screening,True
+Bayview Hunters Point,2211,16704,Lower,DAGid_23688_20260817,parcel,15.162674780346217,149,174,0,0,bayview_hunters_point_2211_16704,Passed initial connection screening,True
+Bayview Hunters Point,2211,16705,Lower,DAGid_162441_20260817,parcel,2.339886996898674,204,207,0,0,bayview_hunters_point_2211_16705,Passed initial connection screening,True
+Bayview Hunters Point,2211,16706,Lower,DAGid_23077_20260817,parcel,14.888024270932679,160,163,0,0,bayview_hunters_point_2211_16706,Passed initial connection screening,True
+Bayview Hunters Point,2211,16707,Lower,DAGid_21624_20260817,parcel,13.158239537620254,113,118,0,0,bayview_hunters_point_2211_16707,Passed initial connection screening,True
+Bayview Hunters Point,2211,16708,Lower,DAGid_21582_20260817,parcel,110.96105642119498,12,12,0,0,bayview_hunters_point_2211_16708,Passed initial connection screening,True
+Bayview Hunters Point,2211,16711,Lower,DAGid_158825_20260817,parcel,110.42995747594514,1,1,0,0,bayview_hunters_point_2211_16711,Passed initial connection screening,True
+Bayview Hunters Point,2211,16713,Lower,DAGid_17173_20260817,parcel,55.100488040735804,8,50,0,0,bayview_hunters_point_2211_16713,Passed initial connection screening,True
+Bayview Hunters Point,2212,16695,Lower,DAGid_20089_20260817,parcel,2.540574729685076,100,102,0,0,bayview_hunters_point_2212_16695,Passed initial connection screening,True
+Bayview Hunters Point,2212,16696,Lower,DAGid_20027_20260817,parcel,17.747741371548635,96,101,0,0,bayview_hunters_point_2212_16696,Passed initial connection screening,True
+Bayview Hunters Point,2212,16697,Lower,DAGid_155263_20260817,multiple_parcels,166.70200637707373,1,62,0,0,bayview_hunters_point_2212_16697,Passed initial connection screening,True
+Bayview Hunters Point,2212,16698,Lower,DAGid_19580_20260817,parcel,9.497371175767956,99,149,0,1,bayview_hunters_point_2212_16698,Passed initial connection screening,True
+Bayview Hunters Point,2212,16699,Lower,DAGid_24734_20260817,parcel,23.187327130772932,67,172,0,1,bayview_hunters_point_2212_16699,Passed initial connection screening,True
+Bayview Hunters Point,2212,16700,Lower,DAGid_24549_20260817,parcel,2.1924414409248043,102,135,0,0,bayview_hunters_point_2212_16700,Passed initial connection screening,True
+Bayview Hunters Point,2212,16702,Lower,DAGid_24281_20260817,parcel,21.23169403533195,70,70,0,0,bayview_hunters_point_2212_16702,Passed initial connection screening,True
+Bayview Hunters Point,2212,16703,Lower,DAGid_24272_20260817,parcel,12.057950475149873,145,145,0,0,bayview_hunters_point_2212_16703,Passed initial connection screening,True
+Bayview Hunters Point,2212,16704,Lower,DAGid_23733_20260817,parcel,12.182597773724014,157,175,0,0,bayview_hunters_point_2212_16704,Passed initial connection screening,True
+Bayview Hunters Point,2212,16705,Lower,DAGid_21846_20260817,parcel,4.716507592478377,203,204,0,0,bayview_hunters_point_2212_16705,Passed initial connection screening,True
+Bayview Hunters Point,2212,16706,Lower,DAGid_21887_20260817,parcel,11.811386694971159,171,179,0,0,bayview_hunters_point_2212_16706,Passed initial connection screening,True
+Bayview Hunters Point,2212,16707,Lower,DAGid_21125_20260817,parcel,13.619334868773764,114,147,0,0,bayview_hunters_point_2212_16707,Passed initial connection screening,True
+Bayview Hunters Point,2212,16708,Lower,DAGid_21092_20260817,parcel,119.14631526102794,3,6,0,0,bayview_hunters_point_2212_16708,Passed initial connection screening,True
+Bayview Hunters Point,2212,16713,Lower,DAGid_161502_20260817,parcel,130.42589776907616,1,72,0,0,bayview_hunters_point_2212_16713,Passed initial connection screening,True
+Bayview Hunters Point,2213,16698,Lower,DAGid_19601_20260817,parcel,69.29370803029323,33,39,0,0,bayview_hunters_point_2213_16698,Passed initial connection screening,True
+Bayview Hunters Point,2213,16699,Lower,DAGid_19407_20260817,parcel,5.403270616936734,158,167,0,0,bayview_hunters_point_2213_16699,Passed initial connection screening,True
+Bayview Hunters Point,2213,16700,Lower,DAGid_19020_20260817,parcel,20.822729848686194,113,121,0,0,bayview_hunters_point_2213_16700,Passed initial connection screening,True
+Bayview Hunters Point,2213,16701,Lower,DAGid_159435_20260817,multiple_parcels,159.87114669306075,1,394,0,0,bayview_hunters_point_2213_16701,Passed initial connection screening,True
+Bayview Hunters Point,2213,16702,Lower,DAGid_155720_20260817,multiple_parcels,110.21586438266674,4,304,0,0,bayview_hunters_point_2213_16702,Passed initial connection screening,True
+Bayview Hunters Point,2213,16703,Lower,DAGid_23958_20260817,parcel,16.295864620989565,25,37,0,0,bayview_hunters_point_2213_16703,Passed initial connection screening,True
+Bayview Hunters Point,2213,16704,Lower,DAGid_23821_20260817,parcel,13.05943015972573,158,177,0,0,bayview_hunters_point_2213_16704,Passed initial connection screening,True
+Bayview Hunters Point,2213,16705,Lower,DAGid_22172_20260817,parcel,1.3616056130779257,142,163,0,0,bayview_hunters_point_2213_16705,Passed initial connection screening,True
+Bayview Hunters Point,2213,16706,Lower,DAGid_21468_20260817,parcel,19.380527046988647,125,149,0,0,bayview_hunters_point_2213_16706,Passed initial connection screening,True
+Bayview Hunters Point,2213,16707,Lower,DAGid_21081_20260817,parcel,85.45445372547404,34,54,0,0,bayview_hunters_point_2213_16707,Passed initial connection screening,True
+Bayview Hunters Point,2214,16696,Lower,DAGid_DA46_20260817,analytical,64.91066734298312,1,564,0,0,bayview_hunters_point_2214_16696,Unresolved network connection,False
+Bayview Hunters Point,2214,16698,Lower,DAGid_19452_20260817,parcel,39.98523494444048,63,264,0,0,bayview_hunters_point_2214_16698,Passed initial connection screening,True
+Bayview Hunters Point,2214,16699,Lower,DAGid_19148_20260817,parcel,4.628418225103454,158,164,0,0,bayview_hunters_point_2214_16699,Passed initial connection screening,True
+Bayview Hunters Point,2214,16700,Lower,DAGid_18860_20260817,parcel,47.9915527439282,66,73,0,0,bayview_hunters_point_2214_16700,Passed initial connection screening,True
+Bayview Hunters Point,2214,16702,Lower,DAGid_24016_20260817,parcel,81.01575737426805,16,20,0,0,bayview_hunters_point_2214_16702,Passed initial connection screening,True
+Bayview Hunters Point,2214,16703,Lower,DAGid_23293_20260817,parcel,23.82209251607251,132,157,0,0,bayview_hunters_point_2214_16703,Passed initial connection screening,True
+Bayview Hunters Point,2214,16704,Lower,DAGid_22614_20260817,parcel,3.0396260626180647,117,188,0,0,bayview_hunters_point_2214_16704,Passed initial connection screening,True
+Bayview Hunters Point,2214,16705,Lower,DAGid_21968_20260817,parcel,34.86316116645852,118,172,0,0,bayview_hunters_point_2214_16705,Passed initial connection screening,True
+Bayview Hunters Point,2214,16706,Lower,DAGid_21015_20260817,parcel,15.763358556476346,107,356,0,0,bayview_hunters_point_2214_16706,Passed initial connection screening,True
+Bayview Hunters Point,2214,16707,Lower,DAGid_20797_20260817,parcel,12.390181959392047,150,248,0,0,bayview_hunters_point_2214_16707,Passed initial connection screening,True
+Bayview Hunters Point,2214,16708,Lower,DAGid_20579_20260817,parcel,55.63164714561615,25,47,0,0,bayview_hunters_point_2214_16708,Passed initial connection screening,True
+Bayview Hunters Point,2214,16713,Lower,DAGid_17162_20260817,parcel,68.88967478919385,3,32,0,0,bayview_hunters_point_2214_16713,Passed initial connection screening,True
+Bayview Hunters Point,2214,16714,Lower,DAGid_17138_20260817,parcel,146.43098281746862,1,18,0,0,bayview_hunters_point_2214_16714,Passed initial connection screening,True
+Bayview Hunters Point,2215,16697,Lower,DAGid_19517_20260817,parcel,9.767104417398565,17,17,0,0,bayview_hunters_point_2215_16697,Passed initial connection screening,True
+Bayview Hunters Point,2215,16698,Lower,DAGid_19463_20260817,parcel,85.09960485995533,32,33,0,0,bayview_hunters_point_2215_16698,Passed initial connection screening,True
+Bayview Hunters Point,2215,16699,Lower,DAGid_156626_20260817,parcel,63.2307089270997,57,60,0,0,bayview_hunters_point_2215_16699,Passed initial connection screening,True
+Bayview Hunters Point,2215,16700,Lower,DAGid_18808_20260817,parcel,96.88118944001434,12,15,0,0,bayview_hunters_point_2215_16700,Passed initial connection screening,True
+Bayview Hunters Point,2215,16702,Lower,DAGid_18610_20260817,parcel,108.36727823733553,6,6,0,0,bayview_hunters_point_2215_16702,Passed initial connection screening,True
+Bayview Hunters Point,2215,16703,Lower,DAGid_18593_20260817,parcel,4.320310400595735,159,171,0,0,bayview_hunters_point_2215_16703,Passed initial connection screening,True
+Bayview Hunters Point,2215,16704,Lower,DAGid_22048_20260817,parcel,21.354321383365825,161,200,0,0,bayview_hunters_point_2215_16704,Passed initial connection screening,True
+Bayview Hunters Point,2215,16705,Lower,DAGid_21311_20260817,parcel,9.208046573277459,137,154,0,0,bayview_hunters_point_2215_16705,Passed initial connection screening,True
+Bayview Hunters Point,2215,16706,Lower,DAGid_20921_20260817,parcel,12.621245055621705,114,123,0,0,bayview_hunters_point_2215_16706,Passed initial connection screening,True
+Bayview Hunters Point,2215,16707,Lower,DAGid_20545_20260817,parcel,9.332152809457101,97,230,0,0,bayview_hunters_point_2215_16707,Passed initial connection screening,True
+Bayview Hunters Point,2215,16708,Lower,DAGid_20442_20260817,parcel,29.5419661304832,62,76,0,0,bayview_hunters_point_2215_16708,Passed initial connection screening,True
+Bayview Hunters Point,2215,16709,Lower,DAGid_20317_20260817,parcel,19.152708963827138,3,24,0,0,bayview_hunters_point_2215_16709,Passed initial connection screening,True
+Bayview Hunters Point,2216,16698,Lower,DAGid_18909_20260817,parcel,58.66935936045772,1,20,0,0,bayview_hunters_point_2216_16698,Passed initial connection screening,True
+Bayview Hunters Point,2216,16702,Lower,DAGid_18483_20260817,parcel,116.91484625583819,15,16,0,0,bayview_hunters_point_2216_16702,Passed initial connection screening,True
+Bayview Hunters Point,2216,16703,Lower,DAGid_18308_20260817,parcel,2.827610985769104,152,178,0,0,bayview_hunters_point_2216_16703,Passed initial connection screening,True
+Bayview Hunters Point,2216,16704,Lower,DAGid_18090_20260817,parcel,4.057580336746154,121,149,0,0,bayview_hunters_point_2216_16704,Passed initial connection screening,True
+Bayview Hunters Point,2216,16705,Lower,DAGid_17731_20260817,parcel,10.734438663223168,103,136,0,0,bayview_hunters_point_2216_16705,Passed initial connection screening,True
+Bayview Hunters Point,2216,16706,Lower,DAGid_17579_20260817,parcel,3.048965958673691,83,103,0,0,bayview_hunters_point_2216_16706,Passed initial connection screening,True
+Bayview Hunters Point,2216,16707,Lower,DAGid_20529_20260817,parcel,18.858860060613196,87,250,0,0,bayview_hunters_point_2216_16707,Passed initial connection screening,True
+Bayview Hunters Point,2216,16708,Lower,DAGid_20342_20260817,parcel,74.69637069046652,27,32,0,0,bayview_hunters_point_2216_16708,Passed initial connection screening,True
+Bayview Hunters Point,2217,16697,Lower,DAGid_DA169_20260817,analytical,90.89873661395593,1,360,0,0,bayview_hunters_point_2217_16697,Unresolved network connection,False
+Bayview Hunters Point,2217,16702,Lower,DAGid_18515_20260817,parcel,9.744111170116671,31,40,0,0,bayview_hunters_point_2217_16702,Passed initial connection screening,True
+Bayview Hunters Point,2217,16703,Lower,DAGid_17961_20260817,parcel,26.066833673240644,132,149,0,0,bayview_hunters_point_2217_16703,Passed initial connection screening,True
+Bayview Hunters Point,2217,16704,Lower,DAGid_17791_20260817,parcel,10.888211429293817,35,413,0,0,bayview_hunters_point_2217_16704,Passed initial connection screening,True
+Bayview Hunters Point,2217,16705,Lower,DAGid_17774_20260817,parcel,46.8647715275299,44,49,0,0,bayview_hunters_point_2217_16705,Passed initial connection screening,True
+Bayview Hunters Point,2217,16706,Lower,DAGid_17792_20260817,parcel,35.85919117607336,33,99,0,0,bayview_hunters_point_2217_16706,Passed initial connection screening,True
+Bayview Hunters Point,2217,16707,Lower,DAGid_17835_20260817,parcel,2.2628506747335853,83,95,0,0,bayview_hunters_point_2217_16707,Passed initial connection screening,True
+Bayview Hunters Point,2218,16703,Lower,DAGid_17532_20260817,parcel,81.44794929819076,10,459,0,0,bayview_hunters_point_2218_16703,Passed initial connection screening,True
+Bayview Hunters Point,2218,16704,Lower,DAGid_17747_20260817,parcel,60.14768560043021,7,252,0,0,bayview_hunters_point_2218_16704,Passed initial connection screening,True
+Bayview Hunters Point,2218,16705,Lower,DAGid_154804_20260817,parcel,57.729441302862575,14,349,0,0,bayview_hunters_point_2218_16705,Passed initial connection screening,True
+Bayview Hunters Point,2218,16706,Lower,DAGid_159837_20260817,parcel,61.458937154510544,4,180,0,0,bayview_hunters_point_2218_16706,Passed initial connection screening,True
+Bayview Hunters Point,2218,16707,Lower,DAGid_164800_20260817,parcel,105.35271074557384,4,457,0,0,bayview_hunters_point_2218_16707,Passed initial connection screening,True
+Bayview Hunters Point,2219,16703,Lower,DAGid_17533_20260817,parcel,117.1146615625018,1,82,0,0,bayview_hunters_point_2219_16703,Passed initial connection screening,True
+Bayview Hunters Point,2219,16704,Lower,DAGid_17528_20260817,parcel,149.91601058108472,1,1,0,0,bayview_hunters_point_2219_16704,Passed initial connection screening,True
+Bayview Hunters Point,2219,16705,Lower,DAGid_17513_20260817,parcel,42.655281772772646,24,26,0,0,bayview_hunters_point_2219_16705,Passed initial connection screening,True
+Bayview Hunters Point,2220,16703,Lower,DAGid_17455_20260817,parcel,103.37363676887541,17,17,0,0,bayview_hunters_point_2220_16703,Passed initial connection screening,True
+Bayview Hunters Point,2220,16704,Lower,DAGid_17488_20260817,parcel,72.15505129885858,6,376,0,0,bayview_hunters_point_2220_16704,Passed initial connection screening,True
+Bayview Hunters Point,2220,16706,Lower,DAGid_68670_20260817,parcel,110.30396216287052,1,1,0,1,bayview_hunters_point_2220_16706,Passed initial connection screening,True
+Bayview Hunters Point,2221,16702,Lower,DAGid_17431_20260817,parcel,103.19061992753528,10,10,0,0,bayview_hunters_point_2221_16702,Passed initial connection screening,True
+Bayview Hunters Point,2221,16703,Lower,DAGid_17409_20260817,parcel,3.0355482144900963,74,136,0,0,bayview_hunters_point_2221_16703,Passed initial connection screening,True
+Bayview Hunters Point,2221,16704,Lower,DAGid_17479_20260817,parcel,72.62590521595641,7,24,0,0,bayview_hunters_point_2221_16704,Passed initial connection screening,True
+Bayview Hunters Point,2222,16701,Lower,DAGid_DA182_20260817,analytical,99.97699430796938,1,767,0,0,bayview_hunters_point_2222_16701,Unresolved network connection,False
+Haight Ashbury,2192,16719,Higher,DAGid_161265_20260817,parcel,108.25061307975973,15,82,0,0,haight_ashbury_2192_16719,Passed initial connection screening,True
+Haight Ashbury,2192,16720,Higher,DAGid_94664_20260817,parcel,67.20735734125147,41,145,0,0,haight_ashbury_2192_16720,Passed initial connection screening,True
+Haight Ashbury,2192,16721,Higher,DAGid_94087_20260817,parcel,36.61863902007357,32,321,0,0,haight_ashbury_2192_16721,Passed initial connection screening,True
+Haight Ashbury,2192,16722,Higher,DAGid_94071_20260817,parcel,94.7173699214926,15,103,0,0,haight_ashbury_2192_16722,Passed initial connection screening,True
+Haight Ashbury,2193,16718,Higher,DAGid_95923_20260817,parcel,22.69365606260278,127,262,0,0,haight_ashbury_2193_16718,Passed initial connection screening,True
+Haight Ashbury,2193,16719,Higher,DAGid_164195_20260817,parcel,6.211263127798854,134,481,0,0,haight_ashbury_2193_16719,Passed initial connection screening,True
+Haight Ashbury,2193,16720,Higher,DAGid_95070_20260817,parcel,14.316399088030378,168,443,0,0,haight_ashbury_2193_16720,Passed initial connection screening,True
+Haight Ashbury,2193,16721,Higher,DAGid_94605_20260817,parcel,24.919651599364737,106,570,0,0,haight_ashbury_2193_16721,Passed initial connection screening,True
+Haight Ashbury,2193,16722,Higher,DAGid_94051_20260817,parcel,53.14216849686592,59,328,0,0,haight_ashbury_2193_16722,Passed initial connection screening,True
+Haight Ashbury,2194,16718,Higher,DAGid_95810_20260817,parcel,26.008560446463825,148,293,0,0,haight_ashbury_2194_16718,Passed initial connection screening,True
+Haight Ashbury,2194,16719,Higher,DAGid_95838_20260817,parcel,4.959661272877061,178,329,0,0,haight_ashbury_2194_16719,Passed initial connection screening,True
+Haight Ashbury,2194,16720,Higher,DAGid_94804_20260817,parcel,4.481049840334669,155,424,0,0,haight_ashbury_2194_16720,Passed initial connection screening,True
+Haight Ashbury,2194,16721,Higher,DAGid_94545_20260817,parcel,21.93332959038762,120,557,1,0,haight_ashbury_2194_16721,Passed initial connection screening,True
+Haight Ashbury,2194,16722,Higher,DAGid_93980_20260817,parcel,17.77246191350284,82,258,0,0,haight_ashbury_2194_16722,Passed initial connection screening,True
+Haight Ashbury,2195,16718,Higher,DAGid_138654_20260817,parcel,38.38372043617096,51,155,0,0,haight_ashbury_2195_16718,Passed initial connection screening,True
+Haight Ashbury,2195,16719,Higher,DAGid_138129_20260817,parcel,4.195836307878452,134,254,0,0,haight_ashbury_2195_16719,Passed initial connection screening,True
+Haight Ashbury,2195,16720,Higher,DAGid_95531_20260817,parcel,10.509170532203619,148,412,0,0,haight_ashbury_2195_16720,Passed initial connection screening,True
+Haight Ashbury,2195,16721,Higher,DAGid_94493_20260817,parcel,19.562934046203903,123,395,0,0,haight_ashbury_2195_16721,Passed initial connection screening,True
+Haight Ashbury,2195,16722,Higher,DAGid_157804_20260817,parcel,15.864239045174362,80,378,0,0,haight_ashbury_2195_16722,Passed initial connection screening,True
+Haight Ashbury,2196,16719,Higher,DAGid_138097_20260817,parcel,122.34945116271554,12,21,0,0,haight_ashbury_2196_16719,Passed initial connection screening,True
+Haight Ashbury,2196,16720,Higher,DAGid_138116_20260817,parcel,141.8421349846723,4,53,0,0,haight_ashbury_2196_16720,Passed initial connection screening,True
+Haight Ashbury,2196,16721,Higher,DAGid_94484_20260817,parcel,82.48252341011279,8,27,0,0,haight_ashbury_2196_16721,Passed initial connection screening,True
+Haight Ashbury,2196,16722,Higher,DAGid_93852_20260817,parcel,22.666938613496793,127,546,0,0,haight_ashbury_2196_16722,Passed initial connection screening,True
+Haight Ashbury,2197,16721,Higher,DAGid_94989_20260817,parcel,84.55582767527362,27,142,0,0,haight_ashbury_2197_16721,Passed initial connection screening,True
+Haight Ashbury,2197,16722,Higher,DAGid_94323_20260817,parcel,11.436409737812129,120,559,0,0,haight_ashbury_2197_16722,Passed initial connection screening,True
+Haight Ashbury,2198,16721,Higher,DAGid_95038_20260817,parcel,20.054990944457842,88,263,0,0,haight_ashbury_2198_16721,Passed initial connection screening,True
+Haight Ashbury,2198,16722,Higher,DAGid_94374_20260817,parcel,6.492990431890118,137,495,0,0,haight_ashbury_2198_16722,Passed initial connection screening,True
+Haight Ashbury,2198,16723,Higher,DAGid_93741_20260817,parcel,86.79153402841817,33,129,0,0,haight_ashbury_2198_16723,Passed initial connection screening,True
+Haight Ashbury,2199,16721,Higher,DAGid_86440_20260817,parcel,54.268889955538825,58,99,0,0,haight_ashbury_2199_16721,Passed initial connection screening,True
+Haight Ashbury,2199,16722,Higher,DAGid_86371_20260817,parcel,19.754620199672072,144,619,0,0,haight_ashbury_2199_16722,Passed initial connection screening,True
+Haight Ashbury,2199,16723,Higher,DAGid_85992_20260817,parcel,44.67929317463827,60,273,0,0,haight_ashbury_2199_16723,Passed initial connection screening,True
+Haight Ashbury,2200,16721,Higher,DAGid_86485_20260817,parcel,122.9892882748741,7,23,0,0,haight_ashbury_2200_16721,Passed initial connection screening,True
+Haight Ashbury,2200,16722,Higher,DAGid_86359_20260817,parcel,120.84518702327111,7,55,0,0,haight_ashbury_2200_16722,Passed initial connection screening,True
+Japantown,2196,16727,Lower,DAGid_90872_20260817,parcel,54.82672689666434,31,96,0,0,japantown_2196_16727,Passed initial connection screening,True
+Japantown,2196,16728,Lower,DAGid_90837_20260817,parcel,76.46696634149633,12,177,0,0,japantown_2196_16728,Passed initial connection screening,True
+Japantown,2197,16727,Lower,DAGid_90855_20260817,parcel,104.73956110119354,2,37,0,0,japantown_2197_16727,Passed initial connection screening,True
+Japantown,2197,16728,Lower,DAGid_90829_20260817,parcel,72.35024871470253,6,29,0,0,japantown_2197_16728,Passed initial connection screening,True
+Japantown,2198,16728,Lower,DAGid_84395_20260817,parcel,25.364219703767315,18,554,24,0,japantown_2198_16728,Passed initial connection screening,True
+Japantown,2199,16728,Lower,DAGid_84419_20260817,parcel,38.15966091805497,22,482,0,0,japantown_2199_16728,Passed initial connection screening,True
+Japantown,2200,16728,Lower,DAGid_84448_20260817,parcel,66.22948635896994,9,119,0,0,japantown_2200_16728,Passed initial connection screening,True
+Japantown,2200,16729,Lower,DAGid_84435_20260817,parcel,121.19826706780728,3,10,0,0,japantown_2200_16729,Passed initial connection screening,True
+Japantown,2201,16728,Lower,DAGid_84570_20260817,parcel,55.89082253206097,11,419,0,0,japantown_2201_16728,Passed initial connection screening,True
+Japantown,2201,16729,Lower,DAGid_84476_20260817,parcel,89.42834441852742,10,271,0,0,japantown_2201_16729,Passed initial connection screening,True
+Japantown,2202,16728,Lower,DAGid_84562_20260817,parcel,87.01605890967139,1,169,0,0,japantown_2202_16728,Passed initial connection screening,True
+Japantown,2202,16729,Lower,DAGid_84479_20260817,parcel,69.51641890580174,10,331,0,0,japantown_2202_16729,Passed initial connection screening,True
+Mission,2202,16712,Middle,DAGid_47178_20260817,parcel,73.5228315483439,57,129,0,0,mission_2202_16712,Passed initial connection screening,True
+Mission,2202,16713,Middle,DAGid_46432_20260817,parcel,52.30999631530847,54,161,0,0,mission_2202_16713,Passed initial connection screening,True
+Mission,2202,16714,Middle,DAGid_154669_20260817,parcel,27.807013289190337,53,175,0,0,mission_2202_16714,Passed initial connection screening,True
+Mission,2202,16715,Middle,DAGid_9318_20260817,parcel,15.36600005589476,75,260,0,0,mission_2202_16715,Passed initial connection screening,True
+Mission,2202,16716,Middle,DAGid_8660_20260817,parcel,5.33264726312822,100,277,0,0,mission_2202_16716,Passed initial connection screening,True
+Mission,2202,16717,Middle,DAGid_160307_20260817,parcel,6.724734607574818,115,465,0,0,mission_2202_16717,Passed initial connection screening,True
+Mission,2202,16718,Middle,DAGid_154431_20260817,parcel,6.504870543165428,112,478,0,0,mission_2202_16718,Passed initial connection screening,True
+Mission,2202,16719,Middle,DAGid_5948_20260817,parcel,21.01793672654077,51,458,0,0,mission_2202_16719,Passed initial connection screening,True
+Mission,2202,16720,Middle,DAGid_5584_20260817,parcel,13.568642492251424,129,691,0,0,mission_2202_16720,Passed initial connection screening,True
+Mission,2202,16721,Middle,DAGid_948_20260817,parcel,8.277665250100075,101,591,0,0,mission_2202_16721,Passed initial connection screening,True
+Mission,2202,16722,Middle,DAGid_153406_20260817,parcel,114.24649668256251,10,45,0,0,mission_2202_16722,Passed initial connection screening,True
+Mission,2203,16712,Middle,DAGid_47084_20260817,parcel,15.784325728700155,117,365,0,0,mission_2203_16712,Passed initial connection screening,True
+Mission,2203,16713,Middle,DAGid_46479_20260817,parcel,3.1116066020355606,124,490,0,0,mission_2203_16713,Passed initial connection screening,True
+Mission,2203,16714,Middle,DAGid_10607_20260817,parcel,17.973755306486158,132,545,0,0,mission_2203_16714,Passed initial connection screening,True
+Mission,2203,16715,Middle,DAGid_9249_20260817,parcel,0.6210908142175613,131,511,0,0,mission_2203_16715,Passed initial connection screening,True
+Mission,2203,16716,Middle,DAGid_8717_20260817,parcel,17.086034842533913,124,616,20,0,mission_2203_16716,Passed initial connection screening,True
+Mission,2203,16717,Middle,DAGid_162066_20260817,parcel,1.8792339777709928,127,507,0,0,mission_2203_16717,Passed initial connection screening,True
+Mission,2203,16718,Middle,DAGid_6869_20260817,parcel,24.0866432822445,96,613,0,0,mission_2203_16718,Passed initial connection screening,True
+Mission,2203,16719,Middle,DAGid_6504_20260817,parcel,21.277403301409162,101,598,0,0,mission_2203_16719,Passed initial connection screening,True
+Mission,2203,16720,Middle,DAGid_5617_20260817,parcel,52.25001412218891,36,654,80,0,mission_2203_16720,Passed initial connection screening,True
+Mission,2203,16721,Middle,DAGid_798_20260817,parcel,23.882070249013115,80,656,0,0,mission_2203_16721,Passed initial connection screening,True
+Mission,2203,16722,Middle,DAGid_153604_20260817,parcel,49.663702388057416,52,555,0,0,mission_2203_16722,Passed initial connection screening,True
+Mission,2203,16723,Middle,DAGid_153432_20260817,parcel,120.41647408475568,3,78,0,0,mission_2203_16723,Passed initial connection screening,True
+Mission,2204,16712,Middle,DAGid_47018_20260817,parcel,14.074268404857364,74,407,0,0,mission_2204_16712,Passed initial connection screening,True
+Mission,2204,16713,Middle,DAGid_46527_20260817,parcel,10.86240363519348,75,522,0,0,mission_2204_16713,Passed initial connection screening,True
+Mission,2204,16714,Middle,DAGid_10521_20260817,parcel,21.30000726334016,52,202,0,0,mission_2204_16714,Passed initial connection screening,True
+Mission,2204,16715,Middle,DAGid_9194_20260817,parcel,26.20273322150881,37,455,0,0,mission_2204_16715,Passed initial connection screening,True
+Mission,2204,16716,Middle,DAGid_8835_20260817,parcel,1.2790550913531815,135,625,0,0,mission_2204_16716,Passed initial connection screening,True
+Mission,2204,16717,Middle,DAGid_7614_20260817,parcel,23.56902001004879,142,582,0,0,mission_2204_16717,Passed initial connection screening,True
+Mission,2204,16718,Middle,DAGid_6760_20260817,parcel,30.021237170024254,88,633,0,0,mission_2204_16718,Passed initial connection screening,True
+Mission,2204,16719,Middle,DAGid_6510_20260817,parcel,45.55374735899101,47,852,0,0,mission_2204_16719,Passed initial connection screening,True
+Mission,2204,16720,Middle,DAGid_158257_20260817,parcel,11.140826321954338,81,871,0,0,mission_2204_16720,Passed initial connection screening,True
+Mission,2204,16721,Middle,DAGid_153957_20260817,parcel,77.55162038976222,31,265,0,0,mission_2204_16721,Passed initial connection screening,True
+Mission,2204,16722,Middle,DAGid_153631_20260817,parcel,60.9108892514913,9,351,0,0,mission_2204_16722,Passed initial connection screening,True
+Mission,2204,16723,Middle,DAGid_164030_20260817,parcel,74.80941417430729,8,1524,0,0,mission_2204_16723,Passed initial connection screening,True
+Mission,2205,16712,Middle,DAGid_48347_20260817,parcel,13.088262259068166,74,368,0,0,mission_2205_16712,Passed initial connection screening,True
+Mission,2205,16713,Middle,DAGid_46623_20260817,parcel,12.010497927908508,123,520,0,0,mission_2205_16713,Passed initial connection screening,True
+Mission,2205,16714,Middle,DAGid_10440_20260817,parcel,26.735695349444455,111,484,0,0,mission_2205_16714,Passed initial connection screening,True
+Mission,2205,16715,Middle,DAGid_9150_20260817,parcel,11.945650199454896,96,516,0,0,mission_2205_16715,Passed initial connection screening,True
+Mission,2205,16716,Middle,DAGid_158390_20260817,parcel,28.058276334095392,101,695,2,0,mission_2205_16716,Passed initial connection screening,True
+Mission,2205,16717,Middle,DAGid_7784_20260817,parcel,3.9664173224851496,84,335,0,0,mission_2205_16717,Passed initial connection screening,True
+Mission,2205,16718,Middle,DAGid_6693_20260817,parcel,24.466864906603558,64,237,0,0,mission_2205_16718,Passed initial connection screening,True
+Mission,2205,16719,Middle,DAGid_6611_20260817,parcel,56.09980992796394,24,580,0,0,mission_2205_16719,Passed initial connection screening,True
+Mission,2205,16720,Middle,DAGid_160143_20260817,parcel,15.618815020855942,62,315,0,0,mission_2205_16720,Passed initial connection screening,True
+Mission,2205,16721,Middle,DAGid_158972_20260817,parcel,70.37075094925942,8,39,0,0,mission_2205_16721,Passed initial connection screening,True
+Mission,2205,16722,Middle,DAGid_153617_20260817,parcel,18.163212991002755,17,137,0,0,mission_2205_16722,Passed initial connection screening,True
+Mission,2205,16723,Middle,DAGid_153559_20260817,parcel,37.646909475361205,32,162,0,0,mission_2205_16723,Passed initial connection screening,True
+Mission,2206,16712,Middle,DAGid_48357_20260817,parcel,37.43805125454191,48,524,1,0,mission_2206_16712,Passed initial connection screening,True
+Mission,2206,16713,Middle,DAGid_46698_20260817,parcel,25.540429268960505,161,474,0,0,mission_2206_16713,Passed initial connection screening,True
+Mission,2206,16714,Middle,DAGid_10370_20260817,parcel,12.567033539532037,101,334,0,0,mission_2206_16714,Passed initial connection screening,True
+Mission,2206,16715,Middle,DAGid_10293_20260817,parcel,17.330511602591383,101,279,0,0,mission_2206_16715,Passed initial connection screening,True
+Mission,2206,16716,Middle,DAGid_9015_20260817,parcel,8.869119115530852,105,328,0,0,mission_2206_16716,Passed initial connection screening,True
+Mission,2206,16717,Middle,DAGid_7767_20260817,parcel,52.43350315546689,15,60,0,0,mission_2206_16717,Passed initial connection screening,True
+Mission,2206,16718,Middle,DAGid_6640_20260817,parcel,45.1369713566632,6,74,0,0,mission_2206_16718,Passed initial connection screening,True
+Mission,2206,16719,Middle,DAGid_6624_20260817,parcel,96.85869967558301,6,84,0,0,mission_2206_16719,Passed initial connection screening,True
+Mission,2206,16721,Middle,DAGid_153819_20260817,parcel,78.81453561541217,19,104,0,0,mission_2206_16721,Passed initial connection screening,True
+Mission,2206,16722,Middle,DAGid_153804_20260817,parcel,51.9003381892561,19,433,0,0,mission_2206_16722,Passed initial connection screening,True
+Mission,2207,16712,Middle,DAGid_17323_20260817,parcel,7.6906306273614735,84,181,0,0,mission_2207_16712,Passed initial connection screening,True
+Mission,2207,16713,Middle,DAGid_68405_20260817,parcel,10.416804009952715,115,233,0,0,mission_2207_16713,Passed initial connection screening,True
+Mission,2207,16714,Middle,DAGid_15977_20260817,parcel,17.67906373259103,150,458,0,0,mission_2207_16714,Passed initial connection screening,True
+Mission,2207,16715,Middle,DAGid_15462_20260817,parcel,1.8792588815203775,165,398,0,0,mission_2207_16715,Passed initial connection screening,True
+Mission,2207,16716,Middle,DAGid_14281_20260817,parcel,9.762510727590788,137,419,0,0,mission_2207_16716,Passed initial connection screening,True
+Mission,2207,16717,Middle,DAGid_157405_20260817,parcel,34.471802342788955,30,671,0,0,mission_2207_16717,Passed initial connection screening,True
+Mission,2207,16718,Middle,DAGid_13446_20260817,parcel,126.48765155226643,3,12,0,0,mission_2207_16718,Passed initial connection screening,True
+Mission,2207,16719,Middle,DAGid_12919_20260817,parcel,25.38668053902742,12,90,0,0,mission_2207_16719,Passed initial connection screening,True
+Mission,2208,16712,Middle,DAGid_17224_20260817,parcel,11.074924949705288,123,238,0,0,mission_2208_16712,Passed initial connection screening,True
+Mission,2208,16713,Middle,DAGid_16824_20260817,parcel,9.950623947304054,166,364,0,0,mission_2208_16713,Passed initial connection screening,True
+Mission,2208,16714,Middle,DAGid_16091_20260817,parcel,21.51796543166299,129,326,0,0,mission_2208_16714,Passed initial connection screening,True
+Mission,2208,16715,Middle,DAGid_15572_20260817,parcel,7.808416886800109,173,456,0,0,mission_2208_16715,Passed initial connection screening,True
+Mission,2208,16716,Middle,DAGid_14382_20260817,parcel,7.446285061548755,182,370,0,0,mission_2208_16716,Passed initial connection screening,True
+Mission,2208,16717,Middle,DAGid_14163_20260817,parcel,9.879867176459822,111,299,0,0,mission_2208_16717,Passed initial connection screening,True
+Mission,2208,16718,Middle,DAGid_13429_20260817,parcel,43.21474233768393,36,283,0,0,mission_2208_16718,Passed initial connection screening,True
+Mission,2208,16719,Middle,DAGid_160469_20260817,parcel,57.582777821749374,20,130,0,0,mission_2208_16719,Passed initial connection screening,True
+Mission,2208,16720,Middle,DAGid_12811_20260817,parcel,32.27892962972727,4,9,0,0,mission_2208_16720,Passed initial connection screening,True
+Mission,2209,16712,Middle,DAGid_17182_20260817,parcel,106.96928345528767,4,4,0,0,mission_2209_16712,Passed initial connection screening,True
+Mission,2209,16713,Middle,DAGid_16534_20260817,parcel,79.22272500263524,53,185,0,0,mission_2209_16713,Passed initial connection screening,True
+Mission,2209,16714,Middle,DAGid_164705_20260817,parcel,18.188390813065798,85,279,0,0,mission_2209_16714,Passed initial connection screening,True
+Mission,2209,16715,Middle,DAGid_15594_20260817,parcel,160.40035895047995,3,8,0,0,mission_2209_16715,Passed initial connection screening,True
+Mission,2209,16716,Middle,DAGid_15169_20260817,parcel,81.88874862120439,11,11,0,0,mission_2209_16716,Passed initial connection screening,True
+Mission,2209,16718,Middle,DAGid_13387_20260817,parcel,59.41004892536231,34,63,0,0,mission_2209_16718,Passed initial connection screening,True
+Mission,2209,16719,Middle,DAGid_12963_20260817,parcel,46.27708548422368,32,58,0,0,mission_2209_16719,Passed initial connection screening,True
+Mission,2210,16713,Middle,DAGid_16927_20260817,parcel,109.09874550909241,21,31,0,0,mission_2210_16713,Passed initial connection screening,True
+Mission,2210,16714,Middle,DAGid_16219_20260817,parcel,87.85316018695208,35,74,0,0,mission_2210_16714,Passed initial connection screening,True
+Mission Bay,2210,16719,Higher,DAGid_12878_20260817,parcel,92.11016696109397,1,48,0,0,mission_bay_2210_16719,Passed initial connection screening,True
+Mission Bay,2210,16720,Higher,DAGid_12785_20260817,parcel,116.0694736860009,1,2,0,0,mission_bay_2210_16720,Passed initial connection screening,True
+Mission Bay,2210,16721,Higher,DAGid_161470_20260817,parcel,87.56920009057718,2,389,0,0,mission_bay_2210_16721,Passed initial connection screening,True
+Mission Bay,2210,16722,Higher,DAGid_154182_20260817,parcel,170.74692032408683,1,428,0,0,mission_bay_2210_16722,Passed initial connection screening,True
+Mission Bay,2211,16719,Higher,DAGid_12867_20260817,parcel,58.025745071369,2,2,30,0,mission_bay_2211_16719,Passed initial connection screening,True
+Mission Bay,2211,16720,Higher,DAGid_162489_20260817,parcel,124.13253170420701,2,172,280,0,mission_bay_2211_16720,Passed initial connection screening,True
+Mission Bay,2211,16722,Higher,DAGid_67418_20260817,parcel,79.691417381866,1,236,0,0,mission_bay_2211_16722,Passed initial connection screening,True
+Mission Bay,2211,16723,Higher,DAGid_12663_20260817,parcel,77.12156340421666,2,136,0,0,mission_bay_2211_16723,Passed initial connection screening,True
+Mission Bay,2211,16724,Higher,DAGid_12664_20260817,parcel,123.54721874424945,1,48,0,0,mission_bay_2211_16724,Passed initial connection screening,True
+Mission Bay,2212,16720,Higher,DAGid_159781_20260817,multiple_parcels,3.3340551966792176,4,485,0,0,mission_bay_2212_16720,Passed initial connection screening,True
+Mission Bay,2212,16722,Higher,DAGid_67898_20260817,parcel,99.27813255774198,2,213,0,0,mission_bay_2212_16722,Passed initial connection screening,True
+Mission Bay,2212,16723,Higher,DAGid_155129_20260817,parcel,15.841776514877326,5,640,0,0,mission_bay_2212_16723,Passed initial connection screening,True
+Mission Bay,2213,16719,Higher,DAGid_12854_20260817,parcel,114.32335045654408,1,19,0,0,mission_bay_2213_16719,Passed initial connection screening,True
+Mission Bay,2213,16722,Higher,DAGid_159458_20260817,analytical,35.095533558475466,2,455,0,0,mission_bay_2213_16722,Passed initial connection screening,True
+Mission Bay,2213,16723,Higher,DAGid_67423_20260817,parcel,93.00878893760375,4,733,0,0,mission_bay_2213_16723,Passed initial connection screening,True
+Mission Bay,2213,16724,Higher,DAGid_155627_20260817,parcel,51.60437734575217,3,570,0,0,mission_bay_2213_16724,Passed initial connection screening,True
+Mission Bay,2213,16725,Higher,DAGid_67417_20260817,parcel,71.03568126684557,1,595,0,0,mission_bay_2213_16725,Passed initial connection screening,True
+Mission Bay,2214,16721,Higher,DAGid_208_20260817,analytical,77.79010154319116,1,431,0,0,mission_bay_2214_16721,Passed initial connection screening,True
+Mission Bay,2214,16722,Higher,DAGid_159873_20260817,analytical,57.26207606102494,4,859,0,0,mission_bay_2214_16722,Passed initial connection screening,True
+Mission Bay,2214,16723,Higher,DAGid_161748_20260817,analytical,56.37886363568383,3,731,0,0,mission_bay_2214_16723,Passed initial connection screening,True
+Mission Bay,2214,16724,Higher,DAGid_164251_20260817,analytical,87.98489719683946,1,350,0,0,mission_bay_2214_16724,Passed initial connection screening,True
+Mission Bay,2214,16725,Higher,DAGid_12745_20260817,parcel,86.24698568672453,4,432,0,0,mission_bay_2214_16725,Passed initial connection screening,True
+Mission Bay,2214,16726,Higher,DAGid_156747_20260817,parcel,80.08608310602038,2,407,0,0,mission_bay_2214_16726,Passed initial connection screening,True
+Mission Bay,2215,16722,Higher,DAGid_158058_20260817,analytical,41.85009723129616,2,417,0,0,mission_bay_2215_16722,Passed initial connection screening,True
+Mission Bay,2215,16723,Higher,DAGid_163567_20260817,analytical,129.2767366070938,2,289,0,0,mission_bay_2215_16723,Passed initial connection screening,True
+Mission Bay,2215,16724,Higher,DAGid_154118_20260817,parcel,111.07554915886367,1,541,0,0,mission_bay_2215_16724,Passed initial connection screening,True
+Mission Bay,2215,16726,Higher,DAGid_1417_20260817,parcel,114.8262685441815,1,108,0,0,mission_bay_2215_16726,Passed initial connection screening,True
+Sunset/Parkside,2172,16717,Middle,DAGid_164795_20260817,parcel,118.03739387152503,1,37,0,0,sunset_parkside_2172_16717,Passed initial connection screening,True
+Sunset/Parkside,2172,16718,Middle,DAGid_110087_20260817,parcel,122.23468008504251,13,128,0,0,sunset_parkside_2172_16718,Passed initial connection screening,True
+Sunset/Parkside,2173,16708,Middle,DAGid_163022_20260817,parcel,118.51711959705763,24,70,0,0,sunset_parkside_2173_16708,Passed initial connection screening,True
+Sunset/Parkside,2173,16709,Middle,DAGid_132319_20260817,parcel,81.55876120969788,34,50,0,0,sunset_parkside_2173_16709,Passed initial connection screening,True
+Sunset/Parkside,2173,16710,Middle,DAGid_129063_20260817,parcel,46.26317238501672,54,78,0,0,sunset_parkside_2173_16710,Passed initial connection screening,True
+Sunset/Parkside,2173,16711,Middle,DAGid_127385_20260817,parcel,21.136663941763725,92,128,0,0,sunset_parkside_2173_16711,Passed initial connection screening,True
+Sunset/Parkside,2173,16712,Middle,DAGid_124350_20260817,parcel,9.570850499440006,107,118,0,0,sunset_parkside_2173_16712,Passed initial connection screening,True
+Sunset/Parkside,2173,16713,Middle,DAGid_124283_20260817,parcel,9.869950480963853,126,179,0,0,sunset_parkside_2173_16713,Passed initial connection screening,True
+Sunset/Parkside,2173,16714,Middle,DAGid_120427_20260817,parcel,27.36703580610497,137,179,0,0,sunset_parkside_2173_16714,Passed initial connection screening,True
+Sunset/Parkside,2173,16715,Middle,DAGid_118512_20260817,parcel,12.95184366333225,157,273,0,0,sunset_parkside_2173_16715,Passed initial connection screening,True
+Sunset/Parkside,2173,16716,Middle,DAGid_163238_20260817,parcel,10.672975487998745,153,411,0,0,sunset_parkside_2173_16716,Passed initial connection screening,True
+Sunset/Parkside,2173,16717,Middle,DAGid_114192_20260817,parcel,8.530300522856527,164,408,0,0,sunset_parkside_2173_16717,Passed initial connection screening,True
+Sunset/Parkside,2173,16718,Middle,DAGid_110121_20260817,parcel,3.647632492467263,162,375,0,0,sunset_parkside_2173_16718,Passed initial connection screening,True
+Sunset/Parkside,2174,16706,Middle,DAGid_163764_20260817,parcel,13.45978993991617,76,165,0,0,sunset_parkside_2174_16706,Passed initial connection screening,True
+Sunset/Parkside,2174,16707,Middle,DAGid_135476_20260817,parcel,17.30917601104191,193,223,0,0,sunset_parkside_2174_16707,Passed initial connection screening,True
+Sunset/Parkside,2174,16708,Middle,DAGid_132383_20260817,parcel,0.822600272906978,173,181,0,0,sunset_parkside_2174_16708,Passed initial connection screening,True
+Sunset/Parkside,2174,16709,Middle,DAGid_132223_20260817,parcel,14.960939753228306,149,214,0,0,sunset_parkside_2174_16709,Passed initial connection screening,True
+Sunset/Parkside,2174,16710,Middle,DAGid_129214_20260817,parcel,28.017271424222475,170,170,0,0,sunset_parkside_2174_16710,Passed initial connection screening,True
+Sunset/Parkside,2174,16711,Middle,DAGid_127559_20260817,parcel,12.417840315074697,162,162,0,0,sunset_parkside_2174_16711,Passed initial connection screening,True
+Sunset/Parkside,2174,16712,Middle,DAGid_124489_20260817,parcel,4.602084331884359,177,178,0,0,sunset_parkside_2174_16712,Passed initial connection screening,True
+Sunset/Parkside,2174,16713,Middle,DAGid_124151_20260817,parcel,18.04245180867478,190,216,0,0,sunset_parkside_2174_16713,Passed initial connection screening,True
+Sunset/Parkside,2174,16714,Middle,DAGid_120589_20260817,parcel,3.8953961261243637,124,154,0,0,sunset_parkside_2174_16714,Passed initial connection screening,True
+Sunset/Parkside,2174,16715,Middle,DAGid_118578_20260817,parcel,11.594028313924456,172,177,0,0,sunset_parkside_2174_16715,Passed initial connection screening,True
+Sunset/Parkside,2174,16716,Middle,DAGid_118222_20260817,parcel,13.41153635198966,169,178,0,0,sunset_parkside_2174_16716,Passed initial connection screening,True
+Sunset/Parkside,2174,16717,Middle,DAGid_114028_20260817,parcel,13.041324722874535,138,184,0,0,sunset_parkside_2174_16717,Passed initial connection screening,True
+Sunset/Parkside,2174,16718,Middle,DAGid_110289_20260817,parcel,0.9721737622610508,171,330,0,0,sunset_parkside_2174_16718,Passed initial connection screening,True
+Sunset/Parkside,2174,16719,Middle,DAGid_110303_20260817,parcel,122.73696357545148,3,4,0,0,sunset_parkside_2174_16719,Passed initial connection screening,True
+Sunset/Parkside,2175,16706,Middle,DAGid_137352_20260817,parcel,22.376536302575264,91,123,0,0,sunset_parkside_2175_16706,Passed initial connection screening,True
+Sunset/Parkside,2175,16707,Middle,DAGid_135809_20260817,parcel,22.6329848098382,144,231,0,0,sunset_parkside_2175_16707,Passed initial connection screening,True
+Sunset/Parkside,2175,16708,Middle,DAGid_132554_20260817,parcel,7.551413833181464,173,174,0,0,sunset_parkside_2175_16708,Passed initial connection screening,True
+Sunset/Parkside,2175,16709,Middle,DAGid_132078_20260817,parcel,17.37651378178514,177,292,0,0,sunset_parkside_2175_16709,Passed initial connection screening,True
+Sunset/Parkside,2175,16710,Middle,DAGid_129286_20260817,parcel,4.343620264696637,172,173,0,0,sunset_parkside_2175_16710,Passed initial connection screening,True
+Sunset/Parkside,2175,16711,Middle,DAGid_127621_20260817,parcel,4.799462811022314,166,167,0,0,sunset_parkside_2175_16711,Passed initial connection screening,True
+Sunset/Parkside,2175,16712,Middle,DAGid_127085_20260817,parcel,24.418280073365562,173,179,0,0,sunset_parkside_2175_16712,Passed initial connection screening,True
+Sunset/Parkside,2175,16713,Middle,DAGid_123994_20260817,parcel,11.57405103067555,168,168,0,0,sunset_parkside_2175_16713,Passed initial connection screening,True
+Sunset/Parkside,2175,16714,Middle,DAGid_120752_20260817,parcel,1.5955167650587967,162,163,0,0,sunset_parkside_2175_16714,Passed initial connection screening,True
+Sunset/Parkside,2175,16715,Middle,DAGid_118778_20260817,parcel,13.963778776068985,176,205,0,0,sunset_parkside_2175_16715,Passed initial connection screening,True
+Sunset/Parkside,2175,16716,Middle,DAGid_118060_20260817,parcel,58.28726808963615,148,150,0,0,sunset_parkside_2175_16716,Passed initial connection screening,True
+Sunset/Parkside,2175,16717,Middle,DAGid_113929_20260817,parcel,14.901325211385787,142,319,0,0,sunset_parkside_2175_16717,Passed initial connection screening,True
+Sunset/Parkside,2175,16718,Middle,DAGid_110380_20260817,parcel,20.710527067947215,155,238,0,0,sunset_parkside_2175_16718,Passed initial connection screening,True
+Sunset/Parkside,2175,16719,Middle,DAGid_110456_20260817,parcel,113.05275886401462,23,60,0,0,sunset_parkside_2175_16719,Passed initial connection screening,True
+Sunset/Parkside,2176,16705,Middle,DAGid_137407_20260817,parcel,104.38619283787544,18,18,0,0,sunset_parkside_2176_16705,Passed initial connection screening,True
+Sunset/Parkside,2176,16706,Middle,DAGid_137253_20260817,parcel,4.945700909579184,140,140,0,0,sunset_parkside_2176_16706,Passed initial connection screening,True
+Sunset/Parkside,2176,16707,Middle,DAGid_135213_20260817,parcel,35.90556748674688,71,136,0,0,sunset_parkside_2176_16707,Passed initial connection screening,True
+Sunset/Parkside,2176,16708,Middle,DAGid_132648_20260817,parcel,19.845597392184022,147,148,0,0,sunset_parkside_2176_16708,Passed initial connection screening,True
+Sunset/Parkside,2176,16709,Middle,DAGid_131946_20260817,parcel,17.40953322895652,134,196,0,0,sunset_parkside_2176_16709,Passed initial connection screening,True
+Sunset/Parkside,2176,16710,Middle,DAGid_129474_20260817,parcel,1.903461572084538,155,157,0,0,sunset_parkside_2176_16710,Passed initial connection screening,True
+Sunset/Parkside,2176,16711,Middle,DAGid_127827_20260817,parcel,13.818959012837897,169,172,0,0,sunset_parkside_2176_16711,Passed initial connection screening,True
+Sunset/Parkside,2176,16712,Middle,DAGid_126974_20260817,parcel,78.80378364050698,50,50,0,0,sunset_parkside_2176_16712,Passed initial connection screening,True
+Sunset/Parkside,2176,16713,Middle,DAGid_123872_20260817,parcel,3.6435552293380065,116,117,0,0,sunset_parkside_2176_16713,Passed initial connection screening,True
+Sunset/Parkside,2176,16714,Middle,DAGid_120864_20260817,parcel,22.21622478074922,177,181,0,0,sunset_parkside_2176_16714,Passed initial connection screening,True
+Sunset/Parkside,2176,16715,Middle,DAGid_118937_20260817,parcel,20.862107447501685,151,151,0,0,sunset_parkside_2176_16715,Passed initial connection screening,True
+Sunset/Parkside,2176,16716,Middle,DAGid_117974_20260817,parcel,5.314696019863251,143,144,0,0,sunset_parkside_2176_16716,Passed initial connection screening,True
+Sunset/Parkside,2176,16717,Middle,DAGid_114755_20260817,parcel,15.454438513613752,177,229,0,0,sunset_parkside_2176_16717,Passed initial connection screening,True
+Sunset/Parkside,2176,16718,Middle,DAGid_110564_20260817,parcel,4.758015636443399,179,291,0,0,sunset_parkside_2176_16718,Passed initial connection screening,True
+Sunset/Parkside,2176,16719,Middle,DAGid_110511_20260817,parcel,90.20964867492117,35,38,0,0,sunset_parkside_2176_16719,Passed initial connection screening,True
+Sunset/Parkside,2177,16703,Middle,DAGid_65584_20260817,parcel,37.276764685431644,43,45,0,0,sunset_parkside_2177_16703,Passed initial connection screening,True
+Sunset/Parkside,2177,16704,Middle,DAGid_65490_20260817,parcel,2.7134733200180925,135,137,0,0,sunset_parkside_2177_16704,Passed initial connection screening,True
+Sunset/Parkside,2177,16705,Middle,DAGid_65308_20260817,parcel,37.27315208258735,119,121,0,0,sunset_parkside_2177_16705,Passed initial connection screening,True
+Sunset/Parkside,2177,16706,Middle,DAGid_137124_20260817,parcel,2.099746155535671,175,175,0,0,sunset_parkside_2177_16706,Passed initial connection screening,True
+Sunset/Parkside,2177,16707,Middle,DAGid_135959_20260817,parcel,7.579265685818378,188,194,0,0,sunset_parkside_2177_16707,Passed initial connection screening,True
+Sunset/Parkside,2177,16708,Middle,DAGid_132821_20260817,parcel,15.773138843399922,179,180,0,0,sunset_parkside_2177_16708,Passed initial connection screening,True
+Sunset/Parkside,2177,16709,Middle,DAGid_131834_20260817,parcel,7.530538275311739,160,238,0,0,sunset_parkside_2177_16709,Passed initial connection screening,True
+Sunset/Parkside,2177,16710,Middle,DAGid_129560_20260817,parcel,21.932830932270242,156,156,0,0,sunset_parkside_2177_16710,Passed initial connection screening,True
+Sunset/Parkside,2177,16711,Middle,DAGid_127857_20260817,parcel,156.73582649701265,3,3,0,0,sunset_parkside_2177_16711,Passed initial connection screening,True
+Sunset/Parkside,2177,16713,Middle,DAGid_123713_20260817,parcel,13.406183410404637,76,76,0,0,sunset_parkside_2177_16713,Passed initial connection screening,True
+Sunset/Parkside,2177,16714,Middle,DAGid_120996_20260817,parcel,11.550463996922495,113,147,0,0,sunset_parkside_2177_16714,Passed initial connection screening,True
+Sunset/Parkside,2177,16715,Middle,DAGid_119019_20260817,parcel,5.487290193995859,88,89,0,0,sunset_parkside_2177_16715,Passed initial connection screening,True
+Sunset/Parkside,2177,16716,Middle,DAGid_117859_20260817,parcel,18.827794461247557,100,100,0,0,sunset_parkside_2177_16716,Passed initial connection screening,True
+Sunset/Parkside,2177,16717,Middle,DAGid_114810_20260817,parcel,26.49754864757741,105,157,0,0,sunset_parkside_2177_16717,Passed initial connection screening,True
+Sunset/Parkside,2177,16718,Middle,DAGid_110643_20260817,parcel,45.44803758928344,94,121,0,0,sunset_parkside_2177_16718,Passed initial connection screening,True
+Sunset/Parkside,2177,16719,Middle,DAGid_110621_20260817,parcel,94.06695362916075,28,46,0,0,sunset_parkside_2177_16719,Passed initial connection screening,True
+Sunset/Parkside,2178,16703,Middle,DAGid_165146_20260817,multiple_parcels,79.74439737453949,23,26,0,0,sunset_parkside_2178_16703,Passed initial connection screening,True
+Sunset/Parkside,2178,16704,Middle,DAGid_65028_20260817,parcel,65.15386781673116,75,77,0,0,sunset_parkside_2178_16704,Passed initial connection screening,True
+Sunset/Parkside,2178,16705,Middle,DAGid_64993_20260817,parcel,69.39907407292728,63,63,0,0,sunset_parkside_2178_16705,Passed initial connection screening,True
+Sunset/Parkside,2178,16706,Middle,DAGid_137011_20260817,parcel,33.19106194140687,89,90,0,0,sunset_parkside_2178_16706,Passed initial connection screening,True
+Sunset/Parkside,2178,16707,Middle,DAGid_136055_20260817,parcel,14.960306003854024,95,106,0,0,sunset_parkside_2178_16707,Passed initial connection screening,True
+Sunset/Parkside,2178,16708,Middle,DAGid_134998_20260817,parcel,8.580654620546664,96,96,0,0,sunset_parkside_2178_16708,Passed initial connection screening,True
+Sunset/Parkside,2178,16709,Middle,DAGid_131736_20260817,parcel,15.166981653034453,101,133,0,0,sunset_parkside_2178_16709,Passed initial connection screening,True
+Sunset/Parkside,2178,16710,Middle,DAGid_129673_20260817,parcel,11.86980616332458,130,133,0,0,sunset_parkside_2178_16710,Passed initial connection screening,True
+Sunset/Parkside,2178,16711,Middle,DAGid_127902_20260817,parcel,4.874230646769388,118,118,0,0,sunset_parkside_2178_16711,Passed initial connection screening,True
+Sunset/Parkside,2178,16712,Middle,DAGid_126923_20260817,parcel,14.46070321114081,91,92,0,0,sunset_parkside_2178_16712,Passed initial connection screening,True
+Sunset/Parkside,2178,16713,Middle,DAGid_124849_20260817,parcel,19.556123258465945,162,165,0,0,sunset_parkside_2178_16713,Passed initial connection screening,True
+Sunset/Parkside,2178,16714,Middle,DAGid_121105_20260817,parcel,7.141733327273581,157,159,0,0,sunset_parkside_2178_16714,Passed initial connection screening,True
+Sunset/Parkside,2178,16715,Middle,DAGid_119149_20260817,parcel,7.149260243032987,181,184,0,0,sunset_parkside_2178_16715,Passed initial connection screening,True
+Sunset/Parkside,2178,16716,Middle,DAGid_117767_20260817,parcel,15.386318071645517,173,175,0,0,sunset_parkside_2178_16716,Passed initial connection screening,True
+Sunset/Parkside,2178,16717,Middle,DAGid_114917_20260817,parcel,4.976133675229472,163,213,0,0,sunset_parkside_2178_16717,Passed initial connection screening,True
+Sunset/Parkside,2178,16718,Middle,DAGid_110745_20260817,parcel,16.196961850528865,161,213,0,0,sunset_parkside_2178_16718,Passed initial connection screening,True
+Sunset/Parkside,2178,16719,Middle,DAGid_110824_20260817,parcel,63.84846608705403,53,64,0,0,sunset_parkside_2178_16719,Passed initial connection screening,True
+Sunset/Parkside,2179,16703,Middle,DAGid_65055_20260817,parcel,69.11470924785547,20,20,0,0,sunset_parkside_2179_16703,Passed initial connection screening,True
+Sunset/Parkside,2179,16704,Middle,DAGid_65086_20260817,parcel,7.368990211479637,118,118,0,0,sunset_parkside_2179_16704,Passed initial connection screening,True
+Sunset/Parkside,2179,16705,Middle,DAGid_137525_20260817,parcel,87.16056233515482,56,56,0,0,sunset_parkside_2179_16705,Passed initial connection screening,True
+Sunset/Parkside,2179,16706,Middle,DAGid_136916_20260817,parcel,4.7955839096275605,103,106,0,0,sunset_parkside_2179_16706,Passed initial connection screening,True
+Sunset/Parkside,2179,16707,Middle,DAGid_136098_20260817,parcel,4.330182053226251,101,142,0,0,sunset_parkside_2179_16707,Passed initial connection screening,True
+Sunset/Parkside,2179,16708,Middle,DAGid_134847_20260817,parcel,29.6461223722311,153,154,0,0,sunset_parkside_2179_16708,Passed initial connection screening,True
+Sunset/Parkside,2179,16709,Middle,DAGid_131604_20260817,parcel,13.967755044009373,132,201,0,0,sunset_parkside_2179_16709,Passed initial connection screening,True
+Sunset/Parkside,2179,16710,Middle,DAGid_129850_20260817,parcel,9.584493101240772,159,164,0,0,sunset_parkside_2179_16710,Passed initial connection screening,True
+Sunset/Parkside,2179,16711,Middle,DAGid_128094_20260817,parcel,6.5960981077196115,160,161,0,0,sunset_parkside_2179_16711,Passed initial connection screening,True
+Sunset/Parkside,2179,16712,Middle,DAGid_126814_20260817,parcel,15.943875249231036,205,205,0,0,sunset_parkside_2179_16712,Passed initial connection screening,True
+Sunset/Parkside,2179,16713,Middle,DAGid_124964_20260817,parcel,5.765725390996895,170,173,0,0,sunset_parkside_2179_16713,Passed initial connection screening,True
+Sunset/Parkside,2179,16714,Middle,DAGid_154727_20260817,parcel,19.982188678200234,123,131,0,0,sunset_parkside_2179_16714,Passed initial connection screening,True
+Sunset/Parkside,2179,16715,Middle,DAGid_119300_20260817,parcel,28.26799858707972,173,175,0,0,sunset_parkside_2179_16715,Passed initial connection screening,True
+Sunset/Parkside,2179,16716,Middle,DAGid_117641_20260817,parcel,12.87299236802453,129,132,0,0,sunset_parkside_2179_16716,Passed initial connection screening,True
+Sunset/Parkside,2179,16717,Middle,DAGid_115116_20260817,parcel,3.5952546264269514,156,286,0,0,sunset_parkside_2179_16717,Passed initial connection screening,True
+Sunset/Parkside,2179,16718,Middle,DAGid_113449_20260817,parcel,13.520167975915326,179,220,0,0,sunset_parkside_2179_16718,Passed initial connection screening,True
+Sunset/Parkside,2179,16719,Middle,DAGid_110874_20260817,parcel,45.82214154459109,58,62,0,0,sunset_parkside_2179_16719,Passed initial connection screening,True
+Sunset/Parkside,2180,16703,Middle,DAGid_65271_20260817,parcel,155.6757452190889,3,3,0,0,sunset_parkside_2180_16703,Passed initial connection screening,True
+Sunset/Parkside,2180,16704,Middle,DAGid_65167_20260817,parcel,16.83050586504496,122,123,0,0,sunset_parkside_2180_16704,Passed initial connection screening,True
+Sunset/Parkside,2180,16705,Middle,DAGid_64889_20260817,parcel,1.965598651812228,137,138,0,0,sunset_parkside_2180_16705,Passed initial connection screening,True
+Sunset/Parkside,2180,16706,Middle,DAGid_136865_20260817,parcel,42.69073716627876,46,46,0,0,sunset_parkside_2180_16706,Passed initial connection screening,True
+Sunset/Parkside,2180,16707,Middle,DAGid_136167_20260817,parcel,7.482458534397882,120,121,0,0,sunset_parkside_2180_16707,Passed initial connection screening,True
+Sunset/Parkside,2180,16708,Middle,DAGid_134744_20260817,parcel,13.571290353141688,182,187,0,0,sunset_parkside_2180_16708,Passed initial connection screening,True
+Sunset/Parkside,2180,16709,Middle,DAGid_131518_20260817,parcel,15.860142188179456,155,247,0,0,sunset_parkside_2180_16709,Passed initial connection screening,True
+Sunset/Parkside,2180,16710,Middle,DAGid_129943_20260817,parcel,14.137290309902752,148,149,0,0,sunset_parkside_2180_16710,Passed initial connection screening,True
+Sunset/Parkside,2180,16711,Middle,DAGid_128246_20260817,parcel,28.82980353710612,158,161,0,0,sunset_parkside_2180_16711,Passed initial connection screening,True
+Sunset/Parkside,2180,16712,Middle,DAGid_126685_20260817,parcel,13.47416854187874,171,172,0,0,sunset_parkside_2180_16712,Passed initial connection screening,True
+Sunset/Parkside,2180,16713,Middle,DAGid_125127_20260817,parcel,5.335138666873053,178,179,0,0,sunset_parkside_2180_16713,Passed initial connection screening,True
+Sunset/Parkside,2180,16714,Middle,DAGid_121343_20260817,parcel,17.145667052553065,157,175,0,0,sunset_parkside_2180_16714,Passed initial connection screening,True
+Sunset/Parkside,2180,16715,Middle,DAGid_119390_20260817,parcel,5.77753204719926,125,126,0,0,sunset_parkside_2180_16715,Passed initial connection screening,True
+Sunset/Parkside,2180,16716,Middle,DAGid_117540_20260817,parcel,10.99650165141373,127,142,0,0,sunset_parkside_2180_16716,Passed initial connection screening,True
+Sunset/Parkside,2180,16717,Middle,DAGid_115177_20260817,parcel,26.346173734744493,158,282,0,0,sunset_parkside_2180_16717,Passed initial connection screening,True
+Sunset/Parkside,2180,16718,Middle,DAGid_113298_20260817,parcel,11.021656273580117,152,165,0,0,sunset_parkside_2180_16718,Passed initial connection screening,True
+Sunset/Parkside,2180,16719,Middle,DAGid_111036_20260817,parcel,37.05790943938043,44,47,0,0,sunset_parkside_2180_16719,Passed initial connection screening,True
+Sunset/Parkside,2181,16704,Middle,DAGid_64699_20260817,parcel,1.436962442324058,89,89,0,0,sunset_parkside_2181_16704,Passed initial connection screening,True
+Sunset/Parkside,2181,16705,Middle,DAGid_64748_20260817,parcel,15.416206146118727,153,153,0,0,sunset_parkside_2181_16705,Passed initial connection screening,True
+Sunset/Parkside,2181,16706,Middle,DAGid_136878_20260817,parcel,62.71894869204261,34,34,0,0,sunset_parkside_2181_16706,Passed initial connection screening,True
+Sunset/Parkside,2181,16707,Middle,DAGid_136236_20260817,parcel,87.77356430238565,27,27,0,0,sunset_parkside_2181_16707,Passed initial connection screening,True
+Sunset/Parkside,2181,16708,Middle,DAGid_134580_20260817,parcel,13.659892808465658,155,157,0,0,sunset_parkside_2181_16708,Passed initial connection screening,True
+Sunset/Parkside,2181,16709,Middle,DAGid_133328_20260817,parcel,14.720070417410469,144,246,0,0,sunset_parkside_2181_16709,Passed initial connection screening,True
+Sunset/Parkside,2181,16710,Middle,DAGid_130100_20260817,parcel,6.363646550767395,179,183,0,0,sunset_parkside_2181_16710,Passed initial connection screening,True
+Sunset/Parkside,2181,16711,Middle,DAGid_128328_20260817,parcel,5.7253385407590445,176,181,0,0,sunset_parkside_2181_16711,Passed initial connection screening,True
+Sunset/Parkside,2181,16712,Middle,DAGid_126597_20260817,parcel,105.07042551025799,34,34,0,0,sunset_parkside_2181_16712,Passed initial connection screening,True
+Sunset/Parkside,2181,16713,Middle,DAGid_123239_20260817,parcel,68.61599189719884,70,70,0,0,sunset_parkside_2181_16713,Passed initial connection screening,True
+Sunset/Parkside,2181,16714,Middle,DAGid_123215_20260817,parcel,21.59391790314302,146,180,0,0,sunset_parkside_2181_16714,Passed initial connection screening,True
+Sunset/Parkside,2181,16715,Middle,DAGid_119505_20260817,parcel,4.326700174168021,164,169,0,0,sunset_parkside_2181_16715,Passed initial connection screening,True
+Sunset/Parkside,2181,16716,Middle,DAGid_117406_20260817,parcel,13.770502376428846,177,240,0,0,sunset_parkside_2181_16716,Passed initial connection screening,True
+Sunset/Parkside,2181,16717,Middle,DAGid_115336_20260817,parcel,8.099892905459146,177,266,0,0,sunset_parkside_2181_16717,Passed initial connection screening,True
+Sunset/Parkside,2181,16718,Middle,DAGid_113151_20260817,parcel,7.893659026034745,125,310,0,0,sunset_parkside_2181_16718,Passed initial connection screening,True
+Sunset/Parkside,2181,16719,Middle,DAGid_111083_20260817,parcel,23.34515635054477,73,89,0,0,sunset_parkside_2181_16719,Passed initial connection screening,True
+Sunset/Parkside,2182,16704,Middle,DAGid_63764_20260817,parcel,15.3848131611607,73,75,0,0,sunset_parkside_2182_16704,Passed initial connection screening,True
+Sunset/Parkside,2182,16705,Middle,DAGid_63726_20260817,parcel,3.873447180206021,122,122,0,0,sunset_parkside_2182_16705,Passed initial connection screening,True
+Sunset/Parkside,2182,16706,Middle,DAGid_137673_20260817,parcel,19.819239437666205,50,50,0,0,sunset_parkside_2182_16706,Passed initial connection screening,True
+Sunset/Parkside,2182,16707,Middle,DAGid_136251_20260817,parcel,6.3080870129932,93,94,0,0,sunset_parkside_2182_16707,Passed initial connection screening,True
+Sunset/Parkside,2182,16708,Middle,DAGid_134445_20260817,parcel,10.088960861762375,122,122,0,0,sunset_parkside_2182_16708,Passed initial connection screening,True
+Sunset/Parkside,2182,16709,Middle,DAGid_133385_20260817,parcel,12.191148042298654,130,263,0,0,sunset_parkside_2182_16709,Passed initial connection screening,True
+Sunset/Parkside,2182,16710,Middle,DAGid_130261_20260817,parcel,13.502483675030135,122,133,0,0,sunset_parkside_2182_16710,Passed initial connection screening,True
+Sunset/Parkside,2182,16711,Middle,DAGid_128499_20260817,parcel,3.969531596973206,123,123,0,0,sunset_parkside_2182_16711,Passed initial connection screening,True
+Sunset/Parkside,2182,16712,Middle,DAGid_126569_20260817,parcel,81.35524755359428,56,56,0,0,sunset_parkside_2182_16712,Passed initial connection screening,True
+Sunset/Parkside,2182,16713,Middle,DAGid_125231_20260817,parcel,62.04042051727572,95,99,0,0,sunset_parkside_2182_16713,Passed initial connection screening,True
+Sunset/Parkside,2182,16714,Middle,DAGid_123069_20260817,parcel,4.605088096800198,126,213,0,0,sunset_parkside_2182_16714,Passed initial connection screening,True
+Sunset/Parkside,2182,16715,Middle,DAGid_119604_20260817,parcel,18.707166443915106,167,171,0,0,sunset_parkside_2182_16715,Passed initial connection screening,True
+Sunset/Parkside,2182,16716,Middle,DAGid_117240_20260817,parcel,20.660317929527746,172,194,0,0,sunset_parkside_2182_16716,Passed initial connection screening,True
+Sunset/Parkside,2182,16717,Middle,DAGid_115523_20260817,parcel,7.811083884261617,143,189,0,0,sunset_parkside_2182_16717,Passed initial connection screening,True
+Sunset/Parkside,2182,16718,Middle,DAGid_113058_20260817,parcel,10.172320899484195,133,244,0,0,sunset_parkside_2182_16718,Passed initial connection screening,True
+Sunset/Parkside,2182,16719,Middle,DAGid_111253_20260817,parcel,9.870576084818564,107,158,0,0,sunset_parkside_2182_16719,Passed initial connection screening,True
+Sunset/Parkside,2183,16704,Middle,DAGid_63831_20260817,parcel,3.5173822521660805,73,73,0,0,sunset_parkside_2183_16704,Passed initial connection screening,True
+Sunset/Parkside,2183,16705,Middle,DAGid_63640_20260817,parcel,17.865186800514717,54,56,0,0,sunset_parkside_2183_16705,Passed initial connection screening,True
+Sunset/Parkside,2183,16706,Middle,DAGid_137649_20260817,parcel,95.38243369001275,19,19,0,0,sunset_parkside_2183_16706,Passed initial connection screening,True
+Sunset/Parkside,2183,16707,Middle,DAGid_136408_20260817,parcel,3.5390374191279728,118,147,0,0,sunset_parkside_2183_16707,Passed initial connection screening,True
+Sunset/Parkside,2183,16708,Middle,DAGid_134366_20260817,parcel,12.90875554471902,151,183,0,0,sunset_parkside_2183_16708,Passed initial connection screening,True
+Sunset/Parkside,2183,16709,Middle,DAGid_133531_20260817,parcel,12.554159841394432,114,172,0,0,sunset_parkside_2183_16709,Passed initial connection screening,True
+Sunset/Parkside,2183,16710,Middle,DAGid_130315_20260817,parcel,45.381482275197904,63,95,0,0,sunset_parkside_2183_16710,Passed initial connection screening,True
+Sunset/Parkside,2183,16711,Middle,DAGid_128540_20260817,parcel,32.63158318335584,73,78,0,0,sunset_parkside_2183_16711,Passed initial connection screening,True
+Sunset/Parkside,2183,16712,Middle,DAGid_126459_20260817,parcel,21.088578919267228,146,148,0,0,sunset_parkside_2183_16712,Passed initial connection screening,True
+Sunset/Parkside,2183,16713,Middle,DAGid_125339_20260817,parcel,6.406746890878643,168,172,0,0,sunset_parkside_2183_16713,Passed initial connection screening,True
+Sunset/Parkside,2183,16714,Middle,DAGid_122960_20260817,parcel,13.263735177161358,148,218,0,0,sunset_parkside_2183_16714,Passed initial connection screening,True
+Sunset/Parkside,2183,16715,Middle,DAGid_119755_20260817,parcel,19.59723265842023,180,192,0,0,sunset_parkside_2183_16715,Passed initial connection screening,True
+Sunset/Parkside,2183,16716,Middle,DAGid_117120_20260817,parcel,3.4394636375115213,150,166,0,0,sunset_parkside_2183_16716,Passed initial connection screening,True
+Sunset/Parkside,2183,16717,Middle,DAGid_115602_20260817,parcel,18.68775249166596,148,246,0,0,sunset_parkside_2183_16717,Passed initial connection screening,True
+Sunset/Parkside,2183,16718,Middle,DAGid_112915_20260817,parcel,24.129735803925673,124,299,0,0,sunset_parkside_2183_16718,Passed initial connection screening,True
+Sunset/Parkside,2183,16719,Middle,DAGid_111388_20260817,parcel,4.530289228558115,94,249,0,0,sunset_parkside_2183_16719,Passed initial connection screening,True
+Sunset/Parkside,2184,16704,Middle,DAGid_63913_20260817,parcel,3.191093929401002,63,70,0,0,sunset_parkside_2184_16704,Passed initial connection screening,True
+Sunset/Parkside,2184,16705,Middle,DAGid_63581_20260817,parcel,13.048530080171442,94,96,0,0,sunset_parkside_2184_16705,Passed initial connection screening,True
+Sunset/Parkside,2184,16707,Middle,DAGid_136495_20260817,parcel,21.453935324486373,79,83,0,0,sunset_parkside_2184_16707,Passed initial connection screening,True
+Sunset/Parkside,2184,16708,Middle,DAGid_134252_20260817,parcel,36.358066284980794,60,61,0,0,sunset_parkside_2184_16708,Passed initial connection screening,True
+Sunset/Parkside,2184,16709,Middle,DAGid_133672_20260817,parcel,6.534818877462967,66,109,0,0,sunset_parkside_2184_16709,Passed initial connection screening,True
+Sunset/Parkside,2184,16710,Middle,DAGid_131100_20260817,parcel,5.243303819462869,114,169,0,0,sunset_parkside_2184_16710,Passed initial connection screening,True
+Sunset/Parkside,2184,16711,Middle,DAGid_128621_20260817,parcel,1.627591998635971,103,120,0,0,sunset_parkside_2184_16711,Passed initial connection screening,True
+Sunset/Parkside,2184,16712,Middle,DAGid_126341_20260817,parcel,3.1982548221064966,78,85,0,0,sunset_parkside_2184_16712,Passed initial connection screening,True
+Sunset/Parkside,2184,16713,Middle,DAGid_125403_20260817,parcel,18.2676254161136,71,73,0,0,sunset_parkside_2184_16713,Passed initial connection screening,True
+Sunset/Parkside,2184,16714,Middle,DAGid_122821_20260817,parcel,34.6551582559408,55,77,0,0,sunset_parkside_2184_16714,Passed initial connection screening,True
+Sunset/Parkside,2184,16715,Middle,DAGid_119849_20260817,parcel,45.46820831670246,49,102,0,0,sunset_parkside_2184_16715,Passed initial connection screening,True
+Sunset/Parkside,2184,16716,Middle,DAGid_117036_20260817,parcel,64.90614900047777,20,72,0,0,sunset_parkside_2184_16716,Passed initial connection screening,True
+Sunset/Parkside,2184,16717,Middle,DAGid_162352_20260817,parcel,80.20423537447783,51,114,0,0,sunset_parkside_2184_16717,Passed initial connection screening,True
+Sunset/Parkside,2184,16718,Middle,DAGid_112846_20260817,parcel,98.21796996043666,24,51,0,0,sunset_parkside_2184_16718,Passed initial connection screening,True
+Sunset/Parkside,2184,16719,Middle,DAGid_164733_20260817,parcel,115.43679321751844,13,38,0,0,sunset_parkside_2184_16719,Passed initial connection screening,True

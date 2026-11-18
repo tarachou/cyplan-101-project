@@ -1,0 +1,12 @@
+{
+  "run_id": "7267c1a7b3f0",
+  "algorithm": "NetworkX single-source Dijkstra",
+  "networkx_version": "3.7",
+  "distance_units": "meters",
+  "search_cutoff_m": 2000.0,
+  "origins": 443,
+  "destinations": 6677,
+  "includes_approach_links": true,
+  "opening_hours_applied": false,
+  "infinity_meaning": "No route within the search cutoff"
+}

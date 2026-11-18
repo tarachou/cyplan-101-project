@@ -1,0 +1,1657 @@
+osm_key,name,shop,amenity,healthcare,unmatched_decision
+node/295086571,Population,hairdresser,,,Exclude: services outside project categories
+node/302447994,Edo,hairdresser,,,Exclude: services outside project categories
+node/319020853,Carlin's Laundromat,laundry,,,Exclude: services outside project categories
+node/358804965,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/359099330,San Francisco Magazine,office,,,Exclude: services outside project categories
+node/359100497,Bleemer Family Chriopractic and Massage,massage,,,Exclude: services outside project categories
+node/386586638,Jack’s Shoe Repair,shoe_repair,,,Exclude: services outside project categories
+node/387243372,Chan's Trains and Hobbies,hobby,,,Review: unspecified or unmapped category
+node/387245716,Best Wash In Town Launderette,laundry,,,Exclude: services outside project categories
+node/388209980,Hyde St. Laundry & Cleaners,laundry,,,Exclude: services outside project categories
+node/388210304,Elegant Laundrette,laundry,,,Exclude: services outside project categories
+node/388223981,Super Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/389414006,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/389447030,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/390197014,Massage Envy,massage,,,Exclude: services outside project categories
+node/393124821,Masterpiece Tattoo,tattoo,,,Exclude: services outside project categories
+node/409474895,Pacific View Cleaners,laundry,,,Exclude: services outside project categories
+node/409475526,Citilaundry Wash-Dry,laundry,,,Exclude: services outside project categories
+node/409475950,Tamm Auto Service,car_repair,,,Exclude: services outside project categories
+node/409486133,Zephyr Cleaners,laundry,,,Exclude: services outside project categories
+node/409489771,Sparkle Laundry,laundry,,,Exclude: services outside project categories
+node/410846837,Nob Hill Coin-op Laundry,laundry,,,Exclude: services outside project categories
+node/410847128,Drop & Go Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/410848847,Leroy Cleaning Center,laundry,,,Exclude: services outside project categories
+node/411274501,Water Lily Cleaners,laundry,,,Exclude: services outside project categories
+node/411278774,Doo Wash Cleaners,laundry,,,Exclude: services outside project categories
+node/412085892,Best Choice Cleaners,laundry,,,Exclude: services outside project categories
+node/412086364,,laundry,,,Exclude: services outside project categories
+node/412087476,Polk Street Cleaners,laundry,,,Exclude: services outside project categories
+node/412088777,Professional Dry Cleaners,laundry,,,Exclude: services outside project categories
+node/412088778,Silk-Tech Cleaners,laundry,,,Exclude: services outside project categories
+node/412104142,Marvin's Cleaner,laundry,,,Exclude: services outside project categories
+node/412108120,Holiday Cleaner,laundry,,,Exclude: services outside project categories
+node/415565397,La Petite Cleaners,laundry,,,Exclude: services outside project categories
+node/415566446,Quality Shoe Repair,shoe_repair,,,Exclude: services outside project categories
+node/416669140,Felicia Gelardi Skin Care,beauty,,,Exclude: services outside project categories
+node/416669362,Chas J. Grisez Co.,yes,,,Review: unspecified or unmapped category
+node/416669402,The Missing Sock Drycleaners,dry_cleaning,,,Exclude: services outside project categories
+node/416669604,Rainwater Laundromat,laundry,,,Exclude: services outside project categories
+node/416669853,Flip Salon,beauty,,,Exclude: services outside project categories
+node/416669877,Toyoko's Attraction,yes,,,Review: unspecified or unmapped category
+node/416670075,Nails n Beauty,beauty,,,Exclude: services outside project categories
+node/416670166,Aristocrat Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/416779585,Cut 'N Curl,hairdresser,,,Exclude: services outside project categories
+node/416779650,Photograph & Frame,yes,,,Review: unspecified or unmapped category
+node/416779720,Simply Cuts,hairdresser,,,Exclude: services outside project categories
+node/416780302,Savvy Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/416780319,Hand Touch Nail Care,yes,,,Review: unspecified or unmapped category
+node/416780380,Eye X,yes,,,Review: unspecified or unmapped category
+node/416780407,Nice Cuts,hairdresser,,,Exclude: services outside project categories
+node/416780438,Red Dot,yes,,,Review: unspecified or unmapped category
+node/416780444,GNC,nutrition_supplements,,,Review: unspecified or unmapped category
+node/416782112,,yes,,,Review: unspecified or unmapped category
+node/416782257,Joybird,household,,,Review: unspecified or unmapped category
+node/416783966,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/416783985,Ciao Bella Nail Salon,beauty,,,Exclude: services outside project categories
+node/416784124,The New Nails,beauty,,,Exclude: services outside project categories
+node/416784125,Renee Rivera Hair Accessories,yes,,,Review: unspecified or unmapped category
+node/571458767,Billy's Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/615143635,,laundry,laundry,,Exclude: services outside project categories
+node/621793515,Sugarcoat Salon,beauty,,,Exclude: services outside project categories
+node/630736134,SF GreenClean,dry_cleaning,,,Exclude: services outside project categories
+node/632146331,The Laundry Corner,laundry,,,Exclude: services outside project categories
+node/632819804,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/655381725,Kim's Precision Cuts,hairdresser,,,Exclude: services outside project categories
+node/670674815,Louie's Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/709858563,Crystal Spa,beauty,,,Exclude: services outside project categories
+node/718375840,Stacy's Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/1220797548,,car_repair,,,Exclude: services outside project categories
+node/1220797585,O'Grady Plumbing,plumbers,,,Exclude: services outside project categories
+node/1221102866,Angel's Wash,laundry,,,Exclude: services outside project categories
+node/1221414087,Winding Beauty Mart,hairdresser,,,Exclude: services outside project categories
+node/1221414376,Veritable Vegetable,wholesale,,,Exclude: services outside project categories
+node/1221414463,BayCopy,copyshop,,,Exclude: services outside project categories
+node/1223019595,FedEx 24h office,copyshop,post_office,,Exclude: services outside project categories
+node/1230343411,Launderland,laundry,,,Exclude: services outside project categories
+node/1241690518,Hollywood Nail Time,hairdresser,,,Exclude: services outside project categories
+node/1241690524,,hairdresser,,,Exclude: services outside project categories
+node/1306052396,Sunset 76,car_repair,,,Exclude: services outside project categories
+node/1364959571,Haight to Wash,laundry,,,Exclude: services outside project categories
+node/1376212306,Fingertips,beauty,,,Exclude: services outside project categories
+node/1393986242,GNG Liquors,beverages,,,Review: unspecified or unmapped category
+node/1507842738,Wash,laundry,,,Exclude: services outside project categories
+node/1516951672,Little Ark,pet_grooming,,,Exclude: services outside project categories
+node/1713256900,Noe Valley Salon,yes,,,Review: unspecified or unmapped category
+node/1713269540,Mani-Pedi Spa,beauty,,,Exclude: services outside project categories
+node/1713269578,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/1748985895,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/1769223519,NailDar,beauty,,,Exclude: services outside project categories
+node/1901061309,Barnets Salon,hairdresser,,,Exclude: services outside project categories
+node/1957468803,Bubble Lounge,laundry,,,Exclude: services outside project categories
+node/1963913261,Danny's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/1969280150,Get the Funk Out,laundry,,,Exclude: services outside project categories
+node/1969281076,The Collective Studios,yes,,,Review: unspecified or unmapped category
+node/1970081363,Lulu Laundromat,laundry,,,Exclude: services outside project categories
+node/1980522782,The Washing Well,laundry,,,Exclude: services outside project categories
+node/1980599178,Kent Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/1982001033,Alouis Auto Repair & Carlos Exclusive,car_repair,,,Exclude: services outside project categories
+node/2031063329,A-One Cleaning and Tailoring,laundry,,,Exclude: services outside project categories
+node/2045466961,24 Guerrero Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/2051836123,Old Town,tattoo,,,Exclude: services outside project categories
+node/2055529990,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/2056744990,B and M Studio,hairdresser,,,Exclude: services outside project categories
+node/2056745035,Frisco Tattoo,tattoo,,,Exclude: services outside project categories
+node/2057080986,Bubbles & Beans,laundry,,,Exclude: services outside project categories
+node/2057211563,TressWorks Salon,hairdresser,,,Exclude: services outside project categories
+node/2060252731,Central Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/2067798831,Esme’s Beauty Studio,hairdresser,,,Exclude: services outside project categories
+node/2069103889,Hillside Laundromat,laundry,,,Exclude: services outside project categories
+node/2069119591,Fekaso Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/2130264968,Busacca Gallery,yes,,,Review: unspecified or unmapped category
+node/2167562320,Cascade Spa,beauty,,,Exclude: services outside project categories
+node/2304346657,,yes,,,Review: unspecified or unmapped category
+node/2318141861,Lisa Hair Design,hairdresser,,,Exclude: services outside project categories
+node/2318141900,,yes,,,Review: unspecified or unmapped category
+node/2318141902,,yes,,,Review: unspecified or unmapped category
+node/2318157416,Spencer Salon,hairdresser,,,Exclude: services outside project categories
+node/2321299139,Hand Job Nails & Spa,beauty,,,Exclude: services outside project categories
+node/2321299156,Bruno Hair Design,hairdresser,,,Exclude: services outside project categories
+node/2321299172,Mudpuppy's,pet_grooming,,,Exclude: services outside project categories
+node/2321299174,Bryan Roberts Salon,hairdresser,,,Exclude: services outside project categories
+node/2335897660,Public Storage,storage_rental,,,Exclude: services outside project categories
+node/2335902094,H&L Auto Repair,car_repair,,,Exclude: services outside project categories
+node/2338785925,Golden One Credit Union,money_lender,,,Exclude: services outside project categories
+node/2338786209,Richardson Automotive,car_repair,,,Exclude: services outside project categories
+node/2338837668,ACE Cash Express,money_lender,,,Exclude: services outside project categories
+node/2340006012,The Woodbridge Salon,hairdresser,,,Exclude: services outside project categories
+node/2340009917,San Francisco Honda,car_repair,,,Exclude: services outside project categories
+node/2340018543,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/2340023158,Clean Image Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/2341054068,Union Nails,beauty,,,Exclude: services outside project categories
+node/2412535616,Lavarmatic,laundry,,,Exclude: services outside project categories
+node/2415612118,Florida Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/2430411630,Fox & Doll,beauty,,,Exclude: services outside project categories
+node/2509914560,Devie Spa & Massage,massage,,,Exclude: services outside project categories
+node/2526073573,Solon V,hairdresser,,,Exclude: services outside project categories
+node/2583371986,San Francisco Massage Supply,massage,,,Exclude: services outside project categories
+node/2624201222,One Hour Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/2625069266,Green Twig Salon,beauty,,,Exclude: services outside project categories
+node/2638858698,Nouvelle Tailor & Laundry Service,dry_cleaning;laundry,,,Exclude: services outside project categories
+node/2641796348,,car_repair,,,Exclude: services outside project categories
+node/2652184094,The Mission's Barbershop,hairdresser,,,Exclude: services outside project categories
+node/2664378954,The Alchemist Barbershop,hairdresser,,,Exclude: services outside project categories
+node/2664378957,Mister Lee’s San Francisco Style Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/2666409790,Advanced Auto weeks,car_repair,,,Exclude: services outside project categories
+node/2666409795,Sparkle SF,beauty,,,Exclude: services outside project categories
+node/2667413557,La Tira Wax Studio,beauty,,,Exclude: services outside project categories
+node/2675601598,Damia Salon,hairdresser,,,Exclude: services outside project categories
+node/2687343219,Bubble Up Coin-op & Laundry,laundry,,,Exclude: services outside project categories
+node/2687343234,Episode Salon and Spa,beauty,,,Exclude: services outside project categories
+node/2707373844,Lisa's Beauty Salon,beauty,,,Exclude: services outside project categories
+node/2763779463,DeJager and Reilly Plumbing,trade,,,Exclude: services outside project categories
+node/2786114656,Arun,massage,,,Exclude: services outside project categories
+node/2819146868,J. P. Kempt,hairdresser,,,Exclude: services outside project categories
+node/2819256104,Dri-Clean Express,dry_cleaning,,,Exclude: services outside project categories
+node/2819626538,Advance Auto Repair,car_repair,,,Exclude: services outside project categories
+node/2880720358,Picnic,apparel and gifts,,,Review: unspecified or unmapped category
+node/2880721207,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/2880791443,Delightful Foot Massage,massage,,,Exclude: services outside project categories
+node/2923715576,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/2979719162,Best Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/2998152476,Olive This Olive That,yes,,,Review: unspecified or unmapped category
+node/3001015522,West Coast Nails,beauty,,,Exclude: services outside project categories
+node/3007714038,Eddy's Auto Service,car_repair,,,Exclude: services outside project categories
+node/3111652168,Wash This!,laundry,,,Exclude: services outside project categories
+node/3148249590,Ann's For Hair,hairdresser,,,Exclude: services outside project categories
+node/3148249591,North Beach Laundry,laundry,,,Exclude: services outside project categories
+node/3153355954,Nail Arts,beauty,,,Exclude: services outside project categories
+node/3166823781,Red Kestrel Tattoo,tattoo,,,Exclude: services outside project categories
+node/3166823794,Crown Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3166823796,Tiptop Nails & Waxing,beauty,,,Exclude: services outside project categories
+node/3184077141,Angie's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3191765393,Hall Realty,estate_agent,,,Exclude: services outside project categories
+node/3197341211,Laurel Realty,estate_agent,,,Exclude: services outside project categories
+node/3204993507,Wash & Dry,laundry,,,Exclude: services outside project categories
+node/3206599977,California Salon,beauty,,,Exclude: services outside project categories
+node/3206599978,Corner Laundrette,dry_cleaning,,,Exclude: services outside project categories
+node/3223701749,Plush Nails Spa,beauty,,,Exclude: services outside project categories
+node/3228601029,Good Hair Day,hairdresser,,,Exclude: services outside project categories
+node/3228601031,The Buzz,hairdresser,,,Exclude: services outside project categories
+node/3228601032,Diary Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3273908272,Mission Ink,tattoo,,,Exclude: services outside project categories
+node/3311578661,Union Street Apothecary,beauty,,,Exclude: services outside project categories
+node/3380023321,Benefit Cosmetics Boutique,beauty,,,Exclude: services outside project categories
+node/3393345208,,tailor,,,Exclude: services outside project categories
+node/3393355309,Atelier Emmanuel Salon and Day Spa,beauty,,,Exclude: services outside project categories
+node/3393360627,Pete's Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/3393364627,Shoe & Bag Repair,shoe_repair,,,Exclude: services outside project categories
+node/3393364628,The Green Door Massage,massage,,,Exclude: services outside project categories
+node/3393384948,Moth & Dagger Tattoo,tattoo,,,Exclude: services outside project categories
+node/3393452323,Sutter Nails,beauty,,,Exclude: services outside project categories
+node/3393496210,Elite Spa,beauty,,,Exclude: services outside project categories
+node/3394869136,OSO Salon,beauty,,,Exclude: services outside project categories
+node/3397782952,City Copy,copyshop,,,Exclude: services outside project categories
+node/3397807646,Thi,beauty,,,Exclude: services outside project categories
+node/3408724048,Smoke & Mirrors Salon,beauty,,,Exclude: services outside project categories
+node/3408732351,Tailored Salon,beauty,,,Exclude: services outside project categories
+node/3409658242,Richard's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3415413129,Mani-Pedi Spa,beauty,,,Exclude: services outside project categories
+node/3507541005,Kabuki hair,hairdresser,,,Exclude: services outside project categories
+node/3522812240,American Automobile Association,travel_agency,,,Exclude: services outside project categories
+node/3522863342,Salon J,hairdresser,,,Exclude: services outside project categories
+node/3523031628,Jensen's Mail and Copy,copyshop,,,Exclude: services outside project categories
+node/3524437675,Rainbow Wash,laundry,,,Exclude: services outside project categories
+node/3540104123,The Grateful Head,hairdresser,,,Exclude: services outside project categories
+node/3540104124,Natural Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/3540104226,West Potral Cleaning Center,dry_cleaning,,,Exclude: services outside project categories
+node/3540160998,Anabelle’s,dry_cleaning,,,Exclude: services outside project categories
+node/3540160999,Zen Beauty Spa,beauty,,,Exclude: services outside project categories
+node/3540255599,She-She,beauty,,,Exclude: services outside project categories
+node/3540255696,Quinn Travel,travel_agency,,,Exclude: services outside project categories
+node/3540256993,Portal Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3542720507,Sandy's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3542728900,Gino for Hair,hairdresser,,,Exclude: services outside project categories
+node/3542728902,Dimitra's,hairdresser,,,Exclude: services outside project categories
+node/3545345794,Hocus Pocus,hairdresser,,,Exclude: services outside project categories
+node/3545419193,Miraloma Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3561728393,Tower Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3561728394,Portola Nail Bar,beauty,,,Exclude: services outside project categories
+node/3563920173,Mademoiselle Nails,beauty,,,Exclude: services outside project categories
+node/3567667847,Yong Chang Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3577586293,Suchada,massage,,,Exclude: services outside project categories
+node/3577864144,Baker's Chem-Dry,carpet_cleaning,,,Exclude: services outside project categories
+node/3579427393,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/3593661493,ARC,copyshop,,,Exclude: services outside project categories
+node/3609369895,The Missing Sock,laundry,,,Exclude: services outside project categories
+node/3613001946,Ann Sacks,trade,,,Exclude: services outside project categories
+node/3622464005,Burns Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3622466801,Salon 815,beauty,,,Exclude: services outside project categories
+node/3622466802,Sisters Salon & Spa,beauty,,,Exclude: services outside project categories
+node/3622471799,Bloom,hairdresser,,,Exclude: services outside project categories
+node/3622501503,West Portal Spa,beauty,,,Exclude: services outside project categories
+node/3622507297,Psychic's,psychic,,,Exclude: services outside project categories
+node/3622507895,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/3622668128,Vaso's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3624174994,International Sport Motors,car_repair,,,Exclude: services outside project categories
+node/3633164825,Elenie for Hair,hairdresser,,,Exclude: services outside project categories
+node/3633323077,D Salon,hairdresser,,,Exclude: services outside project categories
+node/3633323078,Dragon Printing,copyshop,,,Exclude: services outside project categories
+node/3633323081,Lee's Nail Care,beauty,,,Exclude: services outside project categories
+node/3633581919,Leaps Beauty & Cosmetic Center,beauty,,,Exclude: services outside project categories
+node/3633581921,Supreme Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3633581922,Wendy Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3634735196,Sue's Skincare Studio,beauty,,,Exclude: services outside project categories
+node/3634735198,Tasana Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3648092525,Super Rainbow Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/3651065932,Glenore Cleaners & Alterations,dry_cleaning,,,Exclude: services outside project categories
+node/3657172989,Sunset Barber,hairdresser,,,Exclude: services outside project categories
+node/3657172999,Sensi Nails,beauty,,,Exclude: services outside project categories
+node/3657173000,Tumble Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3658310633,,massage,,,Exclude: services outside project categories
+node/3658310635,Aristocrat Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3658310642,Cozy Nail Spa,beauty,,,Exclude: services outside project categories
+node/3658310645,G-Salon,hairdresser,,,Exclude: services outside project categories
+node/3658311026,High Touch Nail Salon,beauty,,,Exclude: services outside project categories
+node/3658311030,EightThirtySeven,hairdresser,,,Exclude: services outside project categories
+node/3659215685,Harry's Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/3661035835,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/3661044944,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/3663975979,Izzy's Beauty Shop,beauty,,,Exclude: services outside project categories
+node/3663975988,Mission Ink 22nd,tattoo,,,Exclude: services outside project categories
+node/3664707816,Maisonry,hairdresser,,,Exclude: services outside project categories
+node/3664707818,Tula,hairdresser,,,Exclude: services outside project categories
+node/3666082234,LV Nail Spa,beauty,,,Exclude: services outside project categories
+node/3667700927,Surreal You,hairdresser,,,Exclude: services outside project categories
+node/3667880932,One Shot Tattoo,tattoo,,,Exclude: services outside project categories
+node/3667881127,Daily Beauty Supply & Salon,beauty,,,Exclude: services outside project categories
+node/3674255638,Misdirections Magic Shop,magician,,,Exclude: services outside project categories
+node/3674255681,Tun Beauty Salon,beauty,,,Exclude: services outside project categories
+node/3674278727,Ben Salon,hairdresser,,,Exclude: services outside project categories
+node/3679639687,U-Feet Massage,massage,,,Exclude: services outside project categories
+node/3686447505,Social Cleaning Laundromat,laundry,,,Exclude: services outside project categories
+node/3686447515,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/3686450974,Accent on Beauty,beauty,,,Exclude: services outside project categories
+node/3686450978,Enchanted Massage,massage,,,Exclude: services outside project categories
+node/3688682726,Color Block Salon,hairdresser,,,Exclude: services outside project categories
+node/3688683431,Mai Ling Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3688683432,Artistic Nail Care,beauty,,,Exclude: services outside project categories
+node/3688683535,Hare Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3692823565,,yes,,,Review: unspecified or unmapped category
+node/3699130252,123 Wash & Dry,laundry,,,Exclude: services outside project categories
+node/3699162435,Aroma Beauty Care,beauty,,,Exclude: services outside project categories
+node/3740701640,Steel & Strand,hairdresser,,,Exclude: services outside project categories
+node/3754658192,Steel & Lacquer,hairdresser,,,Exclude: services outside project categories
+node/3781718463,Gentle Cuts,hairdresser,,,Exclude: services outside project categories
+node/3781718466,SF Wash,laundry,,,Exclude: services outside project categories
+node/3781718558,La Petite Rose,beauty,,,Exclude: services outside project categories
+node/3781718958,Selena Beauty Care,beauty,,,Exclude: services outside project categories
+node/3781719161,Taraval Tailors,tailor,,,Exclude: services outside project categories
+node/3790822664,Deluxe Lavender Nail Spa,beauty,,,Exclude: services outside project categories
+node/3790822676,Cole Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3790822857,Mulberrys,dry_cleaning,,,Exclude: services outside project categories
+node/3790822862,Mellow & Barbers,hairdresser,,,Exclude: services outside project categories
+node/3790822866,Cole Valley Nail Salon,beauty,,,Exclude: services outside project categories
+node/3790822867,516-518 Coin Op,laundry,,,Exclude: services outside project categories
+node/3801395647,Haight Ashbury Tattoo & Piercing,tattoo,,,Exclude: services outside project categories
+node/3801409075,Laundromat,laundry,,,Exclude: services outside project categories
+node/3801412026,Shrader Quality Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3801415661,Studio Kazoku,tattoo,,,Exclude: services outside project categories
+node/3802959945,Top Design Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/3802986677,Hen's Massage,massage,,,Exclude: services outside project categories
+node/3837726407,,kiosk,,,Review: unspecified or unmapped category
+node/3840285161,Mama's Laundry Room,laundry,,,Exclude: services outside project categories
+node/3860446326,Rental,yes,,,Review: unspecified or unmapped category
+node/3860446327,Tickets / Guest Services,ticket,,,Exclude: services outside project categories
+node/3873879796,Addy's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3873879800,Hair of the Gods,hairdresser,,,Exclude: services outside project categories
+node/3873879806,La Vie Nail Spa,beauty,,,Exclude: services outside project categories
+node/3875122065,San Zen Nails,beauty,,,Exclude: services outside project categories
+node/3926545214,bay city bike,rental,,,Exclude: services outside project categories
+node/3963401475,Noe Valley Auto Works,car_repair,,,Exclude: services outside project categories
+node/3969567205,Tasha hair design,hairdresser,,,Exclude: services outside project categories
+node/3969574175,Heung Cheung Trading Co.,yes,,,Review: unspecified or unmapped category
+node/3969578798,Kongming Glass Co.,yes,,,Review: unspecified or unmapped category
+node/3969590467,Hair & Hair,hairdresser,,,Exclude: services outside project categories
+node/3969590472,Karen Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3969590473,Sa Sa Beauty,hairdresser,,,Exclude: services outside project categories
+node/3969593218,Faces Plus,beauty,,,Exclude: services outside project categories
+node/3969593219,Jindi's,dry_cleaning,,,Exclude: services outside project categories
+node/3969593221,Love Your Face,beauty,,,Exclude: services outside project categories
+node/3969653430,H^2 Cards,yes,,,Review: unspecified or unmapped category
+node/3969653431,Blades Co.,hairdresser,,,Exclude: services outside project categories
+node/3969653432,Iron and Resin,yes,,,Review: unspecified or unmapped category
+node/3969668825,Nirvana Beauty & Brows,hairdresser,,,Exclude: services outside project categories
+node/3969668826,Schnitt Salon,hairdresser,,,Exclude: services outside project categories
+node/3976454089,Super Laundromat,laundry,,,Exclude: services outside project categories
+node/3976469012,Jason's Salon,hairdresser,,,Exclude: services outside project categories
+node/3976476478,A&A Hair Design,hairdresser,,,Exclude: services outside project categories
+node/3977414088,Victor's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3985401494,Mona Lisa Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/3986855419,One Stop Salon and Spa,hairdresser,,,Exclude: services outside project categories
+node/3986855421,Lifemark Group,funeral_directors,,,Exclude: services outside project categories
+node/3986855423,Dream Masters Custom Tattoos,tattoo,,,Exclude: services outside project categories
+node/3986887652,Urban Sidewalk,yes,,,Review: unspecified or unmapped category
+node/3986887654,The Underground,yes,,,Review: unspecified or unmapped category
+node/3987038853,Tai Yick Trading Co,yes,,,Review: unspecified or unmapped category
+node/3987038854,Lana Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/3987053469,Create China-US Freight,wholesale,,,Exclude: services outside project categories
+node/3987054901,Southern Gift Trade Company,yes,,,Review: unspecified or unmapped category
+node/3993039689,Salon de Hong Kong,beauty,,,Exclude: services outside project categories
+node/3993039691,Sundown Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3996613637,Alabaster Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3996613638,All Seasons Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/3996630557,Martini Cleaners #3,dry_cleaning,,,Exclude: services outside project categories
+node/3998105168,Vanguard Motors,car_repair,,,Exclude: services outside project categories
+node/3998105289,The Garage,car_repair,,,Exclude: services outside project categories
+node/3998105369,Melrose Motors,car_repair,,,Exclude: services outside project categories
+node/4000062170,Hugo Street Launderette,laundry,,,Exclude: services outside project categories
+node/4004780441,La Biang Thai,massage,,,Exclude: services outside project categories
+node/4004780442,Schwerin Automotive,car_repair,,,Exclude: services outside project categories
+node/4004801646,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/4004801648,Peoples Barber & Shop,hairdresser,,,Exclude: services outside project categories
+node/4004801700,Winco Auto Repair,car_repair,,,Exclude: services outside project categories
+node/4010510158,Sunset Glass,glaziery,,,Exclude: services outside project categories
+node/4013730318,Ho Kee Market,yes,,,Review: unspecified or unmapped category
+node/4013730320,Jing Ye Co.,yes,,,Review: unspecified or unmapped category
+node/4015100313,JR Studios,hairdresser,,,Exclude: services outside project categories
+node/4015100316,I D Hair Salon,beauty,,,Exclude: services outside project categories
+node/4015701391,Miu Miu Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4017208353,Chung Chau City Inc.,yes,,,Review: unspecified or unmapped category
+node/4017208354,Sun Sun Trading Co.,yes,,,Review: unspecified or unmapped category
+node/4017211396,Tan Tan Trading Co Inc.,yes,,,Review: unspecified or unmapped category
+node/4017220285,,yes,,,Review: unspecified or unmapped category
+node/4017220489,New Louie's Inc,yes,,,Review: unspecified or unmapped category
+node/4017234496,Sunset Nails,beauty,,,Exclude: services outside project categories
+node/4017234501,Coin Laundry,laundry,,,Exclude: services outside project categories
+node/4017234505,Salon 828,hairdresser,,,Exclude: services outside project categories
+node/4017234509,Odsy Workshop,shoe_repair,,,Exclude: services outside project categories
+node/4017234513,Lady Jade's Beauty,beauty,,,Exclude: services outside project categories
+node/4017234515,Eye of the Tiger,tattoo,,,Exclude: services outside project categories
+node/4017234694,Facial Plus,beauty,,,Exclude: services outside project categories
+node/4017234702,Urban Beauty Skin Care,beauty,,,Exclude: services outside project categories
+node/4017234795,Lucky Spot,lottery,,,Exclude: services outside project categories
+node/4017234893,International Beauty Salon,beauty,,,Exclude: services outside project categories
+node/4017234900,Modern Design Salon,beauty,,,Exclude: services outside project categories
+node/4017234989,Sunset Auto Reconstruction,car_repair,,,Exclude: services outside project categories
+node/4017234990,Salon de Annie,hairdresser,,,Exclude: services outside project categories
+node/4017246017,Gum Sing Market,yes,,,Review: unspecified or unmapped category
+node/4018792597,Olson's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4018792689,Long Rainbow Health Center,massage,,,Exclude: services outside project categories
+node/4018792792,City Cuts,hairdresser,,,Exclude: services outside project categories
+node/4018792793,Bon Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4018981890,Long Hua Co.,yes,,,Review: unspecified or unmapped category
+node/4022395855,Merry Manicures,beauty,,,Exclude: services outside project categories
+node/4022400493,Reliable Auto Body,car_repair,,,Exclude: services outside project categories
+node/4022671473,Backstage Salon,hairdresser,,,Exclude: services outside project categories
+node/4022689969,Let it Bleed,tattoo,,,Exclude: services outside project categories
+node/4022689971,Locals Barbershop,hairdresser,,,Exclude: services outside project categories
+node/4024208405,Pacific Auto Repair,car_repair,,,Exclude: services outside project categories
+node/4024208406,CA Pacific Trading Co.,yes,,,Review: unspecified or unmapped category
+node/4024227027,Green Palace Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4024246506,Photo Plus,copyshop,,,Exclude: services outside project categories
+node/4024246507,New Beauty Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4030526410,Sunday,hairdresser,,,Exclude: services outside project categories
+node/4030526506,Zen Day Spa,beauty,,,Exclude: services outside project categories
+node/4030526509,NightShade Studios,tattoo,,,Exclude: services outside project categories
+node/4030526513,Firehorse,hairdresser,,,Exclude: services outside project categories
+node/4030533893,Diane's Nails and Waxing,beauty,,,Exclude: services outside project categories
+node/4037737898,Security Public Storage,storage_rental,,,Exclude: services outside project categories
+node/4039513704,Heart of Shanghai,yes,,,Review: unspecified or unmapped category
+node/4042907836,Perfect,beauty,,,Exclude: services outside project categories
+node/4055391816,Sun Sang tong,yes,,,Review: unspecified or unmapped category
+node/4055391820,Jumbo Trading Company,yes,,,Review: unspecified or unmapped category
+node/4055391821,Yan Yang Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4055440128,Gum Sun Market,yes,,,Review: unspecified or unmapped category
+node/4055440129,J.C. Market,yes,,,Review: unspecified or unmapped category
+node/4055481598,Foot Reflexology,massage,,,Exclude: services outside project categories
+node/4057348981,Dodo Case,yes,,,Review: unspecified or unmapped category
+node/4058925355,Page & Pierce Laundry & Cleaners,laundry,,,Exclude: services outside project categories
+node/4060877702,V Nails Spa,beauty,,,Exclude: services outside project categories
+node/4062225279,Apoyo Financiero,money_lender,,,Exclude: services outside project categories
+node/4062451562,Ocean Blue Laundry & Cafe,laundry,,,Exclude: services outside project categories
+node/4064534749,Costa Del Sol Tanning,beauty,,,Exclude: services outside project categories
+node/4064534750,Lady Goldfingers,beauty,,,Exclude: services outside project categories
+node/4064534751,Hair Future,hairdresser,,,Exclude: services outside project categories
+node/4064534752,Kitty's Nails,beauty,,,Exclude: services outside project categories
+node/4064537173,CC Nail Spa,beauty,,,Exclude: services outside project categories
+node/4064537175,Recharge,beauty,,,Exclude: services outside project categories
+node/4069432004,Sunny Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4069432005,Brightomat,laundry,,,Exclude: services outside project categories
+node/4069447289,Akua Nails,beauty,,,Exclude: services outside project categories
+node/4069447291,Beauty and the Beast,pet_grooming,,,Exclude: services outside project categories
+node/4069447293,Zaki Tailoring,tailor,,,Exclude: services outside project categories
+node/4069447297,Hong Kong Art Salon,hairdresser,,,Exclude: services outside project categories
+node/4069447306,Rita Warth Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4069447390,Super Hair Cuts,hairdresser,,,Exclude: services outside project categories
+node/4069447489,Gigi Salon,hairdresser,,,Exclude: services outside project categories
+node/4069447491,Natural Wonder,beauty,,,Exclude: services outside project categories
+node/4071080491,"Irving Cleaners, Laundry & Alteration",dry_cleaning,,,Exclude: services outside project categories
+node/4071080493,Jenni's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4071080700,Sunset Blue Laundry,laundry,,,Exclude: services outside project categories
+node/4071080891,Iji Emporium,tattoo,,,Exclude: services outside project categories
+node/4071081091,Friendly Cuts,beauty,,,Exclude: services outside project categories
+node/4074348885,J.W. Huang Acupuncture & Herbal Medicine,yes,,,Review: unspecified or unmapped category
+node/4074351636,Duxwell Printing Inc.,copyshop,,,Exclude: services outside project categories
+node/4074382931,Universal Trading Co,yes,,,Review: unspecified or unmapped category
+node/4074382932,Mayfu Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4074389894,Yu Fung Co,yes,,,Review: unspecified or unmapped category
+node/4074389895,Went Worth Trading Co,yes,,,Review: unspecified or unmapped category
+node/4074433655,Ying Hobbies & Toys,yes,,,Review: unspecified or unmapped category
+node/4077358635,Wen Sang Jade,yes,,,Review: unspecified or unmapped category
+node/4077360764,Pacific Overseas Group (U.S.A) Inc.,yes,,,Review: unspecified or unmapped category
+node/4077365953,China Dragon Trading Inc,yes,,,Review: unspecified or unmapped category
+node/4077365954,Gift Entertainment,yes,,,Review: unspecified or unmapped category
+node/4077365955,S & J Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4077368817,Tung Shing Trading Co.,yes,,,Review: unspecified or unmapped category
+node/4077368818,Taiyuen Trade Center,yes,,,Review: unspecified or unmapped category
+node/4077368945,Mark's Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4077372342,Juicy Fruit,yes,,,Review: unspecified or unmapped category
+node/4077372343,Hue An Company,yes,,,Review: unspecified or unmapped category
+node/4081565891,Pete's Launderette & Cleaners,laundry,,,Exclude: services outside project categories
+node/4087004997,Rose Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4093612690,Unique Beauty,beauty,,,Exclude: services outside project categories
+node/4093612889,TopCuts,hairdresser,,,Exclude: services outside project categories
+node/4093613389,T T Nail Spa Waxing,hairdresser,,,Exclude: services outside project categories
+node/4098701617,Bao Li,yes,,,Review: unspecified or unmapped category
+node/4100737130,Ellison Enterprises Corp,herbs;ginseng,,,Review: unspecified or unmapped category
+node/4100737131,L&G Trading,yes,,,Review: unspecified or unmapped category
+node/4101104060,Helen's Cleaners & Alterations,dry_cleaning,,,Exclude: services outside project categories
+node/4101111009,Zon Xi,yes,,,Review: unspecified or unmapped category
+node/4101128311,Wing Hang Co Chinese herbs,yes,,,Review: unspecified or unmapped category
+node/4101128312,Stanley Travel Service,travel_agency,,,Exclude: services outside project categories
+node/4101128316,Yuen Wei Inc,yes,,,Review: unspecified or unmapped category
+node/4103856289,Market,yes,,,Review: unspecified or unmapped category
+node/4103856291,Catering Co.,yes,,,Review: unspecified or unmapped category
+node/4103856292,Foghorn Bayview,yes,,,Review: unspecified or unmapped category
+node/4106728612,Wan Hua Co,yes,,,Review: unspecified or unmapped category
+node/4106748109,Hing Sing Co.,yes,,,Review: unspecified or unmapped category
+node/4106748111,New Went Worth Trading Co.,yes,,,Review: unspecified or unmapped category
+node/4106748112,Jun Yu's Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/4106815506,Bou Shing Ginseng & Tea Inc.,yes,,,Review: unspecified or unmapped category
+node/4106815507,Ming Lee Trading Inc,yes,,,Review: unspecified or unmapped category
+node/4106815510,Dream Travel,travel_agency,,,Exclude: services outside project categories
+node/4110684325,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/4113435901,Hairplay,hairdresser,,,Exclude: services outside project categories
+node/4114601491,Moe's Tires,car_repair,,,Exclude: services outside project categories
+node/4122562012,Asian Palace Spa,massage,,,Exclude: services outside project categories
+node/4134420492,Ernesto's,hairdresser,,,Exclude: services outside project categories
+node/4136198316,Fortune Star Trading Inc,yes,,,Review: unspecified or unmapped category
+node/4136198318,Windy's Travel Agency,travel_agency,,,Exclude: services outside project categories
+node/4136202579,Asiastar Fantasy Inc,yes,,,Review: unspecified or unmapped category
+node/4136206223,Let's go,yes,,,Review: unspecified or unmapped category
+node/4136206224,YOU & ME Fashion,yes,,,Review: unspecified or unmapped category
+node/4136206225,Feng Ze Inc.,yes,,,Review: unspecified or unmapped category
+node/4139840858,Art of Hair,hairdresser,,,Exclude: services outside project categories
+node/4139840861,Don's Key and Lock,locksmith,,,Exclude: services outside project categories
+node/4151902169,ABC Locksmith,locksmith,,,Exclude: services outside project categories
+node/4151902170,Lyly's Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4156154833,Wan Cheong Ginseng Co,yes,,,Review: unspecified or unmapped category
+node/4156154836,,yes,,,Review: unspecified or unmapped category
+node/4156154837,Hop Hing Ginseng Co,yes,,,Review: unspecified or unmapped category
+node/4156154838,Universal Tours,travel_agency,,,Exclude: services outside project categories
+node/4164208234,Sherman Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4170222464,Saviour Salon,hairdresser,,,Exclude: services outside project categories
+node/4173615992,El Arroyo,laundry,,,Exclude: services outside project categories
+node/4173664593,Guerrero Launderette,laundry,,,Exclude: services outside project categories
+node/4186461906,Toss N Turn,laundry,,,Exclude: services outside project categories
+node/4196313092,Fung Soong Reflexology / Massage,massage,,,Exclude: services outside project categories
+node/4199676099,Parkside Paint and Body Shop,car_repair,,,Exclude: services outside project categories
+node/4199813892,Rejuve Beauty,beauty,,,Exclude: services outside project categories
+node/4199813992,Be Salon,beauty,,,Exclude: services outside project categories
+node/4199814389,SF Nail Spa,beauty,,,Exclude: services outside project categories
+node/4203446057,Mack's Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4214319495,Harper Paige Salon,hairdresser,,,Exclude: services outside project categories
+node/4214319698,Perfect Cut,hairdresser,,,Exclude: services outside project categories
+node/4214359689,Beach Wash,laundry,,,Exclude: services outside project categories
+node/4218366859,Geogina's,yes,,,Review: unspecified or unmapped category
+node/4238376491,Portal World Travel,travel_agency,,,Exclude: services outside project categories
+node/4238376895,Gracy & Mercy Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4238377196,Lakeside French Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4238459192,Gloria's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4238459493,Soul Scissors Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4241957139,Artesanias & Transportes El Salvador,yes,,,Review: unspecified or unmapped category
+node/4241975785,Haircut's Today,hairdresser,,,Exclude: services outside project categories
+node/4241975786,Xodi,yes,,,Review: unspecified or unmapped category
+node/4241975788,Bella Salon,beauty,,,Exclude: services outside project categories
+node/4241989283,,yes,,,Review: unspecified or unmapped category
+node/4261675279,Eagle Loan Office,pawnbroker,,,Exclude: services outside project categories
+node/4261678887,Planet Clean Laundry,laundry,,,Exclude: services outside project categories
+node/4268621729,Focus Press,copyshop,,,Exclude: services outside project categories
+node/4331556171,Laundromat,laundry,,,Exclude: services outside project categories
+node/4339548347,SieMatic,yes,,,Review: unspecified or unmapped category
+node/4349254098,Barking Lot,pet_grooming,,,Exclude: services outside project categories
+node/4349255895,Julie Nail Spa,beauty,,,Exclude: services outside project categories
+node/4349255906,Shiatsu Massage,massage,,,Exclude: services outside project categories
+node/4349256207,Artistry Hair & Beauty Works,hairdresser,,,Exclude: services outside project categories
+node/4349256219,Jenny Beauty World,massage,,,Exclude: services outside project categories
+node/4349257697,H&Q Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/4349257700,Payless Cleaners & Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/4349265294,Plato Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4349267289,The Hairapist,hairdresser,,,Exclude: services outside project categories
+node/4358193990,Moto Lucia,motorcycle_repair,,,Exclude: services outside project categories
+node/4359127591,Mom's Body Shop,tattoo,,,Exclude: services outside project categories
+node/4359144092,Haight Ashbury Express Photo & Mail,copyshop,post_office,,Exclude: services outside project categories
+node/4359144096,Nice Cuts,hairdresser,,,Exclude: services outside project categories
+node/4370377394,Celia's In 'N Out Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4370393292,7th Son,tattoo,,,Exclude: services outside project categories
+node/4370393490,Rosy Heels,beauty,,,Exclude: services outside project categories
+node/4395524504,Annie's Salon Studio,hairdresser,,,Exclude: services outside project categories
+node/4396883896,8th Street Laundry,laundry,,,Exclude: services outside project categories
+node/4400574557,Dolly's Dog Grooming,pet_grooming,,,Exclude: services outside project categories
+node/4406213991,Seventh Son,tattoo,,,Exclude: services outside project categories
+node/4414118289,B&C Laundromat,laundry,,,Exclude: services outside project categories
+node/4427070778,Hong Kong Sara Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4427070788,Finest Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4427071290,Sunset Beauty Care,beauty,,,Exclude: services outside project categories
+node/4427071298,Sunset Blues Laundry,laundry,,,Exclude: services outside project categories
+node/4427122529,Judah Clean Center,laundry,,,Exclude: services outside project categories
+node/4455923667,Shade Nail Spa,beauty,,,Exclude: services outside project categories
+node/4498827891,Locks & Whiskers,hairdresser,,,Exclude: services outside project categories
+node/4540319677,Joe's Barbershop,hairdresser,,,Exclude: services outside project categories
+node/4542568567,Residents Barbershop,hairdresser,,,Exclude: services outside project categories
+node/4548624481,Martini Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4548639069,Everlasting Tattoo,tattoo,,,Exclude: services outside project categories
+node/4548639072,,dry_cleaning,,,Exclude: services outside project categories
+node/4548639081,Sunflowers Nails,beauty,,,Exclude: services outside project categories
+node/4548639084,Mac,beauty,,,Exclude: services outside project categories
+node/4548821708,SF City Laundromat,laundry,,,Exclude: services outside project categories
+node/4548821896,GNC,nutrition_supplements,,,Review: unspecified or unmapped category
+node/4550076306,JP+,hairdresser,,,Exclude: services outside project categories
+node/4556415854,Laundré,laundry,,,Exclude: services outside project categories
+node/4558023345,Belli Capelli,beauty,,,Exclude: services outside project categories
+node/4558023347,Toe-Asis,beauty,,,Exclude: services outside project categories
+node/4567199191,Locust Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4611607390,Trendy,beauty,,,Exclude: services outside project categories
+node/4611699277,,laundry,,,Exclude: services outside project categories
+node/4611731077,C& H Complete Auto Repair,car_repair,,,Exclude: services outside project categories
+node/4611733623,Bella Nails,beauty,,,Exclude: services outside project categories
+node/4611765281,Lombard Heights Nail Salon,beauty,,,Exclude: services outside project categories
+node/4612096185,Best Collateral,pawnbroker,,,Exclude: services outside project categories
+node/4613711126,Casa de empeños,pawnbroker,,,Exclude: services outside project categories
+node/4613841151,walnut cleaners,laundry,,,Exclude: services outside project categories
+node/4613888428,Citi Cleaners,laundry,,,Exclude: services outside project categories
+node/4613888438,Chestnut Street Cleaners,laundry,,,Exclude: services outside project categories
+node/4613888439,Just Cuts,beauty,,,Exclude: services outside project categories
+node/4613935939,Five Star Cleaners Alterations,vacuum_cleaner,,,Review: unspecified or unmapped category
+node/4614096537,Grant Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4615955728,Snow White Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4616011637,Ko Company,dry_cleaning,,,Exclude: services outside project categories
+node/4616011638,Laundromat,laundry,,,Exclude: services outside project categories
+node/4616011640,Zoomo,rental,,,Exclude: services outside project categories
+node/4616011730,Oriental House of Beauty,beauty,,,Exclude: services outside project categories
+node/4616011733,Su's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4616141257,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/4616141808,Imagink,copyshop,,,Exclude: services outside project categories
+node/4617977823,Crown,laundry,,,Exclude: services outside project categories
+node/4618173574,Versailles,hairdresser,,,Exclude: services outside project categories
+node/4622466803,Coin-Op Laundromat,laundry,,,Exclude: services outside project categories
+node/4625116446,Silver Fox Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4625131491,Yellow Orchid Spa,massage,,,Exclude: services outside project categories
+node/4625139241,Swift Auto & Tech,car_repair,,,Exclude: services outside project categories
+node/4625180675,Nails 2001,yes,,,Review: unspecified or unmapped category
+node/4625200057,KSH Automotive,car_repair,,,Exclude: services outside project categories
+node/4625224085,Super Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4625288874,Clean-X-Press,laundry,,,Exclude: services outside project categories
+node/4625289656,Autobody Spa,car_repair,,,Exclude: services outside project categories
+node/4625309472,Green Corner Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/4628177740,Majesty Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/4628370544,Bay City Bike,rental,,,Exclude: services outside project categories
+node/4628442790,Hyde & O'Farrell Laundry,laundry,,,Exclude: services outside project categories
+node/4628442793,Speed Wash,laundry,,,Exclude: services outside project categories
+node/4628495506,Alcheme,beauty,,,Exclude: services outside project categories
+node/4628496726,Bibbo Hair Salon and Spa,beauty,,,Exclude: services outside project categories
+node/4628519495,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/4630210242,New Shining Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/4631678024,Call Car Collision,car_repair,,,Exclude: services outside project categories
+node/4631687642,Mr. Scooter,motorcycle_repair,,,Exclude: services outside project categories
+node/4631727984,Harper Paige,beauty,,,Exclude: services outside project categories
+node/4631729490,Wicked,beauty,,,Exclude: services outside project categories
+node/4631729491,Robert Paul,yes,,,Review: unspecified or unmapped category
+node/4631729589,Viange,hairdresser,,,Exclude: services outside project categories
+node/4631774686,AVS Motors Auto Repair,car_repair,,,Exclude: services outside project categories
+node/4631802350,Maxferd Jewelry and Company,pawnbroker,,,Exclude: services outside project categories
+node/4631802352,Nail Today,beauty,,,Exclude: services outside project categories
+node/4631886603,A Laundromat,laundry,,,Exclude: services outside project categories
+node/4631982799,Sakura Hair Saloon,hairdresser,,,Exclude: services outside project categories
+node/4631999420,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/4632000744,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/4632000809,Oma Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4632000810,Speedway,copyshop,,,Exclude: services outside project categories
+node/4632081527,Sola's Salon Studios,beauty,,,Exclude: services outside project categories
+node/4637102849,Diamond Laundromat,laundry,,,Exclude: services outside project categories
+node/4637102850,Laundry and Dry Cleaners,laundry,,,Exclude: services outside project categories
+node/4637158845,Larvin Street Laundromat,laundry,,,Exclude: services outside project categories
+node/4637158847,Rose Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4637159412,Chilton Auto Body Shop,car_repair,,,Exclude: services outside project categories
+node/4637159454,Cinta Salon,beauty,,,Exclude: services outside project categories
+node/4637176425,Green Beauty Nails,beauty,,,Exclude: services outside project categories
+node/4637176426,Tong's Cleaners,laundry,,,Exclude: services outside project categories
+node/4637252363,American Cleaners,laundry,,,Exclude: services outside project categories
+node/4637571917,Angie's and Martha's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/4637572300,Starlight Spa,beauty,,,Exclude: services outside project categories
+node/4637572305,Win's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/4755642181,Kayo Hair,hairdresser,,,Exclude: services outside project categories
+node/4755671155,Washtown,laundry,,,Exclude: services outside project categories
+node/4755671156,Hair Dimension,hairdresser,,,Exclude: services outside project categories
+node/4783986921,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/4839249778,Budget Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4839249783,Q Spa,beauty,,,Exclude: services outside project categories
+node/4839249787,Divis Reflexologu,massage,,,Exclude: services outside project categories
+node/4839259270,NewBills Barbershop & Salon,hairdresser,,,Exclude: services outside project categories
+node/4840631553,Coin Wash,laundry,,,Exclude: services outside project categories
+node/4840631554,Divisadero Heights Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4852448013,Fell Depot Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4852639433,Sunshine Express Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4852639436,Artistic Nail & Spa,beauty,,,Exclude: services outside project categories
+node/4900833140,Nature's Edge Spa,massage,,,Exclude: services outside project categories
+node/4909810957,Healthy Nails,beauty,,,Exclude: services outside project categories
+node/4925652998,A Salon,hairdresser,,,Exclude: services outside project categories
+node/4951963988,Sullivan’s and Duggan’s Serra Funeral Services,funeral_directors,,,Exclude: services outside project categories
+node/4951963989,Bliss Organic Salon,beauty,,,Exclude: services outside project categories
+node/4972855025,Dan's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/4972855026,Traditional Chinese Massage,massage,,,Exclude: services outside project categories
+node/4972855033,The Barb Shop,hairdresser,,,Exclude: services outside project categories
+node/5002148262,Amazing Look,hairdresser,,,Exclude: services outside project categories
+node/5061094084,Michelle's Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/5061194014,Scissor Me Whiskers,pet_grooming,,,Exclude: services outside project categories
+node/5098759636,Mike's Barbershop,hairdresser,,,Exclude: services outside project categories
+node/5180870590,Zip Zap Hair,hairdresser,,,Exclude: services outside project categories
+node/5180870592,Idle Hand,tattoo,,,Exclude: services outside project categories
+node/5180870600,Got Roots,hairdresser,,,Exclude: services outside project categories
+node/5182461986,Silky Touch,beauty,,,Exclude: services outside project categories
+node/5251308682,Kühl,yes,,,Review: unspecified or unmapped category
+node/5305947462,Coin Laundry Wash & Dry,laundry,,,Exclude: services outside project categories
+node/5309516522,Greenwich Clean Time,laundry,,,Exclude: services outside project categories
+node/5315050822,Sunshine Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/5363516803,Launderland,laundry,,,Exclude: services outside project categories
+node/5404705682,Win's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/5485384044,Angelica's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/5487081034,The Wash Place,laundry,,,Exclude: services outside project categories
+node/5502111336,People Hair & Nails Spa,beauty,,,Exclude: services outside project categories
+node/5529666648,Four Seasons Nails and Spa,beauty,,,Exclude: services outside project categories
+node/5529666652,Bernal Bubbles,laundry,,,Exclude: services outside project categories
+node/5529666657,Barberella,hairdresser,,,Exclude: services outside project categories
+node/5529666662,Bernal Heights Nail Care,beauty,,,Exclude: services outside project categories
+node/5587237763,Saby Thai Massage,massage,,,Exclude: services outside project categories
+node/5761051321,San Francisco Rinse Laundromat,laundry,,,Exclude: services outside project categories
+node/5810841504,Peninou,dry_cleaning,,,Exclude: services outside project categories
+node/5810841506,Patrick Richards,hairdresser,,,Exclude: services outside project categories
+node/5810841512,The Strand,hairdresser,,,Exclude: services outside project categories
+node/5810841517,Paul Butler Skincare,beauty,,,Exclude: services outside project categories
+node/5810841519,LPH,copyshop,post_office,,Exclude: services outside project categories
+node/5810883725,Estila,hairdresser,,,Exclude: services outside project categories
+node/5834929885,Little Saigon,beauty,,,Exclude: services outside project categories
+node/5840675541,Ingenious Organic Concept Salon,hairdresser,,,Exclude: services outside project categories
+node/5840675545,T&T Salon,beauty,,,Exclude: services outside project categories
+node/5840675560,Shi's Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/5840675562,HL Organic Skincare,beauty,,,Exclude: services outside project categories
+node/5840675573,YoYo Salon,hairdresser,,,Exclude: services outside project categories
+node/5840675574,Aqua Spa,beauty,,,Exclude: services outside project categories
+node/5840675580,Arguello Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/5869727885,Blick Art Materials,art_supplies,,,Review: unspecified or unmapped category
+node/5876905611,Tuesday Tattoo,tattoo,,,Exclude: services outside project categories
+node/5876905614,ADS Hair Skin,beauty,,,Exclude: services outside project categories
+node/5876921964,H & B,beauty,,,Exclude: services outside project categories
+node/5876921965,Hair Salon by Nancy,hairdresser,,,Exclude: services outside project categories
+node/5891259586,Greyhound Tickets,ticket,,,Exclude: services outside project categories
+node/5893378706,Noriega Street Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/5893378710,Image Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/5893378711,Kam Wan Key,locksmith,,,Exclude: services outside project categories
+node/5893590042,Supertime Travel,travel_agency,,,Exclude: services outside project categories
+node/5893590048,Wendy Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/5893605744,Hairview Salon,hairdresser,,,Exclude: services outside project categories
+node/5893605748,May's Hair Design,hairdresser,,,Exclude: services outside project categories
+node/5901220651,Clean-X-Press,laundry,,,Exclude: services outside project categories
+node/6028467887,CityTech Auto Body Services,car_repair,,,Exclude: services outside project categories
+node/6139353902,,laundry,,,Exclude: services outside project categories
+node/6169313182,,car_repair,,,Exclude: services outside project categories
+node/6171912809,Fellow Barber,hairdresser,,,Exclude: services outside project categories
+node/6171965064,Fortune Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6171965065,Studio Salon,hairdresser,,,Exclude: services outside project categories
+node/6211968245,,dry_cleaning,,,Exclude: services outside project categories
+node/6212273264,Museum Parc Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6222158416,Nail Art iSF,beauty,,,Exclude: services outside project categories
+node/6345915627,Spiritual Psychic Center,psychic,,,Exclude: services outside project categories
+node/6373068177,Shear Image Salon,hairdresser,,,Exclude: services outside project categories
+node/6373068178,Shiatsu Point,massage,,,Exclude: services outside project categories
+node/6373068179,Manus Lux Tattoo,tattoo,,,Exclude: services outside project categories
+node/6373068180,Massage,massage,,,Exclude: services outside project categories
+node/6373089825,Soapbox,dry_cleaning,,,Exclude: services outside project categories
+node/6377208749,Lucky Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6377285153,Balboa Bubbles,laundry,,,Exclude: services outside project categories
+node/6377285160,Ihairbook Brazilian Keratin Specialist,hairdresser,,,Exclude: services outside project categories
+node/6377341558,Balboa Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6397680526,Sunshine Center,laundry,,,Exclude: services outside project categories
+node/6437387641,Wash Mart Coin-Op Laundry,laundry,,,Exclude: services outside project categories
+node/6471047235,Hillside Neighbor Barbershop,hairdresser,,,Exclude: services outside project categories
+node/6471077378,The Upper Hand,beauty,,,Exclude: services outside project categories
+node/6471097357,Sassy Nails,beauty,,,Exclude: services outside project categories
+node/6471097358,Gelous Nails,beauty,,,Exclude: services outside project categories
+node/6471097359,Honeycomb Salon,hairdresser,,,Exclude: services outside project categories
+node/6471102053,Urban Soul Salon,hairdresser,,,Exclude: services outside project categories
+node/6471102054,Skinspirit,beauty,,,Exclude: services outside project categories
+node/6471124715,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/6471124719,Joy Joy Nail Spa,beauty,,,Exclude: services outside project categories
+node/6471135917,Noe Valley Spa,hot_tub;massage,,,Exclude: services outside project categories
+node/6471271299,Poppy & Finch,hairdresser,,,Exclude: services outside project categories
+node/6471379574,Moe’s Barbershop & Beauty Parlor,hairdresser,,,Exclude: services outside project categories
+node/6471401828,Noe Valley Cuts and Shaves Barbershop,hairdresser,,,Exclude: services outside project categories
+node/6471412445,VIP Grooming,pet_grooming,,,Exclude: services outside project categories
+node/6483116831,Golden Years Travel,travel_agency,,,Exclude: services outside project categories
+node/6496135011,Bona Vada Barbershop,hairdresser,,,Exclude: services outside project categories
+node/6501291358,Top Dog,pet_grooming,,,Exclude: services outside project categories
+node/6501291361,Hong Kong Mona Hair Studio,beauty,,,Exclude: services outside project categories
+node/6502703600,Sweet & Smile Massage,massage,,,Exclude: services outside project categories
+node/6502718178,Neon Shade,hairdresser,,,Exclude: services outside project categories
+node/6502744096,Hong Kong Modern Hair Design,hairdresser,,,Exclude: services outside project categories
+node/6502744099,Circle Wash,laundry,,,Exclude: services outside project categories
+node/6502744100,C & W Tailoring,tailor,,,Exclude: services outside project categories
+node/6515895232,Tons of Bubbles Laundromat,laundry,,,Exclude: services outside project categories
+node/6516857459,,beauty,,,Exclude: services outside project categories
+node/6534021339,Great Clips,hairdresser,,,Exclude: services outside project categories
+node/6534021355,Diamond Heights Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6559229882,Presidio Heights Salon,hairdresser,,,Exclude: services outside project categories
+node/6587912699,American Salon,beauty,,,Exclude: services outside project categories
+node/6591764785,Geary Print Shop,copyshop,,,Exclude: services outside project categories
+node/6591801231,Rainbow Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6591801232,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/6592181952,,laundry,,,Exclude: services outside project categories
+node/6595181738,Flora Permanent Beauty Center,beauty,,,Exclude: services outside project categories
+node/6595181746,Cindy Nail Salon,beauty,,,Exclude: services outside project categories
+node/6615153573,Weightwatchers,yes,,,Review: unspecified or unmapped category
+node/6625189262,A-Track Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6632478615,Edge Brows,beauty,,,Exclude: services outside project categories
+node/6632478616,Glitz N Glam Nail & Lash Spa,beauty,,,Exclude: services outside project categories
+node/6632478617,Krave Hair & Beauty,beauty,,,Exclude: services outside project categories
+node/6632478623,Punch King Fitness,beauty,,,Exclude: services outside project categories
+node/6632478625,Nail Care by Theresa,beauty,,,Exclude: services outside project categories
+node/6632478627,Balance Thai Massage,massage,,,Exclude: services outside project categories
+node/6632478628,Aquatica Nails,beauty,,,Exclude: services outside project categories
+node/6632478629,Richmond Nail Salon,beauty,,,Exclude: services outside project categories
+node/6635786990,Eyebrow Plus,beauty,,,Exclude: services outside project categories
+node/6635835226,Super Nails & Spa,beauty,,,Exclude: services outside project categories
+node/6645406769,J.H.W Locksmith,locksmith,,,Exclude: services outside project categories
+node/6645406773,David James Salon + Gallery,beauty,,,Exclude: services outside project categories
+node/6654106667,Happy Yogurt,food,,,Review: unspecified or unmapped category
+node/6693646150,Sally's,beauty,,,Exclude: services outside project categories
+node/6693646154,Arty,hairdresser,,,Exclude: services outside project categories
+node/6693680674,Therapeia Massage,massage,,,Exclude: services outside project categories
+node/6701950547,Uniworld Travel,travel_agency,,,Exclude: services outside project categories
+node/6744734330,Star East,hairdresser,,,Exclude: services outside project categories
+node/6773263586,Stress-Free Auto Care,car_repair,,,Exclude: services outside project categories
+node/6773263601,May's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6773311686,European Wax Center,beauty,,,Exclude: services outside project categories
+node/6780093114,Cold Steel,tattoo,,,Exclude: services outside project categories
+node/6780093115,Iyara,massage,,,Exclude: services outside project categories
+node/6780093128,Dandyhorse Bike Rentals,rental,bicycle_rental,,Exclude: services outside project categories
+node/6791585428,So Fresh So Clean,laundry,,,Exclude: services outside project categories
+node/6791585437,Kinship,beauty,,,Exclude: services outside project categories
+node/6791585442,Ultimate,beauty,,,Exclude: services outside project categories
+node/6791676300,,lottery,,,Exclude: services outside project categories
+node/6791676303,New Starting,beauty,,,Exclude: services outside project categories
+node/6791676308,The Enchanting Place,massage,,,Exclude: services outside project categories
+node/6791676311,Fabrix,tailor,,,Exclude: services outside project categories
+node/6791676319,HK Mona Hair Studio,beauty,,,Exclude: services outside project categories
+node/6797853287,The One Up Salon,hairdresser,,,Exclude: services outside project categories
+node/6821555212,Sephora Studio,disused:cosmetics,,,Review: unspecified or unmapped category
+node/6829148248,Milan SF Nails,beauty,,,Exclude: services outside project categories
+node/6829148252,Mai's Beauty Salon,beauty,,,Exclude: services outside project categories
+node/6829148266,Shermsonia Cleaners & Laundromat,laundry,,,Exclude: services outside project categories
+node/6829148267,Diane's Nail Care,beauty,,,Exclude: services outside project categories
+node/6829148268,Dick's International,hairdresser,,,Exclude: services outside project categories
+node/6831790657,Sonia's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/6831790665,Beaufort Day Spa,massage,,,Exclude: services outside project categories
+node/6831790674,Massage Lounge,massage,,,Exclude: services outside project categories
+node/6831833986,Shiatsu Massage,massage,,,Exclude: services outside project categories
+node/6833462300,Iyara,massage,,,Exclude: services outside project categories
+node/6833462303,Celandine Day Spa,beauty,,,Exclude: services outside project categories
+node/6833462323,Clement Store,yes,,,Review: unspecified or unmapped category
+node/6833462327,Ninelus Salon,beauty,,,Exclude: services outside project categories
+node/6833462329,Clement Dung Market,yes,,,Review: unspecified or unmapped category
+node/6833462338,Lidia Salon,hairdresser,,,Exclude: services outside project categories
+node/6836023066,Luxury Spa,beauty,,,Exclude: services outside project categories
+node/6836023077,Hair Touch,beauty,,,Exclude: services outside project categories
+node/6839009626,The Nail Room,beauty,,,Exclude: services outside project categories
+node/6856410800,The Cutting Room,hairdresser,,,Exclude: services outside project categories
+node/6856410824,Relax Nails,beauty,,,Exclude: services outside project categories
+node/6874544912,Bright N' Clean Laundry Center,laundry,,,Exclude: services outside project categories
+node/6874544913,Iky Hair Design,hairdresser,,,Exclude: services outside project categories
+node/6874544915,J J Cosmetology Health Spa,beauty,,,Exclude: services outside project categories
+node/6874544921,Carla & Co Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/6960980690,Two Cranes Tattoo,tattoo,,,Exclude: services outside project categories
+node/6967455617,,laundry,,,Exclude: services outside project categories
+node/6970578438,The Final Touch,beauty,,,Exclude: services outside project categories
+node/6983819343,Ruby's Cut,hairdresser,,,Exclude: services outside project categories
+node/6983819348,Oasis Day Spa,massage,,,Exclude: services outside project categories
+node/6983819349,Blossom Beauty Salon & Spa,beauty,,,Exclude: services outside project categories
+node/6986281615,Auto City Detail Center,car_repair,,,Exclude: services outside project categories
+node/7101767044,Box Office,ticket,,,Exclude: services outside project categories
+node/7127196317,Nail Me,beauty,,,Exclude: services outside project categories
+node/7177938153,Artist Hair Design,hairdresser,,,Exclude: services outside project categories
+node/7177938155,Zhen Mei Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/7215665702,Goose & Co.,pet_grooming,,,Exclude: services outside project categories
+node/7215665703,The Park Salon,hairdresser,,,Exclude: services outside project categories
+node/7215665717,Pono,beauty,,,Exclude: services outside project categories
+node/7320667470,Monterey Salon,hairdresser,,,Exclude: services outside project categories
+node/7394624985,Rinse,dry_cleaning,,,Exclude: services outside project categories
+node/7417651345,C & P Auto Body,car_repair,,,Exclude: services outside project categories
+node/7438115086,SF Moto Service Department,motorcycle_repair,,,Exclude: services outside project categories
+node/7618996743,ESM Motors,car_repair,,,Exclude: services outside project categories
+node/7930451940,Four Seasons Nails & Tanning,beauty,,,Exclude: services outside project categories
+node/7931687991,Twenty 89 Hair Design,hairdresser,,,Exclude: services outside project categories
+node/7949042239,Blendsville,hairdresser,,,Exclude: services outside project categories
+node/7979181636,516-518 CoinOp Laundromat,laundry,,,Exclude: services outside project categories
+node/8119738096,Chicago's,hairdresser,,,Exclude: services outside project categories
+node/8248612190,Castro Village Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/8262441682,iStorage,storage_rental,,,Exclude: services outside project categories
+node/8262441684,19th Auto Body,car_repair,,,Exclude: services outside project categories
+node/8389294656,Little Sparrow Salon & Barber,hairdresser,,,Exclude: services outside project categories
+node/8641738715,Miracle Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/8641759953,Mahogany House of Styles,beauty,,,Exclude: services outside project categories
+node/8641835227,Ocean Avenue Tattoo,tattoo,,,Exclude: services outside project categories
+node/8641835239,Eltouch Massage & Bodywork,massage,,,Exclude: services outside project categories
+node/8641835241,Jolie Elegance Spa,beauty,,,Exclude: services outside project categories
+node/8660768874,Smog Queen,car_repair,,,Exclude: services outside project categories
+node/8814989290,Who Let The Dogs Out!,pet_grooming,,,Exclude: services outside project categories
+node/8819188923,SoHair Studio,hairdresser,,,Exclude: services outside project categories
+node/8866363300,Golden Gate Auto Body,car_repair,,,Exclude: services outside project categories
+node/8978654885,Pat's Garage,car_repair,,,Exclude: services outside project categories
+node/8989158483,San Francisco Toyota Parts and Service,car_repair,,,Exclude: services outside project categories
+node/9026905858,The Barbershop,hairdresser,,,Exclude: services outside project categories
+node/9118889555,California Shower Door,trade,,,Exclude: services outside project categories
+node/9200292426,Nepenji,hairdresser,,,Exclude: services outside project categories
+node/9211072800,Perfection Nails,beauty,,,Exclude: services outside project categories
+node/9211072801,Salon Flux,beauty,,,Exclude: services outside project categories
+node/9251446485,Q Cuts,hairdresser,,,Exclude: services outside project categories
+node/9298157044,FedEx,copyshop,post_office,,Exclude: services outside project categories
+node/9301912406,GNC,nutrition_supplements,,,Review: unspecified or unmapped category
+node/9301912407,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/9325341057,"Cool Solutions Manufacturing, Inc.",repair,,,Exclude: services outside project categories
+node/9332776108,Harmony Massage,massage,,,Exclude: services outside project categories
+node/9354883872,Lula's Hairstudio,hairdresser,,,Exclude: services outside project categories
+node/9354883873,Nikki's Oriental Massage,massage,,,Exclude: services outside project categories
+node/9354883875,Armando for Hair,hairdresser,,,Exclude: services outside project categories
+node/9387390263,Tina's Salon,beauty,,,Exclude: services outside project categories
+node/9397924899,,yes,,,Review: unspecified or unmapped category
+node/9397979157,Gentleman's Barber Lounge,hairdresser,,,Exclude: services outside project categories
+node/9398515920,Golden Buddha Fortune Teller,psychic,,,Exclude: services outside project categories
+node/9401048620,Rosan Fashion Alterations,tailor,,,Exclude: services outside project categories
+node/9401048621,Today's Laundromat,laundry,,,Exclude: services outside project categories
+node/9426889454,Shoe Repair,shoe_repair,,,Exclude: services outside project categories
+node/9426889456,reWAXation,beauty,,,Exclude: services outside project categories
+node/9426897495,J&M's Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9427218477,First Quality Cleaners & Alterations,dry_cleaning,,,Exclude: services outside project categories
+node/9443620964,Jenny Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/9446437509,Pinecrest Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9446473217,H.L.P. Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9451941407,Kay Beauty & Skin Care,beauty,,,Exclude: services outside project categories
+node/9451941409,,hairdresser,,,Exclude: services outside project categories
+node/9507011272,Tea Square Boba,beverages,,,Review: unspecified or unmapped category
+node/9536447499,Blend Nails,beauty,,,Exclude: services outside project categories
+node/9579873184,LashSpot,beauty,,,Exclude: services outside project categories
+node/9588294491,Parkwest Casinos,yes,,,Review: unspecified or unmapped category
+node/9593474641,Glow Day Spa,beauty,,,Exclude: services outside project categories
+node/9593474643,Paradise Massage,massage,,,Exclude: services outside project categories
+node/9602225639,World of Magnets,yes,,,Review: unspecified or unmapped category
+node/9602225640,Peking Bazaar,yes,,,Review: unspecified or unmapped category
+node/9602225642,Asian Styles,yes,,,Review: unspecified or unmapped category
+node/9602225650,Easy Traveler,yes,,,Review: unspecified or unmapped category
+node/9602225651,New Peking,yes,,,Review: unspecified or unmapped category
+node/9602225652,Gold Wing Imports,yes,,,Review: unspecified or unmapped category
+node/9602225657,Asian Trends,yes,,,Review: unspecified or unmapped category
+node/9602320669,,yes,,,Review: unspecified or unmapped category
+node/9602333341,SummersAndFall,hairdresser,,,Exclude: services outside project categories
+node/9617694329,Old Mission Barbershop,hairdresser,,,Exclude: services outside project categories
+node/9657128167,Copymat,copyshop,,,Exclude: services outside project categories
+node/9657257802,Studio BBR,hairdresser,,,Exclude: services outside project categories
+node/9659739773,Vic's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9659739774,Siam Orchid,massage,,,Exclude: services outside project categories
+node/9675752919,Hayes Valley Medical & Esthetics,beauty,,,Exclude: services outside project categories
+node/9677565631,Mystic Haircutting,hairdresser,,,Exclude: services outside project categories
+node/9678821860,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/9686500596,Archer Nail Bar,beauty,,,Exclude: services outside project categories
+node/9686500598,Credo,beauty,,,Exclude: services outside project categories
+node/9687222833,Earthbody,beauty,,,Exclude: services outside project categories
+node/9696861035,House of Nails,beauty,,,Exclude: services outside project categories
+node/9696861039,La Boutique Lifestyle & Beauty,beauty,,,Exclude: services outside project categories
+node/9698383562,Polk Street Laundromat,laundry,,,Exclude: services outside project categories
+node/9698423824,Next Level Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/9705865881,Rainbow Coin Laundromat,laundry,,,Exclude: services outside project categories
+node/9705865885,Mayfair Beauty Salon,beauty,,,Exclude: services outside project categories
+node/9705865886,Best Travel,yes,,,Review: unspecified or unmapped category
+node/9708066414,Creative Nail Care,beauty,,,Exclude: services outside project categories
+node/9712730248,Bay Cleaners 2,dry_cleaning,,,Exclude: services outside project categories
+node/9725210186,,yes,,,Review: unspecified or unmapped category
+node/9735505797,,hairdresser,,,Exclude: services outside project categories
+node/9735505798,Quong Hoa Duong Ginseng Co.,yes,,,Review: unspecified or unmapped category
+node/9735505800,,yes,,,Review: unspecified or unmapped category
+node/9740488048,Arlene's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9749240191,Crown Salon,hairdresser,,,Exclude: services outside project categories
+node/9763325136,Alioto's Auto Body & Paint,car_repair,,,Exclude: services outside project categories
+node/9776063294,California Auto Repair Services,car_repair,,,Exclude: services outside project categories
+node/9826702358,Media Solutions Commercial Printer,copyshop,,,Exclude: services outside project categories
+node/9827317049,Noori Stitch,tailor,,,Exclude: services outside project categories
+node/9847273227,Glamour Beauty Salon,beauty,,,Exclude: services outside project categories
+node/9849528032,Habitat,hairdresser,,,Exclude: services outside project categories
+node/9849528036,Sauna House Oriental Massage,massage,,,Exclude: services outside project categories
+node/9849528045,Psychic Wellness Center,psychic,,,Exclude: services outside project categories
+node/9861755701,,yes,,,Review: unspecified or unmapped category
+node/9863215082,Lily's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9863236238,Mejia Coin Laundry,laundry,,,Exclude: services outside project categories
+node/9873658381,Snip 2 Curl,hairdresser,,,Exclude: services outside project categories
+node/9877764585,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/9898720930,Starlight Travel,travel_agency,,,Exclude: services outside project categories
+node/9901000605,Dyson,vacuum_cleaner,,,Review: unspecified or unmapped category
+node/9916264130,The Red Fox Salon & Apothecary,hairdresser,,,Exclude: services outside project categories
+node/9934759413,Bubble Sort Studios,anime,,,Review: unspecified or unmapped category
+node/9943927507,Mak & Co.,shoe_repair,,,Exclude: services outside project categories
+node/9948697309,,yes,,,Review: unspecified or unmapped category
+node/9948792848,Cali Barber Shop & Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/9948792851,Eyebrow Queen Salon,beauty,,,Exclude: services outside project categories
+node/9948792852,Latin American Barbershop,hairdresser,,,Exclude: services outside project categories
+node/9948792855,Texture Barber and Beauty,hairdresser,,,Exclude: services outside project categories
+node/9948792858,Frisco Tattoo,tattoo,,,Exclude: services outside project categories
+node/9948792862,Principle Salon,hairdresser,,,Exclude: services outside project categories
+node/9955991898,Bebo,yes,,,Review: unspecified or unmapped category
+node/9956019831,The Hayes Laundry,laundry,,,Exclude: services outside project categories
+node/9956021069,Susu Oriental Massage,massage,,,Exclude: services outside project categories
+node/9956027849,Silk Hands & Feet Spa,beauty,,,Exclude: services outside project categories
+node/9956034309,California Coin Laundromat,laundry,,,Exclude: services outside project categories
+node/9958428912,Beli SF,hairdresser,,,Exclude: services outside project categories
+node/9958626185,Q Beauty Salon,beauty,,,Exclude: services outside project categories
+node/9960647461,Simply Unique Nails,beauty,,,Exclude: services outside project categories
+node/9962201869,Metropolitan,hairdresser,,,Exclude: services outside project categories
+node/9962202447,Be Bright,hairdresser,,,Exclude: services outside project categories
+node/9965242294,,psychic,,,Exclude: services outside project categories
+node/9965245732,Empire Spa,massage,,,Exclude: services outside project categories
+node/9968882278,,yes,,,Review: unspecified or unmapped category
+node/9976231888,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/9976276744,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/9976284805,,hairdresser,,,Exclude: services outside project categories
+node/9978913205,Salon DNA,hairdresser,,,Exclude: services outside project categories
+node/9982804654,Pride Plus Laundromat,laundry,,,Exclude: services outside project categories
+node/9991785503,Trademark Salon,hairdresser,,,Exclude: services outside project categories
+node/9991830311,K.Y. Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9991830312,City Light Place,beauty,,,Exclude: services outside project categories
+node/9993304490,Pawket Pawlour,pet_grooming,,,Exclude: services outside project categories
+node/9994029943,Taylor Monroe,hairdresser,,,Exclude: services outside project categories
+node/9994037283,New State Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9994040056,Church,hairdresser,,,Exclude: services outside project categories
+node/9994040329,The Muse,beauty,,,Exclude: services outside project categories
+node/9995626302,Cloud9 Gift Shop,yes,,,Review: unspecified or unmapped category
+node/9995637864,,yes,,,Review: unspecified or unmapped category
+node/9995644755,Ryan's Laundromat,laundry,,,Exclude: services outside project categories
+node/9995652722,Wendy's Salon,hairdresser,,,Exclude: services outside project categories
+node/9996189858,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/9996415912,Fresh Blades Barbershop,hairdresser,,,Exclude: services outside project categories
+node/9996417838,Gough Express Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/9996419724,9 Nail Spa,beauty,,,Exclude: services outside project categories
+node/9996420205,Topiary Salon,hairdresser,,,Exclude: services outside project categories
+node/9998815276,Gents Barber Club,hairdresser,,,Exclude: services outside project categories
+node/9998915750,MexExpress,money_lender,,,Exclude: services outside project categories
+node/10002983838,1010 Wash & Dry,laundry,,,Exclude: services outside project categories
+node/10002983842,Clement Laundry,laundry,,,Exclude: services outside project categories
+node/10007858867,Haircut by Gloria,hairdresser,,,Exclude: services outside project categories
+node/10016619546,,psychic,,,Exclude: services outside project categories
+node/10032709235,M Spa,beauty,,,Exclude: services outside project categories
+node/10032711397,SEV,beauty,,,Exclude: services outside project categories
+node/10034251598,Lem's Laundry,laundry,,,Exclude: services outside project categories
+node/10034277800,,yes,,,Review: unspecified or unmapped category
+node/10039959894,Fog City Social Club,hairdresser,,,Exclude: services outside project categories
+node/10043228003,Vanysol Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/10051888064,,laundry,,,Exclude: services outside project categories
+node/10051897311,Holistic Psychic Empath,psychic,,,Exclude: services outside project categories
+node/10075382890,Lily Massage,massage,,,Exclude: services outside project categories
+node/10076204410,Ling Beauty Salon,beauty,,,Exclude: services outside project categories
+node/10090053927,,massage,,,Exclude: services outside project categories
+node/10118158417,Concrete Collaborative,trade,,,Exclude: services outside project categories
+node/10128462824,Lily Nails Spa,beauty,,,Exclude: services outside project categories
+node/10135647930,New Parisian Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10152911473,,laundry,,,Exclude: services outside project categories
+node/10243637494,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/10271758624,Marvel Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10282647843,Nadya,beauty,,,Exclude: services outside project categories
+node/10285191801,Studio Estrada,hairdresser,,,Exclude: services outside project categories
+node/10286247065,Star Wash Laundromat,laundry,,,Exclude: services outside project categories
+node/10290560919,Flower Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/10303811686,Botto petite,yes,,,Review: unspecified or unmapped category
+node/10303811692,Zenbi Nails,beauty,,,Exclude: services outside project categories
+node/10309959734,,hairdresser,,,Exclude: services outside project categories
+node/10309959740,Saelo,beauty,,,Exclude: services outside project categories
+node/10309959741,Unity Salom,hairdresser,,,Exclude: services outside project categories
+node/10431237159,Saf Beauty Spa,beauty,,,Exclude: services outside project categories
+node/10431237161,Bay Breeze Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10538290179,HB Alterations,tailor,,,Exclude: services outside project categories
+node/10538306967,Ahmet's Barber and Hair Styling,hairdresser,,,Exclude: services outside project categories
+node/10542240026,Pacific French Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10542240028,Pearly Nails,beauty,,,Exclude: services outside project categories
+node/10553806541,Hair on Hyde,hairdresser,,,Exclude: services outside project categories
+node/10553806545,Delightful Massage Foot Reflexology,massage,,,Exclude: services outside project categories
+node/10553806548,Precision Hair Design,hairdresser,,,Exclude: services outside project categories
+node/10553806551,Fung Soong Reflexology,massage,,,Exclude: services outside project categories
+node/10553806553,Anjalee,massage,,,Exclude: services outside project categories
+node/10553806554,Polk Alterations,tailor,,,Exclude: services outside project categories
+node/10554070517,Simply Unique Nails,beauty,,,Exclude: services outside project categories
+node/10554070518,Peoples Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/10555405431,California Check Cashing Stores,money_lender,,,Exclude: services outside project categories
+node/10555405436,Fluid Free Ride,yes,,,Review: unspecified or unmapped category
+node/10555729737,The Shop,hairdresser,,,Exclude: services outside project categories
+node/10555729739,Auto Body By George,car_repair,,,Exclude: services outside project categories
+node/10555729740,Emerald City Auto Body,car_repair,,,Exclude: services outside project categories
+node/10555729741,A Bright Printing Co.,copyshop,,,Exclude: services outside project categories
+node/10555729742,Cayson,yes,,,Review: unspecified or unmapped category
+node/10555829839,Attic Self Storage,storage_rental,,,Exclude: services outside project categories
+node/10555829849,Jesiah's Barbershop,hairdresser,,,Exclude: services outside project categories
+node/10555829851,Black Serum,tattoo,,,Exclude: services outside project categories
+node/10555829852,Glama-Rama Salon,beauty,,,Exclude: services outside project categories
+node/10560594657,Floreal L'Atelier,yes,,,Review: unspecified or unmapped category
+node/10563423088,Great American Music Hall Box Office,ticket,,,Exclude: services outside project categories
+node/10563423089,Copyology,yes,,,Review: unspecified or unmapped category
+node/10563423090,Golden Gate Rides,rental,bicycle_rental,,Exclude: services outside project categories
+node/10563423092,Machete Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/10573654802,Uniq Cuts,hairdresser,,,Exclude: services outside project categories
+node/10575364925,reWAXation,beauty,,,Exclude: services outside project categories
+node/10575364927,Geomantic Salon,hairdresser,,,Exclude: services outside project categories
+node/10575364929,Angel Health Center Massage & Spa,massage,,,Exclude: services outside project categories
+node/10575364930,Xfinity,telecommunication,,,Review: unspecified or unmapped category
+node/10575939855,West Side Cuts,hairdresser,,,Exclude: services outside project categories
+node/10587787975,Blu Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10589801701,Oak Street Laundry,laundry,,,Exclude: services outside project categories
+node/10592530518,Tailored Cuts,hairdresser,,,Exclude: services outside project categories
+node/10592530520,Touch of Heaven,hairdresser,,,Exclude: services outside project categories
+node/10603076308,,tailor,,,Exclude: services outside project categories
+node/10603076310,La Post Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10605374743,Black & Blue Tattoo,tattoo,,,Exclude: services outside project categories
+node/10605374744,Orange,hairdresser,,,Exclude: services outside project categories
+node/10605374745,Vera,beauty,,,Exclude: services outside project categories
+node/10606540534,Wash & Dry,laundry,,,Exclude: services outside project categories
+node/10606540538,Minna Salon,beauty,,,Exclude: services outside project categories
+node/10606540540,Beyond the Pale,hairdresser,,,Exclude: services outside project categories
+node/10606540541,,yes,,,Review: unspecified or unmapped category
+node/10607131938,Oro,hairdresser,,,Exclude: services outside project categories
+node/10609148150,Fanta Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10609307758,Jo Je Nail Spa,beauty,,,Exclude: services outside project categories
+node/10609321449,Daisy Nails,beauty,,,Exclude: services outside project categories
+node/10610311544,Dezign Lab,tailor,,,Exclude: services outside project categories
+node/10610388063,Gold Leaf Ink,tattoo,,,Exclude: services outside project categories
+node/10612055343,Roberto's Tailor,tailor,,,Exclude: services outside project categories
+node/10612130298,Retreat Skin & Hair Studio,beauty,,,Exclude: services outside project categories
+node/10612130300,Di Ciccio,hairdresser,,,Exclude: services outside project categories
+node/10612914637,Rose Waxing & Nail Care,beauty,,,Exclude: services outside project categories
+node/10612914641,Wash & Dry Launderland,laundry,,,Exclude: services outside project categories
+node/10612914642,Psychic Reader,psychic,,,Exclude: services outside project categories
+node/10612936381,Ten Tigers,beauty,,,Exclude: services outside project categories
+node/10617038679,The UPS Store,copyshop,post_office,,Exclude: services outside project categories
+node/10617038684,Urban Beauty Spa,beauty,,,Exclude: services outside project categories
+node/10617038685,Galletti Shoe Repair,shoe_repair,,,Exclude: services outside project categories
+node/10617054524,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/10623964562,YSA Barber,hairdresser,,,Exclude: services outside project categories
+node/10635387660,,beauty,,,Exclude: services outside project categories
+node/10636048960,George,pet_grooming,,,Exclude: services outside project categories
+node/10650517661,J’s Laundry,laundry,,,Exclude: services outside project categories
+node/10650775708,Famous Hair,hairdresser,,,Exclude: services outside project categories
+node/10652785993,Express Wash,laundry,,,Exclude: services outside project categories
+node/10653242252,Delux Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10653649606,Mayito's Beauty House,beauty,,,Exclude: services outside project categories
+node/10656710026,Bibbo,beauty,,,Exclude: services outside project categories
+node/10660410516,Ling's Salon,hairdresser,,,Exclude: services outside project categories
+node/10660410519,Faiza Beauty,beauty,,,Exclude: services outside project categories
+node/10660410523,Golden Door Barber,hairdresser,,,Exclude: services outside project categories
+node/10674661691,,yes,,,Review: unspecified or unmapped category
+node/10674663950,Nali Nails and Spa,beauty,,,Exclude: services outside project categories
+node/10679941956,V.I.P. Coin-op Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/10682058861,Nob Hill Sports Massage,massage,,,Exclude: services outside project categories
+node/10682058862,,yes,,,Review: unspecified or unmapped category
+node/10682058863,Buddha Bliss,massage,,,Exclude: services outside project categories
+node/10689773927,Elite Massage,massage,,,Exclude: services outside project categories
+node/10691813138,Ibarra Brothers Printing,printing,,,Exclude: services outside project categories
+node/10702587424,Spiritual Awakening,psychic,,,Exclude: services outside project categories
+node/10705572376,Studio Shepherd,hairdresser,,,Exclude: services outside project categories
+node/10707503592,Public Barber Salon,hairdresser,,,Exclude: services outside project categories
+node/10713350878,,laundry,,,Exclude: services outside project categories
+node/10719641479,Suchada,massage,,,Exclude: services outside project categories
+node/10744252156,May’s Barber,hairdresser,,,Exclude: services outside project categories
+node/10749466028,Salon Picasso,hairdresser,,,Exclude: services outside project categories
+node/10749466033,Pana Beauty Lounge,beauty,,,Exclude: services outside project categories
+node/10749483818,Sue's Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/10749483819,B-Beautiful Salon,beauty,,,Exclude: services outside project categories
+node/10749483820,Dion+Cole,yes,,,Review: unspecified or unmapped category
+node/10764895821,Judy Trading Co.,yes,,,Review: unspecified or unmapped category
+node/10764895822,Psychic Readings,psychic,,,Exclude: services outside project categories
+node/10780794744,Mulberrys Garment Care,dry_cleaning,,,Exclude: services outside project categories
+node/10780794747,Thy Spa,massage,,,Exclude: services outside project categories
+node/10794112884,Rick’s Barbershop,hairdresser,,,Exclude: services outside project categories
+node/10796040784,Fillmore Laundromat,laundry,,,Exclude: services outside project categories
+node/10806697936,The UPS Store,Transportation,post_office,,Exclude: services outside project categories
+node/10830845328,Lash M,beauty,,,Exclude: services outside project categories
+node/10830894143,Hobson’s Choice Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10830894144,,beauty,,,Exclude: services outside project categories
+node/10859130838,Bryant Homeless Storage,storage_rental,,,Exclude: services outside project categories
+node/10859142441,Polished Nest,beauty,,,Exclude: services outside project categories
+node/10861603639,"Zebra Graphics, Inc.",copyshop,,,Exclude: services outside project categories
+node/10869899417,City Dogs,pet_grooming,,,Exclude: services outside project categories
+node/10874913815,Public Storage,storage_rental,,,Exclude: services outside project categories
+node/10874913947,Bateau Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/10874914164,Amazing Nails,beauty,,,Exclude: services outside project categories
+node/10874914165,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/10882285103,Pacific Auto Works,car_repair,,,Exclude: services outside project categories
+node/10882285104,Pro Speed Auto Body,car_repair,,,Exclude: services outside project categories
+node/10897941847,Mizu Spa,beauty,,,Exclude: services outside project categories
+node/10907092560,Wonder Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/10916864845,Q Spa,beauty,,,Exclude: services outside project categories
+node/10918823777,Showplace Motor Works,car_repair,,,Exclude: services outside project categories
+node/10984712495,Imperial Health Spa,beauty,,,Exclude: services outside project categories
+node/11009320678,Twin Star Hair & Beauty,hairdresser,,,Exclude: services outside project categories
+node/11011243618,Bearing Engineering Co.,trade,,,Exclude: services outside project categories
+node/11011243624,Chefs’ Toys,trade,,,Exclude: services outside project categories
+node/11011243625,Ryder Transportation Services,rental,,,Exclude: services outside project categories
+node/11019019850,Supercuts,hairdresser,,,Exclude: services outside project categories
+node/11019019879,Alter Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/11020815844,Vierra & Friends,hairdresser,,,Exclude: services outside project categories
+node/11021322075,K.C. Engineering,motorcycle_repair,,,Exclude: services outside project categories
+node/11021366850,Hook & Scissor,hairdresser,,,Exclude: services outside project categories
+node/11028508801,The Clean Cycle Laundromat,laundry,,,Exclude: services outside project categories
+node/11028930812,Hairetics Salon,hairdresser,,,Exclude: services outside project categories
+node/11038482287,Lavish,beauty,,,Exclude: services outside project categories
+node/11038483843,Nice N' Clean,dry_cleaning,,,Exclude: services outside project categories
+node/11103972675,Trio Nails,beauty,,,Exclude: services outside project categories
+node/11103972676,Kyoto Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/11115433757,,psychic,,,Exclude: services outside project categories
+node/11152281239,Womack's Academy Barber & Cosmetology,beauty,,,Exclude: services outside project categories
+node/11159300918,J. Roland,hairdresser,,,Exclude: services outside project categories
+node/11164017223,,laundry,,,Exclude: services outside project categories
+node/11166132522,Automotive Specialists,car_repair,,,Exclude: services outside project categories
+node/11166132523,Metropolitan Motors,car_repair,,,Exclude: services outside project categories
+node/11166132524,Spotlight Design & Printing,copyshop,,,Exclude: services outside project categories
+node/11198894693,Potrero Cleaners & Alterations,dry_cleaning,,,Exclude: services outside project categories
+node/11219252934,,ticket,,,Exclude: services outside project categories
+node/11230365822,Extra Space Storage,storage_rental,,,Exclude: services outside project categories
+node/11254215575,Royal Thai Spa,massage,,,Exclude: services outside project categories
+node/11263170757,Savvy Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/11263170758,Savvy Laundromat,laundry,,,Exclude: services outside project categories
+node/11263177980,Salon Baobao,hairdresser,,,Exclude: services outside project categories
+node/11279968188,MUNI Tickets,ticket,,,Exclude: services outside project categories
+node/11280647964,Amazing Cleaners #2,dry_cleaning,,,Exclude: services outside project categories
+node/11296107120,Primrose,beauty,,,Exclude: services outside project categories
+node/11296221835,,yes,,,Review: unspecified or unmapped category
+node/11296221837,Fame Hair Design,hairdresser,,,Exclude: services outside project categories
+node/11296221838,Yong Fong Co.,yes,,,Review: unspecified or unmapped category
+node/11296221839,Variety Shop,yes,,,Review: unspecified or unmapped category
+node/11333448167,Lotte Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/11345103394,Castro Day Spa,beauty,,,Exclude: services outside project categories
+node/11374673835,Castro Tattoo,tattoo,,,Exclude: services outside project categories
+node/11384826395,Dinair Spa,beauty,,,Exclude: services outside project categories
+node/11423890607,Cleopatra Ink,tattoo,,,Exclude: services outside project categories
+node/11450088076,Toni Rembe Theater Box Office,ticket,,,Exclude: services outside project categories
+node/11457556290,Thamma Thai Spa,massage,,,Exclude: services outside project categories
+node/11495567278,Stanley's Laundry Wash & Dry,laundry,,,Exclude: services outside project categories
+node/11495567279,Little Bubbles Coin Wash,laundry,,,Exclude: services outside project categories
+node/11495567282,New Age Nails,beauty,,,Exclude: services outside project categories
+node/11509744693,JT’s Auto Repair,car_repair,,,Exclude: services outside project categories
+node/11538540426,Center Nails,beauty,,,Exclude: services outside project categories
+node/11558519638,Too Good Auto Body,car_repair,,,Exclude: services outside project categories
+node/11558519640,Kroll Custom Upholstery,trade,,,Exclude: services outside project categories
+node/11558519644,Wag Hotels Spa,pet_grooming,,,Exclude: services outside project categories
+node/11558519651,Firefly Salon,hairdresser,,,Exclude: services outside project categories
+node/11558519654,Tefani & So,pet_grooming,,,Exclude: services outside project categories
+node/11558519660,P&S Sales,trade,,,Exclude: services outside project categories
+node/11558519663,Yamato Auto Repair,car_repair,,,Exclude: services outside project categories
+node/11578491442,DHL,mailing_company,,,Exclude: services outside project categories
+node/11582836771,Wheelhouse Clay,yes,,,Review: unspecified or unmapped category
+node/11593180526,EV Central,car_repair,,,Exclude: services outside project categories
+node/11596705920,City Storage,storage_rental,,,Exclude: services outside project categories
+node/11612234492,,psychic,,,Exclude: services outside project categories
+node/11612234493,Lucky Nails,beauty,,,Exclude: services outside project categories
+node/11612234497,FedEx Office,copyshop,post_office,,Exclude: services outside project categories
+node/11612234504,Copymat,copyshop,,,Exclude: services outside project categories
+node/11666861269,Fiesta Laundromat,laundry,,,Exclude: services outside project categories
+node/11699761168,Icon Auto Service,car_repair,,,Exclude: services outside project categories
+node/11699784769,KCC Auto Body Shop,car_repair,,,Exclude: services outside project categories
+node/11699784775,First Coin Laundry,laundry,,,Exclude: services outside project categories
+node/11699784776,Angkor Laundry,laundry,,,Exclude: services outside project categories
+node/11701513371,Wela Thai Massage,massage,,,Exclude: services outside project categories
+node/11705132473,Fort Knox Self Storage,storage_rental,,,Exclude: services outside project categories
+node/11705171053,Market Garage,car_repair,,,Exclude: services outside project categories
+node/11705171055,"Accurate Auto Body, Inc.",car_repair,,,Exclude: services outside project categories
+node/11705171056,"European Motor Works, Inc.",car_repair,,,Exclude: services outside project categories
+node/11774203415,Your New Barber,hairdresser,,,Exclude: services outside project categories
+node/11777326263,ABC Imaging,copyshop,,,Exclude: services outside project categories
+node/11777394287,Bryant Bay Area Auto Body,car_repair,,,Exclude: services outside project categories
+node/11777394289,Timeless Auto Body,car_repair,,,Exclude: services outside project categories
+node/11777394300,Bearing Agencies Inc.,trade,,,Exclude: services outside project categories
+node/11777394301,Cloud95,tattoo,,,Exclude: services outside project categories
+node/11777394315,Sal’s Autohaus,car_repair,,,Exclude: services outside project categories
+node/11777394319,11th Street Auto Repair,car_repair,,,Exclude: services outside project categories
+node/11777394320,Fix Auto Folsom,car_repair,,,Exclude: services outside project categories
+node/11777394350,San Francisco Institute of Esthetics and Cosmetology,hairdresser,,,Exclude: services outside project categories
+node/11777394357,All Pro Mechanicx,car_repair,,,Exclude: services outside project categories
+node/11777394358,Cowden Automotive,car_repair,,,Exclude: services outside project categories
+node/11777394362,VK Autosport,car_repair,,,Exclude: services outside project categories
+node/11799118244,Great Image Salon,hairdresser,,,Exclude: services outside project categories
+node/11799118247,Massage Lab,massage,,,Exclude: services outside project categories
+node/11806415021,Clean Cut,hairdresser,,,Exclude: services outside project categories
+node/11806415023,Planet Clean,laundry,,,Exclude: services outside project categories
+node/11806415026,La Barberhood,hairdresser,,,Exclude: services outside project categories
+node/11806415042,Ambaro,hairdresser,,,Exclude: services outside project categories
+node/11806415043,Hollywood Beauty Threading,beauty,,,Exclude: services outside project categories
+node/11806415044,Hollywood Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/11806415046,Alberto's Printing,copyshop,,,Exclude: services outside project categories
+node/11806415049,,laundry,,,Exclude: services outside project categories
+node/11806415052,El Saloncito,hairdresser,,,Exclude: services outside project categories
+node/11806415053,Special Hair Cuts,hairdresser,,,Exclude: services outside project categories
+node/11806415062,Pepe’s Auto Repair,car_repair,,,Exclude: services outside project categories
+node/11806415063,Modern Hair,hairdresser,,,Exclude: services outside project categories
+node/11806415066,Werk Salon,hairdresser,,,Exclude: services outside project categories
+node/11806415070,Great Mission Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/11816770940,Sheehan Storage,storage_rental,,,Exclude: services outside project categories
+node/11817396081,Ady Barber & Beauty,hairdresser,,,Exclude: services outside project categories
+node/11913747374,Arty,beauty,,,Exclude: services outside project categories
+node/11935963832,Private i Salon,beauty,,,Exclude: services outside project categories
+node/11973776361,,hairdresser,,,Exclude: services outside project categories
+node/11974004196,Wing Lung Co.,yes,,,Review: unspecified or unmapped category
+node/11974004197,Blissful Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/11974004199,Joy's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/11984819726,Props 2C,rental,,,Exclude: services outside project categories
+node/11991058263,Jack's Shoe Repair,shoe_repair,,,Exclude: services outside project categories
+node/12001976874,Diva International,hairdresser,,,Exclude: services outside project categories
+node/12001976915,Peter Panos,tailor,,,Exclude: services outside project categories
+node/12001976934,Suchada,massage,,,Exclude: services outside project categories
+node/12001976977,Hairshaper,hairdresser,,,Exclude: services outside project categories
+node/12044085323,V Studio Salons,hairdresser,,,Exclude: services outside project categories
+node/12051500118,Clover Green Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/12054096696,Happy Hair Studio,hairdresser,,,Exclude: services outside project categories
+node/12054096703,Stars Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/12054096704,Lucky Massage,massage,,,Exclude: services outside project categories
+node/12055801370,Clement Street Garage,car_repair,,,Exclude: services outside project categories
+node/12055916669,Paul's Battery & Tire Company,car_repair,,,Exclude: services outside project categories
+node/12072409417,Tiger Scooter Repair,yes,,,Review: unspecified or unmapped category
+node/12077565115,,dry_cleaning,,,Exclude: services outside project categories
+node/12077589171,the beauty lounge coco beauty,beauty,,,Exclude: services outside project categories
+node/12101125458,Zen Spa,massage,,,Exclude: services outside project categories
+node/12101392210,Art & Craft Workshops,yes,,,Review: unspecified or unmapped category
+node/12111878709,,psychic,,,Exclude: services outside project categories
+node/12134644092,Hansen's Laundry & Dry Cleaning,laundry,,,Exclude: services outside project categories
+node/12134644093,Spunk,hairdresser,,,Exclude: services outside project categories
+node/12177076259,Golden Phoenix Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/12191043220,Your New Barber,hairdresser,,,Exclude: services outside project categories
+node/12191043223,Carl and Dan Auto Repair,car_repair,,,Exclude: services outside project categories
+node/12191868318,City Auto Tech,car_repair,,,Exclude: services outside project categories
+node/12202909771,Ying Hobbies and Toys,anime,,,Review: unspecified or unmapped category
+node/12202909772,Asia Star Fantasy,anime,,,Review: unspecified or unmapped category
+node/12202915227,JR Gift Shop,anime,,,Review: unspecified or unmapped category
+node/12206286906,Foundation Building Materials,trade,,,Exclude: services outside project categories
+node/12272222726,Grooming and More,pet_grooming,,,Exclude: services outside project categories
+node/12338358574,Haight Street Barbershop,hairdresser,,,Exclude: services outside project categories
+node/12347128182,Alameda Electrical Distributors,trade,,,Exclude: services outside project categories
+node/12347128183,California Service Tool,trade,,,Exclude: services outside project categories
+node/12349645768,Lola Milo Salon,beauty,,,Exclude: services outside project categories
+node/12386921810,Lisa's Lash,beauty,,,Exclude: services outside project categories
+node/12407851576,Body Alignment SF,massage,,,Exclude: services outside project categories
+node/12407851577,Top Design Beauty Salon,beauty,,,Exclude: services outside project categories
+node/12407853048,Luxe Paw Grooming,pet_grooming,,,Exclude: services outside project categories
+node/12440345643,International Beauty College,yes,school,,Review: unspecified or unmapped category
+node/12440345648,Big Day Service,yes,,,Review: unspecified or unmapped category
+node/12469520720,Mazda,car_repair,,,Exclude: services outside project categories
+node/12512831467,Neon Shade,hairdresser,,,Exclude: services outside project categories
+node/12512864432,Cole Valley Salon,hairdresser,,,Exclude: services outside project categories
+node/12522217337,Lian Nails,beauty,,,Exclude: services outside project categories
+node/12522217339,,hairdresser,,,Exclude: services outside project categories
+node/12548016215,Sophia’s Beauty Lounge,beauty,,,Exclude: services outside project categories
+node/12559170752,The Pawffice,pet_grooming,,,Exclude: services outside project categories
+node/12559170756,Valencia Nail Spa,beauty,,,Exclude: services outside project categories
+node/12569789801,Tailored Tresses,hairdresser,,,Exclude: services outside project categories
+node/12572070950,Oriental Natural Healing Center,massage,,,Exclude: services outside project categories
+node/12572134579,Tiger's Eye Beauty,beauty,,,Exclude: services outside project categories
+node/12572134582,Judah Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/12572134583,Princess Lash,beauty,,,Exclude: services outside project categories
+node/12572134585,Sunset Holistic,beauty,,,Exclude: services outside project categories
+node/12578554244,Wash 'N Dry Laundry,laundry,,,Exclude: services outside project categories
+node/12583335231,620 Massage,massage,,,Exclude: services outside project categories
+node/12583335232,La Nee Thai Massage,massage,,,Exclude: services outside project categories
+node/12637114273,The Dog Barber,pet_grooming,,,Exclude: services outside project categories
+node/12639449467,Gentle Nail Salon,beauty,,,Exclude: services outside project categories
+node/12639499033,Green Spa & Nail,beauty,,,Exclude: services outside project categories
+node/12639784355,Edel Custom Tailors,tailor,,,Exclude: services outside project categories
+node/12685979578,Teeth Genie,pet_grooming,,,Exclude: services outside project categories
+node/12700848686,Yankee Clipper Travel,travel_agency,,,Exclude: services outside project categories
+node/12727180494,West Wind Automotive,car_repair,,,Exclude: services outside project categories
+node/12727181305,Castro Star Massage,massage,,,Exclude: services outside project categories
+node/12740040066,Ebiko,sushi,,,Review: unspecified or unmapped category
+node/12784621429,Toni Dry Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/12790944742,Pawz Spa Grooming,pet_grooming,,,Exclude: services outside project categories
+node/12790944743,Lock World,locksmith,,,Exclude: services outside project categories
+node/12813057862,Rivian Service Center,car_repair,,,Exclude: services outside project categories
+node/12816638430,Body Manipulations,tattoo,,,Exclude: services outside project categories
+node/12816926985,Super Nature Power,yes,,,Review: unspecified or unmapped category
+node/12816926989,Yu's Foot Reflexology Town,massage,,,Exclude: services outside project categories
+node/12816926992,Lion Trading,yes,,,Review: unspecified or unmapped category
+node/12824763894,Dolci Salon,beauty,,,Exclude: services outside project categories
+node/12872349012,Trader Sam's,yes,,,Review: unspecified or unmapped category
+node/12872349015,Ferguson,trade,,,Exclude: services outside project categories
+node/12948061790,La Plaza Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/12965262970,,dry_cleaning,,,Exclude: services outside project categories
+node/12985765390,La Rosa Tattoo,tattoo,,,Exclude: services outside project categories
+node/12994889379,Neighbor Self Storage,storage_rental,,,Exclude: services outside project categories
+node/13022005605,BeliSF,hairdresser,,,Exclude: services outside project categories
+node/13028496895,Kang Hua Trading Inc.,yes,,,Review: unspecified or unmapped category
+node/13028496896,Massage King,massage,,,Exclude: services outside project categories
+node/13034961207,Nice Cuts,hairdresser,,,Exclude: services outside project categories
+node/13059062807,Hairglim Beauty,hairdresser,,,Exclude: services outside project categories
+node/13064024033,Kaili Beauty Nail Salon,beauty,,,Exclude: services outside project categories
+node/13064024034,Sun Star Spa,massage,,,Exclude: services outside project categories
+node/13083769658,Saints Barbershop,hairdresser,,,Exclude: services outside project categories
+node/13089639304,Jack's Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/13093807551,OK Marketplace,yes,,,Review: unspecified or unmapped category
+node/13121923504,Velvety Nails & Beauty Spa,beauty,,,Exclude: services outside project categories
+node/13121923505,Greenhouse Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/13163731720,Wong's Cleaners & Laundry,dry_cleaning,,,Exclude: services outside project categories
+node/13173765823,Frenzy Faire,yes,,,Review: unspecified or unmapped category
+node/13191190408,B12 Love,nutrition_supplements,,,Review: unspecified or unmapped category
+node/13191190411,Shoe Wiz,shoe_repair,,,Exclude: services outside project categories
+node/13191190417,Shine & Co,shoe_repair,,,Exclude: services outside project categories
+node/13203375805,Jenny's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13278486182,Helen Beauty Salon,beauty,,,Exclude: services outside project categories
+node/13293816578,505 8th Avenue Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/13295227574,Culture-Lite Printing Company,copyshop,,,Exclude: services outside project categories
+node/13295227577,Ming Beauty Salon,beauty,,,Exclude: services outside project categories
+node/13295227581,Tin Shing Printing Company,copyshop,,,Exclude: services outside project categories
+node/13295227589,Bobo Lili,beauty,,,Exclude: services outside project categories
+node/13295227593,Golden Hill Monument,yes,,,Review: unspecified or unmapped category
+node/13311274111,Therapy Academy,massage,,,Exclude: services outside project categories
+node/13312053328,,travel_agency,,,Exclude: services outside project categories
+node/13312053329,Lily May Sun,beauty,,,Exclude: services outside project categories
+node/13348535024,Wishy Washy,laundry,,,Exclude: services outside project categories
+node/13362219532,California Detailing,car_repair,,,Exclude: services outside project categories
+node/13365517566,Look at Me,beauty,,,Exclude: services outside project categories
+node/13365517567,Hair Fairies,hairdresser,,,Exclude: services outside project categories
+node/13365517568,diPietro Todd Salon,beauty,,,Exclude: services outside project categories
+node/13365517572,The Custom Club,tailor,,,Exclude: services outside project categories
+node/13376657799,AlBladesCo-Op,hairdresser,,,Exclude: services outside project categories
+node/13393668461,Smooth Operator SF,beauty,,,Exclude: services outside project categories
+node/13393850827,Lightheaded Studio,hairdresser,,,Exclude: services outside project categories
+node/13455361297,Sherry's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/13475532004,Psychic Readings by Celia,psychic,,,Exclude: services outside project categories
+node/13511015428,Ocean Wash & Dry,laundry,,,Exclude: services outside project categories
+node/13512351724,Nob Hill Spa,beauty,,,Exclude: services outside project categories
+node/13513027280,Skin on Market,beauty,,,Exclude: services outside project categories
+node/13517359459,Madison Reed,beauty,,,Exclude: services outside project categories
+node/13529767457,Right Style Salon and Barber,hairdresser,,,Exclude: services outside project categories
+node/13616040342,Mani-Pedi,beauty,,,Exclude: services outside project categories
+node/13616040343,Arrow Salon,hairdresser,,,Exclude: services outside project categories
+node/13631136503,Anna for Hair,hairdresser,,,Exclude: services outside project categories
+node/13639682004,Tryst,beauty,,,Exclude: services outside project categories
+node/13639682008,Renaissance Salon,hairdresser,,,Exclude: services outside project categories
+node/13641663330,Siany’s Beauty,hairdresser,,,Exclude: services outside project categories
+node/13646416989,Magic Alterations,tailor,,,Exclude: services outside project categories
+node/13646416991,American Automobile Association,travel_agency,,,Exclude: services outside project categories
+node/13646416998,,tattoo,,,Exclude: services outside project categories
+node/13646416999,Trend 2000,hairdresser,,,Exclude: services outside project categories
+node/13646417000,Susan Salon,hairdresser,,,Exclude: services outside project categories
+node/13688909765,Tilt Pet Spa,pet_grooming,,,Exclude: services outside project categories
+node/13696195688,J.J. Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13696494189,Camellia,hairdresser,,,Exclude: services outside project categories
+node/13696494191,Hue Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13696517270,Sol y Luna,hairdresser,,,Exclude: services outside project categories
+node/13699309843,Fernanda's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13700023187,Dolled & Dapper,hairdresser,,,Exclude: services outside project categories
+node/13701995503,Vanessa's Beauty Salon,beauty,,,Exclude: services outside project categories
+node/13703517246,Epi Center MedSpa,beauty,,,Exclude: services outside project categories
+node/13714502572,Benedetta,beauty,,,Exclude: services outside project categories
+node/13715118868,Nina's Cleaner,dry_cleaning,,,Exclude: services outside project categories
+node/13715118870,Salon 3155,hairdresser,,,Exclude: services outside project categories
+node/13715118871,OOMZ Laundromat,laundry,,,Exclude: services outside project categories
+node/13715118874,Lion's Den Shave Parlor,hairdresser,,,Exclude: services outside project categories
+node/13715184384,Undrgrnd,tattoo,,,Exclude: services outside project categories
+node/13717431860,Oportun,money_lender,,,Exclude: services outside project categories
+node/13717436617,Eyebrow Care,beauty,,,Exclude: services outside project categories
+node/13717439874,Angel Nails Salon,beauty,,,Exclude: services outside project categories
+node/13719652774,Hermanitas Diseñadoras,yes,,,Review: unspecified or unmapped category
+node/13721114223,Eyebrow Star,beauty,,,Exclude: services outside project categories
+node/13721114224,JM Express,shipping,money_transfer,,Exclude: services outside project categories
+node/13721114225,Imperial Travel,travel_agency,,,Exclude: services outside project categories
+node/13721114226,Noah Barber & Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/13722883453,Curl Up & Dye By Sam Strock,hairdresser,,,Exclude: services outside project categories
+node/13724354414,Shaped.AF,beauty,,,Exclude: services outside project categories
+node/13725567699,Wash 'N Dry Laundry,laundry,,,Exclude: services outside project categories
+node/13725904210,Look At Me,beauty,,,Exclude: services outside project categories
+node/13725904219,Mo Tattoo,tattoo,,,Exclude: services outside project categories
+node/13726182410,,laundry,,,Exclude: services outside project categories
+node/13727527645,Reboot,spa,,,Exclude: services outside project categories
+node/13737988434,Ana's Dreams,hairdresser,,,Exclude: services outside project categories
+node/13737988441,Laura's Beauty and Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/13737988444,Mary's Salon,hairdresser,,,Exclude: services outside project categories
+node/13737988457,A.T. Beauty Spa,beauty,,,Exclude: services outside project categories
+node/13738864215,Ed Amalo Auto Body,car_repair,,,Exclude: services outside project categories
+node/13738864216,Tub Tim Massage,massage,,,Exclude: services outside project categories
+node/13741179389,Le Chic Hair Styling,hairdresser,,,Exclude: services outside project categories
+node/13757610745,Illuminata Skin Care,beauty,,,Exclude: services outside project categories
+node/13760914882,13 Bats Tattoo and Piercing,tattoo,,,Exclude: services outside project categories
+node/13762439046,Cash Only Tattoo,tattoo,,,Exclude: services outside project categories
+node/13765423258,It's M3 Time,beauty,,,Exclude: services outside project categories
+node/13765446623,International Hair Designer,hairdresser,,,Exclude: services outside project categories
+node/13765446626,Mr. Burbujas,laundry,,,Exclude: services outside project categories
+node/13765472803,Ambaro Salon & Barbet,hairdresser,,,Exclude: services outside project categories
+node/13765472809,Géminis Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/13768629905,Black & Blue Tattoo,tattoo,,,Exclude: services outside project categories
+node/13778449610,Kids Cuts,hairdresser,,,Exclude: services outside project categories
+node/13803296857,Mysa Day Spa,beauty,,,Exclude: services outside project categories
+node/13822192185,Launderland Wash & Dry,laundry,,,Exclude: services outside project categories
+node/13822192187,One Hour Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/13822192196,Generation Nails,beauty,,,Exclude: services outside project categories
+node/13836741079,Bay Custom,embroidery,,,Review: unspecified or unmapped category
+node/13840753172,Siren Salon,hairdresser,,,Exclude: services outside project categories
+node/13841164650,Cyclops Tattoo,tattoo,,,Exclude: services outside project categories
+node/13861295449,Wash Dry,laundry,,,Exclude: services outside project categories
+node/13881307785,Unwind Bodywork & Massage,massage,massage,,Exclude: services outside project categories
+node/13905947784,New York Nail,beauty,,,Exclude: services outside project categories
+node/13905947794,New Looks Salon,hairdresser,,,Exclude: services outside project categories
+node/13906059719,Abner's Barber Shop,hairdresser,,,Exclude: services outside project categories
+node/13906059720,Solution Hair,hairdresser,,,Exclude: services outside project categories
+node/13906059722,El Dorado Travel,travel_agency,,,Exclude: services outside project categories
+node/13906064603,Pepe Studio,hairdresser,,,Exclude: services outside project categories
+node/13908517068,Noe Valley Nails,beauty,,,Exclude: services outside project categories
+node/13909801420,Sunshine Nails Salon,beauty,,,Exclude: services outside project categories
+node/13909801421,Dior's Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13910128934,Mina Nails & Spa,beauty,,,Exclude: services outside project categories
+node/13910399005,The Strand Salon,hairdresser,,,Exclude: services outside project categories
+node/13910510340,JT Laundry,laundry,,,Exclude: services outside project categories
+node/13914899879,Fahrenheit Salon,hairdresser,,,Exclude: services outside project categories
+node/13914899880,Mabuhay Beauty,beauty,,,Exclude: services outside project categories
+node/13927647460,Shield Fire Protection,yes,,,Review: unspecified or unmapped category
+node/13927647461,Glass Master Plus,car_repair,,,Exclude: services outside project categories
+node/13937686585,DAB.L,beauty,,,Exclude: services outside project categories
+node/13938477136,Don's Auto Service,car_repair,,,Exclude: services outside project categories
+node/13939500432,,dry_cleaning,,,Exclude: services outside project categories
+node/13939500437,Kolor &+ Studio,hairdresser,,,Exclude: services outside project categories
+node/13939500439,,hairdresser,,,Exclude: services outside project categories
+node/13939500441,Alex Handyman,repair,,,Exclude: services outside project categories
+node/13939500445,Transporte Nicaragua,shipping,,,Exclude: services outside project categories
+node/13939591721,Marina's Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/13939591727,Lilyan's Beauty Salon,hairdresser,,,Exclude: services outside project categories
+node/13939617915,True Light Printing Co.,printing,,,Exclude: services outside project categories
+node/13939662176,Erika's Beauty Studio,hairdresser,,,Exclude: services outside project categories
+node/13939662177,Rixi's Boutique,yes,,,Review: unspecified or unmapped category
+node/13939662178,Pure Laundry,laundry,,,Exclude: services outside project categories
+node/13941683509,7 AM 11 PM Wash,laundry,,,Exclude: services outside project categories
+node/13948684982,Cuzcatlan Travel,travel_agency,,,Exclude: services outside project categories
+node/13948684984,The Hair Place and More,hairdresser,,,Exclude: services outside project categories
+node/13948684986,Tere's Professional Cuts,hairdresser,,,Exclude: services outside project categories
+node/13948684987,Calacas Screen Printing,printing,,,Exclude: services outside project categories
+node/13950540653,Amore Hair Salon,hairdresser,,,Exclude: services outside project categories
+node/13950540658,Sandy's Nail Care,beauty,,,Exclude: services outside project categories
+node/13950540659,Masterpiece Tattoos,tattoo,,,Exclude: services outside project categories
+node/13984057005,Jungle Red,hairdresser,,,Exclude: services outside project categories
+node/13984496096,Green Leaves,beauty,,,Exclude: services outside project categories
+node/13989490637,Sixth House,hairdresser,,,Exclude: services outside project categories
+node/13989490638,Salon Bello,hairdresser,,,Exclude: services outside project categories
+node/13990753396,Monastery,beauty,,,Exclude: services outside project categories
+node/13994051101,Art Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/14003824528,Cocoon Day Spa,beauty,,,Exclude: services outside project categories
+node/14017418198,Romani Roots Skincare & Herbal Remedies,beauty,,,Exclude: services outside project categories
+node/14017418199,Salon Mio Mio,hairdresser,,,Exclude: services outside project categories
+node/14017433106,Michelle's Tailor,tailor;dry_cleaning,,,Exclude: services outside project categories
+node/14019126668,Aroma Nail Salon,beauty,,,Exclude: services outside project categories
+node/14019126671,Sea Breeze Cleaners,dry_cleaning,,,Exclude: services outside project categories
+node/14019137073,Nail Chic,beauty,,,Exclude: services outside project categories
+node/14021366177,COPY EDGE Printing,copyshop,,,Exclude: services outside project categories
+node/14025329474,Be Radiant Salon,hairdresser,,,Exclude: services outside project categories
+node/14025329479,Nails Art,beauty,,,Exclude: services outside project categories
+node/14077434879,FedEx Office,copyshop,,,Exclude: services outside project categories
+node/14092774096,Sofia Skin Care & Electrolysis,beauty,,,Exclude: services outside project categories
+node/14093346178,Corks Barbershop,hairdresser,,,Exclude: services outside project categories
+node/14093346179,Laavanya Luxury Ayurveda,beauty,,,Exclude: services outside project categories
+node/14097767244,Photomatica,rental,,,Exclude: services outside project categories
+node/14212947795,The Closer Shave,hairdresser,,,Exclude: services outside project categories
+node/14240502778,SF Dog Parlour,pet_grooming,,,Exclude: services outside project categories
+node/14306300932,Sit & Spin,laundry,,,Exclude: services outside project categories
+node/14346007140,Salt,hairdresser,,,Exclude: services outside project categories
+node/14346007141,Studio Soothe,beauty,,,Exclude: services outside project categories
+node/14363516514,ARC Recovery,massage,,,Exclude: services outside project categories
+node/14366019308,Tangerine,hairdresser,,,Exclude: services outside project categories
+node/14368825412,Up Hair,hairdresser,,,Exclude: services outside project categories
+node/14368863776,Emotion Potion,yes,,,Review: unspecified or unmapped category
+relation/18787243,Public Storage,storage_rental,,,Exclude: services outside project categories
+way/24307421,Metreon,mall,,,Exclude: aggregate shopping centre
+way/28694019,FedEx Office,copyshop,,,Exclude: services outside project categories
+way/28825642,Japan Center West,mall,,,Exclude: aggregate shopping centre
+way/32840019,Tattoo Boogaloo,tattoo,,,Exclude: services outside project categories
+way/34411190,,car_repair,,,Exclude: services outside project categories
+way/35174716,SOMA Self Storage,storage_rental,,,Exclude: services outside project categories
+way/43100828,Costco,wholesale,,,Exclude: services outside project categories
+way/106018201,U-Haul,storage_rental,,,Exclude: services outside project categories
+way/112757636,Black Heart Tattoo,tattoo,,,Exclude: services outside project categories
+way/124889482,Olivia Travel,travel_agency,,,Exclude: services outside project categories
+way/129903398,Vavoline Instant Oil Change,car_repair,,,Exclude: services outside project categories
+way/132125164,Crocker Galleria,mall,,,Exclude: aggregate shopping centre
+way/132605483,Octane,car_repair,,,Exclude: services outside project categories
+way/132813869,,mall,,,Exclude: aggregate shopping centre
+way/136806939,Brisbane Village,mall,,,Exclude: aggregate shopping centre
+way/148481438,Kinokuniya Mall,mall,,,Exclude: aggregate shopping centre
+way/148481441,Webster Street Bridge,mall,,,Exclude: aggregate shopping centre
+way/149099998,San Francisco Honda,car_repair,,,Exclude: services outside project categories
+way/149100006,Pierre's Auto Body,car_repair,,,Exclude: services outside project categories
+way/149705538,Gage Automotive,car_repair,,,Exclude: services outside project categories
+way/151827256,Public Storage,storage_rental,,,Exclude: services outside project categories
+way/173103677,Sam Truong's 76,car_repair,,,Exclude: services outside project categories
+way/218159149,San Francisco Flower Market,mall,,,Exclude: aggregate shopping centre
+way/219783372,R Mustangs,car_repair,,,Exclude: services outside project categories
+way/220601197,Haight Street Nails,beauty,,,Exclude: services outside project categories
+way/243353699,All American Automotive,car_repair,,,Exclude: services outside project categories
+way/243353705,fix Auto Collision,car_repair,,,Exclude: services outside project categories
+way/243353714,U & I Auto Safety Center,car_repair,,,Exclude: services outside project categories
+way/243356564,,car_repair,,,Exclude: services outside project categories
+way/243357038,Auto City Repair,car_repair,,,Exclude: services outside project categories
+way/243464436,Karry's Collison Center,car_repair,,,Exclude: services outside project categories
+way/243465046,Auto Repair Center,car_repair,,,Exclude: services outside project categories
+way/243465062,Extra Space Storage,storage_rental,,,Exclude: services outside project categories
+way/251387184,Valvoline,car_repair,,,Exclude: services outside project categories
+way/252232083,Blow Up Lab,copyshop,,,Exclude: services outside project categories
+way/255949813,Metric Motors,car_repair,,,Exclude: services outside project categories
+way/255951622,Firestone,car_repair,,,Exclude: services outside project categories
+way/255955494,Public Storage,storage_rental,,,Exclude: services outside project categories
+way/255967553,Fog City Auto Repair,car_repair,,,Exclude: services outside project categories
+way/256023466,Auto Glass Now,car_repair,,,Exclude: services outside project categories
+way/256454796,Pak Auto Service,car_repair,,,Exclude: services outside project categories
+way/256455111,Unibody,car_repair,,,Exclude: services outside project categories
+way/256912291,Portola Cleaners,dry_cleaning,,,Exclude: services outside project categories
+way/256997181,Ted & Al's Towing,car_repair,,,Exclude: services outside project categories
+way/257936088,24th St Auto Repair,car_repair,,,Exclude: services outside project categories
+way/257976197,New People,mall,,,Exclude: aggregate shopping centre
+way/258975974,San Francisco Auto Works,car_repair,,,Exclude: services outside project categories
+way/258976147,Extra Space Storage,storage_rental,,,Exclude: services outside project categories
+way/259018180,United Rentals,plant_hire,,,Exclude: services outside project categories
+way/259075304,Potrero Service Station,car_repair,,,Exclude: services outside project categories
+way/259969256,Master Car Care,car_repair,,,Exclude: services outside project categories
+way/259969259,Auto Body Experts,car_repair,,,Exclude: services outside project categories
+way/259974351,,yes,,,Review: unspecified or unmapped category
+way/260349645,"F. Lofrano and Son, Inc.",car_repair,,,Exclude: services outside project categories
+way/260500565,Tony's Collision Center,car_repair,,,Exclude: services outside project categories
+way/260506860,U-Haul,rental,,,Exclude: services outside project categories
+way/261093424,,car_repair,,,Exclude: services outside project categories
+way/261102268,Abe's Customs and Auto Body,car_repair,,,Exclude: services outside project categories
+way/261557604,F. Lorano & Son,car_repair,,,Exclude: services outside project categories
+way/261557609,Precision Auto Repair,car_repair,,,Exclude: services outside project categories
+way/261725043,Sung's Automotive,car_repair,,,Exclude: services outside project categories
+way/262102346,Sisters and Beauty,beauty,,,Exclude: services outside project categories
+way/262142282,Alterations Cleaners,laundry,,,Exclude: services outside project categories
+way/263219747,Credo Beauty,beauty,,,Exclude: services outside project categories
+way/263287928,Hayes Auto Repair,car_repair,,,Exclude: services outside project categories
+way/263420994,L. Lofrano & Son,car_repair,,,Exclude: services outside project categories
+way/263508080,San Francisco Toyota,car_repair,,,Exclude: services outside project categories
+way/263819155,Ng's Cleaners,dry_cleaning,,,Exclude: services outside project categories
+way/264254811,Cresco Production Express,rental,,,Exclude: services outside project categories
+way/267047880,Mike's Union Auto Service,car_repair,,,Exclude: services outside project categories
+way/267081658,Pierre's Auto Body,car_repair,,,Exclude: services outside project categories
+way/269632187,B&W Service Center,car_repair,,,Exclude: services outside project categories
+way/269856973,Juarez Tires and Brakes,car_repair,,,Exclude: services outside project categories
+way/271460286,HK Fire Protection,yes,,,Review: unspecified or unmapped category
+way/273526916,Selecta Auto Body,car_repair,,,Exclude: services outside project categories
+way/274278541,Driscoll's Valencia Street Serra Mortuary,funeral_directors,,,Exclude: services outside project categories
+way/274278550,Pacific Collision Care,car_repair,,,Exclude: services outside project categories
+way/274362652,Dogpatch Barber & Shave,hairdresser,,,Exclude: services outside project categories
+way/274675761,Bridal Religion by Monique Zhang,yes,,,Review: unspecified or unmapped category
+way/274834382,Toy Shop,car_repair,,,Exclude: services outside project categories
+way/275999207,Belle Spa,beauty,,,Exclude: services outside project categories
+way/276027462,G and C Auto Body,car_repair,,,Exclude: services outside project categories
+way/276635967,"James P. McNair Co., Inc.",wholesale,,,Exclude: services outside project categories
+way/277058582,Sunset Auto Care,car_repair,,,Exclude: services outside project categories
+way/278422077,Jiffy Lube,car_repair,,,Exclude: services outside project categories
+way/283457590,Shell Service Center,car_repair,,,Exclude: services outside project categories
+way/283615038,Sunset Service,car_repair,,,Exclude: services outside project categories
+way/284846120,Rex Auto Service,car_repair,,,Exclude: services outside project categories
+way/284846134,Elite Spa,massage,,,Exclude: services outside project categories
+way/284859310,Parkside Day Spa,beauty,,,Exclude: services outside project categories
+way/284859321,Parkside Garage,car_repair,,,Exclude: services outside project categories
+way/284897969,Andre's Foreign Car Service,car_repair,,,Exclude: services outside project categories
+way/286151516,,beauty,,,Exclude: services outside project categories
+way/286270200,Picture Machine,tattoo,,,Exclude: services outside project categories
+way/286673063,Oceanview Market & Deli,beverages,,,Review: unspecified or unmapped category
+way/287628602,Gus' Discount Tackle,fishing,,,Review: unspecified or unmapped category
+way/287688546,Kwok Hong Chinese Herbs,nutrition_supplements,,,Review: unspecified or unmapped category
+way/287753749,Suds Coin-Op Laundromat,laundry,,,Exclude: services outside project categories
+way/287756758,Annabelle's Wash & Dry,laundry,,,Exclude: services outside project categories
+way/287777167,Ted & Al's Service Center,car_repair,,,Exclude: services outside project categories
+way/287868693,German Motors Collision Center,car_repair,,,Exclude: services outside project categories
+way/287868780,Public Storage,storage_rental,,,Exclude: services outside project categories
+way/287870707,3R Automotive,car_repair,,,Exclude: services outside project categories
+way/287871303,Blue Water Towing and Auto Service Inc.,car_repair,,,Exclude: services outside project categories
+way/287939962,San Francisco Electrical Supply,trade,,,Exclude: services outside project categories
+way/287939969,Ewing Irrigation & Landscape Supply,trade,,,Exclude: services outside project categories
+way/288563071,Stan Carlsen Body Shop,car_repair,,,Exclude: services outside project categories
+way/288720837,Golden Auto,car_repair,,,Exclude: services outside project categories
+way/292138577,Nob Hill Hair,hairdresser,,,Exclude: services outside project categories
+way/341936619,Davis Cleaners,dry_cleaning,,,Exclude: services outside project categories
+way/356866203,West Portal Auto Service,car_repair,,,Exclude: services outside project categories
+way/398845540,City Center,mall,,,Exclude: aggregate shopping centre
+way/399196198,Japan Center East,mall,,,Exclude: aggregate shopping centre
+way/494967298,San Francisco Botanical Garden,ticket,,,Exclude: services outside project categories
+way/558731934,San Francisco Ferry Building,mall,ferry_terminal,,Exclude: aggregate shopping centre
+way/585429270,Pacific Interment Mortuary,funeral_directors,,,Exclude: services outside project categories
+way/722054926,,kiosk,,,Review: unspecified or unmapped category
+way/739455624,Extra Space Storage,storage_rental,,,Exclude: services outside project categories
+way/741805859,Beronio Lumber,trade,,,Exclude: services outside project categories
+way/742073341,Machinery & Equipment Company Inc.,trade,,,Exclude: services outside project categories
+way/839987588,San Francisco Botanical Garden,ticket,,,Exclude: services outside project categories
+way/856437188,Parkwide Bike Rentals & Tours,rental,bicycle_rental,,Exclude: services outside project categories
+way/899658569,Kezar Lot,kiosk,,,Review: unspecified or unmapped category
+way/906437392,,kiosk,,,Review: unspecified or unmapped category
+way/906437405,,kiosk,,,Review: unspecified or unmapped category
+way/906618461,Projection kiosk,kiosk,,,Review: unspecified or unmapped category
+way/906618462,Projection kiosk,kiosk,,,Review: unspecified or unmapped category
+way/907910632,Arco,kiosk,,,Review: unspecified or unmapped category
+way/1036654458,Sherry Salon,hairdresser,,,Exclude: services outside project categories
+way/1135556198,,kiosk,,,Review: unspecified or unmapped category
+way/1152726548,American Storage,storage_rental,,,Exclude: services outside project categories
+way/1154799336,Stonestown Galleria Mall,mall,,,Exclude: aggregate shopping centre
+way/1189071416,Bay Crossings,ticket,,,Exclude: services outside project categories
+way/1189071428,Carmel Honey Company,honey,,,Review: unspecified or unmapped category
+way/1189071435,Yes Pudding,pudding,,,Review: unspecified or unmapped category
+way/1207081400,Sunbelt Rentals,plant_hire,,,Exclude: services outside project categories
+way/1280451649,U-Haul,rental,,,Exclude: services outside project categories
+way/1358500530,,kiosk,,,Review: unspecified or unmapped category
+way/1371818902,California Mini Storage,storage_rental,,,Exclude: services outside project categories
+way/1371818903,Army Street Mini Storage,storage_rental,,,Exclude: services outside project categories
+way/1525368769,Touch of Class,hairdresser,,,Exclude: services outside project categories
+way/1555239661,,kiosk,,,Review: unspecified or unmapped category

@@ -1,0 +1,4 @@
+origin_id,representative_ludb_id,grid_cell_dwelling_units,nearest_edge_distance_m,network_component,geography_type,source_location_dwelling_units,source_location_group_quarter_count,open_space_flag,latitude,longitude
+bayview_hunters_point_2214_16696,DAGid_DA46_20260817,564,11.319593303009666,12,analytical,564,0,False,37.71250471062249,-122.39221888490232
+bayview_hunters_point_2217_16697,DAGid_DA169_20260817,360,121.5255031839642,0,analytical,360,0,False,37.71438735258056,-122.38372425559396
+bayview_hunters_point_2222_16701,DAGid_DA182_20260817,767,40.75287266786851,364,analytical,767,0,False,37.72473286550549,-122.36823669403212

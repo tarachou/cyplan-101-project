@@ -1,0 +1,10 @@
+check,record_count
+Raw candidate records,8574
+Missing OSM element types,0
+Missing OSM IDs,0
+Duplicate OSM identity pairs,0
+Missing or blank names,321
+Missing geometries,0
+Empty geometries,0
+Invalid nonmissing geometries,0
+Missing or blank opening hours,5289

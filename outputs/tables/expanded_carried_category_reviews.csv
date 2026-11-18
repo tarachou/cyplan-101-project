@@ -1,0 +1,5 @@
+osm_element,osm_id,decision,source_url,reason,review_date,osm_key,application_note
+node,2880720358,Add general retail,https://www.picnicsf.com/,Apparel/gifts tag and website support goods retail.,2026-10-26,node/2880720358,Midterm decision carried forward; shop tag unchanged. Source website not rechecked at this step.
+node,9934759413,Add general retail,https://shop.bubblesort.io/pages/visit-in-person,Website identifies a physical shop selling zines and other goods.,2026-10-26,node/9934759413,Midterm decision carried forward; shop tag unchanged. Source website not rechecked at this step.
+node,10575364930,Add general retail,https://www.xfinity.com/local/ca/san-francisco,Company SF store pages support retail; point address not verified.,2026-10-26,node/10575364930,Midterm decision carried forward; shop tag unchanged. Source website not rechecked at this step.
+node,13836741079,Add general retail,https://baycustomsf.com/shop/,Website confirms hats available for purchase in the physical shop.,2026-10-26,node/13836741079,Midterm decision carried forward; shop tag unchanged. Source website not rechecked at this step.

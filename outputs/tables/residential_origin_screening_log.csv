@@ -1,0 +1,4 @@
+step,input_records,output_records,operation,reason
+Residential-use and coordinate screening,153765,139533,Filter,Require positive dwelling or group-quarter counts and valid coordinates.
+Study-neighborhood selection,139533,37405,Spatial filter,Retain locations inside the six original neighborhood boundaries.
+Origin-grid construction,37405,446,Aggregate and select representative,One reported residential location per neighborhood/grid cell; retain each cell's residential counts.

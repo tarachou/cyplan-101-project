@@ -1,0 +1,8 @@
+original_hours,corrected_hours,reason,affected_destinations
+"Mo-Fr 08:30-18:00, Sa-Su closed,PH off",Mo-Fr 08:30-18:00; Sa-Su closed; PH off,Replace commas separating day rules with semicolons; retain the stated days and times.,1
+"Mo,Su off; Tu-Fr 09:30-16:30,Sa 10:00-16:00","Mo,Su off; Tu-Fr 09:30-16:30; Sa 10:00-16:00",Replace commas separating day rules with semicolons; retain the stated days and times.,1
+"We-Sa 11:30-22:00,Su 11:00-21:00",We-Sa 11:30-22:00; Su 11:00-21:00,Replace commas separating day rules with semicolons; retain the stated days and times.,1
+"Tu-Fr 10:00-18:00,Sa 11:00-17:00",Tu-Fr 10:00-18:00; Sa 11:00-17:00,Replace commas separating day rules with semicolons; retain the stated days and times.,1
+"Su off,Mo-Fr 07:00-14:00,Sa 06:30-14:00",Su off; Mo-Fr 07:00-14:00; Sa 06:30-14:00,Replace commas separating three distinct weekday rules with semicolons.,1
+Mo-Su 09:00-19:00; Th Off,Mo-Su 09:00-19:00; Th off,Lowercase the off keyword; preserve rule order.,1
+Mo-Fr 17:00-00:00; Sa-Su16:00-00:00,Mo-Fr 17:00-00:00; Sa-Su 16:00-00:00,Insert missing space between weekday and time.,1

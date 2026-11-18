@@ -1,0 +1,4 @@
+origin_id,nhood,representative_ludb_id,representative_geography_type,reported_dwelling_units,reported_group_quarter_counts,nearest_edge_distance_m,network_component,component_node_count,distance_to_largest_component_m
+bayview_hunters_point_2214_16696,Bayview Hunters Point,DAGid_DA46_20260817,analytical,564,0,11.319593303009666,12,12,87.21616925425438
+bayview_hunters_point_2217_16697,Bayview Hunters Point,DAGid_DA169_20260817,analytical,360,0,121.5255031839642,0,52952,121.5255031839642
+bayview_hunters_point_2222_16701,Bayview Hunters Point,DAGid_DA182_20260817,analytical,767,0,40.75287266786851,364,2,208.24182782497311

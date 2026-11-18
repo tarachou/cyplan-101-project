@@ -1,0 +1,61 @@
+nhood,analysis_day,slot_id,category,origins_routed,unresolved_origins,flagged_destinations_recorded_open,baseline_median_recorded_open,median_missing_origins_zero,median_missing_origins_maximum,median_all_flagged_open_destinations_reachable,joint_maximum_inclusion_median
+Bayview Hunters Point,Wednesday,Wednesday_12:00,All destinations,102,3,7,6.0,6.0,6.0,13.0,13.0
+Haight Ashbury,Wednesday,Wednesday_12:00,All destinations,33,0,7,119.0,119.0,119.0,126.0,126.0
+Japantown,Wednesday,Wednesday_12:00,All destinations,12,0,7,119.0,119.0,119.0,126.0,126.0
+Mission,Wednesday,Wednesday_12:00,All destinations,83,0,7,174.0,174.0,174.0,181.0,181.0
+Mission Bay,Wednesday,Wednesday_12:00,All destinations,27,0,7,72.0,72.0,72.0,79.0,79.0
+Sunset/Parkside,Wednesday,Wednesday_12:00,All destinations,186,0,7,12.0,12.0,12.0,19.0,19.0
+Bayview Hunters Point,Wednesday,Wednesday_12:00,Grocery/convenience,102,3,1,1.0,1.0,1.0,2.0,2.0
+Haight Ashbury,Wednesday,Wednesday_12:00,Grocery/convenience,33,0,1,9.0,9.0,9.0,10.0,10.0
+Japantown,Wednesday,Wednesday_12:00,Grocery/convenience,12,0,1,8.0,8.0,8.0,9.0,9.0
+Mission,Wednesday,Wednesday_12:00,Grocery/convenience,83,0,1,17.0,17.0,17.0,18.0,18.0
+Mission Bay,Wednesday,Wednesday_12:00,Grocery/convenience,27,0,1,3.0,3.0,3.0,4.0,4.0
+Sunset/Parkside,Wednesday,Wednesday_12:00,Grocery/convenience,186,0,1,1.0,1.0,1.0,2.0,2.0
+Bayview Hunters Point,Wednesday,Wednesday_12:00,Pharmacy/health,102,3,1,0.0,0.0,0.0,1.0,1.0
+Haight Ashbury,Wednesday,Wednesday_12:00,Pharmacy/health,33,0,1,4.0,4.0,4.0,5.0,5.0
+Japantown,Wednesday,Wednesday_12:00,Pharmacy/health,12,0,1,9.5,9.5,9.5,10.5,10.5
+Mission,Wednesday,Wednesday_12:00,Pharmacy/health,83,0,1,8.0,8.0,8.0,9.0,9.0
+Mission Bay,Wednesday,Wednesday_12:00,Pharmacy/health,27,0,1,5.0,5.0,5.0,6.0,6.0
+Sunset/Parkside,Wednesday,Wednesday_12:00,Pharmacy/health,186,0,1,1.0,1.0,1.0,2.0,2.0
+Bayview Hunters Point,Wednesday,Wednesday_12:00,Food/drink,102,3,5,4.0,4.0,4.0,9.0,9.0
+Haight Ashbury,Wednesday,Wednesday_12:00,Food/drink,33,0,5,62.0,62.0,62.0,67.0,67.0
+Japantown,Wednesday,Wednesday_12:00,Food/drink,12,0,5,68.5,68.5,68.5,73.5,73.5
+Mission,Wednesday,Wednesday_12:00,Food/drink,83,0,5,94.0,94.0,94.0,99.0,99.0
+Mission Bay,Wednesday,Wednesday_12:00,Food/drink,27,0,5,48.0,48.0,48.0,53.0,53.0
+Sunset/Parkside,Wednesday,Wednesday_12:00,Food/drink,186,0,5,8.0,8.0,8.0,13.0,13.0
+Bayview Hunters Point,Wednesday,Wednesday_12:00,General retail,102,3,0,1.0,1.0,1.0,1.0,1.0
+Haight Ashbury,Wednesday,Wednesday_12:00,General retail,33,0,0,47.0,47.0,47.0,47.0,47.0
+Japantown,Wednesday,Wednesday_12:00,General retail,12,0,0,36.0,36.0,36.0,36.0,36.0
+Mission,Wednesday,Wednesday_12:00,General retail,83,0,0,54.0,54.0,54.0,54.0,54.0
+Mission Bay,Wednesday,Wednesday_12:00,General retail,27,0,0,20.0,20.0,20.0,20.0,20.0
+Sunset/Parkside,Wednesday,Wednesday_12:00,General retail,186,0,0,3.0,3.0,3.0,3.0,3.0
+Bayview Hunters Point,Saturday,Saturday_12:00,All destinations,102,3,6,5.0,5.0,5.0,11.0,11.0
+Haight Ashbury,Saturday,Saturday_12:00,All destinations,33,0,6,121.0,121.0,121.0,127.0,127.0
+Japantown,Saturday,Saturday_12:00,All destinations,12,0,6,124.0,124.0,124.0,130.0,130.0
+Mission,Saturday,Saturday_12:00,All destinations,83,0,6,182.0,182.0,182.0,188.0,188.0
+Mission Bay,Saturday,Saturday_12:00,All destinations,27,0,6,62.0,62.0,62.0,68.0,68.0
+Sunset/Parkside,Saturday,Saturday_12:00,All destinations,186,0,6,14.0,14.0,14.0,20.0,20.0
+Bayview Hunters Point,Saturday,Saturday_12:00,Grocery/convenience,102,3,1,1.0,1.0,1.0,2.0,2.0
+Haight Ashbury,Saturday,Saturday_12:00,Grocery/convenience,33,0,1,9.0,9.0,9.0,10.0,10.0
+Japantown,Saturday,Saturday_12:00,Grocery/convenience,12,0,1,8.0,8.0,8.0,9.0,9.0
+Mission,Saturday,Saturday_12:00,Grocery/convenience,83,0,1,17.0,17.0,17.0,18.0,18.0
+Mission Bay,Saturday,Saturday_12:00,Grocery/convenience,27,0,1,3.0,3.0,3.0,4.0,4.0
+Sunset/Parkside,Saturday,Saturday_12:00,Grocery/convenience,186,0,1,1.0,1.0,1.0,2.0,2.0
+Bayview Hunters Point,Saturday,Saturday_12:00,Pharmacy/health,102,3,1,0.0,0.0,0.0,1.0,1.0
+Haight Ashbury,Saturday,Saturday_12:00,Pharmacy/health,33,0,1,2.0,2.0,2.0,3.0,3.0
+Japantown,Saturday,Saturday_12:00,Pharmacy/health,12,0,1,7.0,7.0,7.0,8.0,8.0
+Mission,Saturday,Saturday_12:00,Pharmacy/health,83,0,1,5.0,5.0,5.0,6.0,6.0
+Mission Bay,Saturday,Saturday_12:00,Pharmacy/health,27,0,1,3.0,3.0,3.0,4.0,4.0
+Sunset/Parkside,Saturday,Saturday_12:00,Pharmacy/health,186,0,1,1.0,1.0,1.0,2.0,2.0
+Bayview Hunters Point,Saturday,Saturday_12:00,Food/drink,102,3,4,4.0,4.0,4.0,8.0,8.0
+Haight Ashbury,Saturday,Saturday_12:00,Food/drink,33,0,4,64.0,64.0,64.0,68.0,68.0
+Japantown,Saturday,Saturday_12:00,Food/drink,12,0,4,72.5,72.5,72.5,76.5,76.5
+Mission,Saturday,Saturday_12:00,Food/drink,83,0,4,105.0,105.0,105.0,109.0,109.0
+Mission Bay,Saturday,Saturday_12:00,Food/drink,27,0,4,40.0,40.0,40.0,44.0,44.0
+Sunset/Parkside,Saturday,Saturday_12:00,Food/drink,186,0,4,9.0,9.0,9.0,13.0,13.0
+Bayview Hunters Point,Saturday,Saturday_12:00,General retail,102,3,0,0.0,0.0,0.0,0.0,0.0
+Haight Ashbury,Saturday,Saturday_12:00,General retail,33,0,0,49.0,49.0,49.0,49.0,49.0
+Japantown,Saturday,Saturday_12:00,General retail,12,0,0,40.0,40.0,40.0,40.0,40.0
+Mission,Saturday,Saturday_12:00,General retail,83,0,0,54.0,54.0,54.0,54.0,54.0
+Mission Bay,Saturday,Saturday_12:00,General retail,27,0,0,17.0,17.0,17.0,17.0,17.0
+Sunset/Parkside,Saturday,Saturday_12:00,General retail,186,0,0,3.0,3.0,3.0,3.0,3.0

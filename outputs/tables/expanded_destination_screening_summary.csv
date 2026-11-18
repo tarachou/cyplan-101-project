@@ -1,0 +1,4 @@
+step,records_before,records_excluded,records_held_for_review,records_retained
+Status screening,8574,145,16,8413
+Category screening and documented review,8413,1478,166,6769
+Unresolved duplicate screening,6769,0,31,6738

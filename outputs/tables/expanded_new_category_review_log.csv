@@ -1,0 +1,10 @@
+osm_key,expected_shop,category,source_url,reason,review_date
+node/9901000605,vacuum_cleaner,General retail,https://www.dyson.com/demo-stores/san-francisco,Official SF store page describes in-store product sales and pickup.,2026-11-17
+way/287628602,fishing,General retail,https://gusdiscounttackle.com/,Business website identifies a fishing-tackle shop and provides a product section.,2026-11-17
+node/9507011272,beverages,Food/drink,https://www.subparminigolf.com/tea-square-boba,Official menu identifies food and drinks available to visitors whether or not they play golf.,2026-11-17
+node/416782257,household,General retail,https://joybird.com/showrooms/san-francisco/,Official SF showroom page supports furniture retail.,2026-11-17
+node/5869727885,art_supplies,General retail,https://www.dickblick.com/stores/,Official store directory supports art-supply retail.,2026-11-17
+node/416780444,nutrition_supplements,Pharmacy/health,https://stores.gnc.com/all-stores-california/san-francisco,GNC business type supports supplement retail; individual branch location and operating status not verified.,2026-11-17
+node/4548821896,nutrition_supplements,Pharmacy/health,https://stores.gnc.com/all-stores-california/san-francisco,GNC business type supports supplement retail; individual branch location and operating status not verified.,2026-11-17
+node/9301912406,nutrition_supplements,Pharmacy/health,https://stores.gnc.com/all-stores-california/san-francisco,GNC business type supports supplement retail; individual branch location and operating status not verified.,2026-11-17
+way/1189071428,honey,Grocery/convenience,https://carmelhoneycompany.com/media-request,Official business website identifies honey products and a San Francisco Ferry Building shop.,2026-11-17

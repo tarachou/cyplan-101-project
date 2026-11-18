@@ -1,0 +1,28 @@
+pair_id,osm_key_left,name_left,geometry_type_left,osm_key_right,name_right,geometry_type_right,distance_m
+1,node/1713269565,Walgreens,Point,way/194906345,Walgreens,Polygon,0.0
+2,node/2340083601,Indigo,Point,way/272604437,Indigo,Polygon,0.0
+3,node/5595082426,The Market,Point,way/1105289817,The Market,Polygon,0.0
+4,node/5893590037,Seafood Center,Point,way/274847437,Seafood Center,Polygon,0.0
+5,node/6632478613,An Chi,Point,way/278333568,An Chi,Polygon,0.0
+6,node/7876524201,Friend's Bar,Point,way/279832397,Friends Bar,Polygon,0.0
+7,way/1189071432,The Epicurean Trader,Polygon,way/1189071452,The Epicurean Trader,Polygon,0.0
+8,way/222862959,Cliff's Variety,Polygon,way/222862962,Cliff's Variety,Polygon,0.0
+9,way/263490215,Urgently Ortho,Polygon,way/263490226,Urgently Ortho,Polygon,0.0
+10,node/5876905615,Woods Outbound,Point,node/12676663498,Woods Outbound,Point,0.4922254867923462
+11,node/4839978312,Harlan Records,Point,node/14279637301,Harlan Records,Point,0.9943355191237986
+12,node/2718062345,CVS Pharmacy,Point,node/11061858559,CVS Pharmacy,Point,1.931623012257015
+13,node/416780444,GNC,Point,node/4548821896,GNC,Point,2.814323215429972
+14,node/3523031622,Walgreens,Point,node/3523031623,Walgreens,Point,3.7388411643510757
+15,node/4017234514,Pineapple King Bakery,Point,node/4017234698,Pineapple King Bakery,Point,4.1991227799775634
+16,node/3622501400,West Pawtal Pet Supplies,Point,node/3622501504,West Pawtal Pet Supplies,Point,4.2288227026310325
+17,node/459506892,Walgreens,Point,node/11226192570,Walgreens,Point,4.4721766562555985
+18,node/1639950739,Walgreens,Point,node/11051910913,Walgreens,Point,4.529277702604184
+19,node/1849149965,Walgreens,Point,node/11612234506,Walgreens,Point,5.239842415832437
+20,node/1966301828,Walgreens,Point,node/11375700373,Walgreens,Point,8.56670791360503
+21,node/4349254095,RAMS Richmond Area Multi-Services Inc,Point,node/4349255894,RAMS Richmond Area Multi-Services Inc,Point,11.030892439142786
+22,node/14025214241,PPQ Dungeness Island,Point,node/14052732422,PPQ Dungeness Island,Point,14.4994816608917
+23,node/3996578780,Physiotherapy Associates,Point,node/5061064108,Physiotherapy Associates,Point,16.856698081935114
+24,node/4069432013,Orthodontics Pediatric Dentistry,Point,way/278887454,Orthodontics Pediatric Dentistry,Polygon,18.04593296209107
+25,node/8927752699,Maido,Point,way/996450654,Maido,Polygon,19.80256657770926
+26,node/4349255894,RAMS Richmond Area Multi-Services Inc,Point,node/4349256200,RAMS Richmond Area Multi-Services Inc,Point,20.941192675179412
+27,node/3394899128,Michael Fine Art and Antiques,Point,node/3394900998,Michael Fine Art and Antiques,Point,22.411010554652364

@@ -1,0 +1,11 @@
+osm_key,name,shop,amenity,healthcare,is_grocery,is_health,is_food_drink,is_general_retail
+node/2131859543,BullsHead Restaurant,butcher,restaurant,,True,False,True,False
+node/3562957694,Dragon Lounge,mobile_phone,bar,,False,False,True,True
+node/3789688057,café suspiro,music,cafe,,False,False,True,True
+node/4002028591,Golden Bear Trading Company,convenience,cafe,,True,False,True,False
+node/5538811238,Le Marché Cezanne,convenience,cafe,,True,False,True,False
+node/5891198685,Barbary Coast,cannabis,cafe,,False,False,True,True
+node/6471124720,Perfectly Seasoned,spices;tea,,,True,False,True,False
+node/6486930281,Martell’s Liquors & Grocery,alcohol;convenience,,,True,False,True,False
+node/12740040065,La Fromagerie,cheese,fast_food,,True,False,True,False
+node/13960254577,Aji Kiji,convenience,fast_food,,True,False,True,False

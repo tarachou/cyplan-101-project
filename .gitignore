@@ -9,3 +9,5 @@ __pycache__/
 /data/raw/ca_census_tracts.zip
 
 /data/raw/osmnx_cache/
+
+.venv-final/

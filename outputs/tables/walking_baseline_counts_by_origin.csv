@@ -1,0 +1,444 @@
+origin_id,nhood,income_band,Grocery/convenience,Pharmacy/health,Food/drink,General retail,total_distinct_destinations
+bayview_hunters_point_2209_16705,Bayview Hunters Point,Lower,13,3,30,10,56
+bayview_hunters_point_2209_16706,Bayview Hunters Point,Lower,10,3,29,8,50
+bayview_hunters_point_2209_16707,Bayview Hunters Point,Lower,4,0,14,12,30
+bayview_hunters_point_2210_16702,Bayview Hunters Point,Lower,12,4,37,9,62
+bayview_hunters_point_2210_16703,Bayview Hunters Point,Lower,13,3,39,9,64
+bayview_hunters_point_2210_16704,Bayview Hunters Point,Lower,13,3,41,11,68
+bayview_hunters_point_2210_16705,Bayview Hunters Point,Lower,12,3,40,11,66
+bayview_hunters_point_2210_16706,Bayview Hunters Point,Lower,10,3,28,9,50
+bayview_hunters_point_2210_16707,Bayview Hunters Point,Lower,4,0,10,12,26
+bayview_hunters_point_2210_16708,Bayview Hunters Point,Lower,5,0,10,14,29
+bayview_hunters_point_2210_16711,Bayview Hunters Point,Lower,4,0,9,14,27
+bayview_hunters_point_2210_16713,Bayview Hunters Point,Lower,4,2,9,4,19
+bayview_hunters_point_2211_16695,Bayview Hunters Point,Lower,3,0,2,3,8
+bayview_hunters_point_2211_16696,Bayview Hunters Point,Lower,4,1,3,2,10
+bayview_hunters_point_2211_16699,Bayview Hunters Point,Lower,6,5,21,2,34
+bayview_hunters_point_2211_16700,Bayview Hunters Point,Lower,9,6,29,6,50
+bayview_hunters_point_2211_16701,Bayview Hunters Point,Lower,13,6,37,9,65
+bayview_hunters_point_2211_16702,Bayview Hunters Point,Lower,6,3,36,5,50
+bayview_hunters_point_2211_16703,Bayview Hunters Point,Lower,13,3,43,11,70
+bayview_hunters_point_2211_16704,Bayview Hunters Point,Lower,15,6,46,12,79
+bayview_hunters_point_2211_16705,Bayview Hunters Point,Lower,12,3,42,12,69
+bayview_hunters_point_2211_16706,Bayview Hunters Point,Lower,13,3,40,14,70
+bayview_hunters_point_2211_16707,Bayview Hunters Point,Lower,9,1,22,19,51
+bayview_hunters_point_2211_16708,Bayview Hunters Point,Lower,5,0,13,16,34
+bayview_hunters_point_2211_16711,Bayview Hunters Point,Lower,3,0,9,10,22
+bayview_hunters_point_2211_16713,Bayview Hunters Point,Lower,1,1,1,2,5
+bayview_hunters_point_2212_16695,Bayview Hunters Point,Lower,2,0,2,2,6
+bayview_hunters_point_2212_16696,Bayview Hunters Point,Lower,2,0,2,2,6
+bayview_hunters_point_2212_16697,Bayview Hunters Point,Lower,1,1,4,1,7
+bayview_hunters_point_2212_16698,Bayview Hunters Point,Lower,5,1,4,1,11
+bayview_hunters_point_2212_16699,Bayview Hunters Point,Lower,6,4,11,2,23
+bayview_hunters_point_2212_16700,Bayview Hunters Point,Lower,7,4,22,3,36
+bayview_hunters_point_2212_16702,Bayview Hunters Point,Lower,10,2,37,9,58
+bayview_hunters_point_2212_16703,Bayview Hunters Point,Lower,9,4,38,4,55
+bayview_hunters_point_2212_16704,Bayview Hunters Point,Lower,14,6,49,12,81
+bayview_hunters_point_2212_16705,Bayview Hunters Point,Lower,10,5,43,12,70
+bayview_hunters_point_2212_16706,Bayview Hunters Point,Lower,8,0,20,8,36
+bayview_hunters_point_2212_16707,Bayview Hunters Point,Lower,9,1,29,13,52
+bayview_hunters_point_2212_16708,Bayview Hunters Point,Lower,8,0,21,21,50
+bayview_hunters_point_2212_16713,Bayview Hunters Point,Lower,7,2,13,5,27
+bayview_hunters_point_2213_16698,Bayview Hunters Point,Lower,4,2,4,2,12
+bayview_hunters_point_2213_16699,Bayview Hunters Point,Lower,5,4,9,2,20
+bayview_hunters_point_2213_16700,Bayview Hunters Point,Lower,6,4,19,2,31
+bayview_hunters_point_2213_16701,Bayview Hunters Point,Lower,8,4,20,4,36
+bayview_hunters_point_2213_16702,Bayview Hunters Point,Lower,7,4,23,7,41
+bayview_hunters_point_2213_16703,Bayview Hunters Point,Lower,11,4,29,9,53
+bayview_hunters_point_2213_16704,Bayview Hunters Point,Lower,10,3,33,9,55
+bayview_hunters_point_2213_16705,Bayview Hunters Point,Lower,10,3,29,9,51
+bayview_hunters_point_2213_16706,Bayview Hunters Point,Lower,7,0,31,10,48
+bayview_hunters_point_2213_16707,Bayview Hunters Point,Lower,5,1,30,11,47
+bayview_hunters_point_2214_16698,Bayview Hunters Point,Lower,3,1,3,0,7
+bayview_hunters_point_2214_16699,Bayview Hunters Point,Lower,3,4,4,1,12
+bayview_hunters_point_2214_16700,Bayview Hunters Point,Lower,4,4,11,1,20
+bayview_hunters_point_2214_16702,Bayview Hunters Point,Lower,8,4,24,7,43
+bayview_hunters_point_2214_16703,Bayview Hunters Point,Lower,8,5,25,8,46
+bayview_hunters_point_2214_16704,Bayview Hunters Point,Lower,7,4,26,8,45
+bayview_hunters_point_2214_16705,Bayview Hunters Point,Lower,8,4,33,9,54
+bayview_hunters_point_2214_16706,Bayview Hunters Point,Lower,7,1,32,9,49
+bayview_hunters_point_2214_16707,Bayview Hunters Point,Lower,5,1,28,9,43
+bayview_hunters_point_2214_16708,Bayview Hunters Point,Lower,5,0,26,10,41
+bayview_hunters_point_2214_16713,Bayview Hunters Point,Lower,6,2,20,11,39
+bayview_hunters_point_2214_16714,Bayview Hunters Point,Lower,6,2,26,13,47
+bayview_hunters_point_2215_16697,Bayview Hunters Point,Lower,1,1,2,0,4
+bayview_hunters_point_2215_16698,Bayview Hunters Point,Lower,1,1,2,0,4
+bayview_hunters_point_2215_16699,Bayview Hunters Point,Lower,3,3,4,1,11
+bayview_hunters_point_2215_16700,Bayview Hunters Point,Lower,3,4,8,1,16
+bayview_hunters_point_2215_16702,Bayview Hunters Point,Lower,7,5,22,6,40
+bayview_hunters_point_2215_16703,Bayview Hunters Point,Lower,8,4,23,8,43
+bayview_hunters_point_2215_16704,Bayview Hunters Point,Lower,7,4,24,8,43
+bayview_hunters_point_2215_16705,Bayview Hunters Point,Lower,8,4,31,9,52
+bayview_hunters_point_2215_16706,Bayview Hunters Point,Lower,6,1,32,9,48
+bayview_hunters_point_2215_16707,Bayview Hunters Point,Lower,4,1,30,9,44
+bayview_hunters_point_2215_16708,Bayview Hunters Point,Lower,4,0,27,10,41
+bayview_hunters_point_2215_16709,Bayview Hunters Point,Lower,3,0,25,10,38
+bayview_hunters_point_2216_16698,Bayview Hunters Point,Lower,1,1,2,0,4
+bayview_hunters_point_2216_16702,Bayview Hunters Point,Lower,4,4,18,6,32
+bayview_hunters_point_2216_16703,Bayview Hunters Point,Lower,4,4,22,7,37
+bayview_hunters_point_2216_16704,Bayview Hunters Point,Lower,5,4,23,8,40
+bayview_hunters_point_2216_16705,Bayview Hunters Point,Lower,5,4,26,8,43
+bayview_hunters_point_2216_16706,Bayview Hunters Point,Lower,5,1,28,10,44
+bayview_hunters_point_2216_16707,Bayview Hunters Point,Lower,4,1,28,10,43
+bayview_hunters_point_2216_16708,Bayview Hunters Point,Lower,3,1,24,10,38
+bayview_hunters_point_2217_16702,Bayview Hunters Point,Lower,2,3,12,2,19
+bayview_hunters_point_2217_16703,Bayview Hunters Point,Lower,3,1,14,5,23
+bayview_hunters_point_2217_16704,Bayview Hunters Point,Lower,5,1,17,7,30
+bayview_hunters_point_2217_16705,Bayview Hunters Point,Lower,4,1,20,8,33
+bayview_hunters_point_2217_16706,Bayview Hunters Point,Lower,3,1,20,9,33
+bayview_hunters_point_2217_16707,Bayview Hunters Point,Lower,2,1,19,6,28
+bayview_hunters_point_2218_16703,Bayview Hunters Point,Lower,1,1,1,0,3
+bayview_hunters_point_2218_16704,Bayview Hunters Point,Lower,1,1,6,3,11
+bayview_hunters_point_2218_16705,Bayview Hunters Point,Lower,2,1,3,2,8
+bayview_hunters_point_2218_16706,Bayview Hunters Point,Lower,0,1,8,3,12
+bayview_hunters_point_2218_16707,Bayview Hunters Point,Lower,0,1,16,3,20
+bayview_hunters_point_2219_16703,Bayview Hunters Point,Lower,1,1,2,0,4
+bayview_hunters_point_2219_16704,Bayview Hunters Point,Lower,0,1,3,1,5
+bayview_hunters_point_2219_16705,Bayview Hunters Point,Lower,0,1,3,2,6
+bayview_hunters_point_2220_16703,Bayview Hunters Point,Lower,0,1,3,0,4
+bayview_hunters_point_2220_16704,Bayview Hunters Point,Lower,0,1,4,1,6
+bayview_hunters_point_2220_16706,Bayview Hunters Point,Lower,0,0,3,2,5
+bayview_hunters_point_2221_16702,Bayview Hunters Point,Lower,0,0,3,0,3
+bayview_hunters_point_2221_16703,Bayview Hunters Point,Lower,0,0,3,0,3
+bayview_hunters_point_2221_16704,Bayview Hunters Point,Lower,0,1,2,0,3
+haight_ashbury_2192_16719,Haight Ashbury,Higher,12,11,95,90,207
+haight_ashbury_2192_16720,Haight Ashbury,Higher,14,8,85,90,197
+haight_ashbury_2192_16721,Haight Ashbury,Higher,13,8,85,91,197
+haight_ashbury_2192_16722,Haight Ashbury,Higher,14,7,91,90,202
+haight_ashbury_2193_16718,Haight Ashbury,Higher,10,5,61,61,137
+haight_ashbury_2193_16719,Haight Ashbury,Higher,14,7,88,87,195
+haight_ashbury_2193_16720,Haight Ashbury,Higher,13,8,84,90,195
+haight_ashbury_2193_16721,Haight Ashbury,Higher,14,7,87,89,197
+haight_ashbury_2193_16722,Haight Ashbury,Higher,18,7,94,90,209
+haight_ashbury_2194_16718,Haight Ashbury,Higher,11,4,68,81,164
+haight_ashbury_2194_16719,Haight Ashbury,Higher,13,8,81,89,191
+haight_ashbury_2194_16720,Haight Ashbury,Higher,15,7,84,88,194
+haight_ashbury_2194_16721,Haight Ashbury,Higher,16,7,98,88,209
+haight_ashbury_2194_16722,Haight Ashbury,Higher,20,7,122,101,250
+haight_ashbury_2195_16718,Haight Ashbury,Higher,9,4,47,60,120
+haight_ashbury_2195_16719,Haight Ashbury,Higher,15,5,74,87,181
+haight_ashbury_2195_16720,Haight Ashbury,Higher,21,10,107,95,233
+haight_ashbury_2195_16721,Haight Ashbury,Higher,22,10,123,100,255
+haight_ashbury_2195_16722,Haight Ashbury,Higher,20,8,132,103,263
+haight_ashbury_2196_16719,Haight Ashbury,Higher,22,17,128,109,276
+haight_ashbury_2196_16720,Haight Ashbury,Higher,21,10,113,96,240
+haight_ashbury_2196_16721,Haight Ashbury,Higher,24,9,145,110,288
+haight_ashbury_2196_16722,Haight Ashbury,Higher,27,10,161,105,303
+haight_ashbury_2197_16721,Haight Ashbury,Higher,33,20,195,128,376
+haight_ashbury_2197_16722,Haight Ashbury,Higher,29,13,151,110,303
+haight_ashbury_2198_16721,Haight Ashbury,Higher,33,31,230,117,411
+haight_ashbury_2198_16722,Haight Ashbury,Higher,35,19,189,115,358
+haight_ashbury_2198_16723,Haight Ashbury,Higher,31,16,151,73,271
+haight_ashbury_2199_16721,Haight Ashbury,Higher,28,28,207,89,352
+haight_ashbury_2199_16722,Haight Ashbury,Higher,33,25,189,94,341
+haight_ashbury_2199_16723,Haight Ashbury,Higher,38,24,194,96,352
+haight_ashbury_2200_16721,Haight Ashbury,Higher,30,25,192,79,326
+haight_ashbury_2200_16722,Haight Ashbury,Higher,34,28,197,97,356
+japantown_2196_16727,Japantown,Lower,19,33,101,50,203
+japantown_2196_16728,Japantown,Lower,23,36,135,76,270
+japantown_2197_16727,Japantown,Lower,23,36,171,84,314
+japantown_2197_16728,Japantown,Lower,20,35,145,82,282
+japantown_2198_16728,Japantown,Lower,23,36,161,90,310
+japantown_2199_16728,Japantown,Lower,21,41,160,96,318
+japantown_2200_16728,Japantown,Lower,29,43,189,113,374
+japantown_2200_16729,Japantown,Lower,29,48,213,118,408
+japantown_2201_16728,Japantown,Lower,35,54,282,147,518
+japantown_2201_16729,Japantown,Lower,30,43,269,137,479
+japantown_2202_16728,Japantown,Lower,44,39,358,134,575
+japantown_2202_16729,Japantown,Lower,41,39,348,157,585
+mission_2202_16712,Mission,Middle,43,54,225,114,435
+mission_2202_16713,Mission,Middle,44,64,247,136,490
+mission_2202_16714,Mission,Middle,46,58,243,145,491
+mission_2202_16715,Mission,Middle,44,42,240,140,465
+mission_2202_16716,Mission,Middle,40,39,301,138,518
+mission_2202_16717,Mission,Middle,37,38,333,153,561
+mission_2202_16718,Mission,Middle,42,37,303,133,515
+mission_2202_16719,Mission,Middle,43,36,291,144,514
+mission_2202_16720,Mission,Middle,47,35,282,125,489
+mission_2202_16721,Mission,Middle,46,42,316,149,553
+mission_2202_16722,Mission,Middle,41,44,310,142,537
+mission_2203_16712,Mission,Middle,49,55,252,125,480
+mission_2203_16713,Mission,Middle,51,59,273,150,532
+mission_2203_16714,Mission,Middle,56,54,293,158,560
+mission_2203_16715,Mission,Middle,53,41,307,148,549
+mission_2203_16716,Mission,Middle,50,36,304,153,543
+mission_2203_16717,Mission,Middle,48,33,315,155,551
+mission_2203_16718,Mission,Middle,39,35,298,142,514
+mission_2203_16719,Mission,Middle,46,39,298,156,539
+mission_2203_16720,Mission,Middle,42,37,285,131,495
+mission_2203_16721,Mission,Middle,46,48,348,158,600
+mission_2203_16722,Mission,Middle,42,40,314,145,541
+mission_2203_16723,Mission,Middle,41,39,309,143,532
+mission_2204_16712,Mission,Middle,49,52,248,124,473
+mission_2204_16713,Mission,Middle,59,57,295,148,559
+mission_2204_16714,Mission,Middle,61,45,316,154,576
+mission_2204_16715,Mission,Middle,61,41,328,160,590
+mission_2204_16716,Mission,Middle,54,34,327,164,579
+mission_2204_16717,Mission,Middle,53,36,330,168,587
+mission_2204_16718,Mission,Middle,47,33,307,161,548
+mission_2204_16719,Mission,Middle,43,38,306,161,548
+mission_2204_16720,Mission,Middle,38,37,286,123,484
+mission_2204_16721,Mission,Middle,40,38,330,165,573
+mission_2204_16722,Mission,Middle,28,31,220,113,391
+mission_2204_16723,Mission,Middle,42,38,324,137,540
+mission_2205_16712,Mission,Middle,47,41,226,106,420
+mission_2205_16713,Mission,Middle,55,43,268,125,491
+mission_2205_16714,Mission,Middle,59,37,290,135,521
+mission_2205_16715,Mission,Middle,63,35,315,156,569
+mission_2205_16716,Mission,Middle,61,32,330,165,588
+mission_2205_16717,Mission,Middle,54,33,337,175,599
+mission_2205_16718,Mission,Middle,43,27,289,147,506
+mission_2205_16719,Mission,Middle,38,24,286,128,476
+mission_2205_16720,Mission,Middle,33,26,259,125,442
+mission_2205_16721,Mission,Middle,36,30,271,126,462
+mission_2205_16722,Mission,Middle,32,34,228,126,419
+mission_2205_16723,Mission,Middle,34,38,266,137,474
+mission_2206_16712,Mission,Middle,47,28,178,79,332
+mission_2206_16713,Mission,Middle,47,29,218,92,386
+mission_2206_16714,Mission,Middle,52,30,247,115,444
+mission_2206_16715,Mission,Middle,60,33,280,139,512
+mission_2206_16716,Mission,Middle,49,30,277,143,499
+mission_2206_16717,Mission,Middle,54,28,294,157,533
+mission_2206_16718,Mission,Middle,35,16,261,108,420
+mission_2206_16719,Mission,Middle,34,21,256,119,430
+mission_2206_16721,Mission,Middle,28,27,193,143,390
+mission_2206_16722,Mission,Middle,25,25,182,132,363
+mission_2207_16712,Mission,Middle,40,19,151,61,271
+mission_2207_16713,Mission,Middle,45,18,161,75,299
+mission_2207_16714,Mission,Middle,46,22,196,89,353
+mission_2207_16715,Mission,Middle,47,26,221,109,403
+mission_2207_16716,Mission,Middle,44,25,224,117,410
+mission_2207_16717,Mission,Middle,33,15,210,91,349
+mission_2207_16718,Mission,Middle,37,16,235,106,394
+mission_2207_16719,Mission,Middle,27,13,219,104,363
+mission_2208_16712,Mission,Middle,30,4,102,40,176
+mission_2208_16713,Mission,Middle,34,11,128,54,227
+mission_2208_16714,Mission,Middle,39,16,140,66,261
+mission_2208_16715,Mission,Middle,37,16,144,64,261
+mission_2208_16716,Mission,Middle,28,11,134,43,216
+mission_2208_16717,Mission,Middle,25,11,135,54,225
+mission_2208_16718,Mission,Middle,21,10,145,59,234
+mission_2208_16719,Mission,Middle,15,9,125,87,236
+mission_2208_16720,Mission,Middle,12,9,111,92,224
+mission_2209_16712,Mission,Middle,27,4,77,24,132
+mission_2209_16713,Mission,Middle,26,5,73,29,133
+mission_2209_16714,Mission,Middle,26,8,81,28,143
+mission_2209_16715,Mission,Middle,33,13,108,46,200
+mission_2209_16716,Mission,Middle,24,6,68,13,111
+mission_2209_16718,Mission,Middle,16,6,118,69,208
+mission_2209_16719,Mission,Middle,13,9,115,88,224
+mission_2210_16713,Mission,Middle,22,4,56,18,100
+mission_2210_16714,Mission,Middle,23,5,65,28,121
+mission_bay_2210_16719,Mission Bay,Higher,13,12,90,75,189
+mission_bay_2210_16720,Mission Bay,Higher,13,11,100,82,205
+mission_bay_2210_16721,Mission Bay,Higher,11,10,103,100,223
+mission_bay_2210_16722,Mission Bay,Higher,7,15,92,91,204
+mission_bay_2211_16719,Mission Bay,Higher,10,13,87,66,175
+mission_bay_2211_16720,Mission Bay,Higher,12,13,101,75,200
+mission_bay_2211_16722,Mission Bay,Higher,3,12,72,41,128
+mission_bay_2211_16723,Mission Bay,Higher,17,15,120,84,236
+mission_bay_2211_16724,Mission Bay,Higher,18,15,122,83,238
+mission_bay_2212_16720,Mission Bay,Higher,8,16,108,61,192
+mission_bay_2212_16722,Mission Bay,Higher,3,15,100,48,166
+mission_bay_2212_16723,Mission Bay,Higher,3,13,85,19,120
+mission_bay_2213_16719,Mission Bay,Higher,9,16,110,39,173
+mission_bay_2213_16722,Mission Bay,Higher,3,17,90,36,146
+mission_bay_2213_16723,Mission Bay,Higher,5,9,86,13,113
+mission_bay_2213_16724,Mission Bay,Higher,6,14,104,26,150
+mission_bay_2213_16725,Mission Bay,Higher,8,15,122,32,177
+mission_bay_2214_16721,Mission Bay,Higher,3,17,83,11,114
+mission_bay_2214_16722,Mission Bay,Higher,2,18,98,12,130
+mission_bay_2214_16723,Mission Bay,Higher,3,16,96,13,128
+mission_bay_2214_16724,Mission Bay,Higher,6,15,109,14,144
+mission_bay_2214_16725,Mission Bay,Higher,7,14,121,19,161
+mission_bay_2214_16726,Mission Bay,Higher,7,13,113,16,149
+mission_bay_2215_16722,Mission Bay,Higher,2,18,81,9,110
+mission_bay_2215_16723,Mission Bay,Higher,2,15,90,9,116
+mission_bay_2215_16724,Mission Bay,Higher,5,12,112,14,143
+mission_bay_2215_16726,Mission Bay,Higher,7,9,93,15,124
+sunset_parkside_2172_16717,Sunset/Parkside,Middle,6,1,26,11,44
+sunset_parkside_2172_16718,Sunset/Parkside,Middle,6,1,22,10,39
+sunset_parkside_2173_16708,Sunset/Parkside,Middle,3,3,20,6,32
+sunset_parkside_2173_16709,Sunset/Parkside,Middle,2,3,18,4,27
+sunset_parkside_2173_16710,Sunset/Parkside,Middle,2,1,12,1,16
+sunset_parkside_2173_16711,Sunset/Parkside,Middle,1,1,7,1,10
+sunset_parkside_2173_16712,Sunset/Parkside,Middle,2,2,21,1,26
+sunset_parkside_2173_16713,Sunset/Parkside,Middle,3,1,20,0,24
+sunset_parkside_2173_16714,Sunset/Parkside,Middle,6,2,29,4,41
+sunset_parkside_2173_16715,Sunset/Parkside,Middle,8,2,32,8,50
+sunset_parkside_2173_16716,Sunset/Parkside,Middle,9,2,38,11,60
+sunset_parkside_2173_16717,Sunset/Parkside,Middle,8,2,38,11,59
+sunset_parkside_2173_16718,Sunset/Parkside,Middle,7,1,26,11,45
+sunset_parkside_2174_16706,Sunset/Parkside,Middle,2,2,16,4,24
+sunset_parkside_2174_16707,Sunset/Parkside,Middle,3,3,22,6,34
+sunset_parkside_2174_16708,Sunset/Parkside,Middle,3,3,20,5,31
+sunset_parkside_2174_16709,Sunset/Parkside,Middle,3,3,19,5,30
+sunset_parkside_2174_16710,Sunset/Parkside,Middle,4,5,32,4,45
+sunset_parkside_2174_16711,Sunset/Parkside,Middle,4,4,28,4,40
+sunset_parkside_2174_16712,Sunset/Parkside,Middle,4,3,26,4,37
+sunset_parkside_2174_16713,Sunset/Parkside,Middle,7,3,35,6,51
+sunset_parkside_2174_16714,Sunset/Parkside,Middle,7,3,33,10,53
+sunset_parkside_2174_16715,Sunset/Parkside,Middle,8,3,40,12,63
+sunset_parkside_2174_16716,Sunset/Parkside,Middle,9,2,39,11,61
+sunset_parkside_2174_16717,Sunset/Parkside,Middle,9,2,38,12,61
+sunset_parkside_2174_16718,Sunset/Parkside,Middle,7,2,36,12,57
+sunset_parkside_2174_16719,Sunset/Parkside,Middle,7,1,26,12,46
+sunset_parkside_2175_16706,Sunset/Parkside,Middle,3,3,22,8,36
+sunset_parkside_2175_16707,Sunset/Parkside,Middle,3,3,20,7,33
+sunset_parkside_2175_16708,Sunset/Parkside,Middle,3,3,18,5,29
+sunset_parkside_2175_16709,Sunset/Parkside,Middle,4,5,20,5,34
+sunset_parkside_2175_16710,Sunset/Parkside,Middle,4,5,26,5,40
+sunset_parkside_2175_16711,Sunset/Parkside,Middle,5,5,35,6,51
+sunset_parkside_2175_16712,Sunset/Parkside,Middle,5,4,33,6,48
+sunset_parkside_2175_16713,Sunset/Parkside,Middle,7,2,22,5,36
+sunset_parkside_2175_16714,Sunset/Parkside,Middle,10,3,38,10,61
+sunset_parkside_2175_16715,Sunset/Parkside,Middle,8,3,39,13,63
+sunset_parkside_2175_16716,Sunset/Parkside,Middle,8,3,40,14,65
+sunset_parkside_2175_16717,Sunset/Parkside,Middle,8,6,42,14,70
+sunset_parkside_2175_16718,Sunset/Parkside,Middle,7,1,24,13,45
+sunset_parkside_2175_16719,Sunset/Parkside,Middle,7,1,24,12,44
+sunset_parkside_2176_16705,Sunset/Parkside,Middle,4,3,18,12,37
+sunset_parkside_2176_16706,Sunset/Parkside,Middle,4,3,16,8,31
+sunset_parkside_2176_16707,Sunset/Parkside,Middle,3,4,18,6,31
+sunset_parkside_2176_16708,Sunset/Parkside,Middle,3,5,21,7,36
+sunset_parkside_2176_16709,Sunset/Parkside,Middle,3,5,24,7,39
+sunset_parkside_2176_16710,Sunset/Parkside,Middle,3,5,20,6,34
+sunset_parkside_2176_16711,Sunset/Parkside,Middle,4,5,32,6,47
+sunset_parkside_2176_16712,Sunset/Parkside,Middle,5,4,26,5,40
+sunset_parkside_2176_16713,Sunset/Parkside,Middle,8,6,31,4,49
+sunset_parkside_2176_16714,Sunset/Parkside,Middle,8,6,33,8,55
+sunset_parkside_2176_16715,Sunset/Parkside,Middle,12,5,39,12,68
+sunset_parkside_2176_16716,Sunset/Parkside,Middle,8,6,42,16,72
+sunset_parkside_2176_16717,Sunset/Parkside,Middle,6,7,32,16,61
+sunset_parkside_2176_16718,Sunset/Parkside,Middle,7,5,31,15,58
+sunset_parkside_2176_16719,Sunset/Parkside,Middle,6,3,22,13,44
+sunset_parkside_2177_16703,Sunset/Parkside,Middle,2,0,5,6,13
+sunset_parkside_2177_16704,Sunset/Parkside,Middle,2,0,7,7,16
+sunset_parkside_2177_16705,Sunset/Parkside,Middle,3,1,9,9,22
+sunset_parkside_2177_16706,Sunset/Parkside,Middle,1,1,4,4,10
+sunset_parkside_2177_16707,Sunset/Parkside,Middle,3,4,23,11,41
+sunset_parkside_2177_16708,Sunset/Parkside,Middle,3,6,24,9,42
+sunset_parkside_2177_16709,Sunset/Parkside,Middle,3,11,29,11,54
+sunset_parkside_2177_16710,Sunset/Parkside,Middle,3,5,22,7,37
+sunset_parkside_2177_16711,Sunset/Parkside,Middle,3,4,17,6,30
+sunset_parkside_2177_16713,Sunset/Parkside,Middle,8,6,24,5,43
+sunset_parkside_2177_16714,Sunset/Parkside,Middle,9,10,27,6,52
+sunset_parkside_2177_16715,Sunset/Parkside,Middle,8,9,31,11,59
+sunset_parkside_2177_16716,Sunset/Parkside,Middle,9,11,32,15,67
+sunset_parkside_2177_16717,Sunset/Parkside,Middle,6,8,31,17,62
+sunset_parkside_2177_16718,Sunset/Parkside,Middle,5,7,26,16,54
+sunset_parkside_2177_16719,Sunset/Parkside,Middle,3,4,17,11,35
+sunset_parkside_2178_16703,Sunset/Parkside,Middle,1,0,5,7,13
+sunset_parkside_2178_16704,Sunset/Parkside,Middle,2,0,5,7,14
+sunset_parkside_2178_16705,Sunset/Parkside,Middle,2,0,7,8,17
+sunset_parkside_2178_16706,Sunset/Parkside,Middle,3,3,15,12,33
+sunset_parkside_2178_16707,Sunset/Parkside,Middle,3,3,22,13,41
+sunset_parkside_2178_16708,Sunset/Parkside,Middle,4,10,28,15,57
+sunset_parkside_2178_16709,Sunset/Parkside,Middle,3,10,37,15,65
+sunset_parkside_2178_16710,Sunset/Parkside,Middle,4,10,21,10,45
+sunset_parkside_2178_16711,Sunset/Parkside,Middle,5,10,21,7,43
+sunset_parkside_2178_16712,Sunset/Parkside,Middle,5,7,11,4,27
+sunset_parkside_2178_16713,Sunset/Parkside,Middle,5,10,10,3,28
+sunset_parkside_2178_16714,Sunset/Parkside,Middle,8,17,30,10,65
+sunset_parkside_2178_16715,Sunset/Parkside,Middle,6,14,16,10,46
+sunset_parkside_2178_16716,Sunset/Parkside,Middle,7,11,21,13,52
+sunset_parkside_2178_16717,Sunset/Parkside,Middle,10,15,31,18,74
+sunset_parkside_2178_16718,Sunset/Parkside,Middle,4,7,15,12,38
+sunset_parkside_2178_16719,Sunset/Parkside,Middle,1,7,12,8,28
+sunset_parkside_2179_16703,Sunset/Parkside,Middle,1,0,5,7,13
+sunset_parkside_2179_16704,Sunset/Parkside,Middle,1,0,5,7,13
+sunset_parkside_2179_16705,Sunset/Parkside,Middle,2,0,7,8,17
+sunset_parkside_2179_16706,Sunset/Parkside,Middle,2,1,8,8,19
+sunset_parkside_2179_16707,Sunset/Parkside,Middle,2,8,21,14,45
+sunset_parkside_2179_16708,Sunset/Parkside,Middle,2,9,32,14,57
+sunset_parkside_2179_16709,Sunset/Parkside,Middle,4,10,39,15,68
+sunset_parkside_2179_16710,Sunset/Parkside,Middle,5,13,34,13,65
+sunset_parkside_2179_16711,Sunset/Parkside,Middle,4,12,19,7,42
+sunset_parkside_2179_16712,Sunset/Parkside,Middle,5,15,19,7,46
+sunset_parkside_2179_16713,Sunset/Parkside,Middle,5,16,19,6,46
+sunset_parkside_2179_16714,Sunset/Parkside,Middle,5,26,30,10,71
+sunset_parkside_2179_16715,Sunset/Parkside,Middle,5,20,19,12,56
+sunset_parkside_2179_16716,Sunset/Parkside,Middle,7,16,16,11,50
+sunset_parkside_2179_16717,Sunset/Parkside,Middle,14,16,43,21,94
+sunset_parkside_2179_16718,Sunset/Parkside,Middle,16,18,64,24,122
+sunset_parkside_2179_16719,Sunset/Parkside,Middle,11,14,43,17,85
+sunset_parkside_2180_16703,Sunset/Parkside,Middle,1,0,11,8,20
+sunset_parkside_2180_16704,Sunset/Parkside,Middle,1,0,7,8,16
+sunset_parkside_2180_16705,Sunset/Parkside,Middle,1,0,5,7,13
+sunset_parkside_2180_16706,Sunset/Parkside,Middle,2,0,6,7,15
+sunset_parkside_2180_16707,Sunset/Parkside,Middle,2,7,29,18,56
+sunset_parkside_2180_16708,Sunset/Parkside,Middle,3,10,39,15,67
+sunset_parkside_2180_16709,Sunset/Parkside,Middle,2,12,51,16,81
+sunset_parkside_2180_16710,Sunset/Parkside,Middle,3,15,36,12,66
+sunset_parkside_2180_16711,Sunset/Parkside,Middle,6,18,29,12,65
+sunset_parkside_2180_16712,Sunset/Parkside,Middle,6,22,27,11,66
+sunset_parkside_2180_16713,Sunset/Parkside,Middle,5,25,31,8,69
+sunset_parkside_2180_16714,Sunset/Parkside,Middle,5,29,38,11,83
+sunset_parkside_2180_16715,Sunset/Parkside,Middle,6,30,35,14,85
+sunset_parkside_2180_16716,Sunset/Parkside,Middle,14,25,44,19,102
+sunset_parkside_2180_16717,Sunset/Parkside,Middle,19,25,62,23,129
+sunset_parkside_2180_16718,Sunset/Parkside,Middle,16,19,64,25,124
+sunset_parkside_2180_16719,Sunset/Parkside,Middle,12,17,58,22,109
+sunset_parkside_2181_16704,Sunset/Parkside,Middle,2,4,12,9,27
+sunset_parkside_2181_16705,Sunset/Parkside,Middle,1,4,11,8,24
+sunset_parkside_2181_16706,Sunset/Parkside,Middle,1,0,7,7,15
+sunset_parkside_2181_16707,Sunset/Parkside,Middle,0,7,16,8,31
+sunset_parkside_2181_16708,Sunset/Parkside,Middle,1,11,42,14,68
+sunset_parkside_2181_16709,Sunset/Parkside,Middle,3,15,46,15,79
+sunset_parkside_2181_16710,Sunset/Parkside,Middle,2,16,46,13,77
+sunset_parkside_2181_16711,Sunset/Parkside,Middle,3,25,42,14,84
+sunset_parkside_2181_16712,Sunset/Parkside,Middle,6,28,43,15,92
+sunset_parkside_2181_16713,Sunset/Parkside,Middle,5,24,30,8,67
+sunset_parkside_2181_16714,Sunset/Parkside,Middle,7,26,33,10,76
+sunset_parkside_2181_16715,Sunset/Parkside,Middle,10,32,51,19,112
+sunset_parkside_2181_16716,Sunset/Parkside,Middle,18,35,69,23,145
+sunset_parkside_2181_16717,Sunset/Parkside,Middle,15,30,68,26,139
+sunset_parkside_2181_16718,Sunset/Parkside,Middle,15,26,69,24,134
+sunset_parkside_2181_16719,Sunset/Parkside,Middle,15,19,65,24,123
+sunset_parkside_2182_16704,Sunset/Parkside,Middle,3,12,45,22,82
+sunset_parkside_2182_16705,Sunset/Parkside,Middle,2,10,33,14,59
+sunset_parkside_2182_16706,Sunset/Parkside,Middle,1,9,17,11,38
+sunset_parkside_2182_16707,Sunset/Parkside,Middle,1,10,40,13,64
+sunset_parkside_2182_16708,Sunset/Parkside,Middle,3,15,46,15,79
+sunset_parkside_2182_16709,Sunset/Parkside,Middle,4,20,47,16,87
+sunset_parkside_2182_16710,Sunset/Parkside,Middle,4,22,51,17,94
+sunset_parkside_2182_16711,Sunset/Parkside,Middle,2,29,55,16,102
+sunset_parkside_2182_16712,Sunset/Parkside,Middle,2,31,57,16,106
+sunset_parkside_2182_16713,Sunset/Parkside,Middle,7,24,43,12,86
+sunset_parkside_2182_16714,Sunset/Parkside,Middle,11,27,45,14,97
+sunset_parkside_2182_16715,Sunset/Parkside,Middle,19,33,69,21,142
+sunset_parkside_2182_16716,Sunset/Parkside,Middle,15,38,85,26,164
+sunset_parkside_2182_16717,Sunset/Parkside,Middle,15,39,92,27,173
+sunset_parkside_2182_16718,Sunset/Parkside,Middle,16,31,75,28,150
+sunset_parkside_2182_16719,Sunset/Parkside,Middle,15,22,68,23,128
+sunset_parkside_2183_16704,Sunset/Parkside,Middle,3,12,45,21,81
+sunset_parkside_2183_16705,Sunset/Parkside,Middle,3,15,53,26,97
+sunset_parkside_2183_16706,Sunset/Parkside,Middle,2,14,52,20,88
+sunset_parkside_2183_16707,Sunset/Parkside,Middle,1,22,48,14,85
+sunset_parkside_2183_16708,Sunset/Parkside,Middle,4,18,45,15,82
+sunset_parkside_2183_16709,Sunset/Parkside,Middle,4,20,48,17,89
+sunset_parkside_2183_16710,Sunset/Parkside,Middle,4,27,58,18,107
+sunset_parkside_2183_16711,Sunset/Parkside,Middle,4,31,67,18,120
+sunset_parkside_2183_16712,Sunset/Parkside,Middle,2,26,56,14,98
+sunset_parkside_2183_16713,Sunset/Parkside,Middle,2,25,40,7,74
+sunset_parkside_2183_16714,Sunset/Parkside,Middle,13,26,46,9,94
+sunset_parkside_2183_16715,Sunset/Parkside,Middle,16,34,79,23,152
+sunset_parkside_2183_16716,Sunset/Parkside,Middle,16,35,88,25,164
+sunset_parkside_2183_16717,Sunset/Parkside,Middle,16,38,94,29,177
+sunset_parkside_2183_16718,Sunset/Parkside,Middle,18,36,102,33,189
+sunset_parkside_2183_16719,Sunset/Parkside,Middle,17,19,75,26,137
+sunset_parkside_2184_16704,Sunset/Parkside,Middle,2,15,48,21,86
+sunset_parkside_2184_16705,Sunset/Parkside,Middle,3,21,62,28,114
+sunset_parkside_2184_16707,Sunset/Parkside,Middle,6,36,78,32,152
+sunset_parkside_2184_16708,Sunset/Parkside,Middle,8,42,88,37,174
+sunset_parkside_2184_16709,Sunset/Parkside,Middle,7,23,66,21,116
+sunset_parkside_2184_16710,Sunset/Parkside,Middle,4,24,61,17,106
+sunset_parkside_2184_16711,Sunset/Parkside,Middle,4,24,59,17,104
+sunset_parkside_2184_16712,Sunset/Parkside,Middle,4,25,50,10,89
+sunset_parkside_2184_16713,Sunset/Parkside,Middle,2,25,42,6,75
+sunset_parkside_2184_16714,Sunset/Parkside,Middle,3,23,31,8,65
+sunset_parkside_2184_16715,Sunset/Parkside,Middle,10,26,61,15,112
+sunset_parkside_2184_16716,Sunset/Parkside,Middle,15,31,88,23,157
+sunset_parkside_2184_16717,Sunset/Parkside,Middle,18,37,110,30,195
+sunset_parkside_2184_16718,Sunset/Parkside,Middle,20,37,142,37,236
+sunset_parkside_2184_16719,Sunset/Parkside,Middle,19,24,108,33,184

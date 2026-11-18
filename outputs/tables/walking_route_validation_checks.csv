@@ -1,0 +1,11 @@
+case_id,nhood,income_band,origin_id,destination_osm_key,destination_name,category,target_distance_m,matrix_distance_m,modeled_walk_minutes,extracted_route_distance_m,distance_difference_m,internal_length_check,geographic_validation
+walk_01,Bayview Hunters Point,Lower,bayview_hunters_point_2212_16700,node/13461264601,K&J Market,Grocery/convenience,600,540.1378349244484,6.751722936555605,540.1378349244484,0.0,Passed,Pending inspection
+walk_02,Bayview Hunters Point,Lower,bayview_hunters_point_2212_16700,node/1230343377,Restaurante-Pupusería Ilobasco,Food/drink,1100,1106.4269027778403,13.830336284723003,1106.42690277784,-2.2737367544323206e-13,Passed,Pending inspection
+walk_03,Haight Ashbury,Higher,haight_ashbury_2196_16720,node/2159765927,Dr Martens,General retail,900,899.954319605312,11.249428995066399,899.954319605312,0.0,Passed,Pending inspection
+walk_04,Japantown,Lower,japantown_2199_16728,way/160833245,Kaiser Permanente Medical Center Geary Campus,Pharmacy/health,900,862.9837764840553,10.787297206050692,862.983776484055,-2.2737367544323206e-13,Passed,Pending inspection
+walk_05,Mission,Middle,mission_2205_16723,node/12297513702,Nick's Foods,Grocery/convenience,600,622.546051540948,7.7818256442618505,622.5460515409482,1.1368683772161603e-13,Passed,Pending inspection
+walk_06,Mission,Middle,mission_2205_16723,node/9657530538,Peacock Pansy,Food/drink,1100,1099.8728653494902,13.748410816868628,1099.8728653494902,0.0,Passed,Pending inspection
+walk_07,Mission Bay,Higher,mission_bay_2213_16724,node/10806697935,One Medical,Pharmacy/health,600,604.7466459621287,7.5593330745266085,604.7466459621287,0.0,Passed,Pending inspection
+walk_08,Mission Bay,Higher,mission_bay_2213_16724,way/1121952098,TriMark West,General retail,1100,1101.5013468041273,13.76876683505159,1101.5013468041273,0.0,Passed,Pending inspection
+walk_09,Sunset/Parkside,Middle,sunset_parkside_2173_16717,way/1247327332,Food Mart,Grocery/convenience,600,545.1748053390131,6.814685066737664,545.1748053390131,0.0,Passed,Pending inspection
+walk_10,Sunset/Parkside,Middle,sunset_parkside_2173_16717,node/4214320092,J. M. Discount Liquors,Food/drink,1100,1108.2647348766034,13.853309185957542,1108.2647348766031,-2.2737367544323206e-13,Passed,Pending inspection
